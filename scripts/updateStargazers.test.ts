@@ -113,14 +113,16 @@ describe("GitHub utilities", () => {
       json: async () => fakeData,
     }));
 
-    const first = await fetchAndCacheRepoDetails({
-      owner: "foo",
-      repo: "bar",
-    });
-    const second = await fetchAndCacheRepoDetails({
-      owner: "foo",
-      repo: "bar",
-    });
+    const cache = new Map();
+
+    const first = await fetchAndCacheRepoDetails(
+      { owner: "foo", repo: "bar" },
+      cache,
+    );
+    const second = await fetchAndCacheRepoDetails(
+      { owner: "foo", repo: "bar" },
+      cache,
+    );
 
     // Should match fake data
     expect(first).toEqual(fakeData);
@@ -135,7 +137,10 @@ describe("main()", () => {
   vi.mock("fs", () => {
     return {
       promises: {
-        writeFile: vi.fn(async () => { }),
+        writeFile: vi.fn(async () => {}),
+        readFile: vi.fn(async () => {
+          throw new Error("no cache");
+        }),
       },
     };
   });
@@ -143,6 +148,12 @@ describe("main()", () => {
   beforeEach(() => {
     vi.clearAllMocks();
   });
+
+  const testListConfig = {
+    name: "Test List",
+    slug: "test",
+    readmeUrl: "https://example.com/README.md",
+  };
 
   it("respects concurrency limit (10 at a time)", async () => {
     // Fake markdown with 25 repos
@@ -180,7 +191,7 @@ describe("main()", () => {
       };
     });
 
-    await main();
+    await main(testListConfig);
 
     // Ensure we never exceeded concurrency of 10
     expect(maxActive).toBeLessThanOrEqual(10);
@@ -202,6 +213,15 @@ describe("replaceMarkdownLinksWithStars", () => {
     expect(result).toContain("- ⭐️ 42 [foo/bar](https://github.com/foo/bar)");
     // Uncached repo stays unchanged
     expect(result).toContain("- [baz/qux](https://github.com/baz/qux)");
+  });
+
+  it("formats star counts with thousands separator", () => {
+    const markdown = "- [big/repo](https://github.com/big/repo)";
+    const cache = new Map();
+    cache.set("big/repo", { stargazers_count: 19010 });
+
+    const result = replaceMarkdownLinksWithStars(markdown, cache);
+    expect(result).toContain("⭐️ 19,010");
   });
 
   it("does nothing if cache is empty", () => {

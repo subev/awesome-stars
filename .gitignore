@@ -7,5 +7,5 @@
 /.react-router/
 /build/
 
-repoDetails.json
-markdownWithStars.md
+repoDetails-*.json
+*-markdownWithStars.md

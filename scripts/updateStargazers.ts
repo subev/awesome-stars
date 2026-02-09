@@ -1,6 +1,7 @@
 import PQueue from "p-queue";
 import got from "got";
 import { promises as fs } from "fs";
+import type { AwesomeListConfig } from "../app/lists.ts";
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 if (!GITHUB_TOKEN) {
@@ -24,9 +25,6 @@ type RepoDetailsGithub = {
     html_url: string;
   };
 };
-
-const queue = new PQueue({ concurrency: 10 });
-const reposCache = new Map<string, RepoDetailsGithub>();
 
 export const getRepoNames = (markdown: string) => {
   const repoNames: BasicRepoInfo[] = [];
@@ -56,16 +54,16 @@ export const fetchRepoDetails = async ({ owner, repo }: BasicRepoInfo) => {
   return repoDetails;
 };
 
-export const fetchAndCacheRepoDetails = async ({
-  owner,
-  repo,
-}: BasicRepoInfo) => {
+export const fetchAndCacheRepoDetails = async (
+  { owner, repo }: BasicRepoInfo,
+  cache: Map<string, RepoDetailsGithub>,
+) => {
   const cacheKey = `${owner}/${repo}`;
-  if (reposCache.has(cacheKey)) {
-    return reposCache.get(cacheKey)!;
+  if (cache.has(cacheKey)) {
+    return cache.get(cacheKey)!;
   }
   const repoDetails = await fetchRepoDetails({ owner, repo });
-  reposCache.set(cacheKey, repoDetails);
+  cache.set(cacheKey, repoDetails);
   return repoDetails;
 };
 
@@ -82,7 +80,7 @@ export const replaceMarkdownLinksWithStars = (
       const repoDetails = cache.get(repoSlug);
 
       if (repoDetails) {
-        return `⭐️ ${repoDetails.stargazers_count} [${linkText}](https://github.com/${repoSlug})${description}`;
+        return `⭐️ ${repoDetails.stargazers_count.toLocaleString("en-US")} [${linkText}](https://github.com/${repoSlug})${description}`;
       }
 
       return match; // leave unchanged if not found
@@ -90,16 +88,26 @@ export const replaceMarkdownLinksWithStars = (
   );
 };
 
-export const main = async (useCache?: boolean) => {
-  const markdown = await got(
-    "https://raw.githubusercontent.com/rockerBOO/awesome-neovim/refs/heads/main/README.md",
-  ).text();
+export const main = async (
+  listConfig: AwesomeListConfig,
+  useCache?: boolean,
+) => {
+  const { slug, name, readmeUrl } = listConfig;
+  const cacheFile = `repoDetails-${slug}.json`;
+  const outputFile = `public/${slug}-markdownWithStars.md`;
+
+  console.log(`\n📋 Processing: ${name} (${slug})`);
+
+  const markdown = await got(readmeUrl).text();
   const repoInfos = getRepoNames(markdown);
   console.log(`Found ${repoInfos.length} repositories in markdown.`);
 
+  const reposCache = new Map<string, RepoDetailsGithub>();
+  const queue = new PQueue({ concurrency: 10 });
+
   if (useCache) {
     try {
-      const cachedData = await fs.readFile("repoDetails.json", "utf-8");
+      const cachedData = await fs.readFile(cacheFile, "utf-8");
       const cachedRepos: RepoDetailsGithub[] = JSON.parse(cachedData);
       for (const repo of cachedRepos) {
         const cacheKey = `${repo.owner.login}/${repo.name}`;
@@ -118,7 +126,7 @@ export const main = async (useCache?: boolean) => {
     repoInfos.map(({ owner, repo }) =>
       queue.add(async () => {
         try {
-          return await fetchAndCacheRepoDetails({ owner, repo });
+          return await fetchAndCacheRepoDetails({ owner, repo }, reposCache);
         } catch (err) {
           console.warn(`⚠️ Failed to fetch ${owner}/${repo}: ${err.message}`);
           return null; // mark as failed
@@ -128,13 +136,13 @@ export const main = async (useCache?: boolean) => {
   );
   // writes only the succesfull fetches to a file called repoDetails.json
   await fs.writeFile(
-    "repoDetails.json",
+    cacheFile,
     JSON.stringify(repoDetailsList.filter(Boolean), null, 2),
   );
-  console.log("Repository details saved to repoDetails.json");
+  console.log(`Repository details saved to ${cacheFile}`);
 
   console.log("Replacing markdown links with stargazer counts...");
   const updatedMarkdown = replaceMarkdownLinksWithStars(markdown, reposCache);
-  await fs.writeFile("public/markdownWithStars.md", updatedMarkdown);
-  console.log("Updated markdown saved to markdownWithStars.md");
+  await fs.writeFile(outputFile, updatedMarkdown);
+  console.log(`Updated markdown saved to ${outputFile}`);
 };
