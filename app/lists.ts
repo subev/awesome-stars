@@ -17,4 +17,10 @@ export const AWESOME_LISTS: Record<string, AwesomeListConfig> = {
     readmeUrl:
       "https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/refs/heads/main/readme.md",
   },
+  awesome: {
+    name: "Awesome",
+    slug: "awesome",
+    readmeUrl:
+      "https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/readme.md",
+  },
 };

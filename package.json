@@ -16,7 +16,9 @@
     "fetch-stars:nodejs": "node --experimental-strip-types --env-file=.env scripts/run-main.ts --list nodejs",
     "cached-stars": "USE_CACHE=TRUE node --experimental-strip-types --env-file=.env scripts/run-main.ts --list all",
     "cached-stars:neovim": "USE_CACHE=TRUE node --experimental-strip-types --env-file=.env scripts/run-main.ts --list neovim",
-    "cached-stars:nodejs": "USE_CACHE=TRUE node --experimental-strip-types --env-file=.env scripts/run-main.ts --list nodejs"
+    "cached-stars:nodejs": "USE_CACHE=TRUE node --experimental-strip-types --env-file=.env scripts/run-main.ts --list nodejs",
+    "fetch-stars:awesome": "node --experimental-strip-types --env-file=.env scripts/run-main.ts --list awesome",
+    "cached-stars:awesome": "USE_CACHE=TRUE node --experimental-strip-types --env-file=.env scripts/run-main.ts --list awesome"
   },
   "dependencies": {
     "@react-router/express": "^7.7.1",

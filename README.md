@@ -31,6 +31,8 @@ you also need .env file with the following variables:
 
 ``` GITHUB_TOKEN ``` - A GitHub personal access token.
 
+You need to run the following just once (if not developing the script itself)
+
 ```bash
 npm run fetch-stars
 ```

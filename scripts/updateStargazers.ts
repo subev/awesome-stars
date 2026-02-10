@@ -72,7 +72,7 @@ export const replaceMarkdownLinksWithStars = (
   cache: Map<string, RepoDetailsGithub>,
 ) => {
   const repoRegex =
-    /\[([^\]]+)\]\(https:\/\/github\.com\/([\w.-]+\/[\w.-]+)(?:\/[^)]*)?\)(.*)/g;
+    /\[([^\]]+)\]\(https:\/\/github\.com\/([\w.-]+\/[\w.-]+)(?:[/#][^)]*)?\)(.*)/g;
 
   return markdown.replace(
     repoRegex,

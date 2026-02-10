@@ -232,6 +232,17 @@ describe("replaceMarkdownLinksWithStars", () => {
     expect(result).toBe(markdown);
   });
 
+  it("handles URLs with #fragment (e.g. #readme)", () => {
+    const markdown =
+      "- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Runtime.";
+    const cache = new Map();
+    cache.set("sindresorhus/awesome-nodejs", { stargazers_count: 64900 });
+
+    const result = replaceMarkdownLinksWithStars(markdown, cache);
+    expect(result).toContain("⭐️ 64,900");
+    expect(result).toContain("[Node.js]");
+  });
+
   it("works with repo names containing dots or dashes", () => {
     const markdown = "- [foo.bar/baz-qux](https://github.com/foo.bar/baz-qux)";
     const cache = new Map();
