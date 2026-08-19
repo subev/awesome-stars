@@ -46,7 +46,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
-* ⭐️ 1,810 [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots)
+* ⭐️ 3,426 [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
@@ -106,25 +106,25 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications
 
-⭐️ 2,166 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
+⭐️ 2,167 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
 [**ViSP**](http://visp.inria.fr/)
 Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
 
-⭐️ 362 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
+⭐️ 364 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
 Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
 
-⭐️ 672 [**g2core**](https://github.com/synthetos/g2)
+⭐️ 676 [**g2core**](https://github.com/synthetos/g2)
 Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
 
-⭐️ 33 [**ur5controller**](https://github.com/roboticsleeds/ur5controller)
+⭐️ 34 [**ur5controller**](https://github.com/roboticsleeds/ur5controller)
 Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 
-⭐️ 685 [**RBDL**](https://github.com/rbdl/rbdl)
+⭐️ 703 [**RBDL**](https://github.com/rbdl/rbdl)
 Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
 
-⭐️ 2,458 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+⭐️ 2,561 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
 ### Papers ###
@@ -207,18 +207,18 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
-* ⭐️ 706 [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-* ⭐️ 28,615 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+* ⭐️ 782 [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+* ⭐️ 30,325 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
 ### Related awesome lists ###
-* ⭐️ 12,945 [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* ⭐️ 23,051 [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-* ⭐️ 71,630 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-* ⭐️ 27,522 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* ⭐️ 11,132 [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-* ⭐️ 154 [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
-* ⭐️ 9,575 [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
-* ⭐️ 1,323 [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* ⭐️ 2,791 [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* ⭐️ 2,022 [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
-* ⭐️ 81 [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+* ⭐️ 15,906 [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* ⭐️ 23,506 [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* ⭐️ 74,076 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* ⭐️ 28,780 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* ⭐️ 11,182 [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* ⭐️ 155 [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
+* ⭐️ 9,916 [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* ⭐️ 1,476 [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* ⭐️ 3,018 [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* ⭐️ 2,129 [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* ⭐️ 91 [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
