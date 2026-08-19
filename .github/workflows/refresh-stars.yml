@@ -1,17 +1,17 @@
 name: Refresh stars
 
+# Every committed list (public/stars-cache/<owner>/<repo>.md) gets one weekly
+# hourly slot: slot = (weekday-1)*24 + hour over Mon+Tue = 48 slots, lists
+# sorted alphabetically. One list per hour stays far under the 5000/hr API
+# budget. Grow past 48 lists -> add Wednesday (1,2,3) below.
 on:
   schedule:
-    - cron: "17 3 * * 1" # neovim
-    - cron: "17 4 * * 1" # nodejs
-    - cron: "17 5 * * 1" # awesome
-    - cron: "17 6 * * 1" # macos-apps
+    - cron: "17 * * * 1,2"
   workflow_dispatch:
     inputs:
-      list:
-        type: choice
-        default: neovim
-        options: [neovim, nodejs, awesome, macos-apps, all]
+      target:
+        description: "owner/repo to refresh (empty = pick by current hour slot)"
+        default: ""
 
 permissions:
   contents: write
@@ -25,32 +25,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Pick list
+        id: pick
+        run: |
+          TARGET="${{ inputs.target }}"
+          if [ -z "$TARGET" ]; then
+            LISTS=$(cd public/stars-cache && ls -d */*.md | sed 's/\.md$//' | LC_ALL=C sort)
+            COUNT=$(echo "$LISTS" | wc -l)
+            SLOT=$(( ($(date -u +%u) - 1) * 24 + $(date -u +%-H) ))
+            echo "slot $SLOT of $COUNT lists"
+            if [ "$SLOT" -ge "$COUNT" ]; then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            TARGET=$(echo "$LISTS" | sed -n "$((SLOT + 1))p")
+          fi
+          echo "target=$TARGET" >> "$GITHUB_OUTPUT"
+          echo "owner=${TARGET%%/*}" >> "$GITHUB_OUTPUT"
+          echo "repo=${TARGET##*/}" >> "$GITHUB_OUTPUT"
+      - if: steps.pick.outputs.skip != 'true'
+        uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: npm
-      - run: npm ci
-      - name: Pick list
-        id: list
-        run: |
-          case "${{ github.event.schedule }}" in
-            "17 3 * * 1") LIST=neovim ;;
-            "17 4 * * 1") LIST=nodejs ;;
-            "17 5 * * 1") LIST=awesome ;;
-            "17 6 * * 1") LIST=macos-apps ;;
-            *) LIST="${{ inputs.list }}" ;;
-          esac
-          echo "list=$LIST" >> "$GITHUB_OUTPUT"
+      - if: steps.pick.outputs.skip != 'true'
+        run: npm ci
       - name: Fetch stars
+        if: steps.pick.outputs.skip != 'true'
         env:
-          # STARS_PAT (fine-grained, Contents read/write) raises the API limit
-          # to 5000/hr; the built-in token's 1000/hr is too low for neovim.
           GITHUB_TOKEN: ${{ secrets.STARS_PAT || github.token }}
-        run: |
-          LIST="${{ steps.list.outputs.list }}"
-          if [ "$LIST" = "all" ]; then npm run fetch-stars; else npm run "fetch-stars:$LIST"; fi
+        run: node --experimental-strip-types scripts/refresh-list.ts "${{ steps.pick.outputs.owner }}" "${{ steps.pick.outputs.repo }}"
       - name: Commit data
         id: commit
+        if: steps.pick.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -58,7 +65,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
-            git commit -m "chore: refresh stars (${{ steps.list.outputs.list }})"
+            git commit -m "chore: refresh stars (${{ steps.pick.outputs.target }})"
             git pull --rebase origin master
             git push
             echo "pushed=true" >> "$GITHUB_OUTPUT"
