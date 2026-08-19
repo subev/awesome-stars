@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useLoaderData } from "react-router";
+import { Link, data, isRouteErrorResponse, useLoaderData } from "react-router";
 import {
   MarkdownRenderer,
   type RepoBadges,
@@ -55,6 +55,70 @@ export async function loader({
   }
 
   return { status: "loading", owner, repo };
+}
+
+const STATIC_BUILD = import.meta.env.VITE_STATIC_BUILD === "1";
+
+export async function clientLoader({ serverLoader }: Route.ClientLoaderArgs) {
+  if (!STATIC_BUILD) return serverLoader();
+  try {
+    return await serverLoader();
+  } catch {
+    throw data("Not tracked", { status: 404 });
+  }
+}
+
+function NotTracked({ owner, repo }: { owner: string; repo: string }) {
+  return (
+    <div className="mx-auto max-w-2xl p-8">
+      <div className="mb-4">
+        <Link to="/" className="text-ink-dim hover:text-ink text-sm">
+          &larr; All lists
+        </Link>
+      </div>
+      <div className="border-edge bg-surface rounded-lg border p-6">
+        <h2 className="font-display mb-2 text-lg font-semibold">
+          {owner}/{repo} isn&apos;t tracked here
+        </h2>
+        <p className="text-ink-dim text-sm">
+          This list has no star data yet.{" "}
+          <a
+            href={`https://github.com/${owner}/${repo}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent hover:underline"
+          >
+            View it on GitHub
+          </a>
+          .
+        </p>
+      </div>
+    </div>
+  );
+}
+
+export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
+  if (isRouteErrorResponse(error) && error.status === 404) {
+    return (
+      <NotTracked owner={params.owner ?? ""} repo={params.repo ?? ""} />
+    );
+  }
+  const message = error instanceof Error ? error.message : String(error);
+  return (
+    <div className="mx-auto max-w-2xl p-8">
+      <div className="mb-4">
+        <Link to="/" className="text-ink-dim hover:text-ink text-sm">
+          &larr; All lists
+        </Link>
+      </div>
+      <div className="border-down/30 bg-down/10 rounded-lg border p-6">
+        <h2 className="text-down font-display mb-2 text-lg font-semibold">
+          Error
+        </h2>
+        <p className="text-down/90">{message}</p>
+      </div>
+    </div>
+  );
 }
 
 type ProgressState = {
@@ -150,9 +214,9 @@ function LoadingProgress({
   return (
     <div className="mx-auto max-w-2xl p-8">
       <div className="mb-4">
-        <a href="/" className="text-ink-dim hover:text-ink text-sm">
+        <Link to="/" className="text-ink-dim hover:text-ink text-sm">
           &larr; All lists
-        </a>
+        </Link>
       </div>
       <div className="border-edge bg-surface rounded-lg border p-6">
         <h2 className="font-display mb-4 text-lg font-semibold">
@@ -198,9 +262,13 @@ export default function DynamicAwesomeList() {
         title={`${data.owner}/${data.repo}`}
         trendsHref={`/awesome/${data.owner}/${data.repo}/trends`}
         badges={data.badges}
-        onRefresh={() => setRefreshing(true)}
+        onRefresh={STATIC_BUILD ? undefined : () => setRefreshing(true)}
       />
     );
+  }
+
+  if (STATIC_BUILD) {
+    return <NotTracked owner={data.owner} repo={data.repo} />;
   }
 
   return <LoadingProgress owner={data.owner} repo={data.repo} />;

@@ -8,5 +8,4 @@ export default [
     "awesome/:owner/:repo/trends",
     "routes/awesome.$owner.$repo.trends.tsx",
   ),
-  route("welcome", "routes/home.tsx"),
 ] satisfies RouteConfig;

@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { data, useLoaderData } from "react-router";
+import { Link, data, useLoaderData } from "react-router";
 import { readSnapshots } from "~/lib/snapshots.server";
 import { computeTrends, type RepoTrend } from "~/lib/trends";
 import type { Route } from "./+types/awesome.$owner.$repo.trends";
@@ -20,6 +20,17 @@ export async function loader({ params }: Route.LoaderArgs) {
   }
 
   return { trends: computeTrends(snapshots), owner, repo };
+}
+
+const STATIC_BUILD = import.meta.env.VITE_STATIC_BUILD === "1";
+
+export async function clientLoader({ serverLoader }: Route.ClientLoaderArgs) {
+  if (!STATIC_BUILD) return serverLoader();
+  try {
+    return await serverLoader();
+  } catch {
+    throw data("No snapshots for this list", { status: 404 });
+  }
 }
 
 const ACCENT = "var(--accent)";
@@ -230,15 +241,15 @@ export default function TrendsPage() {
   return (
     <div className="mx-auto max-w-5xl p-8">
       <div className="mb-4 flex items-center gap-4 text-sm">
-        <a href="/" className="text-ink-dim hover:text-ink">
+        <Link to="/" className="text-ink-dim hover:text-ink">
           &larr; All lists
-        </a>
-        <a
-          href={`/awesome/${owner}/${repo}`}
+        </Link>
+        <Link
+          to={`/awesome/${owner}/${repo}`}
           className="text-ink-dim hover:text-ink"
         >
           View list
-        </a>
+        </Link>
       </div>
 
       <h1 className="font-display text-3xl font-bold tracking-tight">

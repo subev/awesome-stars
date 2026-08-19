@@ -5,6 +5,7 @@ import rehypeSlug from "rehype-slug";
 import rehypeRaw from "rehype-raw";
 import rehypeSanitize from "rehype-sanitize";
 import { useEffect, type ComponentPropsWithoutRef } from "react";
+import { Link } from "react-router";
 import { AWESOME_LISTS } from "~/lists";
 
 const GITHUB_REPO_REGEX = /^https:\/\/github\.com\/([\w.-]+)\/([\w.-]+)\/?$/;
@@ -116,15 +117,20 @@ function RewrittenLink(
       const internal = looksLikeAwesomeList(owner, repo);
       return (
         <>
-          <a
-            href={internal ? `/awesome/${owner}/${repo}` : href}
-            {...(internal
-              ? {}
-              : { target: "_blank", rel: "noopener noreferrer" })}
-            {...rest}
-          >
-            {children}
-          </a>
+          {internal ? (
+            <Link to={`/awesome/${owner}/${repo}`} {...rest}>
+              {children}
+            </Link>
+          ) : (
+            <a
+              href={href}
+              target="_blank"
+              rel="noopener noreferrer"
+              {...rest}
+            >
+              {children}
+            </a>
+          )}
           {badge && <GrowthBadge badge={badge} />}
         </>
       );
@@ -160,12 +166,12 @@ export function MarkdownRenderer({
   return (
     <div className="prose prose-sm dark:prose-invert prose-a:text-accent prose-ul:marker:text-ink-dim max-w-none p-5">
       <div className="mb-4 flex items-center justify-between">
-        <a
-          href="/"
+        <Link
+          to="/"
           className="text-ink-dim hover:text-ink text-sm no-underline"
         >
           &larr; All lists
-        </a>
+        </Link>
         <div className="flex items-center gap-4">
           {onRefresh && (
             <button
@@ -177,12 +183,12 @@ export function MarkdownRenderer({
             </button>
           )}
           {trendsHref && (
-            <a
-              href={trendsHref}
+            <Link
+              to={trendsHref}
               className="text-accent text-sm font-medium no-underline hover:underline"
             >
               📈 Trends
-            </a>
+            </Link>
           )}
         </div>
       </div>

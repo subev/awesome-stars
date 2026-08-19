@@ -2,7 +2,7 @@ import { data, redirect } from "react-router";
 import { AWESOME_LISTS } from "~/lists";
 import type { Route } from "./+types/awesome.$slug";
 
-export function loader({ params }: Route.LoaderArgs) {
+export async function clientLoader({ params }: Route.ClientLoaderArgs) {
   const { slug } = params;
   const listConfig = AWESOME_LISTS[slug];
 
@@ -11,4 +11,13 @@ export function loader({ params }: Route.LoaderArgs) {
   }
 
   return redirect(`/awesome/${listConfig.owner}/${listConfig.repo}`);
+}
+clientLoader.hydrate = true as const;
+
+export function HydrateFallback() {
+  return null;
+}
+
+export default function SlugRedirect() {
+  return null;
 }
