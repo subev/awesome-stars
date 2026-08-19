@@ -136,14 +136,14 @@
 
 - [Website](https://nodejs.org)
 - [Documentation](https://nodejs.org/dist/latest/docs/api/)
-- ⭐️ 119,017 [Repository](https://github.com/nodejs/node)
+- ⭐️ 119,019 [Repository](https://github.com/nodejs/node)
 
 ## Packages
 
 ### Mad science
 
-- ⭐️ 31,357 [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-- ⭐️ 6,277 [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+- ⭐️ 31,360 [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
+- ⭐️ 6,276 [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - ⭐️ 1,338 [ipfs](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - ⭐️ 317 [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
@@ -151,11 +151,11 @@
 - ⭐️ 5,997 [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
 - ⭐️ 4,989 [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 - ⭐️ 10,694 [PDFKit](https://github.com/foliojs/pdfkit) - PDF generation library.
-- ⭐️ 10,437 [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+- ⭐️ 10,441 [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - ⭐️ 452 [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - ⭐️ 7,344 [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - ⭐️ 1,223 [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
-- ⭐️ 14,865 [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- ⭐️ 14,863 [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 - ⭐️ 2,595 [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - ⭐️ 11,170 [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - ⭐️ 3,847 [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
@@ -169,7 +169,7 @@
 - ⭐️ 194 [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - ⭐️ 199 [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - ⭐️ 2,667 [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
-- ⭐️ 3,951 [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+- ⭐️ 3,950 [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - ⭐️ 9,737 [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - ⭐️ 439 [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - ⭐️ 4,172 [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
@@ -202,32 +202,32 @@
 - ⭐️ 814 [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - ⭐️ 1,203 [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
 - ⭐️ 2,859 [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-- ⭐️ 22,443 [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- ⭐️ 22,445 [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 - ⭐️ 4,245 [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
-- ⭐️ 9,928 [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+- ⭐️ 9,929 [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - ⭐️ 5,845 [themer](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - ⭐️ 6,030 [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 - ⭐️ 266 [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - ⭐️ 9,339 [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - ⭐️ 646 [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
-- ⭐️ 9,425 [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- ⭐️ 9,423 [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 
 ### Functional programming
 
-- ⭐️ 61,291 [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- ⭐️ 61,290 [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - ⭐️ 33,039 [immutable](https://github.com/immutable-js/immutable-js) - Immutable data collections.
-- ⭐️ 24,060 [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
+- ⭐️ 24,056 [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - ⭐️ 1,285 [Mout](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-- ⭐️ 31,699 [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
+- ⭐️ 31,697 [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - ⭐️ 1,885 [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage.
 
 ### HTTP
 
 - ⭐️ 14,930 [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
-- ⭐️ 7,664 [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+- ⭐️ 7,666 [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 - ⭐️ 672 [ky-universal](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
 - ⭐️ 8,856 [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
-- ⭐️ 109,198 [axios](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
+- ⭐️ 109,199 [axios](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
 - ⭐️ 16,640 [superagent](https://github.com/visionmedia/superagent) - HTTP request library.
 - ⭐️ 312 [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
@@ -247,7 +247,7 @@
 - ⭐️ 3,548 [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - ⭐️ 121 [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - ⭐️ 1,591 [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
-- ⭐️ 1,168 [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
+- ⭐️ 1,169 [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
 - ⭐️ 224 [thetool](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 - ⭐️ 937 [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 - ⭐️ 207 [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
@@ -259,7 +259,7 @@
 - ⭐️ 24,503 [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - ⭐️ 115 [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - ⭐️ 768 [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
-- ⭐️ 7,321 [consola](https://github.com/unjs/consola) - Console logger.
+- ⭐️ 7,322 [consola](https://github.com/unjs/consola) - Console logger.
 
 ### Command-line utilities
 
@@ -302,19 +302,19 @@
 - ⭐️ 9,578 [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - ⭐️ 148 [terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 - ⭐️ 371 [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
-- ⭐️ 45,673 [zx](https://github.com/google/zx) - Write shell scripts in JavaScript.
+- ⭐️ 45,677 [zx](https://github.com/google/zx) - Write shell scripts in JavaScript.
 
 ### Build tools
 
-- ⭐️ 44,019 [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
+- ⭐️ 44,020 [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 - ⭐️ 65,970 [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
-- ⭐️ 26,306 [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
-- ⭐️ 32,951 [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
+- ⭐️ 26,305 [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- ⭐️ 32,950 [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
 - ⭐️ 3,323 [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - ⭐️ 6,758 [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - ⭐️ 3,968 [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - ⭐️ 24,355 [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
-- ⭐️ 82,406 [Vite](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
+- ⭐️ 82,412 [Vite](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Hardware
 
@@ -338,36 +338,36 @@
 
 ### Web frameworks
 
-- ⭐️ 37,007 [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-- ⭐️ 141,859 [Next.js](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
-- ⭐️ 60,762 [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
-- ⭐️ 14,792 [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
+- ⭐️ 37,005 [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+- ⭐️ 141,869 [Next.js](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+- ⭐️ 60,763 [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+- ⭐️ 14,791 [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
 - ⭐️ 10,624 [Micro](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 - ⭐️ 35,687 [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - ⭐️ 69,382 [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-- ⭐️ 15,265 [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
+- ⭐️ 15,266 [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 - ⭐️ 5,107 [LoopBack](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-- ⭐️ 44,809 [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-JavaScript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
-- ⭐️ 10,686 [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
+- ⭐️ 44,810 [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-JavaScript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
+- ⭐️ 10,685 [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 - ⭐️ 5,268 [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
 - ⭐️ 2,416 [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - ⭐️ 3,959 [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
-- ⭐️ 19,093 [AdonisJs](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+- ⭐️ 19,094 [AdonisJs](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - ⭐️ 6,377 [Moleculer](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
-- ⭐️ 76,401 [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- ⭐️ 76,402 [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 - ⭐️ 8,092 [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 - ⭐️ 2,899 [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 - ⭐️ 2,147 [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - ⭐️ 2,286 [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - ⭐️ 3,088 [Ts.ED](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
-- ⭐️ 31,724 [Hono](https://github.com/honojs/hono) - Small and fast web framework.
+- ⭐️ 31,734 [Hono](https://github.com/honojs/hono) - Small and fast web framework.
 
 ### Documentation
 
 - ⭐️ 5,800 [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
 - ⭐️ 3,575 [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - ⭐️ 15,448 [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
-- ⭐️ 65,977 [Docusaurus](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+- ⭐️ 66,000 [Docusaurus](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ### Filesystem
 
@@ -398,7 +398,7 @@
 	- ⭐️ 1,508 [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
 	- ⭐️ 5,161 [More…](https://github.com/sindresorhus/promise-fun)
 - Observables
-	- ⭐️ 31,699 [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming.
+	- ⭐️ 31,697 [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming.
 	- ⭐️ 51 [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
 	- ⭐️ 352 [More…](https://github.com/sindresorhus/awesome-observables)
 - Streams
@@ -423,7 +423,7 @@
 ### Real-time
 
 - ⭐️ 18,958 [µWebSockets](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
-- ⭐️ 63,189 [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
+- ⭐️ 63,191 [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 - ⭐️ 4,386 [Faye](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
 - ⭐️ 6,194 [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - ⭐️ 4,469 [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
@@ -435,11 +435,11 @@
 
 ### Image
 
-- ⭐️ 32,583 [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+- ⭐️ 32,584 [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 - ⭐️ 425 [image-type](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 - ⭐️ 591 [image-dimensions](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 - ⭐️ 2,360 [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
-- ⭐️ 4,141 [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+- ⭐️ 4,142 [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - ⭐️ 14,662 [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - ⭐️ 8,158 [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 - ⭐️ 674 [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
@@ -460,8 +460,8 @@
 - ⭐️ 542 [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - ⭐️ 44 [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - ⭐️ 8,619 [i18next](https://github.com/i18next/i18next) - Internationalization framework.
-- ⭐️ 26,938 [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
-- ⭐️ 3,864 [StegCloak](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+- ⭐️ 26,941 [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+- ⭐️ 3,865 [StegCloak](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ### Number
 
@@ -473,16 +473,16 @@
 ### Math
 
 - ⭐️ 1,243 [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
-- ⭐️ 15,063 [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
+- ⭐️ 15,064 [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 - ⭐️ 17 [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - ⭐️ 108 [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 - ⭐️ 73 [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Date
 
-- ⭐️ 16,443 [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
-- ⭐️ 36,630 [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
-- ⭐️ 48,666 [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+- ⭐️ 16,442 [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
+- ⭐️ 36,629 [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
+- ⭐️ 48,665 [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 - ⭐️ 1,292 [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - ⭐️ 12 [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 - ⭐️ 58 [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversion for dates.
@@ -503,15 +503,15 @@
 - ⭐️ 963 [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 - ⭐️ 158 [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - ⭐️ 503 [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
-- ⭐️ 14,808 [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
+- ⭐️ 14,807 [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 - ⭐️ 7,136 [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - ⭐️ 23,673 [yup](https://github.com/jquense/yup) - Object schema validation.
-- ⭐️ 43,489 [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+- ⭐️ 43,493 [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Parsing
 
-- ⭐️ 8,979 [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
-- ⭐️ 21,825 [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
+- ⭐️ 8,981 [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+- ⭐️ 21,827 [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
 - ⭐️ 3,923 [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - ⭐️ 7,657 [@parcel/css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - ⭐️ 626 [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
@@ -526,7 +526,7 @@
 - ⭐️ 3,742 [nearley](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
 - ⭐️ 154 [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
 - ⭐️ 164 [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
-- ⭐️ 6,622 [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+- ⭐️ 6,623 [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - ⭐️ 4,967 [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - ⭐️ 4,385 [Jison](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - ⭐️ 1,485 [google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber) - Parse, format, store and validate phone numbers.
@@ -562,33 +562,33 @@
 ### Database
 
 - Drivers
-	- ⭐️ 13,191 [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-	- ⭐️ 15,325 [Redis](https://github.com/luin/ioredis) - Redis client.
+	- ⭐️ 13,193 [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
+	- ⭐️ 15,326 [Redis](https://github.com/luin/ioredis) - Redis client.
 	- ⭐️ 4,069 [LevelUP](https://github.com/Level/levelup) - LevelDB.
 	- ⭐️ 18,614 [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
 	- ⭐️ 689 [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
 	- ⭐️ 209 [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- ⭐️ 462 [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
-	- ⭐️ 10,176 [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+	- ⭐️ 10,175 [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 - ODM / ORM
 	- ⭐️ 30,371 [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
 	- ⭐️ 6,346 [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-	- ⭐️ 27,472 [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
+	- ⭐️ 27,471 [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
 	- ⭐️ 5,386 [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 	- ⭐️ 485 [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 	- ⭐️ 3,555 [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
 	- ⭐️ 4,933 [slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
-	- ⭐️ 7,344 [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
-	- ⭐️ 36,632 [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
+	- ⭐️ 7,342 [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+	- ⭐️ 36,629 [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
 	- ⭐️ 9,176 [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-	- ⭐️ 47,569 [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
- 	- ⭐️ 35,515 [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
+	- ⭐️ 47,571 [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+ 	- ⭐️ 35,519 [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
 - Query builder
 	- ⭐️ 20,340 [Knex](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
 	- ⭐️ 13,535 [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- ⭐️ 22,572 [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-	- ⭐️ 3,185 [Keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+	- ⭐️ 3,186 [Keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
 	- ⭐️ 186 [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- ⭐️ 80 [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- ⭐️ 562 [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
@@ -600,7 +600,7 @@
 - ⭐️ 20,832 [AVA](https://github.com/avajs/ava) - Futuristic test runner.
 - ⭐️ 22,902 [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
 - ⭐️ 5,765 [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
-- ⭐️ 2,426 [tap](https://github.com/tapjs/node-tap) - TAP test framework.
+- ⭐️ 2,425 [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - ⭐️ 5,798 [tape](https://github.com/substack/tape) - TAP-producing test harness.
 - ⭐️ 2,807 [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
 - ⭐️ 348 [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
@@ -613,17 +613,17 @@
 - ⭐️ 2,715 [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 - ⭐️ 56 [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 - ⭐️ 173 [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
-- ⭐️ 11,958 [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
+- ⭐️ 11,957 [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 - ⭐️ 9,817 [WebdriverIO](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 - ⭐️ 45,469 [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
-- ⭐️ 16,972 [Vitest](https://github.com/vitest-dev/vitest) - Fast unit test framework powered by Vite.
+- ⭐️ 16,977 [Vitest](https://github.com/vitest-dev/vitest) - Fast unit test framework powered by Vite.
 - ⭐️ 9,907 [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - ⭐️ 959 [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
-- ⭐️ 4,240 [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
-- ⭐️ 95,465 [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome.
-- ⭐️ 94,722 [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+- ⭐️ 4,239 [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
+- ⭐️ 95,464 [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome.
+- ⭐️ 94,752 [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - ⭐️ 711 [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
-- ⭐️ 7,412 [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+- ⭐️ 7,413 [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - ⭐️ 2,590 [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Security
@@ -642,7 +642,7 @@
 ### Minifiers
 
 - ⭐️ 4,375 [babel-minify](https://github.com/babel/minify) - ES2015+ aware minifier based on the Babel toolchain.
-- ⭐️ 13,381 [UglifyJS2](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
+- ⭐️ 13,380 [UglifyJS2](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
 - ⭐️ 4,198 [clean-css](https://github.com/clean-css/clean-css) - CSS minifier.
 - ⭐️ 161 [minimize](https://github.com/Swaagie/minimize) - HTML minifier.
 - ⭐️ 5,721 [imagemin](https://github.com/imagemin/imagemin) - Image minifier.
@@ -654,8 +654,8 @@
 
 ### Authorization
 
-- ⭐️ 7,040 [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
-- ⭐️ 2,913 [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+- ⭐️ 7,042 [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+- ⭐️ 2,914 [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ### Email
 
@@ -668,7 +668,7 @@
 ### Job queues
 
 - ⭐️ 16,250 [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
-- ⭐️ 9,695 [agenda](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
+- ⭐️ 9,696 [agenda](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
 - ⭐️ 78 [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - ⭐️ 1,417 [node-resque](https://github.com/actionhero/node-resque) - Redis-backed job queue.
 - ⭐️ 1,817 [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
@@ -676,8 +676,8 @@
 - ⭐️ 669 [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 - ⭐️ 1,907 [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 - ⭐️ 550 [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
-- ⭐️ 9,305 [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
-- ⭐️ 3,290 [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
+- ⭐️ 9,306 [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+- ⭐️ 3,291 [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
 - ⭐️ 2,368 [graphile-worker](https://github.com/graphile/worker) - High performance PostgreSQL job queue.
 
 ### Node.js management
@@ -685,13 +685,13 @@
 - ⭐️ 19,507 [n](https://github.com/tj/n) - Node.js version management.
 - ⭐️ 1,635 [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - ⭐️ 1,789 [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
-- ⭐️ 47,388 [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+- ⭐️ 47,391 [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 - ⭐️ 2,414 [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
-- ⭐️ 26,612 [fnm](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+- ⭐️ 26,618 [fnm](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ### Cross-platform integration
 
-- ⭐️ 7,903 [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+- ⭐️ 7,905 [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
 - ⭐️ 8,422 [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - ⭐️ 837 [Edge.js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 - ⭐️ 796 [DotNetJS](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
@@ -722,31 +722,31 @@
 ### AST
 
 - ⭐️ 11,433 [Acorn](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
-- ⭐️ 43,987 [babel-parser](https://github.com/babel/babel) - JavaScript parser used in Babel.
+- ⭐️ 43,986 [babel-parser](https://github.com/babel/babel) - JavaScript parser used in Babel.
 
 ### Static site generators
 
 - ⭐️ 3,044 [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
-- ⭐️ 31,464 [docsify](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
+- ⭐️ 31,465 [docsify](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
 - ⭐️ 431 [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Content management systems
 
-- ⭐️ 9,957 [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+- ⭐️ 9,958 [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - ⭐️ 4,599 [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-- ⭐️ 72,965 [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
-- ⭐️ 1,463 [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
+- ⭐️ 72,966 [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+- ⭐️ 1,464 [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - ⭐️ 8,979 [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 - ⭐️ 553 [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ### Forum
 
-- ⭐️ 15,199 [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web.
+- ⭐️ 15,198 [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web.
 
 ### Blogging
 
-- ⭐️ 54,795 [Ghost](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
-- ⭐️ 41,772 [Hexo](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
+- ⭐️ 54,797 [Ghost](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
+- ⭐️ 41,771 [Hexo](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Weird
 
@@ -763,12 +763,12 @@
 ### Serialization
 
 - ⭐️ 477 [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-- ⭐️ 10,580 [protobuf](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
+- ⭐️ 10,581 [protobuf](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 - ⭐️ 108 [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Miscellaneous
 
-- ⭐️ 7,587 [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
+- ⭐️ 7,588 [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - ⭐️ 30,455 [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - ⭐️ 3,497 [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - ⭐️ 953 [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
@@ -777,7 +777,7 @@
 - ⭐️ 1,163 [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - ⭐️ 114 [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - ⭐️ 232 [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
-- ⭐️ 5,813 [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+- ⭐️ 5,814 [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 - ⭐️ 57 [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
 - ⭐️ 4,320 [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - ⭐️ 2,003 [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
@@ -785,7 +785,7 @@
 - ⭐️ 1,982 [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - ⭐️ 1,155 [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - ⭐️ 4,385 [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
-- ⭐️ 20,520 [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+- ⭐️ 20,518 [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - ⭐️ 5,458 [semver](https://github.com/npm/node-semver) - Semantic version parser.
 - ⭐️ 5,754 [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - ⭐️ 22 [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
@@ -796,9 +796,9 @@
 - ⭐️ 734 [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
 - ⭐️ 407 [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - ⭐️ 83 [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
-- ⭐️ 35,278 [husky](https://github.com/typicode/husky) - Create Git hook scripts.
+- ⭐️ 35,277 [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - ⭐️ 11,220 [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
-- ⭐️ 5,471 [editly](https://github.com/mifi/editly) - Declarative video editing API.
+- ⭐️ 5,470 [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - ⭐️ 729 [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 - ⭐️ 283 [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
@@ -813,7 +813,7 @@
 
 ### Tutorials
 
-- ⭐️ 105,587 [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
+- ⭐️ 105,588 [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 - [Nodeschool](https://github.com/nodeschool) - Learn Node.js with interactive lessons.
 - ⭐️ 9,875 [The Art of Node](https://github.com/maxogden/art-of-node) - An introduction to Node.js.
 - ⭐️ 1,542 [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
@@ -923,5 +923,5 @@
 
 ## Related lists
 
-- ⭐️ 4,730 [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+- ⭐️ 4,731 [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 - ⭐️ 1,207 [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
