@@ -1,19 +1,85 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-@theme {
+:root {
+  color-scheme: light;
+  --bg: #f6f7fc;
+  --surface: #ffffff;
+  --surface-2: #eef0f8;
+  --edge: #e2e5f1;
+  --ink: #1a1e33;
+  --ink-dim: #5c6386;
+  --accent: #2b5ce6;
+  --up-dim: #047857;
+  --up: #065f46;
+  --up-strong: #064e3b;
+  --down-dim: #dc2626;
+  --down: #b91c1c;
+  --down-strong: #991b1b;
+  --glow: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0a0d17;
+    --surface: #10152a;
+    --surface-2: #181e38;
+    --edge: rgba(139, 150, 255, 0.16);
+    --ink: #e4e8f7;
+    --ink-dim: #8b93b8;
+    --accent: #7da2ff;
+    --up-dim: #10b981;
+    --up: #34d399;
+    --up-strong: #6ee7b7;
+    --down-dim: #f87171;
+    --down: #f87171;
+    --down-strong: #fca5a5;
+    --glow: rgba(52, 211, 153, 0.5);
+  }
+}
+
+@theme inline {
   --font-sans:
     "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-display: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
 
-  --color-primary: #2563eb;
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-edge: var(--edge);
+  --color-ink: var(--ink);
+  --color-ink-dim: var(--ink-dim);
+  --color-accent: var(--accent);
+  --color-up-dim: var(--up-dim);
+  --color-up: var(--up);
+  --color-up-strong: var(--up-strong);
+  --color-down-dim: var(--down-dim);
+  --color-down: var(--down);
+  --color-down-strong: var(--down-strong);
+  --color-primary: var(--accent);
 }
 
 html,
 body {
-  @apply bg-white dark:bg-gray-300;
+  background:
+    radial-gradient(
+      1100px 480px at 72% -12%,
+      color-mix(in oklab, var(--accent) 9%, transparent),
+      transparent 65%
+    )
+    var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+.prose :is(h1, h2, h3, h4) {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+.glow-hot {
+  text-shadow: 0 0 10px var(--glow);
 }

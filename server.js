@@ -9,7 +9,16 @@ const PORT = Number.parseInt(process.env.PORT || "3000");
 
 const app = express();
 
-app.use(compression());
+app.use(
+  compression({
+    filter: (req, res) => {
+      if (req.headers.accept === "text/event-stream") {
+        return false;
+      }
+      return compression.filter(req, res);
+    },
+  }),
+);
 app.disable("x-powered-by");
 
 if (DEVELOPMENT) {

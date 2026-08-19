@@ -1,6 +1,6 @@
 import { describe, it, expect, vi, beforeEach, type Mock } from "vitest";
 import {
-  fetchAndCacheRepoDetails,
+  fetchAndCacheRepoDetailsScript as fetchAndCacheRepoDetails,
   fetchRepoDetails,
   getRepoNames,
   main,
@@ -141,6 +141,7 @@ describe("main()", () => {
         readFile: vi.fn(async () => {
           throw new Error("no cache");
         }),
+        mkdir: vi.fn(async () => {}),
       },
     };
   });
@@ -152,6 +153,8 @@ describe("main()", () => {
   const testListConfig = {
     name: "Test List",
     slug: "test",
+    owner: "test-owner",
+    repo: "test-repo",
     readmeUrl: "https://example.com/README.md",
   };
 
