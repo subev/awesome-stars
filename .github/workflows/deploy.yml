@@ -39,8 +39,6 @@ jobs:
           cp build/client/favicon.ico _site/
           cp build/client/__spa-fallback.html _site/404.html
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
