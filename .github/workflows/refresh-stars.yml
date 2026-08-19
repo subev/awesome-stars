@@ -1,0 +1,71 @@
+name: Refresh stars
+
+on:
+  schedule:
+    - cron: "17 3 * * 1" # neovim
+    - cron: "17 4 * * 1" # nodejs
+    - cron: "17 5 * * 1" # awesome
+    - cron: "17 6 * * 1" # macos-apps
+  workflow_dispatch:
+    inputs:
+      list:
+        type: choice
+        default: neovim
+        options: [neovim, nodejs, awesome, macos-apps, all]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: refresh-stars
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Pick list
+        id: list
+        run: |
+          case "${{ github.event.schedule }}" in
+            "17 3 * * 1") LIST=neovim ;;
+            "17 4 * * 1") LIST=nodejs ;;
+            "17 5 * * 1") LIST=awesome ;;
+            "17 6 * * 1") LIST=macos-apps ;;
+            *) LIST="${{ inputs.list }}" ;;
+          esac
+          echo "list=$LIST" >> "$GITHUB_OUTPUT"
+      - name: Fetch stars
+        env:
+          # STARS_PAT (fine-grained, Contents read/write) raises the API limit
+          # to 5000/hr; the built-in token's 1000/hr is too low for neovim.
+          GITHUB_TOKEN: ${{ secrets.STARS_PAT || github.token }}
+        run: |
+          LIST="${{ steps.list.outputs.list }}"
+          if [ "$LIST" = "all" ]; then npm run fetch-stars; else npm run "fetch-stars:$LIST"; fi
+      - name: Commit data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots public/stars-cache
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: refresh stars (${{ steps.list.outputs.list }})"
+            git pull --rebase origin master
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+      # Pushes made with github.token never trigger on:push workflows.
+      - name: Trigger deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref master --repo ${{ github.repository }}
