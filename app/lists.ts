@@ -7,6 +7,14 @@ export type AwesomeListConfig = {
 };
 
 export const AWESOME_LISTS: Record<string, AwesomeListConfig> = {
+  awesome: {
+    name: "Awesome",
+    slug: "awesome",
+    owner: "sindresorhus",
+    repo: "awesome",
+    readmeUrl:
+      "https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/readme.md",
+  },
   neovim: {
     name: "Awesome Neovim",
     slug: "neovim",
@@ -23,13 +31,21 @@ export const AWESOME_LISTS: Record<string, AwesomeListConfig> = {
     readmeUrl:
       "https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/refs/heads/main/readme.md",
   },
-  awesome: {
-    name: "Awesome",
-    slug: "awesome",
-    owner: "sindresorhus",
-    repo: "awesome",
+  javascript: {
+    name: "Awesome JavaScript",
+    slug: "javascript",
+    owner: "sorrycc",
+    repo: "awesome-javascript",
     readmeUrl:
-      "https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/readme.md",
+      "https://raw.githubusercontent.com/sorrycc/awesome-javascript/refs/heads/master/README.md",
+  },
+  ai: {
+    name: "Awesome Artificial Intelligence",
+    slug: "ai",
+    owner: "owainlewis",
+    repo: "awesome-artificial-intelligence",
+    readmeUrl:
+      "https://raw.githubusercontent.com/owainlewis/awesome-artificial-intelligence/refs/heads/master/README.md",
   },
   "macos-apps": {
     name: "Open Source macOS Apps",
