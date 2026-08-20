@@ -38,7 +38,7 @@ const { values } = parseArgs({
     "max-lists": { type: "string", default: "0" },
     depth: { type: "string", default: "3" },
     "min-stars": { type: "string", default: "50" },
-    "stale-days": { type: "string", default: "14" },
+    "stale-days": { type: "string", default: "7" },
     "history-every": { type: "string", default: "7" },
     chunk: { type: "string", default: "20" },
     concurrency: { type: "string", default: "4" },
@@ -235,7 +235,9 @@ const run = async () => {
 
     await index.flush();
     await saveCrawlState(state);
-    if (historyDate) await mergeHistoryDate(historyDate, observed);
+    if (historyDate && Object.keys(observed).length > 0) {
+      await mergeHistoryDate(historyDate, observed);
+    }
 
     const stats = budget.stats();
     console.log(
@@ -245,7 +247,9 @@ const run = async () => {
 
   await index.flush();
   await saveCrawlState(state);
-  if (historyDate) {
+  // An empty file would still count as a datapoint and block the next real one
+  // for a whole cycle, so a run that observed nothing writes nothing.
+  if (historyDate && Object.keys(observed).length > 0) {
     const total = await mergeHistoryDate(historyDate, observed);
     console.log(`history/${historyDate}.json.gz now holds ${total.toLocaleString()} repos`);
   }

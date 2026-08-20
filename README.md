@@ -9,7 +9,9 @@
 fetched live from GitHub, so it is never stale — the star counts and `%/month`
 growth badges are overlaid from a weekly crawl.
 
-<img width="1270" height="619" alt="image" src="https://github.com/user-attachments/assets/8fe3fd2a-3661-40b9-994a-fa94b76530ae" />
+[![Awesome lists with live star counts and growth badges](docs/screenshots/list.png)](https://subev.github.io/awesome-stars/awesome/sindresorhus/awesome/#platforms)
+
+<sub>Star counts and `%/month` growth overlaid on the real README, fetched live from GitHub.</sub>
 
 ## Jump in
 
@@ -26,9 +28,51 @@ growth badges are overlaid from a weekly crawl.
 Or **[search all 766 lists](https://subev.github.io/awesome-stars/)** from the
 Explore box on the homepage.
 
+### Search all 766 lists
+
+[![Searching the crawled lists](docs/screenshots/search.png)](https://subev.github.io/awesome-stars/)
+
+### Growth trends per list
+
+[![Trends page with sparklines and growth percentages](docs/screenshots/trends.png)](https://subev.github.io/awesome-stars/awesome/enaqx/awesome-react/trends)
+
 A **trends** page ranks a list's repos by growth, with sparklines and a
 "dropped from the list" log. It needs two datapoints at least 14 days apart, so
 more lists gain one every week as the crawl runs.
+
+## FAQ
+
+**How often is the data updated?**
+A GitHub Action runs every 6 hours. Each run refreshes any list it has not seen
+for 7 days, so **every list is re-fetched about once a week**. Runs in between
+find nothing stale and exit in about a minute.
+
+**How often do the growth badges change?**
+A history datapoint is recorded at most once every 7 days. A percentage needs
+two datapoints at least **14 days** apart, so a newly crawled list shows plain
+star counts for roughly two weeks, then gains a `%/month` badge that updates
+weekly after that.
+
+**What does `↑2.1%/mo` mean?**
+Average growth **per month**, not month-over-month and not "since the last
+crawl". It is total growth since the repo was first observed, divided by the
+elapsed months. Windows shorter than 14 days show no percentage at all —
+extrapolating a single day would report a repo that gained 0.7% as `+21%/mo`.
+
+**Are the star counts live?**
+No — they are from the most recent crawl, and the page shows that date. The
+**README is** live: it is fetched from GitHub the moment you open the page, so
+list content is never stale even when the numbers are a few days old.
+
+**My list is not here / is out of date.**
+The crawl walks outward from [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+up to 3 hops, skipping archived repos and, past the first hop, anything under 50
+stars. Open an issue and it can be seeded directly.
+
+**Does this hammer the GitHub API?**
+No. A full pass over ~766 lists and ~85k repositories costs about **1,800 of the
+5,000 hourly rate-limit points**, because star counts are batched 40-per-query
+via GraphQL. READMEs come from `raw.githubusercontent.com`, which is unmetered.
 
 ## How it works
 
@@ -117,7 +161,7 @@ npm run crawl -- --dry-run                            # plan only, no API calls
 Useful flags: `--depth N` (how deep to crawl; discoveries are catalogued one level
 beyond), `--min-stars N` (floor for depth 2+ — depth 1 is ungated because the seed is
 curated), `--recrawl <owner>/<repo>` (re-queue a finished list after changing the gate),
-`--stale-days N` (refresh lists older than this), `--history-every N` (see above).
+`--stale-days N` (re-fetch lists older than this, default 7), `--history-every N` (see above).
 
 Star counts come from GitHub's GraphQL API in batches of 40 repos — **one rate-limit point
 per batch regardless of size** — and READMEs come from `raw.githubusercontent.com`, which

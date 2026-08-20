@@ -37,7 +37,7 @@ jobs:
           cp -R build/client/awesome-stars/. _site/
           cp -R build/client/assets _site/assets
           cp -R build/client/stars _site/stars
-          cp build/client/favicon.ico _site/
+          cp build/client/favicon.ico build/client/icon.png _site/
           cp build/client/__spa-fallback.html _site/404.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
