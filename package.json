@@ -19,7 +19,8 @@
     "fetch-stars:awesome": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list awesome",
     "fetch-stars:macos-apps": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list macos-apps",
     "cached-stars:awesome": "USE_CACHE=TRUE node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list awesome",
-    "build:static": "STATIC_BUILD=1 VITE_STATIC_BUILD=1 react-router build"
+    "build:static": "npm run stars-assets && STATIC_BUILD=1 VITE_STATIC_BUILD=1 react-router build",
+    "stars-assets": "node --experimental-strip-types scripts/build-stars-assets.ts"
   },
   "dependencies": {
     "@react-router/express": "^7.7.1",

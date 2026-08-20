@@ -10,3 +10,7 @@
 # Generated star data
 repoDetails*.json
 *markdownWithStars.md
+
+# Generated at build/dev time
+/public/stars/
+/public/stars-cache/

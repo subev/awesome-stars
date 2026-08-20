@@ -1,17 +1,16 @@
 import PQueue from "p-queue";
 import got from "got";
 import { promises as fs } from "fs";
-import path from "path";
 import type { AwesomeListConfig } from "../app/lists.ts";
 import {
-  getRepoNames,
   fetchAndCacheRepoDetails,
-  replaceMarkdownLinksWithStars,
-  getCachePath,
   getDetailsCachePath,
-  STARS_CACHE_DIR,
   type RepoDetailsGithub,
 } from "../app/lib/stars.server.ts";
+import {
+  getRepoNames,
+  replaceMarkdownLinksWithStars,
+} from "../app/lib/starsMarkdown.ts";
 import {
   toSnapshotRepos,
   todayDate,
@@ -61,7 +60,6 @@ export const main = async (
 ) => {
   const { owner, repo, name, readmeUrl } = listConfig;
   const cacheFile = getDetailsCachePath(owner, repo);
-  const outputFile = getCachePath(owner, repo);
 
   console.log(`\nProcessing: ${name} (${owner}/${repo})`);
 
@@ -125,11 +123,4 @@ export const main = async (
     toSnapshotRepos([...reposCache.values()]),
   );
   console.log(`Snapshot saved to ${snapshotPath}`);
-
-  console.log("Replacing markdown links with stargazer counts...");
-  const updatedMarkdown = replaceMarkdownLinksWithStars(markdown, reposCache);
-
-  await fs.mkdir(path.dirname(outputFile), { recursive: true });
-  await fs.writeFile(outputFile, updatedMarkdown);
-  console.log(`Updated markdown saved to ${outputFile}`);
 };

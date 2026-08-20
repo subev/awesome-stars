@@ -1,6 +1,6 @@
 name: Refresh stars
 
-# Every committed list (public/stars-cache/<owner>/<repo>.md) gets one weekly
+# Every committed list (data/snapshots/<owner>/<repo>/) gets one weekly
 # hourly slot: slot = (weekday-1)*24 + hour over Mon+Tue = 48 slots, lists
 # sorted alphabetically. One list per hour stays far under the 5000/hr API
 # budget. Grow past 48 lists -> add Wednesday (1,2,3) below.
@@ -30,7 +30,7 @@ jobs:
         run: |
           TARGET="${{ inputs.target }}"
           if [ -z "$TARGET" ]; then
-            LISTS=$(cd public/stars-cache && ls -d */*.md | sed 's/\.md$//' | LC_ALL=C sort)
+            LISTS=$(cd data/snapshots && ls -d */*/ | sed 's:/$::' | LC_ALL=C sort)
             COUNT=$(echo "$LISTS" | wc -l)
             SLOT=$(( ($(date -u +%u) - 1) * 24 + $(date -u +%-H) ))
             echo "slot $SLOT of $COUNT lists"
@@ -61,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/snapshots public/stars-cache
+          git add data/snapshots
           if git diff --cached --quiet; then
             echo "pushed=false" >> "$GITHUB_OUTPUT"
           else

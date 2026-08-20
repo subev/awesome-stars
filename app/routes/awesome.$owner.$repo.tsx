@@ -2,73 +2,72 @@ import { useState, useEffect } from "react";
 import { Link, data, isRouteErrorResponse, useLoaderData } from "react-router";
 import {
   MarkdownRenderer,
-  type RepoBadges,
 } from "~/components/MarkdownRenderer";
-import { readCachedMarkdown } from "~/lib/stars.server";
-import { readSnapshots } from "~/lib/snapshots.server";
-import { computeTrends } from "~/lib/trends";
+import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
+import { starsAssetUrl, type StarsAsset } from "~/lib/starsAsset";
 import type { Route } from "./+types/awesome.$owner.$repo";
-
-type LoaderData =
-  | {
-      status: "ready";
-      markdown: string;
-      owner: string;
-      repo: string;
-      badges: RepoBadges;
-    }
-  | { status: "loading"; owner: string; repo: string };
-
-async function computeBadges(owner: string, repo: string): Promise<RepoBadges> {
-  const snapshots = await readSnapshots(owner, repo);
-  if (snapshots.length < 2) return {};
-
-  const { repos } = computeTrends(snapshots);
-  const badges: RepoBadges = {};
-  for (const r of repos) {
-    if (r.isNew || (r.pctPerMonth !== null && Math.abs(r.pctPerMonth) >= 0.05)) {
-      badges[r.fullName.toLowerCase()] = {
-        pct: r.pctPerMonth,
-        delta: r.delta,
-        since: r.addedAt,
-        isNew: r.isNew,
-      };
-    }
-  }
-  return badges;
-}
-
-export async function loader({
-  params,
-}: Route.LoaderArgs): Promise<LoaderData> {
-  const { owner, repo } = params;
-  const cached = await readCachedMarkdown(owner, repo);
-
-  if (cached) {
-    return {
-      status: "ready",
-      markdown: cached,
-      owner,
-      repo,
-      badges: await computeBadges(owner, repo),
-    };
-  }
-
-  return { status: "loading", owner, repo };
-}
 
 const STATIC_BUILD = import.meta.env.VITE_STATIC_BUILD === "1";
 
-export async function clientLoader({ serverLoader }: Route.ClientLoaderArgs) {
-  if (!STATIC_BUILD) return serverLoader();
+const fetchStarsAsset = async (
+  owner: string,
+  repo: string,
+): Promise<StarsAsset | null> => {
   try {
-    return await serverLoader();
+    const res = await fetch(starsAssetUrl(owner, repo));
+    if (!res.ok) return null;
+    return await res.json();
   } catch {
-    throw data("Not tracked", { status: 404 });
+    return null;
   }
+};
+
+const fetchLiveReadme = async (owner: string, repo: string) => {
+  const res = await fetch(
+    `https://api.github.com/repos/${owner}/${repo}/readme`,
+    { headers: { Accept: "application/vnd.github.raw+json" } },
+  );
+  if (res.status === 404) {
+    throw data(`Repository ${owner}/${repo} not found or has no README.`, {
+      status: 404,
+    });
+  }
+  if (res.status === 403 || res.status === 429) {
+    throw new Error(
+      "GitHub API rate limit reached — try again in a few minutes.",
+    );
+  }
+  if (!res.ok) {
+    throw new Error(`GitHub returned ${res.status} for ${owner}/${repo}.`);
+  }
+  return res.text();
+};
+
+export async function clientLoader({ params }: Route.ClientLoaderArgs) {
+  const { owner, repo } = params;
+  const [asset, readme] = await Promise.all([
+    fetchStarsAsset(owner, repo),
+    fetchLiveReadme(owner, repo),
+  ]);
+
+  const starMap = new Map(
+    Object.entries(asset?.stars ?? {}).map(([fullName, stars]) => [
+      fullName,
+      { stargazers_count: stars },
+    ]),
+  );
+
+  return {
+    owner,
+    repo,
+    markdown: replaceMarkdownLinksWithStars(readme, starMap),
+    badges: asset?.badges ?? {},
+    tracked: asset !== null,
+    snapshotDate: asset?.date ?? null,
+  };
 }
 
-function NotTracked({ owner, repo }: { owner: string; repo: string }) {
+export function HydrateFallback({ params }: Route.HydrateFallbackProps) {
   return (
     <div className="mx-auto max-w-2xl p-8">
       <div className="mb-4">
@@ -77,33 +76,21 @@ function NotTracked({ owner, repo }: { owner: string; repo: string }) {
         </Link>
       </div>
       <div className="border-edge bg-surface rounded-lg border p-6">
-        <h2 className="font-display mb-2 text-lg font-semibold">
-          {owner}/{repo} isn&apos;t tracked here
+        <h2 className="font-display text-lg font-semibold">
+          Loading {params.owner}/{params.repo}…
         </h2>
-        <p className="text-ink-dim text-sm">
-          This list has no star data yet.{" "}
-          <a
-            href={`https://github.com/${owner}/${repo}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-accent hover:underline"
-          >
-            View it on GitHub
-          </a>
-          .
-        </p>
       </div>
     </div>
   );
 }
 
 export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
-  if (isRouteErrorResponse(error) && error.status === 404) {
-    return (
-      <NotTracked owner={params.owner ?? ""} repo={params.repo ?? ""} />
-    );
-  }
-  const message = error instanceof Error ? error.message : String(error);
+  const notFound = isRouteErrorResponse(error) && error.status === 404;
+  const message = notFound
+    ? String(error.data)
+    : error instanceof Error
+      ? error.message
+      : String(error);
   return (
     <div className="mx-auto max-w-2xl p-8">
       <div className="mb-4">
@@ -113,9 +100,21 @@ export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
       </div>
       <div className="border-down/30 bg-down/10 rounded-lg border p-6">
         <h2 className="text-down font-display mb-2 text-lg font-semibold">
-          Error
+          {notFound ? "Not found" : "Error"}
         </h2>
         <p className="text-down/90">{message}</p>
+        {notFound && (
+          <p className="text-ink-dim mt-2 text-sm">
+            <a
+              href={`https://github.com/${params.owner}/${params.repo}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent hover:underline"
+            >
+              Look for it on GitHub
+            </a>
+          </p>
+        )}
       </div>
     </div>
   );
@@ -127,24 +126,13 @@ type ProgressState = {
   current: string;
 };
 
-function LoadingProgress({
-  owner,
-  repo,
-  refresh,
-}: {
-  owner: string;
-  repo: string;
-  refresh?: boolean;
-}) {
+function FetchStarsProgress({ owner, repo }: { owner: string; repo: string }) {
   const [progress, setProgress] = useState<ProgressState | null>(null);
   const [statusMessage, setStatusMessage] = useState("Connecting...");
-  const [markdown, setMarkdown] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const eventSource = new EventSource(
-      `/api/stars/${owner}/${repo}${refresh ? "?refresh=1" : ""}`,
-    );
+    const eventSource = new EventSource(`/api/stars/${owner}/${repo}`);
 
     eventSource.addEventListener("status", (e) => {
       const data = JSON.parse(e.data);
@@ -157,14 +145,9 @@ function LoadingProgress({
       setStatusMessage(`Fetching stars... ${data.completed}/${data.total}`);
     });
 
-    eventSource.addEventListener("done", (e) => {
+    eventSource.addEventListener("done", () => {
       eventSource.close();
-      if (refresh) {
-        window.location.reload();
-        return;
-      }
-      const data = JSON.parse(e.data);
-      setMarkdown(data.markdown);
+      window.location.reload();
     });
 
     eventSource.addEventListener("error", (e) => {
@@ -178,26 +161,11 @@ function LoadingProgress({
     });
 
     return () => eventSource.close();
-  }, [owner, repo, refresh]);
-
-  if (markdown) {
-    return (
-      <MarkdownRenderer
-        markdown={markdown}
-        title={`${owner}/${repo}`}
-        trendsHref={`/awesome/${owner}/${repo}/trends`}
-      />
-    );
-  }
+  }, [owner, repo]);
 
   if (error) {
     return (
       <div className="mx-auto max-w-2xl p-8">
-        <div className="mb-4">
-          <a href="/" className="text-ink-dim hover:text-ink text-sm">
-            &larr; All lists
-          </a>
-        </div>
         <div className="border-down/30 bg-down/10 rounded-lg border p-6">
           <h2 className="text-down font-display mb-2 text-lg font-semibold">Error</h2>
           <p className="text-down/90">{error}</p>
@@ -213,14 +181,9 @@ function LoadingProgress({
 
   return (
     <div className="mx-auto max-w-2xl p-8">
-      <div className="mb-4">
-        <Link to="/" className="text-ink-dim hover:text-ink text-sm">
-          &larr; All lists
-        </Link>
-      </div>
       <div className="border-edge bg-surface rounded-lg border p-6">
         <h2 className="font-display mb-4 text-lg font-semibold">
-          Loading {owner}/{repo}
+          Fetching stars for {owner}/{repo}
         </h2>
         {progress ? (
           <>
@@ -248,28 +211,42 @@ function LoadingProgress({
 }
 
 export default function DynamicAwesomeList() {
-  const data = useLoaderData<typeof loader>();
-  const [refreshing, setRefreshing] = useState(false);
+  const data = useLoaderData<typeof clientLoader>();
+  const [fetching, setFetching] = useState(false);
 
-  if (refreshing) {
-    return <LoadingProgress owner={data.owner} repo={data.repo} refresh />;
+  if (fetching) {
+    return <FetchStarsProgress owner={data.owner} repo={data.repo} />;
   }
 
-  if (data.status === "ready") {
-    return (
+  return (
+    <>
+      {!data.tracked && (
+        <div className="border-edge bg-surface mx-5 mt-4 rounded-lg border p-3 text-sm">
+          <span className="text-ink-dim">
+            This list isn&apos;t tracked yet — showing the live README without
+            star counts.
+          </span>
+          {!STATIC_BUILD && (
+            <button
+              onClick={() => setFetching(true)}
+              className="text-accent ml-2 font-medium hover:underline"
+            >
+              Fetch star data
+            </button>
+          )}
+        </div>
+      )}
       <MarkdownRenderer
         markdown={data.markdown}
         title={`${data.owner}/${data.repo}`}
-        trendsHref={`/awesome/${data.owner}/${data.repo}/trends`}
+        trendsHref={
+          data.tracked ? `/awesome/${data.owner}/${data.repo}/trends` : undefined
+        }
         badges={data.badges}
-        onRefresh={STATIC_BUILD ? undefined : () => setRefreshing(true)}
+        onRefresh={
+          STATIC_BUILD || !data.tracked ? undefined : () => setFetching(true)
+        }
       />
-    );
-  }
-
-  if (STATIC_BUILD) {
-    return <NotTracked owner={data.owner} repo={data.repo} />;
-  }
-
-  return <LoadingProgress owner={data.owner} repo={data.repo} />;
+    </>
+  );
 }

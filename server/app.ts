@@ -2,24 +2,35 @@ import { createRequestHandler } from "@react-router/express";
 import express from "express";
 import "react-router";
 
-import {
-  fetchReadme,
-  fetchStarsWithProgress,
-  readCachedMarkdown,
-  writeCachedMarkdown,
-} from "~/lib/stars.server";
+import { fetchReadme, fetchStarsWithProgress } from "~/lib/stars.server";
 import {
   toSnapshotRepos,
   todayDate,
   writeSnapshot,
 } from "~/lib/snapshots.server";
+import { buildStarsAsset } from "~/lib/starsAsset.server";
 
 export const app = express();
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
+// Dev twin of the static /stars assets baked at build time.
+app.get("/stars/:owner/:file", async (req, res) => {
+  const { owner, file } = req.params;
+  if (!file.endsWith(".json")) {
+    res.status(404).end();
+    return;
+  }
+  const asset = await buildStarsAsset(owner, file.slice(0, -5));
+  if (!asset) {
+    res.status(404).end();
+    return;
+  }
+  res.json(asset);
+});
+
 // In-memory lock to prevent duplicate concurrent fetches
-const activeFetches = new Map<string, Promise<string>>();
+const activeFetches = new Map<string, Promise<void>>();
 
 app.get("/api/stars/:owner/:repo", async (req, res) => {
   const { owner, repo } = req.params;
@@ -41,22 +52,12 @@ app.get("/api/stars/:owner/:repo", async (req, res) => {
     res.write(`event: ${event}\ndata: ${JSON.stringify(data)}\n\n`);
   };
 
-  const refresh = req.query.refresh === "1";
-  if (!refresh) {
-    const cached = await readCachedMarkdown(owner, repo);
-    if (cached) {
-      sendEvent("done", { markdown: cached });
-      res.end();
-      return;
-    }
-  }
-
   // If another request is already fetching this repo, wait for it
   const existing = activeFetches.get(cacheKey);
   if (existing) {
     try {
-      const markdown = await existing;
-      sendEvent("done", { markdown });
+      await existing;
+      sendEvent("done", {});
     } catch (err) {
       const message = err instanceof Error ? err.message : String(err);
       sendEvent("error", { message });
@@ -81,7 +82,7 @@ app.get("/api/stars/:owner/:repo", async (req, res) => {
 
     sendEvent("status", { message: "Extracting repository links..." });
 
-    const { updatedMarkdown, cache } = await fetchStarsWithProgress(
+    const { cache } = await fetchStarsWithProgress(
       readme,
       GITHUB_TOKEN,
       (progress) => {
@@ -97,16 +98,14 @@ app.get("/api/stars/:owner/:repo", async (req, res) => {
       throw new Error(message);
     }
 
-    await writeCachedMarkdown(owner, repo, updatedMarkdown);
     await writeSnapshot(
       owner,
       repo,
       todayDate(),
       toSnapshotRepos([...cache.values()]),
     );
-    sendEvent("done", { markdown: updatedMarkdown });
+    sendEvent("done", {});
     res.end();
-    return updatedMarkdown;
   })();
 
   activeFetches.set(cacheKey, fetchPromise);

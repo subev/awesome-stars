@@ -1,21 +1,22 @@
-import { existsSync, readdirSync } from "node:fs";
+import { readdirSync } from "node:fs";
 import type { Config } from "@react-router/dev/config";
 
 const STATIC_BUILD = process.env.STATIC_BUILD === "1";
 
 const trackedPaths = () => {
   const paths = ["/"];
-  for (const owner of readdirSync("public/stars-cache", {
-    withFileTypes: true,
-  })) {
+  for (const owner of readdirSync("data/snapshots", { withFileTypes: true })) {
     if (!owner.isDirectory()) continue;
-    for (const file of readdirSync(`public/stars-cache/${owner.name}`)) {
-      if (!file.endsWith(".md")) continue;
-      const repo = file.slice(0, -3);
-      paths.push(`/awesome/${owner.name}/${repo}`);
-      if (existsSync(`data/snapshots/${owner.name}/${repo}`)) {
-        paths.push(`/awesome/${owner.name}/${repo}/trends`);
-      }
+    for (const repo of readdirSync(`data/snapshots/${owner.name}`, {
+      withFileTypes: true,
+    })) {
+      if (!repo.isDirectory()) continue;
+      const hasSnapshot = readdirSync(
+        `data/snapshots/${owner.name}/${repo.name}`,
+      ).some((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
+      if (!hasSnapshot) continue;
+      paths.push(`/awesome/${owner.name}/${repo.name}`);
+      paths.push(`/awesome/${owner.name}/${repo.name}/trends`);
     }
   }
   return paths;

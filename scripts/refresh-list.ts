@@ -1,7 +1,6 @@
 import {
   fetchReadme,
   fetchStarsWithProgress,
-  writeCachedMarkdown,
 } from "../app/lib/stars.server.ts";
 import {
   todayDate,
@@ -25,7 +24,7 @@ const run = async () => {
   console.log(`Fetching README for ${owner}/${repo}...`);
   const readme = await fetchReadme(owner, repo, token);
 
-  const { updatedMarkdown, cache } = await fetchStarsWithProgress(
+  const { cache } = await fetchStarsWithProgress(
     readme,
     token,
     ({ completed, total }) => {
@@ -41,7 +40,6 @@ const run = async () => {
     );
   }
 
-  await writeCachedMarkdown(owner, repo, updatedMarkdown);
   await writeSnapshot(
     owner,
     repo,
