@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of useful datasets for robotics and computer vision","defaultBranch":"master","topics":["dataset","robotics","computer-vision"],"readmeSha":"643171835c665b1d6fa26a2c7d1c2c353439b3e5"},
+"members": [
+"youngguncho/awesome-slam-datasets",
+"mit-aera/Blackbird-Dataset",
+"mint-lab/TriangulationToolbox",
+"openMVG/Features_Repeatability"
+]
+}

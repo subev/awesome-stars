@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Gephi - The Open Graph Viz Platform","defaultBranch":"master","topics":["graph","visualization","opengl","interactive","graph-analytics","java"],"readmeSha":"bea37549723dd9cfbe7fac4f9c117b0c91ad1404"},
+"members": [
+"gephi/gephi-plugins-bootcamp",
+"gephi/gephi-toolkit"
+]
+}

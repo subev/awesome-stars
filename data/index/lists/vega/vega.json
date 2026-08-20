@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A visualization grammar.","defaultBranch":"main","topics":["visualization-grammar","visualization","canvas","svg","vega","d3"],"readmeSha":"503f95f94697ddfd047081cd8c46af8915203869"},
+"members": [
+"vega/logos",
+"vega/.github"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"PE-bear (builds only)","defaultBranch":"master","topics":["pe-analyzer","pe-format","pe-editor"],"readmeSha":"025c483a7db3b3fe999c6cc7764dc74b3931d413"},
+"members": [
+"hasherezade/pe-bear-old",
+"hasherezade/pe-bear"
+]
+}

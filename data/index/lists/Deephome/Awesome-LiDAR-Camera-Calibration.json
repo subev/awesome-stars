@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes ","defaultBranch":"main","topics":["lidar-camera-calibration","lidar-camera-fusion","lidar-camera"],"readmeSha":"2333990b181483432f4b44b2ea78ab4d8eeab0d1"},
+"members": [
+"sindresorhus/awesome",
+"MegviiRobot/CamLaserCalibraTool",
+"SubMishMar/cam_lidar_calib",
+"ankitdhall/lidar_camera_calibration",
+"mfxox/ILCC",
+"ram-lab/plycal",
+"UMich-BipedLab/extrinsic_lidar_camera_calibration",
+"HViktorTsoi/ACSC",
+"beltransen/velo2cam_calibration",
+"alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration",
+"OpenCalib/JointCalib",
+"ISEE-Technology/CamVox",
+"hku-mars/livox_camera_calib",
+"hku-mars/mlcc",
+"koide3/direct_visual_lidar_calibration",
+"PJLab-ADG/SensorsCalibration",
+"aaronlws95/regnet",
+"epiception/CalibNet",
+"IIPCVLAB/LCCNet",
+"OpenCalib/CalibAnything",
+"ApolloAuto/apollo",
+"autowarefoundation/autoware_ai_utilities",
+"XidianLemon/calibration_camera_lidar",
+"Livox-SDK/livox_camera_lidar_calibration",
+"tier4/CalibrationTools"
+]
+}

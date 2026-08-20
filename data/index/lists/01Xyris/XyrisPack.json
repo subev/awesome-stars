@@ -1,0 +1,6 @@
+{
+"meta": {"description":"x86 packer in masm, process hollowing, remapping ntdll","defaultBranch":"main","topics":[],"readmeSha":"f532afa551995325a9ac220e9086a936c5692566"},
+"members": [
+"Xyl2k/MASM32-graphical-effects"
+]
+}

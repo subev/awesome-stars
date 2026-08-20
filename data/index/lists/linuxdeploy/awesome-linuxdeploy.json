@@ -1,0 +1,23 @@
+{
+"meta": {"description":"Crowd-sourced list of linuxdeploy plugins. Add your plugin to the list today!","defaultBranch":"master","topics":[],"readmeSha":"d98fe8080a0d5533257961ab1a957711f88a4cd0"},
+"members": [
+"linuxdeploy/linuxdeploy",
+"linuxdeploy/linuxdeploy-plugin-qt",
+"linuxdeploy/linuxdeploy-plugin-conda",
+"niess/linuxdeploy-plugin-python",
+"darealshinji/linuxdeploy-plugin-checkrt",
+"linuxdeploy/linuxdeploy-plugin-gtk",
+"linuxdeploy/linuxdeploy-plugin-ncurses",
+"linuxdeploy/linuxdeploy-plugin-gstreamer",
+"linuxdeploy/misc-plugins",
+"linuxdeploy/linuxdeploy-plugin-appimage",
+"linuxdeploy/linuxdeploy-plugin-native_packages",
+"andy5995/linuxdeploy-build-helper-container",
+"pcolby/install-linuxdeploy",
+"Pext/Pext",
+"calamares/calamares",
+"AppImageCommunity/AppImageUpdate",
+"Komet/MediaElch",
+"AppImageCommunity/AppImageUpdate"
+]
+}

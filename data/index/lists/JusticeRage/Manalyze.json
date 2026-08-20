@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A static analyzer for PE executables.","defaultBranch":"master","topics":["malware","static","analysis","pe"],"readmeSha":"7e3984f12188316c90b8a481b9cd195ba686bf29"},
+"members": [
+"JusticeRage/yara",
+"JusticeRage/hash-library"
+]
+}

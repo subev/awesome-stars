@@ -1,0 +1,7 @@
+{
+"meta": {"description":"RDF-Centric Map/Reduce Framework and Freebase data conversion tool","defaultBranch":"master","topics":[],"readmeSha":"ca3873865f74044ced1756499b52d46e1e678de1"},
+"members": [
+"paulhoule/centipede",
+"paulhoule/telepath"
+]
+}

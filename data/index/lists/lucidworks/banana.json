@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Banana for Solr - A Port of Kibana ","defaultBranch":"release","topics":[],"readmeSha":"1469ed362b7637ccce32495e5a40001baea94d33"},
+"members": [
+"elastic/kibana",
+"lucidworks/solrlogmanager",
+"lucidworks/silkusecases"
+]
+}

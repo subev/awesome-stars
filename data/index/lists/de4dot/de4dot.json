@@ -1,0 +1,7 @@
+{
+"meta": {"description":".NET deobfuscator and unpacker.","defaultBranch":"master","topics":[],"readmeSha":"64e8fc6feb0007be009fede1d41b1d574e919b61"},
+"members": [
+"0xd4d/dnlib",
+"de4dot/de4dot"
+]
+}

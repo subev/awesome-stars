@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A simple, distributed task scheduler and runner with a web based UI.","defaultBranch":"master","topics":["cron","crontab","scheduler","multiserver"],"readmeSha":"125e3e3ebb5d49da3a2c628ac7127d7ab029635e"},
+"members": [
+"pixlcore/xyops"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Build platforms that flexibly mix SQL, batch, and stream processing paradigms","defaultBranch":"master","topics":["golang","event-sourcing","stream-processing","brokers","streaming-platforms"],"readmeSha":"d9380155addfecdff79def8bee3c392bd8f81324"},
+"members": [
+
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"The FLARE team's open-source tool to identify capabilities in executable files.","defaultBranch":"master","topics":["malware-analysis","reverse-engineering","binary-analysis","threat-intelligence","gsoc-2026"],"readmeSha":"98cda5615b9e0ff4c95541c66e90ae0166243344"},
+"members": [
+"mandiant/capa-rules",
+"kevoreilly/CAPEv2",
+"CERT-Polska/drakvuf-sandbox",
+"NationalSecurityAgency/ghidra",
+"mandiant/capa-testfiles"
+]
+}

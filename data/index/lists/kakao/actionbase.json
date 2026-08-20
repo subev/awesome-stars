@@ -1,0 +1,6 @@
+{
+"meta": {"description":"One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed at write time, served as simple lookups","defaultBranch":"main","topics":["database","low-latency","real-time","graphdb","high-throughput","oltp","scalability"],"readmeSha":"8577af29192c78f10448346c144ef097abad84ac"},
+"members": [
+
+]
+}

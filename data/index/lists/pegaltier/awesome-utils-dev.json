@@ -1,0 +1,6 @@
+{
+"meta": {"description":"📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...","defaultBranch":"master","topics":["android","angular","cleancode","crypto","git","seo","startup","webdesign","java","ergonomics"],"readmeSha":"4b963c20b34708ed7b5e11091f4b73723e2d831a"},
+"members": [
+"pegaltier/awesome-utils-dev"
+]
+}

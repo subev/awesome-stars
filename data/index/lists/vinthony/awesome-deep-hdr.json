@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A collection of deep learning based methods for HDR image synthesis","defaultBranch":"master","topics":[],"readmeSha":"bbfa64acfe0c81d52fb1457fc37889ae7d073419"},
+"members": [
+"TH3CHARLie/deep-high-dynamic-range",
+"qingsenyangit/AHDRNet",
+"tuvovan/NHDRRNet",
+"dmarnerides/hdr-expandnet",
+"Siyeong-Lee/Deep_Recursive_HDRI",
+"mukulkhanna/FHDR",
+"marcelsan/Deep-HdrReconstruction",
+"alex04072000/SingleHDR",
+"guanyingc/DeepHDRVideo",
+"guanyingc/DeepHDRVideo-Dataset",
+"chxy95/HDRTVNet",
+"HuiZeng/Image-Adaptive-3DLUT",
+"banterle/HDR_Toolbox"
+]
+}

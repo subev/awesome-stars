@@ -1,0 +1,6 @@
+{
+"meta": {"description":"PEframe is a open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.","defaultBranch":"master","topics":[],"readmeSha":"807b11915c934362c2d589bd6d8d5095763dddba"},
+"members": [
+"intelowlproject/IntelOwl"
+]
+}

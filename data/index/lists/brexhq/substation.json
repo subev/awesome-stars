@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.","defaultBranch":"main","topics":["aws","security","monitoring","automation","logging","observability"],"readmeSha":"23e8fb77b31ab66b028cd066d7f15f2eca40740f"},
+"members": [
+
+]
+}

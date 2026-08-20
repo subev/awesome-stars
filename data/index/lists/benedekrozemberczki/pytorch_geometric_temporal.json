@@ -1,0 +1,6 @@
+{
+"meta": {"description":"PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)","defaultBranch":"master","topics":["pytorch","graph-neural-networks","temporal-networks","temporal-graphs","gcn","graph-convolutional-networks","deep-learning","network-science","temporal-data","node-embedding"],"readmeSha":"53b68b9b878b96cebc15f20d898cb6253e08afa7"},
+"members": [
+"pyg-team/pytorch_geometric"
+]
+}

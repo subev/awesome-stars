@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Yet another implementation of PEiD with yara-python","defaultBranch":"master","topics":[],"readmeSha":"2f0118dbd677fc9f5b0e47cdde0d47ed058ec15e"},
+"members": [
+"K-atc/PEiD"
+]
+}

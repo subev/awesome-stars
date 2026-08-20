@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Web UI for Impala","defaultBranch":"master","topics":["node-impala","web-ui","impala","react","redux","thrift"],"readmeSha":"c774920ff30715cc2efdad1c62164390248c166b"},
+"members": [
+"ufukomer/node-impala"
+]
+}

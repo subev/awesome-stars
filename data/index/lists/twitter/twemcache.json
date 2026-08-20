@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Twemcache is the Twitter Memcached","defaultBranch":"master","topics":[],"readmeSha":"db396c5be160aada48da175c7aebd2793289212e"},
+"members": [
+"twitter/pelikan",
+"twitter/twemproxy",
+"twitter-archive/twemperf"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Crinkler is an executable file compressor (or rather, a compressing linker) for compressing small 32-bit Windows demoscene executables. As of 2026, it is the most widely used tool for compressing 1k/4k/8k intros.","defaultBranch":"master","topics":[],"readmeSha":"1993b88aa9178441dcacc275d37c8de212b35c3d"},
+"members": [
+
+]
+}

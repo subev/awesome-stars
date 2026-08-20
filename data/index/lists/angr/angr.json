@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A powerful and user-friendly binary analysis platform!","defaultBranch":"master","topics":["binary","analysis","angr","hacktoberfest"],"readmeSha":"4509fa8abed41d2d91bc8818a524707b9fd1dcb0"},
+"members": [
+"degrigis/awesome-angr"
+]
+}

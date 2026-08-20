@@ -1,0 +1,7 @@
+{
+"meta": {"description":"LSP Progress lualine componenet","defaultBranch":"master","topics":["neovim","neovim-plugin","lualine"],"readmeSha":"6779bc89d98e0c92711cf6f9b47838cc0947c230"},
+"members": [
+"junegunn/vim-plug",
+"wbthomason/packer.nvim"
+]
+}

@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Curated (meta)list of resources for Biology.","defaultBranch":"master","topics":["biology","awesome-list","bioinformatics","books","evolution","systems-biology","science"],"readmeSha":"3e114ed6bb07fd53779e675f69f156b79e6a678a"},
+"members": [
+"sindresorhus/awesome",
+"raivivek/awesome-biology",
+"danielecook/Awesome-Bioinformatics",
+"hallvaaw/awesome-biological-image-analysis",
+"mikelove/awesome-multi-omics",
+"seandavi/awesome-single-cell",
+"eselkin/awesome-computational-neuroscience",
+"seandavi/awesome-cancer-variant-resources",
+"gokceneraslan/awesome-deepbio",
+"nextflow-io/awesome-nextflow",
+"leipzig/awesome-reproducible-research",
+"websemantics/awesome-synthetic-biology",
+"jdidion/biotools",
+"pimentel/deep_learning_papers",
+"alxndrkalinin/awesome-deepneuroimage",
+"hussius/deeplearning-biology",
+"jtleek/genomicspapers",
+"raivivek/papers-per-week",
+"ResearchKit/ResearchKit",
+"bioconda/bioconda-recipes",
+"boscoh/pdbremix"
+]
+}

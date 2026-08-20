@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Dataset of packed PE samples","defaultBranch":"main","topics":["dataset","pe-files","upx","samples","pe-format","executable-packing","pe-file","malware-packers","malware-analysis","portable-executable"],"readmeSha":"8c8d1f021d0be600078457b0abc18248c8c4fa85"},
+"members": [
+"chesvectain/PackingData",
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/docker-packing-box",
+"packing-box/python-dsff",
+"packing-box/peid",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect",
+"packing-box/reminder"
+]
+}

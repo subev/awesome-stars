@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Elassandra = Elasticsearch + Apache Cassandra","defaultBranch":"v6.8.4-strapdata","topics":["cassandra","elasticsearch","search","completion","aggregation","nosql","masterless","mission-critical","fuzzy-search","rest-api"],"readmeSha":"34f1d718dbf84a49f299d9b2768b275aaf7534b0"},
+"members": [
+"elastic/elasticsearch",
+"strapdata/elassandra-google-k8s-marketplace"
+]
+}

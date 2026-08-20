@@ -1,0 +1,7 @@
+{
+"meta": {"description":"🔔 Customizable modal components with ✔️check options in React Native","defaultBranch":"master","topics":["react","react-native","ios","android","alert","awesome-list","modal","opensource"],"readmeSha":"69058aa9bfdaddc59e2ff281d5113e750873ded0"},
+"members": [
+"heyman333/react-native-hide-modal",
+"crazycodeboy/react-native-check-box"
+]
+}

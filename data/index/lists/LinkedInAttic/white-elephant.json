@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Hadoop log aggregator and dashboard","defaultBranch":"master","topics":[],"readmeSha":"28a67598306ce546f073700f10e0bef466965c2d"},
+"members": [
+"trinidad/trinidad"
+]
+}

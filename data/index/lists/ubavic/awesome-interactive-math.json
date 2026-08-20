@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of tools that can be used for creating interactive mathematical  explorables.","defaultBranch":"master","topics":["awesome-list","mathematics","explorables"],"readmeSha":"2ba09edd62cb0307d2ef4de26c8f1dbcd506dae0"},
+"members": [
+"unconed/mathbox"
+]
+}

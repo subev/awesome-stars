@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Alternative splicing resource","defaultBranch":"master","topics":[],"readmeSha":"72559aee5332f3a8ba0959461589044c0787c971"},
+"members": [
+"YeoLab/flotilla",
+"YeoLab/outrigger",
+"Xinglab/rmats2sashimiplot",
+"jw156605/SingleSplice",
+"comprna/SUPPA"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Client-side AES-256-GCM zero-knowledge encryption library. Browser-native Web Crypto API, no dependencies. Powers FileShot.io.","defaultBranch":"main","topics":["aes-256","aes-256-gcm","browser-encryption","client-side-encryption","encryption","file-sharing","file-transfer","javascript","privacy","web-crypto-api"],"readmeSha":"8c5856dfb8fe9f2a79b1cb3e5ba742be116a644c"},
+"members": [
+"FileShot/fileshot-desktop"
+]
+}

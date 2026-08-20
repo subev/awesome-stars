@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A curated list of awesome tools for website diffing and change monitoring.","defaultBranch":"main","topics":["awesome-list","diffing","diff","change-detector"],"readmeSha":"0776721ddd8ff1479b7c8093277d717b8fb26255"},
+"members": [
+"edgi-govdata-archiving/overview",
+"sindresorhus/awesome",
+"huginn/huginn",
+"themarshallproject/klaxon",
+"openpreserve/pagelyzer",
+"DocNow/diffengine",
+"j-e-d/NYTdiff",
+"ecprice/newsdiffs",
+"edgi-govdata-archiving/web-monitoring",
+"JuanmaMenendez/website-change-monitor"
+]
+}

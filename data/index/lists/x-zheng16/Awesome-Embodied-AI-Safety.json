@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses | 500+ Papers | Perception, Cognition, Planning, Interaction, Agentic System","defaultBranch":"main","topics":["adversarial-attacks","ai-safety","autonomous-driving","backdoor-attacks","embodied-agents","embodied-ai","jailbreak","large-language-models","robotics","survey"],"readmeSha":"5bc2f5826dab9760166c9af0dd809592221e1082"},
+"members": [
+"wuyoscar/Internal-Safety-Collapse",
+"xingjunm/Awesome-Large-Model-Safety",
+"bboylyg/BackdoorLLM",
+"Yunhao-Feng/BackdoorAgent",
+"x-zheng16/JustAsk",
+"HanxunH/Unlearnable-Examples",
+"HanxunH/XTransferBench"
+]
+}

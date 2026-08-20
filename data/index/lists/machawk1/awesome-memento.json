@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A list of things related to software, literature, and other content for 🕣 Memento","defaultBranch":"main","topics":["webarchiving","memento","memento-rfc","awesome-list","awesome"],"readmeSha":"0b546456c4ffd789737ce1dc2fd4276fa5c4f90f"},
+"members": [
+"sindresorhus/awesome",
+"mementoweb/memento_extensions",
+"machawk1/Mink",
+"machawk1/mementobrowser-android",
+"machawk1/mementobrowser-ios",
+"oduwsdl/MobileMink",
+"mementoweb/py-memento-client",
+"aalsum/mcurl",
+"jarofghosts/memento-client",
+"qvint/archive.is",
+"edsu/memento-cli",
+"overbrowsing/wasteback-machine",
+"palewire/django-memento-framework",
+"inveniosoftware-attic/invenio-memento",
+"LinkedDataFragments/Server.js",
+"oduwsdl/MemGator",
+"mementoweb/timegate",
+"lanl/TimeStitch-Memento-Aggregator",
+"palewire/wordpress-memento-plugin",
+"iipc/openwayback",
+"webrecorder/pywb",
+"oduwsdl/ipwb",
+"comunica/comunica",
+"lanl/memento-validator"
+]
+}

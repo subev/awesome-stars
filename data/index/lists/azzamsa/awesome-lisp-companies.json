@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Awesome Lisp Companies","defaultBranch":"master","topics":["lisp","awesome-list"],"readmeSha":"2ed45532477c16cc0b76db513b01840bebe099bb"},
+"members": [
+"azzamsa/lisp-logo",
+"phantomics/april",
+"GrammaTech/resolve",
+"SRI-CSL/PVS",
+"nasa/pvslib",
+"cl-axon/shop2",
+"mck-/Open-VRP",
+"SteelSeries/golisp",
+"deftask/deftask-cli",
+"dimitri/pgcharts",
+"CodyReichert/awesome-cl",
+"azzamsa/awesome-cl-software"
+]
+}

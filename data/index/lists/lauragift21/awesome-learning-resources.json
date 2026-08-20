@@ -1,0 +1,33 @@
+{
+"meta": {"description":"🔥 Awesome list of resources on Web Development.","defaultBranch":"master","topics":["open-source","css","vue","javascript","awesome-list","pwa","podcast","serverless","developer-stories","machine-learning"],"readmeSha":"5b43302478dd96f05b5ab24e3eb8e4113ad863cf"},
+"members": [
+"angular/angular",
+"duluca/lemon-mart",
+"SonarSystems/Bootstrap-4-Tutorial-Series",
+"Quartz/bad-data-guide",
+"joshnh/Git-Commands",
+"inancgumus/learngo",
+"netanmangal/Awesome-Hacking",
+"onlurking/awesome-infosec",
+"danielmiessler/SecLists",
+"getify/You-Dont-Know-JS",
+"bevacqua/es6",
+"trekhleb/javascript-algorithms",
+"igorwojda/kotlin-coding-challenges",
+"max-mapper/art-of-node",
+"azat-co/you-dont-know-node",
+"microsoft/nodejs-guidelines",
+"jestjs/jest",
+"adam-golab/react-developer-roadmap",
+"Ada-Developers-Academy/ada-build",
+"penghuima/awesome-serverless-papers",
+"anaibol/awesome-serverless",
+"ryanmcdermott/clean-code-javascript",
+"basarat/typescript-book",
+"microsoft/TypeScript",
+"microsoft/TypeScript-Handbook",
+"kulshekhar/ts-jest",
+"typescript-exercises/typescript-exercises",
+"vuejs/awesome-vue"
+]
+}

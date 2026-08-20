@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A list of popular deep learning models related to classification, segmentation and detection problems","defaultBranch":"master","topics":["awesome-list","machine-learning","machine-learning-algorithms","machine-learning-models","computer-vision","computer-vision-algorithms","semantic-segmentation","image-classification","object-detection","deep-learning"],"readmeSha":"6771d913e6b9323efe93a177cef1d368ca22e874"},
+"members": [
+"pjreddie/darknet"
+]
+}

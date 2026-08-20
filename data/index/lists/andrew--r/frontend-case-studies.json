@@ -1,0 +1,7 @@
+{
+"meta": {"description":"💼 A curated list of talks and articles about real world frontend development","defaultBranch":"master","topics":["real-world","enterprise","frontend","awesome-list","case-study","css","html","javascript","react","typescript"],"readmeSha":"b7dee36e01925ee71ba1cfc64a2b8284e8b80491"},
+"members": [
+"GoogleChrome/web.dev",
+"GoogleChromeLabs/discovery"
+]
+}

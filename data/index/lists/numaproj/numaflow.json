@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Kubernetes-native platform to run massively parallel data/streaming jobs","defaultBranch":"main","topics":["kubernetes","stream-processing","data-processing","k8s","pipeline","map-reduce","hacktoberfest"],"readmeSha":"b803c54cf1cc52047bf84f231f74dac363a0d395"},
+"members": [
+"numaproj/numaproj"
+]
+}

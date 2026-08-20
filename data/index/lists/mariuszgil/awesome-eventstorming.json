@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Awesome EventStorming","defaultBranch":"master","topics":["eventstorming","knowledge","links","articles","videos","workshop-materials"],"readmeSha":"2a1b618b780109ac9cb5438ff8149e25bc11b51f"},
+"members": [
+"ylorph/RandomThoughts",
+"josenaldo/event-storming-template",
+"ddd-by-examples/factory",
+"ddd-by-examples/library",
+"ddd-cqrs-es/community"
+]
+}

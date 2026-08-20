@@ -1,0 +1,6 @@
+{
+"meta": {"description":"ELF packer - encrypt and inject self-decryption code into executable ELF binary target","defaultBranch":"main","topics":["42","elf","injection","shellcode"],"readmeSha":"5b79b91084127573c98e4e57776132bdf4eb7ed4"},
+"members": [
+
+]
+}

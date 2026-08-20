@@ -1,0 +1,6 @@
+{
+"meta": {"description":"DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.","defaultBranch":"master","topics":[],"readmeSha":"6e338d2e2065c621462c04cf351c86e26cd8bad2"},
+"members": [
+"openai/gym"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Dynamic unpacker based on PE-sieve","defaultBranch":"master","topics":["libpeconv","pe-sieve","memory-forensics","malware-unpacker","malware-analysis"],"readmeSha":"a736e3d8b0088b0a34665104d124aa3681c95ae0"},
+"members": [
+"hasherezade/pe-sieve",
+"hasherezade/mal_unpack_drv",
+"hasherezade/mal_unpack_py"
+]
+}

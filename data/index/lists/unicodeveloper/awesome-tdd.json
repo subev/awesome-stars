@@ -1,0 +1,12 @@
+{
+"meta": {"description":":book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)","defaultBranch":"master","topics":[],"readmeSha":"23c4265f2ae884ee01791ff310f27190ee970f42"},
+"members": [
+"sindresorhus/awesome",
+"unicodeveloper/awesome-lumen",
+"daylerees/test-driven-development-example",
+"dwyl/learn-tdd",
+"stryker-mutator/stryker-js",
+"zpratt/react-tdd-guide",
+"fsproru/tdd_with_ror"
+]
+}

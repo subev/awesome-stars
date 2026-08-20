@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.","defaultBranch":"master","topics":["ray","distributed","parallel","machine-learning","reinforcement-learning","deep-learning","python","rllib","hyperparameter-search","optimization"],"readmeSha":"61a2ca83f9c90e28093dae04b411284c95f39232"},
+"members": [
+
+]
+}

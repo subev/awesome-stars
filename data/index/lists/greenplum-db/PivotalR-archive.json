@@ -1,0 +1,6 @@
+{
+"meta": {"description":"An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.","defaultBranch":"main","topics":[],"readmeSha":"484c4401e37490d034258cf3a61505eef8d708c8"},
+"members": [
+"wjjung317/gp-r"
+]
+}

@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.","defaultBranch":"main","topics":["ai","awesome","awesome-list","generative-ai","music-generation"],"readmeSha":"d1cf0b02f30095974a1427bad6eb309cfdd2dbed"},
+"members": [
+"magenta/magenta",
+"facebookresearch/audiocraft",
+"microsoft/muzic",
+"lucidrains/musiclm-pytorch",
+"riffusion/riffusion-hobby",
+"MubertAI/Mubert-Text-to-Music",
+"riffusion/riffusion-app-hobby",
+"magenta/magenta-js",
+"haoheliu/AudioLDM2",
+"salu133445/musegan",
+"kmatheussen/radium",
+"MattVitelli/GRUV",
+"calclavia/DeepJ",
+"umbrellabeach/music-generation-with-DL",
+"marcoppasini/musika",
+"AI-Guru/music-generation-research",
+"salu133445/muspy",
+"Conchylicultor/MusicGenerator",
+"stevenwaterman/musetree",
+"hugofloresgarcia/vampnet",
+"rsxdalv/TTS-WebUI",
+"innermost47/ai-dj",
+"prabal-rje/latentscore",
+"bitwize-music-studio/claude-ai-music-skills",
+"Curated-Awesome-Lists/GPT-Awesome-List-Generator"
+]
+}

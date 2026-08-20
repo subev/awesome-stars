@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.","defaultBranch":"master","topics":[],"readmeSha":"107dc7914f8800efc38d7f8ce2db0f549abc1ad6"},
+"members": [
+"sindresorhus/awesome",
+"bayandin/awesome-awesomeness"
+]
+}

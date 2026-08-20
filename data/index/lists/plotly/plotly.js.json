@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Open-source JavaScript charting library behind Plotly and Dash","defaultBranch":"master","topics":["data-visualization","d3","webgl","plotly","charting-library","charts","visualization","plotly-dash","regl"],"readmeSha":"c59123d34729358ecfb451f2e4a1b4b083931438"},
+"members": [
+"greggman/virtual-webgl",
+"plotly/graphing-library-docs"
+]
+}

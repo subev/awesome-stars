@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Hadoop Data Integration with various databases, ftp servers, salesforce. Incremental update, dedup, append, merge your data on Hadoop.","defaultBranch":"master","topics":[],"readmeSha":"63062c447716adb006f539d7bf1e557c37cf1b0e"},
+"members": [
+
+]
+}

@@ -1,0 +1,25 @@
+{
+"meta": {"description":"A curated list of awesome GitHub tools, libraries, resources, and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"bbf2866c8412d18697556bc22848846be77ce14f"},
+"members": [
+"pluralsight/git-internals-pdf",
+"tiimgreen/github-cheat-sheet",
+"jesseduffield/lazygit",
+"mariorodeghiero/git-commands",
+"github/teach.github.com",
+"unixorn/git-extra-commands",
+"grayghostvisuals/practice-git",
+"igrigorik/gharchive.org",
+"IonicaBizau/github-contributions",
+"mehulkar/github-hall-of-fame",
+"oleander/git-fame-rb",
+"paulmillr/top-github-users",
+"vitalets/github-trending-repos",
+"ykdojo/gh-star-history",
+"leereilly/emoji",
+"muan/emoji",
+"adam-p/markdown-here",
+"jnv/lists",
+"yaph/lologl",
+"asciimoo/ListOfGithubLists"
+]
+}

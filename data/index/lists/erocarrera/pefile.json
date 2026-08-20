@@ -1,0 +1,15 @@
+{
+"meta": {"description":"pefile is a Python module to read and work with PE (Portable Executable) files","defaultBranch":"master","topics":[],"readmeSha":"2f70366c01ab55a3e6dc52baf2ad1da7188b9fd0"},
+"members": [
+"psf/black",
+"MAECProject/pefile-to-maec",
+"mtivadar/qiew",
+"codypierce/pyemu",
+"cuckoosandbox/cuckoo",
+"kevoreilly/CAPEv2",
+"mitre/multiscanner",
+"blackberry/pe_tree",
+"jlu5/icoextract",
+"corkami/pocs"
+]
+}

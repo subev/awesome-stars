@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Deploy and manage containers (including Docker) on top of Apache Mesos at scale.","defaultBranch":"master","topics":["dcos-orchestration-guild","dcos"],"readmeSha":"b2a1036228ffe313524f55c71642ac5265a75a90"},
+"members": [
+"d2iq-archive/marathon",
+"shoenig/marathonctl",
+"eBayClassifiedsGroup/marathon_deploy",
+"Guidewire/marathon-client",
+"d2iq-archive/marathon-client",
+"mohitsoni/marathon-client",
+"dcos-labs/dcos-maven-plugin",
+"holidaycheck/marathon-maven-plugin",
+"thefactory/marathon-python",
+"Wizcorp/marathon-client.py",
+"gambol99/go-marathon",
+"jbdalido/gomarathon",
+"silas/node-mesos",
+"lorthos/marathonclj",
+"Tapad/sbt-marathon",
+"mesos/chronos"
+]
+}

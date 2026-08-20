@@ -1,0 +1,9 @@
+{
+"meta": {"description":"An awesome curated list of Cryptoeconomic research and learning materials","defaultBranch":"master","topics":["game-theory","cryptoeconomics","casper","blockchain","bitcoin","pos","consensus","ethereum"],"readmeSha":"7ddbd59043b16b4d35ef85abf818c387644bb769"},
+"members": [
+"sindresorhus/awesome",
+"nervosnetwork/rfcs",
+"antontarasenko/awesome-economics",
+"sobolevn/awesome-cryptography"
+]
+}

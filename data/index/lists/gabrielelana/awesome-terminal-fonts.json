@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Tools and instructions on how to have awesome symbols in a terminal with a monospace font","defaultBranch":"master","topics":[],"readmeSha":"8ccb451b098eb4e634ac26059c90f0c9b2cb71e8"},
+"members": [
+"Lokaltog/vim-powerline",
+"vorillaz/devicons",
+"gabrielelana/pomicons"
+]
+}

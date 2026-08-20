@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of awesome JSON Schema resources, tutorials, tools, and more","defaultBranch":"master","topics":["awesome","awesome-list","json","json-schema","jsonschema","openapi","openapi3","asyncapi","schema-registry","jsonapi"],"readmeSha":"4538351f592704bcd375acf4551558de84ec00fd"},
+"members": [
+"sindresorhus/awesome",
+"sourcemeta/jsonschema",
+"sravan27/schema-gateway",
+"sourcemeta/studio",
+"dataunitylab/jsonoid-discovery"
+]
+}

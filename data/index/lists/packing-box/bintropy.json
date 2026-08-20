@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes","defaultBranch":"main","topics":["entropy","pe-file","pe-files","pe-format","elf","elf-format","elf-binaries","packing-detection","mach-o","lief"],"readmeSha":"9fa559ff1d4e84bf7c3998b04e6008896b494acc"},
+"members": [
+"lief-project/LIEF",
+"packing-box/awesome-executable-packing",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/docker-packing-box",
+"packing-box/python-dsff",
+"packing-box/peid",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect",
+"packing-box/reminder"
+]
+}

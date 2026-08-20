@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A flexible, partial, out-of-order and real-time typeahead search library","defaultBranch":"master","topics":[],"readmeSha":"a1ba4faa91a862af623dd88cf322ae01fc1af891"},
+"members": [
+"LinkedInAttic/cleo",
+"jingwei/cleo-primer"
+]
+}

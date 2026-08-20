@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Run and debug Java test cases in Visual Studio Code.","defaultBranch":"main","topics":["java","testng","test","vscode","junit"],"readmeSha":"ff900db75c9ed919896ec2b2df53baf581e69f4a"},
+"members": [
+"junit-team/junit4"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search","defaultBranch":"master","topics":["anns","nearest-neighbor-search","faiss","vector-search","image-search","hnsw","vector-database","embedding-database","embedding-store","vector-store"],"readmeSha":"b58d32ac92464d0fcbf2ec440a471cf18e6dd0e2"},
+"members": [
+"NVIDIA/cuvs",
+"zilliztech/attu",
+"zilliztech/vts",
+"zilliztech/kafka-connect-milvus",
+"milvus-io/community"
+]
+}

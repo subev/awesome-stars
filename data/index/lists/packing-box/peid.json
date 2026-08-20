@@ -1,0 +1,19 @@
+{
+"meta": {"description":"Python implementation of the Packed Executable iDentifier (PEiD)","defaultBranch":"main","topics":["peid","peid-signature","pe-file","pe-files","pe-format","signature-detection","python","entrypoint","packing-detection","executable-packing"],"readmeSha":"0f3d3517fa863b8a1af3d1101b74551b270cae42"},
+"members": [
+"wolfram77web/app-peid",
+"merces/pev",
+"ExeinfoASL/ASL",
+"Ice3man543/MalScan",
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/docker-packing-box",
+"packing-box/python-dsff",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect",
+"packing-box/reminder"
+]
+}

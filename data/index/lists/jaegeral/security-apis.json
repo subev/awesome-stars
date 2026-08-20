@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A collective list of public APIs for use in security. Contributions welcome","defaultBranch":"master","topics":["awesome-list","security","siem","json-api","json"],"readmeSha":"b82a6f43b1cfeb25203f4478cc8bd310a94da9fe"},
+"members": [
+"marmelab/awesome-rest",
+"jaegeral/security-apis",
+"D4-project/passive-ssh",
+"GreyNoise-Intelligence/api.greynoise.io",
+"D4-project/IPASN-History",
+"vmware-archive/cbapi",
+"crits/crits",
+"xme/emlrender",
+"kolide/fleet",
+"dogoncouch/logdissect",
+"arkime/arkime",
+"viper-framework/viper",
+"bsi-group/nsrls"
+]
+}

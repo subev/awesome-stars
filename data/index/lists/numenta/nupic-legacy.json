@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.","defaultBranch":"master","topics":["neocortex","artificial-intelligence","machine-intelligence","hierarchical-temporal-memory"],"readmeSha":"6b70c4ff6aff66b81e02d25d97ad1127ff595f12"},
+"members": [
+"numenta/nupic-legacy",
+"numenta/nupic.core-legacy"
+]
+}

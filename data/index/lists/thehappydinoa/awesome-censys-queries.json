@@ -1,0 +1,25 @@
+{
+"meta": {"description":"A collection of fascinating and bizarre Censys Search Queries ","defaultBranch":"main","topics":["censys","dorks","queries","search","osint","awesome","awesome-list","ics","iot","security-tools"],"readmeSha":"6283d48bd93d953fe2ba17a8f63909b9cf65bc88"},
+"members": [
+"Ne0nd0g/merlin",
+"its-a-feature/Mythic",
+"DeimosC2/DeimosC2",
+"cobbr/Covenant",
+"nettitude/PoshC2",
+"BishopFox/sliver",
+"kgretzky/evilginx2",
+"chvancooten/NimPlant",
+"wikiZ/RedGuard",
+"n1nj4sec/pupy",
+"lgandx/Responder",
+"google/cadvisor",
+"traefik/traefik",
+"MythTV/mythweb",
+"mongo-express/mongo-express",
+"jakejarvis/awesome-shodan-queries",
+"woj-ciech/Kamerka-GUI",
+"salesforce/jarm",
+"cedowens/C2-JARM",
+"emilyaustin/censys-resources"
+]
+}

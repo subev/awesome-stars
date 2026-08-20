@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Bolei's archive on generative modeling","defaultBranch":"master","topics":[],"readmeSha":"3aa29595de8c4371f929de569ec00b5a5b7df1f8"},
+"members": [
+"EvgenyKashin/stylegan2-distillation",
+"hyperplane-lab/Generative-3D-Part-Assembly",
+"ETHmodlab/virtual_libraries",
+"sebastianstarke/AI4Animation"
+]
+}

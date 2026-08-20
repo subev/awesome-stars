@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of kafka-resources","defaultBranch":"master","topics":["kafka","kafka-streams","awesome","awesome-list","awesome-lists"],"readmeSha":"98bf2746102408f31df6f77a959acc2a05cbd850"},
+"members": [
+"semantalytics/awesome-kafka",
+"infoslack/awesome-kafka",
+"dharmeshkakadia/awesome-kafka",
+"monksy/awesome-data-engineering"
+]
+}

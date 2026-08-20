@@ -1,0 +1,6 @@
+{
+"meta": {"description":"InfiniDB Data Warehouse","defaultBranch":"master","topics":[],"readmeSha":"91543038647aa63dbd7ace314c39a0477dbb9936"},
+"members": [
+"infinidb/mysql"
+]
+}

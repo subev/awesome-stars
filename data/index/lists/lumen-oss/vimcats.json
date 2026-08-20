@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A CLI to generate vim/nvim help doc from LuaCATS. Forked from lemmy-help.","defaultBranch":"main","topics":["doc","help","lua","luacats","vimdoc"],"readmeSha":"f5d74ad0791c4ed38cf78015d114774222e830df"},
+"members": [
+"cachix/git-hooks.nix",
+"numToStr/lemmy-help",
+"tjdevries/tree-sitter-lua",
+"nvim-mini/mini.nvim"
+]
+}

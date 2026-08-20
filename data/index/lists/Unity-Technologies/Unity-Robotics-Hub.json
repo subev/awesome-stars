@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.","defaultBranch":"main","topics":["robot-simulation","ros","urdf","unity","robotics-simulation","unity-robotics","robotics-development","simulation","robot","motion-planning"],"readmeSha":"128d5d4f514ef7e538df6e3cb543afeb45f885dc"},
+"members": [
+"Unity-Technologies/Robotics-Object-Pose-Estimation",
+"Unity-Technologies/articulations-robot-demo",
+"Unity-Technologies/Robotics-Nav2-SLAM-Example",
+"Unity-Technologies/ROS-TCP-Connector",
+"Unity-Technologies/ROS-TCP-Endpoint",
+"Unity-Technologies/URDF-Importer",
+"Unity-Technologies/ml-agents"
+]
+}

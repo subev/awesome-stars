@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Non-intrusive notification system for neovim","defaultBranch":"master","topics":[],"readmeSha":"42e57178298e55f4be40bd7f4a153beccf9643c1"},
+"members": [
+"j-hui/fidget.nvim"
+]
+}

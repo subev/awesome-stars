@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Packing detection tool for PE files","defaultBranch":"main","topics":["detector","pe-file","pe-format","peid","entrypoint","pe-sections","pe-files","signature-detection","packing-detection","python"],"readmeSha":"9934b609dce9fec35d749a278057571399e16574"},
+"members": [
+"cylance/PyPackerDetect",
+"erocarrera/pefile",
+"packing-box/peid",
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/docker-packing-box",
+"packing-box/python-dsff",
+"packing-box/reminder"
+]
+}

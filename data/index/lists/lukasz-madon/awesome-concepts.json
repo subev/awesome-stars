@@ -1,0 +1,7 @@
+{
+"meta": {"description":" Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases","defaultBranch":"master","topics":["awesome-list","hackerlaws","mental-models","bias"],"readmeSha":"e73883a17805d395e67829879fdc211c09f0ce33"},
+"members": [
+"sindresorhus/awesome",
+"dwmkerr/hacker-laws"
+]
+}

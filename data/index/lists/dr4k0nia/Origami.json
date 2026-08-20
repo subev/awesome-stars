@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Packer compressing .net assemblies, (ab)using the PE format for data storage","defaultBranch":"master","topics":["packer","net-framework","csharp","compressor","pe-sections","origami","net-assemblies"],"readmeSha":"566bf695678e6941fe05ae5b0b5845286e5f6bb2"},
+"members": [
+"Washi1337/AsmResolver"
+]
+}

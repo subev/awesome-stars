@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of community detection research papers with implementations. ","defaultBranch":"master","topics":["graph-clustering","network-clustering","clustering","dimensionality-reduction","factorization","embedding","deep-learning","matrix-factorization","igraph","networkx"],"readmeSha":"8c4cd2c1361e90392f3407e914b0adda74a29788"},
+"members": [
+"sindresorhus/awesome",
+"benedekrozemberczki/awesome-graph-classification",
+"benedekrozemberczki/awesome-decision-tree-papers",
+"benedekrozemberczki/awesome-fraud-detection-papers",
+"benedekrozemberczki/awesome-gradient-boosting-papers"
+]
+}

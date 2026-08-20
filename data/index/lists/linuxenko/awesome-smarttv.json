@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated list of smart :tv: frameworks, libraries, software and resources.","defaultBranch":"master","topics":["smart-tv","awesome-list"],"readmeSha":"836ac4468e5d94d93374166e0c1bad3a71373f8a"},
+"members": [
+"sindresorhus/awesome",
+"bbc/tal",
+"mozilla-b2g/gaia",
+"ialpert/gridy.js",
+"linuxenko/move-into-view",
+"KoryNunn/scroll-into-view",
+"artempoletsky/Smart-LS"
+]
+}

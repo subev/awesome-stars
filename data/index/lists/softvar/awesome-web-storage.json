@@ -1,0 +1,22 @@
+{
+"meta": {"description":":sunglasses: Everything you need to know about Client-side Storage.","defaultBranch":"master","topics":["awesome","awesome-list","web-storage","cookies","localstorage","sessionstorage"],"readmeSha":"dd556b4b22c9d1d668bc7fde513c11877b55145c"},
+"members": [
+"sindresorhus/awesome",
+"js-cookie/js-cookie",
+"ScottHamper/Cookies",
+"ivpusic/angular-cookie",
+"ItsBenCodes/cookies",
+"alfhen/vue-cookie",
+"grevory/angular-local-storage",
+"sunnylqm/react-native-storage",
+"pinguinjkeke/vue-local-storage",
+"localForage/localForage",
+"addyosmani/basket.js",
+"softvar/secure-ls",
+"unshiftio/sessionstorage",
+"gsklee/ngStorage",
+"sterpe/react-webstorage",
+"dollarshaveclub/postmate",
+"wingify/across-tabs"
+]
+}

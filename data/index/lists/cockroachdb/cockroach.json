@@ -1,0 +1,6 @@
+{
+"meta": {"description":"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.","defaultBranch":"master","topics":["go","database","sql","distributed-database","cockroachdb","hacktoberfest"],"readmeSha":"0775b368cebb87d552b2dd54b4ffe2408610279d"},
+"members": [
+
+]
+}

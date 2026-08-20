@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A curated list of webpack tools for web performance","defaultBranch":"master","topics":[],"readmeSha":"85c091080755690f946ea565ce78f85b7ee38c40"},
+"members": [
+"evanw/esbuild",
+"callstack/linaria",
+"astroturfcss/astroturf",
+"svg/svgo",
+"webpack/analyse",
+"statoscope/statoscope",
+"davidsonfellipe/awesome-wpo",
+"GoogleChromeLabs/webpack-libs-optimizations"
+]
+}

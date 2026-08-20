@@ -1,0 +1,6 @@
+{
+"meta": {"description":"The Baidu File System.","defaultBranch":"master","topics":[],"readmeSha":"93dfa3da0800b253291a9440fd0532a514fad026"},
+"members": [
+"baidu/galaxy"
+]
+}

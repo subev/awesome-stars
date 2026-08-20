@@ -1,0 +1,24 @@
+{
+"meta": {"description":"Curated list of resources for Azure Static Web Apps","defaultBranch":"main","topics":["azure-static-web-apps","awesome-list"],"readmeSha":"8ce443c7c8691b837db909d6f496d4258f29796a"},
+"members": [
+"Azure/static-web-apps",
+"manekinekko/angular-ssr-swa",
+"manekinekko/11ty-blog-swa",
+"manekinekko/stencil-swa",
+"Azure/static-web-apps-cli",
+"microsoft/vscode-dev-containers",
+"Azure/static-web-apps-deploy",
+"Azure/azure-app-service-authentication",
+"aaronpowell/azure-static-web-apps-api-auth",
+"aaronpowell/react-static-web-apps-auth",
+"christianacca/static-web-apps-auth",
+"GeekTrainer/aswa-student-starter-kit",
+"sinedied/swag-demo",
+"aaronpowell/aswa-react-template",
+"manekinekko/swa-typescript",
+"aaronpowell/swa-fable-template",
+"aaronpowell/swa-feliz-template",
+"aaronpowell/swa-elmish-template",
+"microsoft/static-web-apps-examples"
+]
+}

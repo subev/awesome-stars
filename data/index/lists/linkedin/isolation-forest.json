@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A distributed Spark/Scala implementation of the isolation forest and extended isolation forest algorithms for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.","defaultBranch":"master","topics":["isolation-forest","spark","linkedin","outlier-detection","unsupervised-learning","machine-learning","scala","anomaly-detection","onnx"],"readmeSha":"ccb16218ac69d1820396ae50a46df6cc86610f61"},
+"members": [
+"sahandha/eif"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"▶️ An awesome list of awesome Brazilian YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.","defaultBranch":"main","topics":[],"readmeSha":"bbd9fe5f5ba8bfdf47269357c95bf97ee393ad14"},
+"members": [
+"JoseDeFreitas/awesome-youtubers",
+"rcarubbi/awesome-spanish-youtubers",
+"mhxion/awesome-discord-communities",
+"sindresorhus/awesome",
+"sindresorhus/awesome-nodejs"
+]
+}

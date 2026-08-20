@@ -1,0 +1,6 @@
+{
+"meta": {"description":"HiBench is a big data benchmark suite.","defaultBranch":"master","topics":[],"readmeSha":"f3e10da08e8ba0a8e97ee3c0b8e72850ba634b28"},
+"members": [
+"Intel-bigdata/HiBench"
+]
+}

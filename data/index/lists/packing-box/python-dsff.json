@@ -1,0 +1,15 @@
+{
+"meta": {"description":"DataSet File Format (DSFF)","defaultBranch":"main","topics":["dataset","file-format","machine-learning","python","dsff"],"readmeSha":"2c1d82009cc2ef26e914ab3a1284bb9d48d433d9"},
+"members": [
+"packing-box/docker-packing-box",
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/peid",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect",
+"packing-box/reminder"
+]
+}

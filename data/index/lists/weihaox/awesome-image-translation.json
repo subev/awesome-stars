@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Collection of awesome resources on image-to-image translation.","defaultBranch":"master","topics":["image-translation","awesome-list","image-generation","computer-vision","computer-graphics"],"readmeSha":"daab4bdbb2ffd7d907b7060b86a788ff3f8e14a2"},
+"members": [
+"sindresorhus/awesome",
+"jolibrain/joliGEN",
+"weihaox/arxiv-daily-tools"
+]
+}

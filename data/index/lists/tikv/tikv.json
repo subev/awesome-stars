@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Distributed transactional key-value database, originally created to complement TiDB","defaultBranch":"master","topics":["distributed-transactions","raft","rust","key-value","tikv","consensus","rocksdb","tidb","cncf","hacktoberfest"],"readmeSha":"12bab00be3d25890d8de212b8f72aa8235bfcdd5"},
+"members": [
+"pingcap/tidb",
+"tikv/pd",
+"tikv/community",
+"tikv/website",
+"tikv/client-go",
+"tikv/client-java",
+"tikv/client-rust",
+"tikv/client-c",
+"etcd-io/etcd",
+"facebook/rocksdb",
+"rust-lang/rust-clippy"
+]
+}

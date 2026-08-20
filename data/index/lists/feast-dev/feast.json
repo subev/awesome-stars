@@ -1,0 +1,8 @@
+{
+"meta": {"description":"The Open Source Feature Store for AI/ML","defaultBranch":"master","topics":["machine-learning","features","ml","big-data","feature-store","python","mlops","data-engineering","data-science","data-quality"],"readmeSha":"56dee2b2e7a2d6b9d631414308c84d124f39a451"},
+"members": [
+"bennfocus/feast-hive",
+"Azure/feast-azure",
+"amundsen-io/amundsen"
+]
+}

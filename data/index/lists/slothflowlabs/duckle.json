@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.","defaultBranch":"main","topics":["data-engineering","data-integration","data-pipeline","data-quality","duckdb","elt","etl","cdc","connectors","dbt"],"readmeSha":"1aaaf8fe421d8b3b224229f47e6d9259eb55fdbc"},
+"members": [
+"SouravRoy-ETL/slothdb",
+"all-contributors/allcontributors.org"
+]
+}

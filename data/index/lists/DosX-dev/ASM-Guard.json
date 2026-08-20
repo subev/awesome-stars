@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.","defaultBranch":"main","topics":["asm","asmx86","compressor","confuser","native","packer","petite","protect","reverse","upx"],"readmeSha":"5e4a25e704ba91985b757cbf477a4bcfb64ba39b"},
+"members": [
+"adamyaxley/Obfuscate"
+]
+}

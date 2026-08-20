@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Bits and bytes of Python from the Internet","defaultBranch":"master","topics":["python","links","awesome-list"],"readmeSha":"a8af3cc2eaf221255afb4a47394c5a90d154b2d4"},
+"members": [
+"gregmalcolm/python_koans",
+"brainsik/virtualenv-burrito",
+"audreyfeldroy/how-to",
+"rabidgremlin/dev-ops-snippets",
+"python/devguide",
+"humiaozuzu/awesome-flask",
+"hackerlist/glassdoor",
+"SamyPesse/glass.py",
+"tmetsch/pytkgen",
+"keras-team/keras",
+"ipython/ipython",
+"koldunovn/python_for_geosciences",
+"rajathkmp/Python-Lectures",
+"donnemartin/data-science-ipython-notebooks",
+"rlabbe/ThinkBayes",
+"oxnz/design-patterns",
+"EbookFoundation/free-programming-books",
+"donnemartin/interactive-coding-challenges",
+"s16h/py-must-watch",
+"gabrielelanaro/emacs-for-python",
+"karan/Projects"
+]
+}

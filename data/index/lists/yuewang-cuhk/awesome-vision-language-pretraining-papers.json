@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Recent Advances in Vision and Language PreTrained Models (VL-PTMs)","defaultBranch":"master","topics":["vision-and-language","pretraining","multimodal-deep-learning","bert","vl-ptms"],"readmeSha":"693589adfcf86440cdb73f750c8487c413d78ab9"},
+"members": [
+"jiasenlu/vilbert_beta",
+"airsplay/lxmert",
+"jackroos/VL-BERT",
+"uclanlp/visualbert",
+"LuoweiZhou/VLP",
+"ChenRocks/UNITER",
+"shengyuzhang/DeVLBert",
+"PaddlePaddle/Research",
+"salesforce/ALBEF",
+"google-research/language",
+"ronghanghu/mmf",
+"salesforce/VD-BERT",
+"vmurahari3/visdial-bert",
+"weituo12321/PREVALENT",
+"facebookresearch/vilbert-multi-task",
+"candacelax/bias-in-vision-and-language",
+"hughshaoqz/3rd-Youtube8M-TM",
+"MCG-NJU/CPD-Video",
+"thunlp/PLMpapers",
+"tomohideshibata/BERT-related-papers",
+"pliang279/awesome-multimodal-ml",
+"sangminwoo/awesome-vision-and-language"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.","defaultBranch":"master","topics":["sql","spark","hive","pyspark","livy","linkis","engine","storage","resource-manager","application-manager"],"readmeSha":"1b71e95edf08f67e795166f9887bbd4a41cccf5b"},
+"members": [
+"apache/linkis-website"
+]
+}

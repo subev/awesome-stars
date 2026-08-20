@@ -1,0 +1,13 @@
+{
+"meta": {"description":"🧇 A curated list of awesome JavaScript data grid and spreadsheet libraries","defaultBranch":"main","topics":["javascript","react","vue","vuejs","angular","angularjs","typescript","nextjs","grid","spreadsheet"],"readmeSha":"6ab0330648b21ec49f01cfa3f0f0a723b2bb79c1"},
+"members": [
+"sindresorhus/awesome",
+"bw-ui/bw-datatable",
+"energydrink9/functional-data-grid",
+"hyparam/hightable",
+"Comcast/react-data-grid",
+"bvaughn/react-window",
+"ivkeapp/TablixJS",
+"SimonWaldherr/vanillagrid.js"
+]
+}

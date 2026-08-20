@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Quickstart configs for Nvim LSP","defaultBranch":"master","topics":["vim","nvim","neovim","lsp","language-server-protocol","language-server","plugin"],"readmeSha":"1e7541421fe0dd7e730cd35691b684c206f5708b"},
+"members": [
+"neovim/neovim"
+]
+}

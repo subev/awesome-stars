@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.","defaultBranch":"master","topics":["reverse-engineering","symbolic-execution","binary-analysis","program-analysis","taint-analysis","binary-translation","deobfuscation","instruction-semantics","lifter","dynamic-analysis"],"readmeSha":"4b52c6342a8995ee8dde4a20e9a87491f2af395a"},
+"members": [
+"capstone-engine/capstone",
+"Z3Prover/z3",
+"bitwuzla/bitwuzla",
+"microsoft/vcpkg",
+"d4em0n/exrop",
+"kamou/pimp",
+"illera88/Ponce",
+"quarkslab/qsynthesis",
+"quarkslab/tritondse",
+"archercreat/titan"
+]
+}

@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A curated list of awesome resources for design and implement RESTful API's.","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"e49952f443e1f9d58d78b478ddacbff7328ffc5c"},
+"members": [
+"sindresorhus/awesome",
+"Kong/apiglossary",
+"interagent/http-api-design",
+"lambda2/rapis",
+"watson-developer-cloud/api-guidelines",
+"microsoft/api-guidelines",
+"stickfigure/blog",
+"teesloane/Auth-Boss",
+"GitGuardian/APISecurityBestPractices",
+"n0shake/Public-APIs",
+"toddmotto/public-apis",
+"httpie/cli",
+"jqlang/jq",
+"micha/resty",
+"marmelab/FakeRest",
+"typicode/json-server",
+"tmcw/docbox",
+"slatedocs/slate",
+"mpociot/whiteboard",
+"expressjs/morgan",
+"microlinkhq/async-ratelimiter",
+"niieani/hashids.js",
+"jetify-com/typeid-js",
+"fastapi/fastapi"
+]
+}

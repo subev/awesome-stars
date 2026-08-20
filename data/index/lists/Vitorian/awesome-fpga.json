@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of resources on FPGA devices and development in general","defaultBranch":"master","topics":[],"readmeSha":"eb1c14a21cdb4a9a53e7757ab3b77f3e1f79f699"},
+"members": [
+"cambridgehackers/fpgamake",
+"olofk/fusesoc"
+]
+}

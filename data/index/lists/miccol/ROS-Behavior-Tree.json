@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Behavior Trees Library for ROS (Robot Operating System). In C++ and python ","defaultBranch":"master","topics":["behavior-trees","behavior-tree","ros"],"readmeSha":"97b3566830291907fa459891cb182c67fee4b118"},
+"members": [
+"miccol/YARP-Behavior-Trees",
+"jbohren/xdot",
+"jbohren/rqt_dot",
+"google/googletest"
+]
+}

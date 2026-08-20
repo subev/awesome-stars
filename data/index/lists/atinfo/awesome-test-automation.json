@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info","defaultBranch":"master","topics":["test-automation","software-testing","software-quality","java","python","javascript","mobile","ruby","c-sharp","php"],"readmeSha":"147ad2a0b1eb2ee9861ab3af6c4da7b8a21aed84"},
+"members": [
+"atinfo/at.info-knowledge-base"
+]
+}

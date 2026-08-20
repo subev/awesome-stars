@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A curated list of awesome Web Font Icons","defaultBranch":"master","topics":["svg-icons","weather-icons","web-fonts","web-icons","icons","icon-font","icon-fonts","icon-packs","awesome-list","awesome"],"readmeSha":"75865cd8f551047dae63e9659c1fadff5de7be06"},
+"members": [
+"sindresorhus/awesome",
+"leungwensen/svg-icon",
+"tailwindlabs/heroicons",
+"DevCloudFE/devui-icons",
+"edent/SuperTinyIcons",
+"Templarian/MaterialDesign",
+"evil-icons/evil-icons",
+"icons8/line-awesome",
+"artcoholic/akar-icons",
+"tabler/tabler-icons",
+"adamstac/zocial",
+"BitcoinDesign/Bitcoin-Icons",
+"ErikThiart/cryptocurrency-icons",
+"spothq/cryptocurrency-icons",
+"jaywcjlove/svgtofont"
+]
+}

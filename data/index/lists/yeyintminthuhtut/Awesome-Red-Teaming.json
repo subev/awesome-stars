@@ -1,0 +1,22 @@
+{
+"meta": {"description":"List of Awesome Red Teaming Resources","defaultBranch":"master","topics":["cobalt-strike","phishing","redteaming","redteam","empire","uac"],"readmeSha":"6f3b1832f686db1308fea64c87ba0c03baa25a9b"},
+"members": [
+"netbiosX/Checklists",
+"tyranid/DeviceGuardBypasses",
+"api0cradle/UltimateAppLockerByPassList",
+"vysecurity/Windows-SignedBinary",
+"secretsquirrel/SigThief",
+"PaulSec/DET",
+"rvrsh3ll/FindFrontableDomains",
+"MindPointGroup/cloudfrunt",
+"n0pe-sled/Apache2-Mod-Rewrite-Setup",
+"ryhanson/ExternalC2",
+"Und3rf10w/external_c2_framework",
+"samyk/magspoof",
+"vysecurity/RedTips",
+"magoo/redteam-plan",
+"zer0yu/Awesome-CobaltStrike",
+"elastic/dorothy",
+"safebuffer/vulnerable-AD"
+]
+}

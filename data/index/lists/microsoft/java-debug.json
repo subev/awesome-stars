@@ -1,0 +1,8 @@
+{
+"meta": {"description":"The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code (DAP, Debugger Adapter Protocol).","defaultBranch":"main","topics":[],"readmeSha":"f36a0b1a2f5480eb727f260b68620c329319d623"},
+"members": [
+"vscjavaci/eclipse.jdt.ls",
+"eclipse-jdtls/eclipse.jdt.ls",
+"redhat-developer/vscode-java"
+]
+}

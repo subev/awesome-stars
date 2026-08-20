@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Compose complex, data-driven visualizations from reusable charts and components with d3","defaultBranch":"master","topics":[],"readmeSha":"ac18b359575b9f9e40ee351bf9557cccc3d15f25"},
+"members": [
+"misoproject/d3.chart"
+]
+}

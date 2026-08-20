@@ -1,0 +1,6 @@
+{
+"meta": {"description":"ShowStopper is a tool for helping malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.","defaultBranch":"master","topics":["research","anti-debug","malware"],"readmeSha":"a9323bc657a0d2c8130077306f7bcdb5e8a12fa0"},
+"members": [
+
+]
+}

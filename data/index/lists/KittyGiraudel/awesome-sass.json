@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A curated list of awesome Sass.","defaultBranch":"master","topics":[],"readmeSha":"6ea6c263572b9bd929b6121ccaa1643414faef17"},
+"members": [
+"SassDoc/sassdoc",
+"KittyGiraudel/sass-compatibility",
+"KittyGiraudel/sass-boilerplate",
+"KittyGiraudel/sass-semver",
+"KittyGiraudel/SassyTester",
+"KittyGiraudel/SassyBitwise",
+"KittyGiraudel/SassyCast",
+"KittyGiraudel/SassyJSON",
+"at-import/SassyLists",
+"KittyGiraudel/SassyMatrix",
+"KittyGiraudel/SassySort",
+"at-import/Sassy-Strings",
+"KittyGiraudel/SassyLogger",
+"KittyGiraudel/SassyGradients",
+"KittyGiraudel/SassyIteratorsGenerators"
+]
+}

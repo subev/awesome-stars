@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Simple PE32 Packer with aPLib compression library. I checked that this packer works on the program LinkParser.exe. This code must be compiled in release mode in order to work properly. I don't know the reason why. Sorry...","defaultBranch":"master","topics":[],"readmeSha":"d9634441d21ee2b730a4c426035ad88afb998318"},
+"members": [
+
+]
+}

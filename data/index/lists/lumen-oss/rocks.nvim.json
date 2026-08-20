@@ -1,0 +1,20 @@
+{
+"meta": {"description":"🌒 Neovim plugin management inspired by Cargo, powered by luarocks","defaultBranch":"main","topics":["lua","luarocks","neovim","neovim-plugin","nvim","package-manager","plugin","plugin-manager"],"readmeSha":"d0dd1922a7dc063a3c8a500c6d950a806d9ba60b"},
+"members": [
+"luarocks/luarocks",
+"lumen-oss/rocks-git.nvim",
+"lumen-oss/rocks-config.nvim",
+"lumen-oss/rocks-lazy.nvim",
+"lumen-oss/rocks-treesitter.nvim",
+"lumen-oss/nurr",
+"lumen-oss/nvim-best-practices",
+"lumen-oss/rocks-dev.nvim",
+"lumen-oss/luarocks-tag-release",
+"vhyrro/luarocks.nvim",
+"folke/lazy.nvim",
+"nvim-mini/mini.deps",
+"savq/paq-nvim",
+"lewis6991/pckr.nvim",
+"junegunn/vim-plug"
+]
+}

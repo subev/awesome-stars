@@ -1,0 +1,12 @@
+{
+"meta": {"description":"high performance computing related nix resources","defaultBranch":"master","topics":[],"readmeSha":"10eeae81460230a17722c7dec452febaef0d0543"},
+"members": [
+"flatironinstitute/nix-modules",
+"Gricad/nix-ciment-channel",
+"BlueBrain/bbp-nixpkgs",
+"ComputeCanada/nixpkgs",
+"oar-team/nur-kapack",
+"qbisi/nur-fem",
+"Nix-QChem/NixOS-QChem"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome","defaultBranch":"master","topics":["icons","font","svg-icon-component","font-awesome","svelte","icon","svg","sveltejs","svg-icons"],"readmeSha":"75cc4d4d46377f24f1599c7d13228a66289ace80"},
+"members": [
+"Justineo/vue-awesome",
+"FortAwesome/Font-Awesome"
+]
+}

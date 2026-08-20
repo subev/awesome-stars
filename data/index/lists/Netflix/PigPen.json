@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Map-Reduce for Clojure","defaultBranch":"master","topics":[],"readmeSha":"c6742558b935d84d1b228740c3f56c1662fff40d"},
+"members": [
+"apache/incubator-parquet-mr"
+]
+}

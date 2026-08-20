@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A library for efficient similarity search and clustering of dense vectors.","defaultBranch":"main","topics":[],"readmeSha":"3ae259c01bcf92b4f42cf840ff509f5cf61174f8"},
+"members": [
+"NVIDIA/cuvs"
+]
+}

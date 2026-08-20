@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Python sample codes and textbook for robotics algorithms.","defaultBranch":"master","topics":["python","robotics","algorithm","path-planning","control","animation","localization","slam","cvxpy","ekf"],"readmeSha":"725947efac027a7f8078492908762f9b35e34f2f"},
+"members": [
+"AtsushiSakai/PythonRoboticsPaper",
+"AtsushiSakai/PythonRoboticsGifs",
+"MahanFathi/LQR-RRTstar",
+"ghliu/pyReedsShepp",
+"1Password/for-open-source"
+]
+}

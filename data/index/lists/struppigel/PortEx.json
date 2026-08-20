@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness","defaultBranch":"master","topics":[],"readmeSha":"57345b02289aff32e0b20a5151267d3b6b2965cc"},
+"members": [
+"struppigel/PortexAnalyzerGUI",
+"struppigel/PortEx"
+]
+}

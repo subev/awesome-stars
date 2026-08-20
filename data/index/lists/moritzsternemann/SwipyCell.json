@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Easy to use UITableViewCell implementing swiping to trigger actions.","defaultBranch":"main","topics":["uitableviewcell","swipe","swift","swift-library","trigger","mailbox","carthage","cocoapods","ios","awesome"],"readmeSha":"270ce0fac587b2e4fadfe1c89b79f6574a62b474"},
+"members": [
+"sindresorhus/awesome",
+"swiftlang/swift",
+"swiftlang/swift-package-manager",
+"Carthage/Carthage"
+]
+}

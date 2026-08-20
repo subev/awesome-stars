@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare Imaging, inspired by","defaultBranch":"master","topics":[],"readmeSha":"b4b209ea9f008a1120e74f52e3b753fe7679ea97"},
+"members": [
+"ziadoz/awesome-php",
+"beamandrew/medical-data"
+]
+}

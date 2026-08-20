@@ -1,0 +1,12 @@
+{
+"meta": {"description":"RetDec is a retargetable machine-code decompiler based on LLVM.","defaultBranch":"master","topics":[],"readmeSha":"8e495fbf0d08bcbcde829c3d7785e8d0610f06d6"},
+"members": [
+"avast/retdec-build-system-tests",
+"frida/frida",
+"avast/retdec-idaplugin",
+"radareorg/r2retdec",
+"avast/retdec-regression-tests-framework",
+"avast/retdec-regression-tests",
+"s3rvac/vim-syntax-retdecdsm"
+]
+}

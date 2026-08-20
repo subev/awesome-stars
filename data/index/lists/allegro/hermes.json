@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Fast and reliable message broker built on top of Kafka.","defaultBranch":"master","topics":["hermes","kafka","pubsub","messaging","hacktoberfest"],"readmeSha":"8d9d7b9c2505d045bbc3e9d39a0d39752e16882f"},
+"members": [
+"google/google-java-format"
+]
+}

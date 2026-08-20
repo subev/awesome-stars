@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Blazing fast hexapod robot simulator for the web. ","defaultBranch":"master","topics":["robotics","robot","hexapod","visualizers","javascript","plotly","react","reactjs","simulator","simulation"],"readmeSha":"4ad7cf0251e53fb7ce905f2950b25e884a3fadc7"},
+"members": [
+"mithi/hexapod-kinematics-library",
+"mithi/hexapod-irl",
+"prettier/prettier"
+]
+}

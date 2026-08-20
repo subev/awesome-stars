@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Attack tool for altering packed samples so that they evade static packing detection","defaultBranch":"main","topics":["adversarial","attack-defense","evasion","executable-packing","malware-analysis","packing","pe-format","tool","static-detection-evasion","obfuscation"],"readmeSha":"c133090ab36f7bf6041d8ecacb90bd0186db3128"},
+"members": [
+
+]
+}

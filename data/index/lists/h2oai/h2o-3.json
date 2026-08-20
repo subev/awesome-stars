@@ -1,0 +1,10 @@
+{
+"meta": {"description":"H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.","defaultBranch":"master","topics":["h2o","machine-learning","data-science","deep-learning","big-data","ensemble-learning","gbm","random-forest","naive-bayes","pca"],"readmeSha":"1253be02ad81bea9cc540a661944a4044795ad19"},
+"members": [
+"h2oai/h2o-2",
+"h2oai/sparkling-water",
+"h2oai/awesome-h2o",
+"h2oai/h2o-droplets",
+"winpython/winpython"
+]
+}

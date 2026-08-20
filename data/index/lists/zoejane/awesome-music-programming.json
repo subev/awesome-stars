@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A curated list of awesome music programming languages, libraries, frameworks and tools.","defaultBranch":"main","topics":["awesome","awesome-list","music","music-composition","music-generation","music-programming"],"readmeSha":"a898f3f43893aa656b6877c41164396e5a7412b1"},
+"members": [
+"spotify/pedalboard",
+"belangeo/pyo",
+"facebookresearch/audiocraft",
+"facebookresearch/demucs",
+"prabal-rje/latentscore",
+"alda-lang/alda",
+"mido/mido",
+"mutwo-org/mutwo.core",
+"craffel/pretty-midi",
+"noteflakes/awesome-music"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A list of recommended research papers and other readings on data visualization","defaultBranch":"master","topics":[],"readmeSha":"d7ab727e9fa4208533e81f1a57a2255ea7b5b5b5"},
+"members": [
+"sindresorhus/awesome",
+"hal9ai/awesome-dataviz"
+]
+}

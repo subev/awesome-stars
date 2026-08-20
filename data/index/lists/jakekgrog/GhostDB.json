@@ -1,0 +1,6 @@
+{
+"meta": {"description":"GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.","defaultBranch":"master","topics":["cache","golang","database","datastore","distributed-database","in-memory-database"],"readmeSha":"0e4bd5075346b2565365bd1046bf04e6e2825054"},
+"members": [
+"jakekgrog/GhostDB"
+]
+}

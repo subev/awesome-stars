@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Resources of Neural Rendering","defaultBranch":"master","topics":["awesome-list","neural-rendering","computer-vision","computer-graphics","neural-representations"],"readmeSha":"aba038c2daaa6eee4c8d90ca0fcca9b76646bee1"},
+"members": [
+"sindresorhus/awesome",
+"weihaox/arxiv-daily-tools"
+]
+}

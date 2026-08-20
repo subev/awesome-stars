@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of awesome Deep Learning (DL) for Natural Language Processing (NLP) resources","defaultBranch":"master","topics":[],"readmeSha":"a5733237940fd482bfad7ff8b4c9b31fa1ab0b25"},
+"members": [
+"sindresorhus/awesome",
+"stanfordnlp/cs224n-winter17-notes",
+"DSKSD/DeepNLP-models-Pytorch",
+"neubig/nn4nlp-code",
+"oxford-cs-deepnlp-2017/lectures",
+"clab/dynet_tutorial_examples",
+"RobRomijnders/talks",
+"facebookresearch/fastText",
+"tensorflow/models",
+"google/active-qa",
+"google-research/bert",
+"facebookresearch/pytext",
+"flairNLP/flair",
+"facebookresearch/fairseq",
+"clab/dynet",
+"attardi/deepnl",
+"niderhoff/nlp-datasets",
+"karthikncode/nlp-datasets",
+"google-deepmind/AQuA",
+"google-deepmind/rc-data",
+"ryankiros/skip-thoughts"
+]
+}

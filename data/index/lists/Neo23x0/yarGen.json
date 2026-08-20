@@ -1,0 +1,7 @@
+{
+"meta": {"description":"yarGen is a generator for YARA rules","defaultBranch":"master","topics":["python","yara","malware","malware-research","malware-analysis","malwareanalysis"],"readmeSha":"2f6663b7d9d443532707bc3a5cd64779793550c2"},
+"members": [
+"Neo23x0/yarGen-Go",
+"plusvic/yara"
+]
+}

@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Evaluation of packer type estimation/detection tools","defaultBranch":"master","topics":[],"readmeSha":"9cf4dee502fef4874aa4d0629e181e7e34874e71"},
+"members": [
+"FFRI/pypeid",
+"horsicq/Detect-It-Easy",
+"FFRI/ffridataset-scripts",
+"chesvectain/PackingData",
+"apuromafo/RCE_Lab",
+"horsicq/DIE-engine"
+]
+}

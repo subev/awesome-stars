@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.","defaultBranch":"master","topics":["threat-modeling","practical-devsecops","security-review","devsecops-university","appsec","devsecops","awesome","awesome-list"],"readmeSha":"214095103b19455b81d3d02a9a664f49b6cd8688"},
+"members": [
+"rhurlbut/CodeMash2019",
+"geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs",
+"rung/threat-matrix-cicd",
+"cider-security-research/top-10-cicd-security-risks",
+"cncf/financial-user-group",
+"OWASP/threat-model-cookbook",
+"kubernetes/sig-security",
+"itemisCREATE/itemis-SECURE-examples",
+"krol3/container-security-checklist",
+"juliocesarfort/public-pentesting-reports",
+"JWWeatherman/human_threat_model",
+"kkredit/smart-home-threat-model",
+"JWWeatherman/bitcoin_security_threat_model",
+"appsecco/owasp-threat-dragon-gitlab",
+"devsecops/raindance",
+"izar/pytm",
+"Threagile/threagile",
+"rusakovichma/TicTaaC",
+"dehydr8/elevation-of-privilege",
+"rpetrich/deciduous",
+"michenriksen/drawio-threatmodeling"
+]
+}

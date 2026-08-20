@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things","defaultBranch":"master","topics":["awesome","community","groups"],"readmeSha":"c99483615f0e7a534fd8ad082a24a57bfc526489"},
+"members": [
+"sindresorhus/awesome",
+"golang/go",
+"php-ug/php.ug",
+"bradoyler/awesome-all",
+"emijrp/awesome-awesome",
+"erichs/awesome-awesome",
+"jnv/lists",
+"cyberglot/awesome-answers",
+"rafaecheve/Awesome-Community",
+"RichardLitt/awesome-conferences",
+"opencompany/awesome-open-company",
+"filipelinhares/awesome-slack",
+"matteofigus/awesome-speaking",
+"hleb-kastseika/belarusian-it-communities"
+]
+}

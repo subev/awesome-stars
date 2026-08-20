@@ -1,0 +1,11 @@
+{
+"meta": {"description":"In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API","defaultBranch":"master","topics":["raft","json","nosql","database","in-memory","geospatial"],"readmeSha":"d8915c4b64acdc660a8f1aef107d1869626cc78b"},
+"members": [
+"tidwall/finn",
+"tidwall/redcon",
+"tidwall/buntdb",
+"tidwall/gjson",
+"robertkrimen/otto",
+"tidwall/sjson"
+]
+}

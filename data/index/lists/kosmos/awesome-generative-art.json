@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Awesome generative art","defaultBranch":"master","topics":["awesome","awesome-list","processing","generative-art","vvvv","openframeworks","vjing","artists"],"readmeSha":"1d7b29ebce45e09e723550048aaf52d0dfb36493"},
+"members": [
+"sindresorhus/awesome",
+"Vidvox/hap-qt-codec"
+]
+}

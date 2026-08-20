@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.","defaultBranch":"main","topics":["analytics","bigquery","data-modeling","data-pipelines","python","snowflake","sql","data-analysis","data-transformation","data-ingestion"],"readmeSha":"a44a58db0ad0d3ad29acbe4df8b35d0685de88fc"},
+"members": [
+"bruin-data/ingestr",
+"astral-sh/uv"
+]
+}

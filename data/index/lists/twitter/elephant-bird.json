@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.","defaultBranch":"master","topics":[],"readmeSha":"9b5eab9ea5905b8c3ab725203fbeeeb02753aa32"},
+"members": [
+"twitter/hadoop-lzo",
+"kevinweil/elephant-bird"
+]
+}

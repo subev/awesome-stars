@@ -1,0 +1,7 @@
+{
+"meta": {"description":"📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)","defaultBranch":"master","topics":["analytics","bi-server","java","big-data","analytics-platform"],"readmeSha":"da008de5ffdd9b0ddef7e28f3ee6662046b7507b"},
+"members": [
+"rakam-io/rakam-api-terraform-aws",
+"rakam-io/rakam-api"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang","defaultBranch":"master","topics":["machine-learning","distributed-systems","postgresql","deep-learning","go","awesome","distributed-computing","distributed-database"],"readmeSha":"86aa03c883183eb09d6f5059b784e26cb6a60fdd"},
+"members": [
+"mysqljs/mysql"
+]
+}

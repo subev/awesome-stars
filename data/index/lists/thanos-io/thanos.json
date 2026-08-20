@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.","defaultBranch":"main","topics":["prometheus","google-cloud-storage","high-availability","prometheus-ha-pairs","thanos","s3","storage","cncf","prometheus-setup","go"],"readmeSha":"e2b07909acc11e3fcf864979e04cbcdf0b790790"},
+"members": [
+
+]
+}

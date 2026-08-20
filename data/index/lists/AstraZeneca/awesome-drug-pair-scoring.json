@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Readings for \"A Unified View of Relational Deep Learning for Drug Pair Scoring.\" (IJCAI 2022)","defaultBranch":"master","topics":["ddi","drug-synergy","synergy-prediction","deep-chemistry","chemistry","polypharmacy","deep-learning","machine-learning","relational-learning","drug-combination"],"readmeSha":"1d62a498ac6ee6d7a2eb8ebee5e348b3aa4ae030"},
+"members": [
+"sindresorhus/awesome",
+"AstraZeneca/awesome-drug-pair-scoring"
+]
+}

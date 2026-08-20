@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Implementation of the packing detection heuristic from the paper \"Packed PE File Detection for Malware Forensics\" of Han et al.","defaultBranch":"main","topics":["binary-analysis","entropy","entrypoint","executable-packing","malware-analysis","malware-packers","malware-research","packing-detection","pe-file","pe-files"],"readmeSha":"45424d2c9e12e674961766636d7b766ffc465a0f"},
+"members": [
+"lief-project/LIEF",
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/docker-packing-box",
+"packing-box/python-dsff",
+"packing-box/peid",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect"
+]
+}

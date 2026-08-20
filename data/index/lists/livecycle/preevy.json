@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Quickly deploy preview environments to the cloud!","defaultBranch":"main","topics":["devops","docker","docker-compose","ephemeral-environments","pr-environments","preview-environment","aws","cli","awesome","awesome-list"],"readmeSha":"ba45a9f94dc5f22878718f1c662a959d41526a4d"},
+"members": [
+"Pradumnasaraf/preevy",
+"docker/buildx",
+"docker/awesome-compose",
+"livecycle/preevy-gha-gke-demo",
+"livecycle/preevy-gha-gce-demo",
+"livecycle/preevy-terraform-eks-example"
+]
+}

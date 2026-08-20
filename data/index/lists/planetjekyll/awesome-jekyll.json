@@ -1,0 +1,32 @@
+{
+"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"f2ad8a950792f1332b67ba29368ab31cc8abcd2b"},
+"members": [
+"planetjekyll/awesome-jekyll-themes",
+"planetjekyll/awesome-jekyll-plugins",
+"planetjekyll/awesome-jekyll-editors",
+"planetjekyll/quickrefs",
+"rstacruz/cheatsheets",
+"CloudCannon/Academy",
+"pixelcog/pixelcog.com",
+"drjekyllthemes/drjekyll",
+"quikstart/mrhyde",
+"learnpixelart/pixelart.sandbox",
+"timwis/jkan",
+"cloud-gov/pages-core",
+"jeffreytse/jekyll-spaceship",
+"skatkov/jekyll-news-sitemap",
+"planetjekyll/snippets",
+"JesseHerrick/jekyll-angular",
+"Shopify/liquid",
+"mundimark/awesome-markdown",
+"AlanBarber/jbh",
+"pavdmyt/jtasks",
+"nirgn975/generator-jekyll-starter-kit",
+"clayrisser/generator-jekyll-plugin",
+"fkirc/attranslate",
+"github/pages-gem",
+"benbalter/wordpress-static-site-exporter",
+"mAAdhaTTah/wordpress-github-sync",
+"staystatic/awesome-static"
+]
+}

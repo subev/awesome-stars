@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Riak is a decentralized datastore from Basho Technologies.","defaultBranch":"develop","topics":[],"readmeSha":"0b9dec0eb035d3716e5b8945d1a8cc10fe420afd"},
+"members": [
+"basho/riak_test",
+"basho/riak_kv"
+]
+}

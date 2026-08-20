@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Reflective PE packer.","defaultBranch":"master","topics":["packer","pe","crypter","assembly","stub","shellcode","shellcode-loader","payload","amber"],"readmeSha":"7cb89dc03efb76464da0c21c957828f8a583a619"},
+"members": [
+"EgeBalci/sgn",
+"EgeBalci/crc32_api",
+"EgeBalci/IAT_API",
+"keystone-engine/keystone"
+]
+}

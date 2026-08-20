@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Random Forest - a curated list of resources regarding random forest","defaultBranch":"master","topics":[],"readmeSha":"b0debddb1aacdddf86e8e304b38d1f453968d322"},
+"members": [
+"karpathy/Random-Forest-Matlab",
+"imbs-hl/ranger",
+"karpathy/forestjs",
+"ryanbressler/CloudForest",
+"glouppe/phd-thesis",
+"samhallman/oef",
+"pdollar/edges",
+"gitlim/SketchTokens",
+"mbillingr/NodeHarvest",
+"sato9hara/defragTrees"
+]
+}

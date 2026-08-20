@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A collection of Ember computed macros","defaultBranch":"master","topics":[],"readmeSha":"fbc08e844c3a0d5c7a0ebd678be5bbaffdf1eb34"},
+"members": [
+"kellyselden/ember-macro-helpers"
+]
+}

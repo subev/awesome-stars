@@ -1,0 +1,7 @@
+{
+"meta": {"description":"CPU and GPU-accelerated Machine Learning Library","defaultBranch":"master","topics":[],"readmeSha":"92267124d37d124fd80b47e5fe4806322b9e803c"},
+"members": [
+"BIDData/BIDMat",
+"BIDData/BIDMach_RL"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A complete and cross-platform card.io component for React Native (iOS and Android).","defaultBranch":"master","topics":["react","react-native","card-scanning","card-io","ios","android"],"readmeSha":"e8695d194e682dbd335071767f06b5362427e4ed"},
+"members": [
+"card-io/card.io-iOS-SDK",
+"card-io/card.io-Android-SDK"
+]
+}

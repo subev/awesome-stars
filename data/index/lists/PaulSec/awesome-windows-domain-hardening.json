@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of awesome Security Hardening techniques for Windows.","defaultBranch":"master","topics":["windows","hardening","security"],"readmeSha":"ccff994a1b4f267731cebd9e68a62f81085f187a"},
+"members": [
+"PaulSec/awesome-windows-domain-hardening",
+"lgandx/Responder",
+"SpecterOps/BloodHound-Legacy",
+"ANSSI-FR/AD-control-paths",
+"PowerShellMafia/PowerSploit",
+"EmpireProject/Empire",
+"gentilkiwi/mimikatz",
+"HarmJ0y/CheatSheets",
+"hfiref0x/UACME",
+"hardentools/hardentools",
+"byt3bl33d3r/CrackMapExec",
+"cobbr/SharpSploit",
+"GhostPack/Rubeus",
+"byt3bl33d3r/SILENTTRINITY",
+"SwiftOnSecurity/sysmon-config",
+"nsacyber/Windows-Secure-Host-Baseline"
+]
+}

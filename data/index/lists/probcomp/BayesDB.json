@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself. New implementation in http://github.com/probcomp/bayeslite","defaultBranch":"master","topics":[],"readmeSha":"93b04d8d7a594bdcc2b27d504b821e85b534e5c8"},
+"members": [
+"probcomp/bayeslite"
+]
+}

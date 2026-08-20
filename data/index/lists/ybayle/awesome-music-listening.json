@@ -1,0 +1,20 @@
+{
+"meta": {"description":"Awesome list of websites dedicated to listening to music","defaultBranch":"master","topics":["music","website","listenings","awesome","list"],"readmeSha":"6bb7757f39ff2b48519e49b77c64dbb6f16678cf"},
+"members": [
+"sindresorhus/awesome",
+"joshwcomeau/panther",
+"ateymoori/lyricglow",
+"nukeop/nuclear",
+"WengYiNing/Auralytics",
+"JooeunAhn/beatsalon",
+"wizgrav/clubber",
+"MTG/dunya-desktop",
+"michaelbrooks/music-visualization",
+"ybayle/awesome-deep-learning-music",
+"noteflakes/awesome-music",
+"ad-si/awesome-music-production",
+"faroit/awesome-python-scientific-audio",
+"ad-si/awesome-sheet-music",
+"willianjusten/awesome-audio-visualization"
+]
+}

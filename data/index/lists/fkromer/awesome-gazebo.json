@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Gazebo, the simulation framework for ROS1 and ROS2 is awesome!","defaultBranch":"master","topics":[],"readmeSha":"483c3223c5f37a13933de933c9f5449f07bb7e3c"},
+"members": [
+"sindresorhus/awesome",
+"Liquid-ai/Plankton",
+"erlerobot/erle_gazebo_models",
+"bulletphysics/bullet3",
+"dartsim/dart",
+"simbody/simbody",
+"osrf/rosbook",
+"ros-simulation/gazebo_ros_pkgs"
+]
+}

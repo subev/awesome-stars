@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Easy & Flexible Alerting With ElasticSearch","defaultBranch":"master","topics":[],"readmeSha":"edc807095ea1bdbad1a9658169b1d2cd90088076"},
+"members": [
+"jertel/elastalert2",
+"YelpArchive/elastalert",
+"bitsensor/elastalert-kibana-plugin",
+"bitsensor/elastalert"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"ingestr is a CLI tool to copy data between any databases with a single command seamlessly.","defaultBranch":"main","topics":["bigquery","copy-database","data-ingestion","data-integration","data-pipeline","duckdb","ingestion-pipeline","mssql","postgresql","snowflake"],"readmeSha":"28031c338db7a73d1e5697aa85f45a99cf874e00"},
+"members": [
+
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Agentic BI. Analytics at the speed of code ⚡️","defaultBranch":"main","topics":["dbt","data-visualization","data-analytics","business-intelligence"],"readmeSha":"2a4210faa11a82ce0ac3c0c31c789d331fb122e7"},
+"members": [
+"lightdash/helm-charts"
+]
+}

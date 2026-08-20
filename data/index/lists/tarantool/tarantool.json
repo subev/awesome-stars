@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Get your data in RAM. Get compute close to data. Enjoy the performance.","defaultBranch":"master","topics":["tarantool","database","transactions","in-memory","disk","lua","msgpack","appserver"],"readmeSha":"a3d127ec85c5b0f442d52773291738cbb54bef6c"},
+"members": [
+"tarantool/queue",
+"tarantool/vshard",
+"tarantool/cartridge",
+"tarantool/mysql",
+"tarantool/pg",
+"tarantool/awesome-tarantool"
+]
+}

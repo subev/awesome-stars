@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Streaming MapReduce with Scalding and Storm","defaultBranch":"develop","topics":[],"readmeSha":"775281d5dcf3227e1807068946246cd71e24591d"},
+"members": [
+"nathanmarz/storm",
+"twitter/scalding",
+"twitter/analytics-infra-governance"
+]
+}

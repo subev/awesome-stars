@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A crazy fast analytical database, built on bitmaps. Perfect for ML applications. Learn more at: http://docs.featurebase.com/. Start a Docker instance: https://hub.docker.com/r/featurebasedb/featurebase","defaultBranch":"master","topics":["go","bitmap","index","pilosa","big-data","database","sql"],"readmeSha":"788abd5a0387674c55b8fcde16dd1dd2d633347a"},
+"members": [
+"FeatureBaseDB/FB-community-help"
+]
+}

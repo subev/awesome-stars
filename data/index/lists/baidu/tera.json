@@ -1,0 +1,10 @@
+{
+"meta": {"description":"An Internet-Scale Database.","defaultBranch":"master","topics":["nosql","database","c-plus-plus","baidu","data","storage","bigtable","hbase"],"readmeSha":"9a7c7eda0fa956832e7ffb3af40d63fc90e965cb"},
+"members": [
+"google/leveldb",
+"baidu/bfs",
+"baidu/ins",
+"baidu/sofa-pbrpc",
+"baidu/galaxy"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A win32 exe packer","defaultBranch":"master","topics":[],"readmeSha":"d1ac7cc57d4523af4421ae7385746cbffd6fe81e"},
+"members": [
+"Eronana/compressor"
+]
+}

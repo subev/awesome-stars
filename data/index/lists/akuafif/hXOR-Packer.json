@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A PE (Portable Executable) packer with Huffman Compression and Xor encryption.","defaultBranch":"main","topics":["huffman-compression","huffman-algorithm","pe-header","packer","xor-encryption","huffman-tree","cpp"],"readmeSha":"b1453ec2e37287b0aeaf8e8e86de559d6216fe17"},
+"members": [
+
+]
+}

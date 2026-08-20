@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated list of awesome social engineering resources.","defaultBranch":"master","topics":["social-engineering","awesome-list","infosec","psychology","osint"],"readmeSha":"d81f70ce0948f903d8fd7e97878b4f0e934663ea"},
+"members": [
+"sindresorhus/awesome",
+"trustedsec/social-engineer-toolkit",
+"CrimsonForge-io/king-phisher",
+"wifiphisher/wifiphisher",
+"kgretzky/evilginx2",
+"jivoi/awesome-osint",
+"evilsocket/xray",
+"laramies/theHarvester",
+"ilektrojohn/creepy",
+"exiftool-rb/exiftool.rb",
+"laramies/metagoofil",
+"arimogi/Google-Dorks",
+"k3170makan/GooDork",
+"jgor/dork-cli",
+"techgaun/github-dorks",
+"melvinsh/vcsmap",
+"DataSploit/datasploit",
+"Smaash/snitch",
+"Pinperepette/Geotweet_GUI"
+]
+}

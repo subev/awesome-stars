@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Time-series database","defaultBranch":"master","topics":["time-series","database","c-plus-plus","tsdb","time-series-database","metrics"],"readmeSha":"289eacda07321ee254d8f9673e961b9d38777330"},
+"members": [
+"akumuli/akumuli-datasource",
+"akumuli/akumuli-prometheus-adapter"
+]
+}

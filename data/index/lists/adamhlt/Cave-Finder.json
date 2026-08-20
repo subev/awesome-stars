@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Tool to find code cave in PE image (x86 / x64) - Find empty space to place code in PE files","defaultBranch":"main","topics":["codecave","cpp","pe","winapi","windows","windows-internals"],"readmeSha":"7da8cc15aff2858b63744caeaf43a716ce5822a0"},
+"members": [
+
+]
+}

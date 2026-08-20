@@ -1,0 +1,6 @@
+{
+"meta": {"description":"The official implementation of \"The Shapley Value of Classifiers in Ensemble Games\" (CIKM 2021).","defaultBranch":"master","topics":["shapley","shapley-value","owen","voting-classifier","machine-learning","classifier","random-forest","random-forest-classifier","explainable-ml","explainable-ai"],"readmeSha":"f9cf2f7fbbcb0d66974580e76b660a6a53a690e5"},
+"members": [
+
+]
+}

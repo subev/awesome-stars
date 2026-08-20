@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.","defaultBranch":"master","topics":[],"readmeSha":"088802e76dba34ccf80aafff5ae00436889ea778"},
+"members": [
+
+]
+}

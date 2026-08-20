@@ -1,0 +1,6 @@
+{
+"meta": {"description":"PE file manipulation library.","defaultBranch":"master","topics":[],"readmeSha":"7e2dd57ccf61b2e71dfb7f37f29c66bf84223bd2"},
+"members": [
+"avast/retdec"
+]
+}

@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Awesome D3D12 ecosystem","defaultBranch":"master","topics":["direct3d","microsoft","nvidia","amd","d3d12","directx"],"readmeSha":"136b30da34a3877b2d98897af9e7cafd48d2dda0"},
+"members": [
+"microsoft/DirectX-Graphics-Samples",
+"microsoft/DirectXTK12",
+"microsoft/DirectXTex",
+"microsoft/DirectXMesh",
+"microsoft/Xbox-ATG-Samples",
+"NVIDIAGameWorks/Falcor",
+"GPUOpen-LibrariesAndSDKs/HelloD3D12",
+"GPUOpen-LibrariesAndSDKs/Barycentrics12",
+"GPUOpen-LibrariesAndSDKs/nBodyD3D12",
+"GameTechDev/asteroids_d3d12",
+"GameTechDev/FlipModelD3D12",
+"GameTechDev/DX12-Multi-Adapter",
+"NVIDIAGameWorks/DxrTutorials",
+"NVIDIAGameWorks/GettingStartedWithRTXRayTracing",
+"alessiot89/D3D12QuickRef",
+"d3dcoder/d3d12book",
+"TheRealMJP/DeferredTexturing",
+"shobomaru/HelloD3D12",
+"chaoticbob/tinyrenderers",
+"nlguillemot/PipelineSet",
+"TheRealMJP/OverlappedExecution"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Beancount tips and tricks","defaultBranch":"master","topics":[],"readmeSha":"ee1538112f91ccace7e779d87668e8268f1d002a"},
+"members": [
+"sindresorhus/awesome",
+"beancount/beancount"
+]
+}

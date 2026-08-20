@@ -1,0 +1,33 @@
+{
+"meta": {"description":"😎 face releated algorithm, dataset and paper ","defaultBranch":"master","topics":["face","face-detection","face-recognition","papers","face-releated-algorithm","paper","dataset"],"readmeSha":"ae19a3cd889f632b434348c255fc9b6e8cbfe42e"},
+"members": [
+"ydwen/caffe-face",
+"davidsandberg/facenet",
+"happynear/NormFace",
+"liuyuisanai/coco_loss",
+"wy1iu/LargeMargin_Softmax_Loss",
+"wy1iu/sphereface",
+"happynear/AMSoftmax",
+"deepinsight/insightface",
+"anson0910/CNN_face_detection",
+"kpzhang93/MTCNN_face_detection_alignment",
+"mahyarnajibi/SSH",
+"sfzhang15/FaceBoxes",
+"peiyunh/tiny",
+"PaddlePaddle/models",
+"yfeng95/PRNet",
+"wywu/LAB",
+"1adrianb/face-alignment",
+"cleardusk/3DDFA",
+"AaronJackson/vrn",
+"XgTu/2DASL",
+"ZhaoJ9014/face.evoLVe",
+"grib0ed0v/face_recognition.pytorch",
+"XiaohangZhan/face_recognition_framework",
+"ShiqiYu/libfacedetection",
+"fwang91/IMDb-Face",
+"chenriwei/DeepFace",
+"betars/Face-Resources",
+"L706077/DNN-Face-Recognition-Papers"
+]
+}

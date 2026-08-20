@@ -1,0 +1,6 @@
+{
+"meta": {"description":"The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL","defaultBranch":"main","topics":["rust","database","sql","streaming","kafka","distributed-systems","postgresql-dialect","materialized-view","stream-processing","postgresql"],"readmeSha":"1ec6b773a9973df87b70ccba58443aeb042211da"},
+"members": [
+
+]
+}

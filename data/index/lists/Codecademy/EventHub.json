@@ -1,0 +1,8 @@
+{
+"meta": {"description":"An open source event analytics platform","defaultBranch":"master","topics":[],"readmeSha":"49b3ca46b0baa20b222e4e455ea013300cf6a944"},
+"members": [
+"fusesource/hawtjournal",
+"fusesource/leveldbjni",
+"Codecademy/EventHubClient"
+]
+}

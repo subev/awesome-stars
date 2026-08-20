@@ -1,0 +1,28 @@
+{
+"meta": {"description":":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.","defaultBranch":"main","topics":["automotive","lin","lin-bus","ldf","local-interconnect-network","iso17987","iso9141","arduino","raspberry-pi","stm32"],"readmeSha":"593c2434af859727ad5107d9c6dbed1d9a40400f"},
+"members": [
+"TOSUN-Shanghai/TSMaster",
+"lin-bus/linux-lin",
+"c4deszes/ldfparser",
+"TrippW/LDF-Parser",
+"TrippW/NCF-Parser",
+"uCAN-LIN/LinUSBConverter",
+"zapta/linbus",
+"cepr/linbus-phat",
+"sstiller/sllin",
+"lin-bus/linux-lin",
+"laurynas/volvo_linbus",
+"brainiac27/cwa400_lin",
+"gandrewstone/LIN",
+"macchina/LIN",
+"PersonalTransport/LIN",
+"mestrode/Lin-Interface-Library",
+"open-LIN/open-LIN-c",
+"CW-B-W/ESP32-openLIN",
+"CW-B-W/ESP32-SoftwareLIN",
+"marmotton/esp32-connected-car-lora",
+"festlv/carpc",
+"iDoka/awesome-canbus",
+"iDoka/awesome-automotive-can-id"
+]
+}

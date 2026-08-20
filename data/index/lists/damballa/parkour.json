@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Hadoop MapReduce in idiomatic Clojure.","defaultBranch":"master","topics":[],"readmeSha":"b99432ee8d3f7ee7bd77473deb1a93c6c4313498"},
+"members": [
+"weavejester/codox"
+]
+}

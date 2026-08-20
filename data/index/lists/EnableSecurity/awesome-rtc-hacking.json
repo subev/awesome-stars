@@ -1,0 +1,31 @@
+{
+"meta": {"description":"a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE","defaultBranch":"main","topics":["awesome-lists","voip-security","hacking-voip","sip-security","communications-hacking","webrtc","volte","awesome","hacking","security"],"readmeSha":"27f34b0e593e8e6185d1e35d42d14e19a5dfce7f"},
+"members": [
+"EnableSecurity/advisories",
+"EnableSecurity/sipvicious",
+"Pepelux/sippts",
+"jesusprubio/bluebox",
+"SigPloiter/SigPloit",
+"sonnyattck/vsaudit",
+"kapejod/rtpnatscan",
+"fozavci/viproy-voipkit",
+"rapid7/metasploit-framework",
+"meliht/Mr.SIP",
+"pentesteracademy/voipshark",
+"staaldraad/turner",
+"nils-ohlmeier/sipsak",
+"miconda/sipexer",
+"trustedsec/SeeYouCM-Thief",
+"firefart/stunner",
+"SySS-Research/TURNado",
+"praetorian-inc/turnt",
+"iknowjason/voiphopper",
+"relayhawk/twilio-security-scanner",
+"h26forge/h26forge",
+"EnableSecurity/DVRTC",
+"WebRTC-Thesis-Unina/RTC_Attacks",
+"W00t3k/Awesome-Cellular-Hacking",
+"rtckit/awesome-rtc",
+"ravens/awesome-telco"
+]
+}

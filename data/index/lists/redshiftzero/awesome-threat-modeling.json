@@ -1,0 +1,9 @@
+{
+"meta": {"description":"a curated list of useful threat modeling resources","defaultBranch":"master","topics":["threat-modeling","security","risk-assessment"],"readmeSha":"2231376115a609619ddeffe9b2a40b9ee26ecb51"},
+"members": [
+"mozilla/seasponge",
+"izar/pytm",
+"stevespringett/threatmodel-sdk",
+"yevh/TaaC-AI"
+]
+}

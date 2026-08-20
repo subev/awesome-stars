@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A simple packer working with all PE files which cipher your exe with a XOR implementation","defaultBranch":"master","topics":["dotnet","packer","xor","encryption"],"readmeSha":"70925901f5ca4e8bef11848291c4748cb6a82479"},
+"members": [
+
+]
+}

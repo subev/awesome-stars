@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Wrapper of some vim/neovim's :terminal functions.","defaultBranch":"master","topics":["repl","neovim","vim","terminal","hacktoberfest"],"readmeSha":"82c9b6712b892d9d88a3ca6096863e2cd8b8314c"},
+"members": [
+"IRkernel/IRkernel"
+]
+}

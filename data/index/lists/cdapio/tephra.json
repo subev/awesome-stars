@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Apache Tephra: Transactions for HBase.","defaultBranch":"develop","topics":[],"readmeSha":"53e50c89f214fca92ce2a317ca2664fcfdd435b5"},
+"members": [
+"cdapio/tephra"
+]
+}

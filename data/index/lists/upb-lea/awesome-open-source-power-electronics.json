@@ -1,0 +1,33 @@
+{
+"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"d8818339c9bba9bed84332a4c0ad05b173862316"},
+"members": [
+"FOSSEE/eSim",
+"geckocircuits/GeckoCIRCUITS",
+"Aalto-Electric-Drives/motulator",
+"upb-lea/pygeckocircuits2",
+"upb-lea/transistordatabase",
+"circuitikz/circuitikz",
+"Circuit2TikZ/CircuiTikZ-Designer",
+"medwatt/circuitikz_symbols",
+"jgraph/drawio-desktop",
+"NicklasVraa/Draw-io-ECE",
+"fsmMLK/inkscapeCircuitSymbols",
+"upb-lea/Inkscape_electric_Symbols",
+"ethz-pes/AI-mag",
+"ElmerCSC/elmerfem",
+"upb-lea/FEM_Magnetics_Toolbox",
+"ethz-pes/litz_wire_losses_fem_matlab",
+"PrincetonUniversity/magnet",
+"otvam/magnetic_components_toolbox_matlab",
+"ethz-pes/mirroring_method_matlab",
+"Power-Supply-Manufacturers-Association/MAS",
+"halbux/sparselizard",
+"horizon-eda/horizon",
+"upb-lea/KiClearance",
+"LibrePCB/LibrePCB",
+"JuliaLang/julia",
+"Severson-Group/AMDC-Hardware",
+"Severson-Group/AMDC-Firmware",
+"upb-lea/LCB-CCB-01_LEA_Control_Board"
+]
+}

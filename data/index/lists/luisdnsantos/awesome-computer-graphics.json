@@ -1,0 +1,10 @@
+{
+"meta": {"description":":small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics","defaultBranch":"master","topics":["awesome-list","awesome","computer-graphics","graphics","computer-science","programming","math","raytracer"],"readmeSha":"187162e7af014cdf553c2bf407851566ef03d11a"},
+"members": [
+"RayTracing/InOneWeekend",
+"Gargaj/Bonzomatic",
+"mmp/pbrt-v3",
+"ssloy/tinyrenderer",
+"lettier/3d-game-shaders-for-beginners"
+]
+}

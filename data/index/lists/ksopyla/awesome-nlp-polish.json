@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of resources dedicated to Natural Language Processing (NLP) in polish. Models, tools, datasets.","defaultBranch":"master","topics":["nlp","nlp-machine-learning","polish-language","datasets"],"readmeSha":"b1b1192efb7e2aedf4bfa03afe88cdb31bd25320"},
+"members": [
+"Ermlab/pl-sentiment-analysis",
+"Ermlab/PoLitBert",
+"sdadas/polish-nlp-resources",
+"kldarek/polbert",
+"allegro/HerBERT",
+"deeppavlov/Slavic-BERT-NER",
+"flairNLP/flair",
+"facebookresearch/fastText",
+"morfologik/morfologik-stemming",
+"dmirecki/pyMorfologik",
+"allegro/elasticsearch-analysis-morfologik",
+"dzieciou/pystempel",
+"ipipan/spacy-pl",
+"kwrobel-nlp/krnnt",
+"facebook/duckling",
+"Ermlab/polish-word-embeddings-review",
+"sdadas/polish-sentence-evaluation"
+]
+}

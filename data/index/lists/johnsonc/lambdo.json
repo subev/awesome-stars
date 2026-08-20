@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A column-oriented approach to feature engineering. Feature engineering and machine learning: together at last!","defaultBranch":"master","topics":[],"readmeSha":"1f1ccc9e8c78fde2255f031d65fa129b8548717d"},
+"members": [
+"asavinov/lambdo",
+"asavinov/bistro"
+]
+}

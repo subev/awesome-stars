@@ -1,0 +1,6 @@
+{
+"meta": {"description":"a graph visualization library using web workers and jQuery","defaultBranch":"master","topics":[],"readmeSha":"72516c20c5b11c166612c8c4796fb25cf7930512"},
+"members": [
+"dhotson/springy"
+]
+}

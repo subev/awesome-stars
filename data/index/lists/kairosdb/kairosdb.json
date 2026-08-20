@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Fast scalable time series database","defaultBranch":"develop","topics":["kairosdb","java","timeseries-database","metrics","timeseries"],"readmeSha":"73041ddfa4447a09958b156ae28d152863c31d76"},
+"members": [
+"kairosdb/kairosdb.github.io"
+]
+}

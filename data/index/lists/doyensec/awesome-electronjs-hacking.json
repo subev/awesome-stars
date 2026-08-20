@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of awesome resources about Electron.js (in)security","defaultBranch":"master","topics":[],"readmeSha":"b908dfc6a6f7a3affd67bcc6f0f4adde20efd00f"},
+"members": [
+"doyensec/electronegativity",
+"electron/fiddle",
+"matt-/CVE-2018-15685",
+"justinsteven/advisories",
+"oskarsve/ms-teams-rce",
+"wireapp/wire-desktop",
+"msrkp/electron-research",
+"Metnew/write-ups",
+"moloch--/reasonably-secure-electron",
+"Karmaz95/Snake_Apple",
+"lirantal/awesome-nodejs-security",
+"sindresorhus/awesome-electron"
+]
+}

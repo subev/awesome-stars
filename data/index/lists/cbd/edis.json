@@ -1,0 +1,6 @@
+{
+"meta": {"description":"An Erlang implementation of Redis","defaultBranch":"master","topics":[],"readmeSha":"c938c7b7c484d3666bb09d81c76b330380926da8"},
+"members": [
+"cbd/edis"
+]
+}

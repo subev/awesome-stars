@@ -1,0 +1,6 @@
+{
+"meta": {"description":"The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.","defaultBranch":"main","topics":["ai-native","nearest-neighbor-search","rag","vector-search","information-retrival","bm25","embedding","full-text-search","search-engine","cpp20-modules"],"readmeSha":"b10b14edbb6afb675fe7c24cf73539b287d91451"},
+"members": [
+
+]
+}

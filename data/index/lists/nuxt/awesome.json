@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of awesome things related to Nuxt.js","defaultBranch":"master","topics":["nuxtjs","awesome-list","nuxt","tutorial","welcome-pr","awesome","vue"],"readmeSha":"fc1fb0120e20924d910826c1a684840f1483036b"},
+"members": [
+"sindresorhus/awesome",
+"nuxt/nuxt",
+"nuxt/starter",
+"kingyue737/vitify-nuxt",
+"NicolaSpadari/nuxtor",
+"nuxt/movies",
+"nuxt/hackernews",
+"nuxt/examples",
+"potato4d/nuxt-beginners-guide",
+"Akryum/vue-observe-visibility",
+"acidjazz/oneconcern",
+"surmon-china/surmon.me",
+"igeligel/personal-site"
+]
+}

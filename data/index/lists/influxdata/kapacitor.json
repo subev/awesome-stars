@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Open source framework for processing, monitoring, and alerting on time series data","defaultBranch":"master","topics":["kapacitor","monitoring","time-series"],"readmeSha":"f1035aeb51410324dfac59c9c5ab203bd1a9fcf5"},
+"members": [
+
+]
+}

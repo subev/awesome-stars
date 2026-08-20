@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Mirror of Apache Slider","defaultBranch":"develop","topics":["retired"],"readmeSha":"2f7a91001e01dc501c013929a22463726d0b6ee4"},
+"members": [
+"apache/incubator-retired-slider"
+]
+}

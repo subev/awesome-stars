@@ -1,0 +1,29 @@
+{
+"meta": {"description":"GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.","defaultBranch":"master","topics":["database","griddb","nosql","iot","fast","time-series","newsql","sql","bigdata","timeseries"],"readmeSha":"c117e40cfb503685106ba59fa4cdee88cae30507"},
+"members": [
+"griddb/docs-en",
+"griddb/jdbc",
+"griddb/c_client",
+"griddb/python_client",
+"griddb/ruby_client",
+"griddb/go_client",
+"griddb/nodejs_client",
+"griddb/node-api",
+"griddb/php_client",
+"griddb/perl_client",
+"griddb/rust_client",
+"griddb/webapi",
+"griddb/cli",
+"griddb/expimp",
+"griddb/griddb_hadoop_mapreduce",
+"brianfrankcooper/YCSB",
+"griddb/griddb_kairosdb",
+"griddb/griddb_spark",
+"pgspider/griddb_fdw",
+"griddb/griddb-datasource",
+"griddb/griddb-redash",
+"griddb/fluent-plugin-griddb",
+"griddb/tableau-plugin-griddb",
+"griddb/griddb-kafka-connect"
+]
+}

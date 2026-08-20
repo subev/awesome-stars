@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config","defaultBranch":"master","topics":["neovim","nvim","lua","plugin-manager","neovim-plugin","packer","package-manager"],"readmeSha":"b139568dc164807ef2354170c394b8253bc8ee67"},
+"members": [
+"folke/lazy.nvim",
+"lewis6991/pckr.nvim",
+"jwiegley/use-package",
+"wbthomason/dotfiles",
+"tjdevries/config_manager",
+"neovim/neovim"
+]
+}

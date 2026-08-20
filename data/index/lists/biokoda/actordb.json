@@ -1,0 +1,7 @@
+{
+"meta": {"description":"ActorDB distributed SQL database","defaultBranch":"master","topics":[],"readmeSha":"54f2fa985d311024290a50dcbff079b62b933b58"},
+"members": [
+"biokoda/actordb_client",
+"danielcrenna/actordb-net"
+]
+}

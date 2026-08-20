@@ -1,0 +1,29 @@
+{
+"meta": {"description":"Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.","defaultBranch":"master","topics":[],"readmeSha":"d957cf9bfeeea5cd981e2301f0bee72fd354347f"},
+"members": [
+"mgeeky/ProtectMyTooling",
+"EgeBalci/amber",
+"d35ha/CallObfuscator",
+"mkaring/ConfuserEx",
+"TheWover/donut",
+"optiv/Freeze",
+"danielbohannon/Invoke-Obfuscation",
+"AnErrupTion/LoGiC.NET",
+"optiv/Mangle",
+"icyguider/Nimcrypt2",
+"chvancooten/NimPackt-v1",
+"jadams/Packer64",
+"hasherezade/pe_to_shellcode",
+"v-p-b/peCloakCapstone",
+"avast/pe_tools",
+"optiv/ScareCrow",
+"EgeBalci/sgn",
+"monoxgas/sRDI",
+"CCob/BOF.NET",
+"moloch--/denim",
+"med0x2e/GadgetToJScript",
+"Tylous/Limelighter",
+"phra/PEzor",
+"rapid7/metasploit-framework"
+]
+}

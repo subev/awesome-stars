@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated dataset of malware and benign Windows executable samples for malware researchers","defaultBranch":"master","topics":["machine-learning","deep-learning","malware-research","malware-detection","image-classification"],"readmeSha":"cdffca168d1040b373af888f38d4cbe564a89879"},
+"members": [
+
+]
+}

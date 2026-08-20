@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Next-generation web analytics processing with Scala, Spark, and Parquet.","defaultBranch":"master","topics":[],"readmeSha":"3ae5a672cfa00e10094fdcfaab72d561f0c52942"},
+"members": [
+"adobe-research/spark-cluster-deployment",
+"EsotericSoftware/kryo",
+"bigdatagenomics/adam",
+"robwierzbowski/grunt-build-control",
+"bigtoast/sbt-thrift",
+"sbt/sbt-assembly",
+"adobe-research/spark-parquet-thrift-example",
+"rlamana/terminus",
+"bamos/beamer-snippets",
+"dangrossman/daterangepicker",
+"brightcove-archive/ooyala_spark-jobserver"
+]
+}

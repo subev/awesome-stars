@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.","defaultBranch":"master","topics":["data","ingestion","replication","management","apache"],"readmeSha":"df8839df1d95d92a2b266308a5a6c44f48883160"},
+"members": [
+
+]
+}

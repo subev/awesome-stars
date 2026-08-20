@@ -1,0 +1,8 @@
+{
+"meta": {"description":"NetLytics is a Hadoop-powered framework for performing advanced analytics on various kinds of networks logs","defaultBranch":"master","topics":[],"readmeSha":"bdf3ec7b4ce69c2bd36db683fcd038fcf06a483f"},
+"members": [
+"ekalinin/github-markdown-toc",
+"DNS-OARC/dnscap",
+"twitter/AnomalyDetection"
+]
+}

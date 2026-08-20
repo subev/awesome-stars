@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Astral-PE is a low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64)","defaultBranch":"main","topics":["cybersecurity","hacktoberfest","low-level","mutator","obfuscation","obfuscator","pe","infosec","dotnet","native"],"readmeSha":"7cd252ec15133948a9403dc5cd38ac1b6b26f5f3"},
+"members": [
+"horsicq/Detect-It-Easy"
+]
+}

@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A Curated List of Awesome Facebook Libra Resources","defaultBranch":"master","topics":[],"readmeSha":"25cc5dd5d9b524cae00768501ede15962b9f6ac9"},
+"members": [
+"sindresorhus/awesome",
+"diem/diem",
+"dpikalov/libra-wallet",
+"sns254/LibraTerminal",
+"Disk1n/LibraBrowser",
+"libra-china-org/librablock-frontend",
+"libra-china-org/librabock-backend",
+"perfectmak/libra-core",
+"bandprotocol/libra-web",
+"egorsmkv/libra-grpc-py",
+"bandprotocol/pylibra",
+"the729/go-libra",
+"codemaveric/libra-go",
+"philippgille/libra-sdk-go",
+"phlip9/libra_example",
+"ketola/jlibra",
+"ice09/jlibra-spring-boot-starter",
+"ice09/java-libra-client",
+"learndapp/LearnDapp",
+"Berkays/libra-util",
+"copperbits/awesome-libra",
+"learndapp/awesome-libra",
+"methuz/Awesome-Libra"
+]
+}

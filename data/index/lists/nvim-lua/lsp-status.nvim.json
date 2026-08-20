@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline","defaultBranch":"master","topics":["lsp-status","neovim","nvim","lsp-client","lua","statusline","neovim-plugin","lsp"],"readmeSha":"89db37bd2e210d2c323eaa5fd7c523239d87cd53"},
+"members": [
+"neovim/neovim",
+"kristijanhusak/vim-packager",
+"microsoft/python-language-server",
+"LuaLS/lua-language-server",
+"neovim/nvim-lspconfig"
+]
+}

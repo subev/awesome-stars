@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Java language server","defaultBranch":"main","topics":["language-server-protocol","eclipse","java"],"readmeSha":"209dc62e66fe296311034a95af735ec08602c87a"},
+"members": [
+"microsoft/language-server-protocol",
+"eclipse-lsp4j/lsp4j",
+"eclipse-buildship/buildship",
+"eclipse-jdtls/eclipse.jdt.ls",
+"redhat-developer/vscode-java",
+"atom/ide-java",
+"ycm-core/ycmd",
+"onivim/oni",
+"emacs-lsp/lsp-java",
+"eclipse-theia/theia",
+"redhat-developer/eclipseide-jdtls",
+"neoclide/coc-java",
+"neoclide/coc.nvim",
+"MSPaintIDE/MSPaintIDE",
+"mfussenegger/nvim-jdtls",
+"microsoft/monitors4codegen"
+]
+}

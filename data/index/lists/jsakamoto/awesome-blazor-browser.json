@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Blazor WebAssembly app for browsing the \"Awesome Blazor\" resources.","defaultBranch":"master","topics":["blazor","blazor-webassembly","blazor-client","blazor-application","awesome-list"],"readmeSha":"9baa12a48ddfc1c840291d59ae1a5385489519ad"},
+"members": [
+"AdrienTorris/awesome-blazor"
+]
+}

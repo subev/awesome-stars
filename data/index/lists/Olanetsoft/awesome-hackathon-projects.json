@@ -1,0 +1,9 @@
+{
+"meta": {"description":"This is a curated list of amazing hackathon projects","defaultBranch":"main","topics":["awesome","awesome-list","javascript","python","react","hackathon","hashnode-hackathon","hashnode","projects","hacktoberfest"],"readmeSha":"e32ebd2b398bcdb70e553322c148968a2d7c7ccd"},
+"members": [
+"sindresorhus/awesome",
+"dribdat/awesome-hackathon",
+"apps-camelot/HodlHabits",
+"junseom/Veri-Connect"
+]
+}

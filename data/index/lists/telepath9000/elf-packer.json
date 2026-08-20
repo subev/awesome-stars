@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Encrypts 64-bit elf files that decrypt at runtime. ","defaultBranch":"master","topics":["elf64","linux","elf-binaries","elf-parser","binary-analysis","injection-attacks","encryption","self-modifying-code","elf-format"],"readmeSha":"462955211eba060a15a333adcefb0b9d713fefdd"},
+"members": [
+
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"EliasDB a graph-based database.","defaultBranch":"master","topics":["golang","graph","embedded","supports-transactions","query-language","standalone","tutorial","rest-api","swagger","database"],"readmeSha":"71f2da7d5cc9d370c6c9a247f7136ae7aac8c6a7"},
+"members": [
+"avelino/awesome-go"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"List of FastAPI projects! :sunglasses: :rocket: ","defaultBranch":"master","topics":["fastapi"],"readmeSha":"d464c6a722d6422c6e1ce393870b3acc991f165a"},
+"members": [
+"pyenv/pyenv",
+"Schniz/fnm"
+]
+}

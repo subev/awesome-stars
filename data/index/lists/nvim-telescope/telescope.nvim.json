@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Find, Filter, Preview, Pick. All lua, all the time.","defaultBranch":"master","topics":["neovim","lua","nvim-lua","nvim","neovim-plugin"],"readmeSha":"882c2ed6433aac6657528bf86edba598e3b8d645"},
+"members": [
+"neovim/neovim",
+"nvim-lua/plenary.nvim",
+"BurntSushi/ripgrep",
+"sharkdp/fd",
+"nvim-tree/nvim-web-devicons",
+"nvim-telescope/telescope-fzf-native.nvim",
+"nvim-telescope/telescope-fzy-native.nvim",
+"folke/lazy.nvim",
+"nvim-treesitter/nvim-treesitter",
+"nvim-telescope/telescope-symbols.nvim",
+"folke/snacks.nvim",
+"nvim-mini/mini.pick",
+"ibhagwan/fzf-lua",
+"junegunn/fzf.vim",
+"Shougo/denite.nvim",
+"liuchengxu/vim-clap"
+]
+}

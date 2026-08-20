@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Legacy Chartist Repo for old gh-pages","defaultBranch":"main","topics":[],"readmeSha":"1c88f88a48c2d143e5c08ee726a1961ba041f9b4"},
+"members": [
+"chartist-js/chartist"
+]
+}

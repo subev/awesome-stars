@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Secor is a service implementing Kafka log persistence","defaultBranch":"master","topics":["kafka"],"readmeSha":"8fc1d9f32e7006e7bbf047c25d4da919f140e6c6"},
+"members": [
+"twitter-archive/ostrich",
+"statsd/statsd"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Get up to speed on Maximum Extractable Value","defaultBranch":"master","topics":[],"readmeSha":"1693db41363ba68aa02ceaf8505b61e512ea8c8f"},
+"members": [
+"Dogetoshi/MEV",
+"flashbots/pm",
+"thegostep/awesome-mev-boost"
+]
+}

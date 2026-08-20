@@ -1,0 +1,10 @@
+{
+"meta": {"description":"TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.","defaultBranch":"master","topics":["distributed-database","distributed-transactions","tidb","database","scale","mysql","htap","sql","cloud-native","serverless"],"readmeSha":"af96c39633d38d5e62f635756db7a4110e3f2d83"},
+"members": [
+"pingcap/community",
+"pingcap/tidb-map",
+"syndtr/goleveldb",
+"boltdb/bolt",
+"facebook/rocksdb"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.","defaultBranch":"master","topics":[],"readmeSha":"305cc3f1c6c324dc8537c7bb38c1832a492fd7cb"},
+"members": [
+"seaweedfs/seaweedfs",
+"seaweedfs/seaweedfs-operator",
+"seaweedfs/seaweedfs-csi-driver"
+]
+}

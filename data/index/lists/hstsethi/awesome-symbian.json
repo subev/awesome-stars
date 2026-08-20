@@ -1,0 +1,27 @@
+{
+"meta": {"description":"An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["n-gage","ngage","nokia","symbian","awesome","awesome-list","cpp","j2me","midp","qt"],"readmeSha":"39b8dc4d59e4e4c47e688a8fcee5665ed19db729"},
+"members": [
+"fedor4ever/GCC4Symbian",
+"djbozkosz/Symbian-HomeScreen-Widget-QML",
+"EKA2L1/EKA2L1",
+"goldendict/goldendict",
+"vitalii17/RotateIt",
+"vitalii17/NanoCounter",
+"marxoft/cutetube2",
+"machinekoder/QRemoteControl-Client",
+"Allstar12345/Star-Browser-Symbian",
+"d3ru/FShell",
+"ltomuta/filelist",
+"smurfy/fahrplan",
+"fedor4ever/internet-radio",
+"Dante-Leoncini/Whisk3D-Editor",
+"hstsethi/awesome-j2me",
+"mrRosset/Symbian-Archive",
+"fffaraz/awesome-cpp",
+"mrRosset/E32Explorer",
+"Florin9doi/rombrowser",
+"Florin9doi/romdump",
+"trufanov-nok/SymbianBook_ru",
+"sapandiwakar/Symbian-Application-Development-Tutorials"
+]
+}

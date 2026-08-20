@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.","defaultBranch":"master","topics":["cms","dotnetcore","dotnet-standard","grunt","grunt-task","webpack-configuration","webpack-plugin","webpack-loader","webapi","awesome"],"readmeSha":"8801267d1e9e84d1b6567cfb4b22d6f18dfbb696"},
+"members": [
+"thangchung/awesome-dotnet-core"
+]
+}

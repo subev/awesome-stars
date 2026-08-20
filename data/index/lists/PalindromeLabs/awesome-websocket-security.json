@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Awesome information for WebSockets security research","defaultBranch":"main","topics":["security","websocket","websockets","security-tools","websocket-security","websockets-security","web-application-security"],"readmeSha":"9d6014fe839e7b217b6dd5483de4087f75dc968c"},
+"members": [
+"sindresorhus/awesome",
+"uNetworking/uWebSockets",
+"python-websockets/websockets",
+"websockets/ws",
+"google/oss-fuzz-vulns",
+"gorilla/websocket",
+"rico345100/socket.io-file",
+"faye/faye-websocket-ruby",
+"faye/faye",
+"TooTallNate/Java-WebSocket",
+"socketio/socket.io",
+"tornadoweb/tornado",
+"PalindromeLabs/STEWS",
+"0ang3el/websocket-smuggle",
+"BishopFox/h2csmuggler",
+"andresriancho/websocket-fuzzer",
+"VDA-Labs/websocket-harness",
+"interference-security/DVWS",
+"PalindromeLabs/WebSockets-Playground",
+"vi/websocat",
+"alexanderGugel/wsd"
+]
+}

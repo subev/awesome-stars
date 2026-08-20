@@ -1,0 +1,7 @@
+{
+"meta": {"description":"🌟 Curated design resources from all over the world.","defaultBranch":"master","topics":["design","ui","ux","creative","adobe","sketch","vector","graphics","awesome","curated"],"readmeSha":"cf5949baced80de425a6e8c2c08367b6dd019d1c"},
+"members": [
+"sindresorhus/awesome",
+"sketchplugins/plugin-directory"
+]
+}

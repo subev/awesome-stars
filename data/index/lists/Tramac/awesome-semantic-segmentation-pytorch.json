@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)","defaultBranch":"master","topics":["semantic-segmentation","pytorch"],"readmeSha":"02c3f114bd3ca9bdb9d567efdb7db559c21c0229"},
+"members": [
+"Tramac/Fast-SCNN-pytorch",
+"Tramac/Lightweight-Segmentation",
+"zhanghang1989/PyTorch-Encoding",
+"facebookresearch/maskrcnn-benchmark",
+"dmlc/gluon-cv",
+"pytorch/examples"
+]
+}

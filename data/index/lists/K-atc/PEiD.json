@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Yet another implementation of PEiD with yara","defaultBranch":"master","topics":["binary-analysis","yara","yara-rules","peid"],"readmeSha":"460933c217d2a913d5dfa29a1afa61bd5fdcfd43"},
+"members": [
+"Yara-Rules/rules"
+]
+}

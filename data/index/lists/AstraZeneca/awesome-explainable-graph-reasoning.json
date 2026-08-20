@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A collection of research papers and software related to explainability in graph machine learning.","defaultBranch":"master","topics":["awesome-list","graph","graph-algorithms","deep-learning","explainable-ai","explainable-ml","graphml"],"readmeSha":"690490c4a3b8bd409c64d1bfb957dfd4a8639599"},
+"members": [
+"sindresorhus/awesome"
+]
+}

@@ -1,0 +1,20 @@
+{
+"meta": {"description":" :octocat: Machine Learning for Cyber Security","defaultBranch":"master","topics":["machine-learning","cyber-security","data-mining","awesome-list"],"readmeSha":"4ab06457300bba7a3adc2bf340699605fe793689"},
+"members": [
+"sindresorhus/awesome",
+"Jehuty4949/NSL_KDD",
+"foospidy/payloads",
+"faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall",
+"marcoramilli/MalwareTrainingSets",
+"jzadeh/aktaion",
+"elastic/ember",
+"gubertoli/ProbingDataset",
+"cylance/IntroductionToMachineLearningForSecurityPros",
+"lcatro/WebShell-Detect-By-Machine-Learning",
+"deepfence/FlowMeter",
+"13o-bbr-bbq/machine_learning_security",
+"PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing",
+"BishopFox/eyeballer",
+"mandiant/stringsifter"
+]
+}

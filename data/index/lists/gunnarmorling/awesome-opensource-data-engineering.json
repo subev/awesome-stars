@@ -1,0 +1,23 @@
+{
+"meta": {"description":"An Awesome List of Open-Source Data Engineering Projects","defaultBranch":"master","topics":["awesome-list","data-engineering"],"readmeSha":"92f06dedd584f1af9e2e223318d9b958e1c7ce4c"},
+"members": [
+"igorbarinov/awesome-data-engineering",
+"zendesk/maxwell",
+"datahub-project/datahub",
+"Netflix/metacat",
+"elementary-data/elementary",
+"monosidev/monosi",
+"open-metadata/OpenMetadata",
+"dremio/dremio-oss",
+"Alluxio/alluxio",
+"influxdata/telegraf",
+"wepay/waltz",
+"DataKitchen/data-observability-installer",
+"treeverse/lakeFS",
+"meirwah/awesome-workflow-engines",
+"PrefectHQ/prefect",
+"dagster-io/dagster",
+"kestra-io/kestra",
+"mage-ai/mage-ai"
+]
+}

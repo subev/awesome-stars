@@ -1,0 +1,6 @@
+{
+"meta": {"description":"DEPRECATED. Zeppelin has moved to Apache. Please make pull request there","defaultBranch":"master","topics":[],"readmeSha":"835285031d10ae6dd3209603ec9f8f8b6cf3d730"},
+"members": [
+"apache/zeppelin"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Accumulo backed time series database","defaultBranch":"master","topics":["accumulo","series-database","time-series","hacktoberfest","timeseries"],"readmeSha":"eb28eeddd548f89201db018fb22d4932acafa0c0"},
+"members": [
+
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A malware dataset curation tool which helps identify packed samples.","defaultBranch":"master","topics":["malware","packer","security","peid","pefile"],"readmeSha":"1892fdee296efe29b19b2b1366e285fb829f0175"},
+"members": [
+"erocarrera/pefile"
+]
+}

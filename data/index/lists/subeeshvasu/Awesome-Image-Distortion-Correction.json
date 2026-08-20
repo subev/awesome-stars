@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated list of resources on handling Rolling Shutter effects and Radial Distortions","defaultBranch":"master","topics":["rolling-shutter-cameras","rolling-shutter-images","motion","cameras","calibration","distortion-correction","radial-distortion"],"readmeSha":"3c60d3d9d8a3d40e9e81571f309d6d1a9d1fd6e1"},
+"members": [
+"IRVLab/unrolling",
+"jaehak/rrd_slam",
+"ThomasZiegler/RS-aware-differential-SfM",
+"ethliup/DeepUnrollNet",
+"zzh-tech/RSCD",
+"GitCVfb/SUNet",
+"GitCVfb/RSSR",
+"GitCVfb/CVR",
+"ljzycmd/BSRSC",
+"lightChaserX/neural-global-shutter",
+"zzh-tech/Dual-Reversed-RS",
+"eyalnaor/VideoRollingShutter",
+"xiaoyu258/GeoProj",
+"Canjie-Luo/MORAN_v2",
+"Gamrix/cs231n_proj",
+"tdsuper/Distortion-aware-CNNs",
+"jeringeo/CompressiveFlows",
+"bchao1/awesome-image-rectification",
+"mdbloice/Augmentor"
+]
+}

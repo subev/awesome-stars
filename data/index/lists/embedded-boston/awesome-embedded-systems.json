@@ -1,0 +1,32 @@
+{
+"meta": {"description":"A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!","defaultBranch":"master","topics":[],"readmeSha":"e9a0f4a06f7ff8d078da13ea721a6b6667487c62"},
+"members": [
+"sindresorhus/awesome",
+"adamdunkels/uip",
+"staropram/cantcoap",
+"1248/microcoap",
+"darconeous/libnyoci",
+"CANopenNode/CANopenNode",
+"ludocode/mpack",
+"intel/tinycbor",
+"hit9/bitproto",
+"lcsmuller/json-build",
+"tinyos/tinyos-main",
+"contiki-os/contiki",
+"doctest/doctest",
+"tpounds/mockitopp",
+"rollbear/trompeloeil",
+"catchorg/Catch2",
+"aregtech/areg-sdk",
+"oxidecomputer/hubris",
+"rust-embedded/wg",
+"jerryscript-project/jerryscript",
+"ycoroneos/G.E.R.T",
+"esrlabs/estl-teaser",
+"ETLCPP/etl",
+"electronicarts/EASTL",
+"r-lyeh/single_file_libs",
+"mendersoftware/mender",
+"sbabic/swupdate"
+]
+}

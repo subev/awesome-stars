@@ -1,0 +1,30 @@
+{
+"meta": {"description":":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking","defaultBranch":"master","topics":["lists","awesome","awesome-list","quantified-self","tracking","quantified","self","wearables","list"],"readmeSha":"a38384f54b9bf7c9bede391ffcc6374c9982860d"},
+"members": [
+"sindresorhus/awesome",
+"woop/awesome-quantified-self",
+"NoTranslationLayer/biomarkerdash",
+"ashugaev/bloodboy-biomarkers-tracker",
+"deep0410/garmin-ai-notifier",
+"airwaylab-app/airwaylab",
+"ledger/ledger",
+"firefly-iii/firefly-iii",
+"mayswind/ezbookkeeping",
+"shmlkv/dna-claude-analysis",
+"timelinize/timelinize",
+"facebookresearch/personal-timeline",
+"danfang/me-api",
+"novoid/Memacs",
+"karlicoss/HPI",
+"KristianP26/ble-scale-sync",
+"chronicle-app/chronicle-etl",
+"QS-Schema/qs-schema",
+"screenpipe/screenpipe",
+"simonw/datasette",
+"nopara73/LongevityWorldCup",
+"shenas-org/shenas",
+"lifeos-plus/lifeos-cli",
+"PankajKumardev/gitstory-2025",
+"chukwumaonyeije/pgis-manus-skill"
+]
+}

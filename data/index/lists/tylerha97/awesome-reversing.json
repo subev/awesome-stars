@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A curated list of awesome reversing resources","defaultBranch":"master","topics":[],"readmeSha":"167b5b09b7cc1b051aa7b51e612ee1760c075a42"},
+"members": [
+"iosre/iOSAppReverseEngineering",
+"RPISEC/Malware",
+"rednaga/training",
+"gdbinit/MachOView",
+"cseagle/fREedom",
+"BinaryAnalysisPlatform/bap",
+"angr/angr",
+"dnSpy/dnSpy",
+"NtQuery/Scylla",
+"Rurik/Noriben",
+"volatilityfoundation/volatility",
+"jtsylve/LiME",
+"vivisect/vivisect",
+"unicorn-engine/unicorn",
+"AlanQuatermain/appencryptor",
+"gdbinit/readmem",
+"cogent/origami-pdf",
+"idapython/src",
+"onethawt/idaplugins-list",
+"erocarrera/pefile",
+"ghidraninja/ghidra_scripts",
+"pxb1988/dex2jar",
+"Neo23x0/yarGen",
+"AlienVault-OTX/yabin"
+]
+}

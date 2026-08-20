@@ -1,0 +1,14 @@
+{
+"meta": {"description":"A curated list of curated lists of libraries, resources and shiny things for various languages.","defaultBranch":"master","topics":[],"readmeSha":"da159e066cd04c84247ed6880b3f9de38e4d08c9"},
+"members": [
+"sindresorhus/awesome",
+"bayandin/awesome-awesomeness",
+"J2TEAM/awesome-AutoIt",
+"oz123/awesome-c",
+"CodyReichert/awesome-cl",
+"sobolevn/awesome-cryptography",
+"HQarroum/awesome-iot",
+"JStumpp/awesome-android",
+"marcobiedermann/search-engine-optimization"
+]
+}

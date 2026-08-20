@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Graph Traversal Language (no longer active - see Apache TinkerPop)","defaultBranch":"master","topics":[],"readmeSha":"8ecfa2d9975c41e25c04036bc3cfb5300790ac14"},
+"members": [
+"tinkerpop/blueprints"
+]
+}

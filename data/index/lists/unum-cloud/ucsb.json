@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Wide NoSQL benchmark for RocksDB, LevelDB, Redis, WiredTiger and MongoDB extending the Yahoo Cloud Serving Benchmark","defaultBranch":"main","topics":["benchmark","rocksdb","leveldb","ycsb","wiredtiger","mongodb","lsm-tree","google-benchmark","valgrind","terabyte"],"readmeSha":"94b633b5f2d2c45491cb90860b8fbf34b50bde5a"},
+"members": [
+"unum-cloud/UStore",
+"ashvardanian/SmashTable",
+"brianfrankcooper/YCSB"
+]
+}

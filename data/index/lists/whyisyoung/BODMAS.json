@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Code for our DLS'21 paper - BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware. BODMAS is short for Blue Hexagon Open Dataset for Malware AnalysiS. ","defaultBranch":"gh-pages","topics":["malware","pe-malware","malware-dataset","malware-research","open-datasets","temporal-data"],"readmeSha":"2daada8bbe1830ff5e08cbc880d5375511d950c4"},
+"members": [
+
+]
+}

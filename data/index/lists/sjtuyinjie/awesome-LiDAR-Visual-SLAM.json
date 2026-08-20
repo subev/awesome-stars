@@ -1,0 +1,32 @@
+{
+"meta": {"description":"A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM","defaultBranch":"main","topics":[],"readmeSha":"7dc185687f6eb80ec1de6e68bbf745a4fe9094f7"},
+"members": [
+"ZikangYuan/sr_livo",
+"sjtuyinjie/Ultra-Fusion",
+"sjtuyinjie/M3DGR",
+"sjtuyinjie/Ground-Fusion2",
+"hku-mars/FAST-LIVO2",
+"hku-mars/r3live",
+"ZikangYuan/SDV-LOAM",
+"APRIL-ZJU/Coco-LIC",
+"hku-mars/FAST-LIVO",
+"hku-mars/r2live",
+"jypjypjypjyp/lvio_fusion",
+"ISEE-Technology/CamVox",
+"TixiaoShan/LVI-SAM",
+"TurtleZhong/LVIO-SAM",
+"kinggreat24/dv-loam",
+"johannes-graeter/limo",
+"sjtuyinjie/awesome-wheel-slam",
+"sjtuyinjie/awesome-isaac-sim",
+"Deephome/Awesome-LiDAR-Camera-Calibration",
+"SilenceOverflow/Awesome-SLAM",
+"youngguncho/awesome-slam-datasets",
+"zubair-irshad/Awesome-Implicit-NeRF-Robotics",
+"jonyzhang2023/awesome-humanoid-learning",
+"robotlearning123/awesome-isaac-gym",
+"curieuxjy/Awesome_Quadrupedal_Robots",
+"robot-descriptions/awesome-robot-descriptions",
+"gaiyi7788/awesome-legged-locomotion-learning"
+]
+}

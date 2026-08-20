@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A probabilistic data structure service and storage","defaultBranch":"master","topics":[],"readmeSha":"8224e5cc5a4364f47e869cc7b0864a6c5b33b181"},
+"members": [
+"skizzehq/goskizze",
+"skizzehq/node-skizze"
+]
+}

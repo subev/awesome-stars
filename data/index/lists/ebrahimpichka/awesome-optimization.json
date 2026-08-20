@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.","defaultBranch":"main","topics":["combinatorial-optimization","convex-optimization","discrete-optimization","integer-linear-programming","integer-programming","linear-optimization","linear-programming","mathematical-modelling","mathematical-optimization","mathematical-programming"],"readmeSha":"aa8eaa026b4c47d8ab9d34d6955de815e8208bf4"},
+"members": [
+"chkwon/jpor_codes",
+"open-optimization/open-optimization-or-book",
+"Jason2Brownlee/CleverAlgorithms",
+"google/or-tools",
+"Axelwickm/or-tools-wasm",
+"metab0t/PyOptInterface",
+"benalexkeen/Introduction-to-linear-programming",
+"cvxpy/cvxpy",
+"ANL-CEEESA/MIPLearn",
+"hubbs5/or-gym",
+"ds4dm/ecole",
+"jvkersch/pyconcorde",
+"meta-pytorch/botorch",
+"nnaisense/evotorch",
+"metaopt/torchopt",
+"Yuma-Ichikawa/QQA4CO"
+]
+}

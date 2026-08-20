@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Automatic and platform-independent unpacker for Windows binaries based on emulation","defaultBranch":"master","topics":["reverse-engineering","unpacker","pefile","windows","python","security","unicorn-engine","debugger","dumper","emulation"],"readmeSha":"2f2f8fd0cab7f6fce84c6bb216f6072207375e92"},
+"members": [
+"upx/upx",
+"L1NNA/jvd",
+"VirusTotal/yara",
+"rpgeeganage/restful4up"
+]
+}

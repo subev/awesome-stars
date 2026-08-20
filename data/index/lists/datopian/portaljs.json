@@ -1,0 +1,6 @@
+{
+"meta": {"description":"🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).","defaultBranch":"main","topics":["data-portal","ckan","nextjs","open-data-portal","data-mesh","datahub","open-data","openmetadata","dataverse","dkan"],"readmeSha":"10b2eb811691cf9b9070409ae0c8463da1706759"},
+"members": [
+
+]
+}

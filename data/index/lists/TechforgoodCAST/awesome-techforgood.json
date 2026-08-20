@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A selection of projects, organisations and useful tools for social-impact tech","defaultBranch":"master","topics":["awesome-list","awesome","tech","tech-for-good","social-impact"],"readmeSha":"5a6db7819b10467ba8313963691d8ab0ca1917a0"},
+"members": [
+"sindresorhus/awesome",
+"vinta/awesome-python",
+"hal9ai/awesome-dataviz",
+"a11yproject/a11yproject.com",
+"the-engine-room/alidade",
+"charity-base/charity-base-api",
+"chaynHQ/diy-online-privacy-starter",
+"kanedata/find-that-charity",
+"freeCodeCamp/mail-for-good",
+"open-ecommerce/helptext",
+"rapidsms/rapidsms",
+"winterstein/sogive-app",
+"mattstauffer/tech-forward-gomix",
+"compilerla/civic-tech-events"
+]
+}

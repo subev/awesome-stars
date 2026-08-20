@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Collect links to awesome 3D SVG exporters","defaultBranch":"master","topics":[],"readmeSha":"b65cb1bd841ac2427081d00c34930f2cd2a22985"},
+"members": [
+"fogleman/ln",
+"aweary/ln.js",
+"abey79/lines",
+"jonathanlurie/svglcore"
+]
+}

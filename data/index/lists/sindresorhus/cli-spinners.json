@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Spinners for use in the terminal","defaultBranch":"main","topics":[],"readmeSha":"dd0e5aa02034a1ece7799905cd21e7f305cef2e0"},
+"members": [
+"sindresorhus/ora",
+"kiliankoe/CLISpinner",
+"manrajgrover/py-spinners",
+"FGRibreau/spinners",
+"gabe565/go-spinners",
+"simeg/bash-cli-spinners",
+"xieyonn/spinner.nvim"
+]
+}

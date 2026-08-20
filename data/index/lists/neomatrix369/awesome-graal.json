@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of awesome resources for Graal, GraalVM, Truffle and related topics","defaultBranch":"master","topics":["graal","truffle","graalvm","llvm","jit","ast","optimised","machine-code","interpreter","fastr"],"readmeSha":"52d8d09c595732f0f770ec98a651f926b69c5093"},
+"members": [
+"neomatrix369/awesome-ai-ml-dl",
+"graalvm/graalvm-demos",
+"graalvm/fastr-examples",
+"hpi-swa/ipolyglot",
+"appcypher/awesome-wasm-runtimes",
+"cretz/asmble",
+"renatoathaydes/wasm-on-jvm",
+"oracle/graal",
+"dalexandrov/WebAssemblyFromJava",
+"krisfoster/Native-Image-Workshop",
+"taylorwood/clojurl",
+"vmencik/akka-graal-native",
+"smarr/SOMns",
+"NVIDIA/grcuda",
+"hpi-swa/trufflesqueak",
+"graalvm/simplelanguage",
+"SOM-st/TruffleSOM",
+"cesquivias/mumbler",
+"smarr/are-we-fast-yet",
+"rmannibucau/docosh",
+"graalvm/homebrew-tap"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"enhanced increment/decrement plugin for Neovim.","defaultBranch":"master","topics":["neovim","neovim-plugin","lua"],"readmeSha":"5b530d40b7a23e87af8412adb57ac542f5d6600d"},
+"members": [
+"neovim/neovim",
+"tpope/vim-speeddating",
+"zef/vim-cycle",
+"AndrewRadev/switch.vim",
+"nvim-lua/plenary.nvim"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Dynamic HTML5 visualization","defaultBranch":"master","topics":[],"readmeSha":"a60fd1dd55e2c5241f63cd28641ef3e1d9d00ab9"},
+"members": [
+"fat/bean",
+"ded/bonzo",
+"fat/smoosh",
+"HumbleSoftware/js-imagediff"
+]
+}

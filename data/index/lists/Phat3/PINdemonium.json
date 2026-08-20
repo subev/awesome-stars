@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A pintool in order to unpack malware","defaultBranch":"master","topics":[],"readmeSha":"70ee2e2583f03f0af82ee675459816c427a88b12"},
+"members": [
+"NtQuery/Scylla",
+"Yara-Rules/rules",
+"VirusTotal/yara"
+]
+}

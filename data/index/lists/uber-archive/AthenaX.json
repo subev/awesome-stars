@@ -1,0 +1,6 @@
+{
+"meta": {"description":"SQL-based streaming analytics platform at scale","defaultBranch":"master","topics":["calcite","flink","sql","uber","streaming","stream","analytics","data"],"readmeSha":"0f5d22f34152e3e3838afa5d2fc631cb76fa7b57"},
+"members": [
+
+]
+}

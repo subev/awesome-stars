@@ -1,0 +1,11 @@
+{
+"meta": {"description":"An extensible Java framework for building event-driven applications that break up XML and non-XML data into chunks for data integration","defaultBranch":"master","topics":["java","smooks","enterprise-integration","etl","sax","pipelines","event-driven","xml","stream-processing","analytics"],"readmeSha":"8f008cfaa26627116d4d8f5bb33648440aaebe67"},
+"members": [
+"smooks/smooks-examples",
+"smooks/smooks-dfdl-cartridge",
+"smooks/smooks-edi-cartridge",
+"FasterXML/woodstox",
+"smooks/smooks-routing-cartridge",
+"smooks/smooks-javabean-cartridge"
+]
+}

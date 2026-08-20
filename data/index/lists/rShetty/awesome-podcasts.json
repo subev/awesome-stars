@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Collection of awesome podcasts","defaultBranch":"master","topics":["podcast","software","awesome","awesome-list","awesome-lists"],"readmeSha":"546b1dac02cea596bde284487e77978f17ea8836"},
+"members": [
+"artem-zinnatullin/TheContext-Podcast",
+"request-for-explanation/podcast"
+]
+}

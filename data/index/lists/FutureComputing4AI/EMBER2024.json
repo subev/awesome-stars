@@ -1,0 +1,10 @@
+{
+"meta": {"description":"","defaultBranch":"main","topics":[],"readmeSha":"93ec4756baa13fd96b4454a581cd800a23c13604"},
+"members": [
+"elastic/ember",
+"erocarrera/pefile",
+"FutureComputing4AI/ClarAVy",
+"FutureComputing4AI/vtpipeline-rs",
+"mandiant/capa"
+]
+}

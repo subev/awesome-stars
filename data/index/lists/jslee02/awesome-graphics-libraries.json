@@ -1,0 +1,33 @@
+{
+"meta": {"description":":sunglasses: A curated list of 3D graphics libraries and resources","defaultBranch":"main","topics":["awesome-list","graphics-library","graphics-engine","game-engine","3d-graphics","graphics-libraries","3d-game-engine"],"readmeSha":"8685c6d2f36c0b8b4bc25e6114d17c38dc400acf"},
+"members": [
+"KhronosGroup/ANARI-SDK",
+"bkaradzic/bgfx",
+"DiligentGraphics/DiligentEngine",
+"LiangliangNan/Easy3D",
+"NVIDIAGameWorks/Falcor",
+"google/filament",
+"mosra/magnum",
+"OGRECave/ogre",
+"openscenegraph/OpenSceneGraph",
+"owl-project/owl",
+"RenderKit/ospray",
+"stevenlovegrove/Pangolin",
+"nmwsharp/polyscope",
+"bmwcarit/ramses",
+"yuanming-hu/taichi",
+"ConfettiFX/The-Forge",
+"vsg-dev/VulkanSceneGraph",
+"asny/three-d",
+"gfx-rs/wgpu",
+"libigl/libigl",
+"godlikepanos/anki-3d-engine",
+"godotengine/godot",
+"nem0/LumixEngine",
+"o3de/o3de",
+"Overload-Technologies/Overload",
+"raysan5/raylib",
+"sdslabs/Rootex",
+"turanszkij/WickedEngine"
+]
+}

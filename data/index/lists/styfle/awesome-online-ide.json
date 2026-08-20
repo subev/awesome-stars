@@ -1,0 +1,33 @@
+{
+"meta": {"description":"🌩️ A list of awesome online development environments","defaultBranch":"main","topics":["awesome","awesome-list","ide","lists","list"],"readmeSha":"e0e641f3035ceb40db2af33239fe5e3f4c867f4f"},
+"members": [
+"c9/core",
+"ajaxorg/ace",
+"codenvy/codenvy",
+"eclipse-che/che",
+"codesandbox/codesandbox-client",
+"expo/snack-sdk",
+"wasdk/WebAssemblyStudio",
+"remix-project-org/remix",
+"88250/wide",
+"eclipse-theia/theia",
+"eclipse-theia/theia-ide",
+"microsoft/monaco-editor",
+"googlecolab/colabtools",
+"gitpod-io/gitpod",
+"SuperblocksHQ/superblocks-lab",
+"Atheos/Atheos",
+"newsnowlabs/dockside",
+"glotcode/glot-www",
+"TryItOnline/tryitonline",
+"zzzprojects/sqlfiddle3",
+"agentcooper/typescript-play",
+"JetBrains/kotlin-playground",
+"stchang/pasterack",
+"scalacenter/scastie",
+"jsbin/jsbin",
+"porsager/flems",
+"popcodeorg/popcode",
+"live-codes/livecodes"
+]
+}

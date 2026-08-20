@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Simple feed-forward neural network in JavaScript","defaultBranch":"master","topics":[],"readmeSha":"acf3025bfd16ee54edf7991ed88da13136f21a15"},
+"members": [
+"BrainJS/brain.js",
+"karpathy/convnetjs"
+]
+}

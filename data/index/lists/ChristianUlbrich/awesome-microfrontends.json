@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of resources about everything Micro Frontends","defaultBranch":"develop","topics":[],"readmeSha":"b95da523bc457f3bdf9ceb8175c03299e7ecfb40"},
+"members": [
+"lit/lit-element",
+"postaljs/postal.js",
+"nut-project/nut"
+]
+}

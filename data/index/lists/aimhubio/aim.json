@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.","defaultBranch":"main","topics":["python","ai","data-science","data-visualization","experiment-tracking","machine-learning","metadata","metadata-tracking","ml","mlflow"],"readmeSha":"a41a14d091e3eb8090525218e0bf5cf9d531c5d7"},
+"members": [
+"aimhubio/aimlflow",
+"aimhubio/aim-spacy"
+]
+}

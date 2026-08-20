@@ -1,0 +1,24 @@
+{
+"meta": {"description":"Collection of Event ID ressources useful for Digital Forensics and Incident Response","defaultBranch":"main","topics":["ir","dfir","digitalforensics","forensics","incident-response"],"readmeSha":"4b1c451243e9c423158dae2037f8782278337068"},
+"members": [
+"TonyPhipps/SIEM",
+"mdecrevoisier/Microsoft-eventlog-mindmap",
+"JSCU-NL/logging-essentials",
+"nsacyber/Event-Forwarding-Guidance",
+"ukncsc/lme",
+"Yamato-Security/EnableWindowsLogSettings",
+"SwiftOnSecurity/sysmon-config",
+"NextronSystems/sysmon-config",
+"olafhartong/sysmon-modular",
+"trustedsec/SysmonCommunityGuide",
+"sbousseaden/EVTX-ATTACK-SAMPLES",
+"mdecrevoisier/EVTX-to-MITRE-Attack",
+"EricZimmerman/evtx",
+"mdecrevoisier/Splunk-input-windows-baseline",
+"qbrusa/Windows-Security-Event-ID-Helper",
+"meirwah/awesome-incident-response",
+"cugu/awesome-forensics",
+"ivbeg/awesome-forensicstools",
+"sbilly/awesome-security"
+]
+}

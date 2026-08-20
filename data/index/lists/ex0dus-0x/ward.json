@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Simple ELF runtime packer for creating self-protecting binaries","defaultBranch":"main","topics":[],"readmeSha":"c8bca06bee1e73b5e3cddf59f3c24852cdd59813"},
+"members": [
+
+]
+}

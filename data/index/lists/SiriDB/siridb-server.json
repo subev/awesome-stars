@@ -1,0 +1,15 @@
+{
+"meta": {"description":"SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be added on the fly. SiriDB's unique query language includes dynamic grouping of time series for easy analysis over large amounts of time series.","defaultBranch":"master","topics":["ticker-data","siridb-server","time-series","timeseries","database","siridb"],"readmeSha":"7a07a44df151adadce853f9ae649cea99a3d3d2e"},
+"members": [
+"cesbit/libcleri",
+"SiriDB/siridb-admin",
+"SiriDB/libsiridb",
+"SiriDB/siridb-connector",
+"SiriDB/go-siridb-connector",
+"SiriDB/siridb-nodejs-addon",
+"SiriDB/siridb-http",
+"SiriDB/siridb-prompt",
+"SiriDB/grafana-siridb-http-datasource",
+"SiriDB/grafana-siridb-http-example"
+]
+}

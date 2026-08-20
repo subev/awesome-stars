@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of awesome online javascript books.","defaultBranch":"master","topics":[],"readmeSha":"0eaac3c8dfa4b4ae92221722ead1a9a80c8f6d6d"},
+"members": [
+"bayandin/awesome-awesomeness",
+"getify/You-Dont-Know-JS",
+"TooBug/javascript.patterns",
+"addyosmani/backbone-fundamentals"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Storehaus is a library that makes it easy to work with asynchronous key value stores","defaultBranch":"develop","topics":[],"readmeSha":"54666282cdf7ff5be8b20a7854e96053d1c66d42"},
+"members": [
+"twitter/util",
+"twitter/algebird",
+"twitter/finagle",
+"twitter/analytics-infra-governance"
+]
+}

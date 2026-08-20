@@ -1,0 +1,8 @@
+{
+"meta": {"description":":hibiscus: Minimalist Vim Plugin Manager","defaultBranch":"master","topics":["vim"],"readmeSha":"490dec2abdbe764d11e8ec32f71ec04289ec5749"},
+"members": [
+"junegunn/vim-startuptime-benchmark",
+"junegunn/seoul256.vim",
+"junegunn/vim-easy-align"
+]
+}

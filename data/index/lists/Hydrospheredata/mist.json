@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Serverless proxy for Spark cluster","defaultBranch":"master","topics":["apache-spark","api","big-data","serverless"],"readmeSha":"462b2af366390cde309e34dfa2e4b536cef3e4b3"},
+"members": [
+
+]
+}

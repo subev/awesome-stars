@@ -1,0 +1,6 @@
+{
+"meta": {"description":"DIE engine","defaultBranch":"master","topics":["signature","reverse-engineering","unpacker","yara","elf","program-analysis","binary-analysis","disassembler","entropy","hacktoberfest"],"readmeSha":"8914bff2a192437c560c6350b6166f99bf079023"},
+"members": [
+"horsicq/Detect-It-Easy"
+]
+}

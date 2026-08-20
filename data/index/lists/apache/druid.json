@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Apache Druid: a high performance real-time analytics database.","defaultBranch":"master","topics":["druid"],"readmeSha":"ec83758c78e86926e53091f4015fb34e443c56f0"},
+"members": [
+"asdf2014/druid-helm",
+"apache/druid-operator",
+"apache/druid-website-src"
+]
+}

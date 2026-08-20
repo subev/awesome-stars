@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of delightful Salesforce Lightning Resources","defaultBranch":"master","topics":[],"readmeSha":"674b27ce5aa4857e4715bea4964236cfdb3b31ef"},
+"members": [
+"sindresorhus/awesome",
+"mailtoharshit/awesome-salesforce",
+"mailtoharshit/awesome-salesforce-articles",
+"mailtoharshit/awesome-browser-extensions-for-salesforce",
+"mailtoharshit/awesome-heroku"
+]
+}

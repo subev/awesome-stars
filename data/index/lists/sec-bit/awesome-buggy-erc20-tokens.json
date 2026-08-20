@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected","defaultBranch":"master","topics":["smart-contracts","erc20-tokens","vulnerabilities","solidity","security","ethereum","tokens","awesome-list","awesome","erc20"],"readmeSha":"0b3e5af73ce97c41013c47251c041296ca4b1e3f"},
+"members": [
+"sindresorhus/awesome",
+"ethereum/EIPs",
+"ethereum/ethereum-org",
+"Consensys/smart-contract-best-practices",
+"OpenZeppelin/openzeppelin-contracts"
+]
+}

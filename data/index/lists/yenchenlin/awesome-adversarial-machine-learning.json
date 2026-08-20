@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome adversarial machine learning resources","defaultBranch":"master","topics":[],"readmeSha":"f82d8d08bdad10d3ea748a8d8779bc21d9dbee49"},
+"members": [
+"sindresorhus/awesome",
+"jbhuang0604/awesome-computer-vision"
+]
+}

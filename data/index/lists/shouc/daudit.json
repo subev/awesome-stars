@@ -1,0 +1,6 @@
+{
+"meta": {"description":"🌲 Configuration flaws detector for Hadoop, MongoDB, MySQL, and more!","defaultBranch":"master","topics":["security","hadoop-spark","auditing","bigdata","redis","mongodb"],"readmeSha":"de72c9fe16234012486a8b23d1041cff2af6a871"},
+"members": [
+
+]
+}

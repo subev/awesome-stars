@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome resources for adversarial examples in deep learning","defaultBranch":"master","topics":["deep-learning","security","adversarial-examples","machine-learning","computer-vision"],"readmeSha":"f36b1028d655deba8f4dfad7e361d4f46e270daa"},
+"members": [
+"bethgelab/foolbox",
+"BorealisAI/advertorch"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"LIEF - Library to Instrument Executable Formats (C++, Python, Rust)","defaultBranch":"main","topics":["reverse-engineering","malware-analysis","binary-analysis","parser","modification","executable-formats","elf","macho","pe","lief"],"readmeSha":"7e5b3a97c5ccd16a9396d0cdc634dbe2e5b7c47b"},
+"members": [
+"Piebald-AI/node-lief"
+]
+}

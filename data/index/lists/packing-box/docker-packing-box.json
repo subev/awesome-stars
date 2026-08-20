@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Docker image gathering packers and tools for making datasets of packed executables and training machine learning models for packing detection","defaultBranch":"main","topics":["docker-image","executable-packing","malware-packers","research-platform","pe-format","elf-format","machine-learning","dataset-generation","packing-detection","malware-analysis"],"readmeSha":"d6c9b730b9da8efb12839306f5446a53922a5ef1"},
+"members": [
+"packing-box/awesome-executable-packing",
+"packing-box/bintropy",
+"packing-box/dataset-packed-elf",
+"packing-box/dataset-packed-pe",
+"chesvectain/PackingData",
+"packing-box/python-dsff",
+"packing-box/peid",
+"packing-box/pypackerdetect",
+"cylance/PyPackerDetect",
+"packing-box/reminder"
+]
+}

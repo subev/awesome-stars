@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow","defaultBranch":"main","topics":["etl","data-integration","python","postgresql","pipeline","data"],"readmeSha":"6dd38d99835ba530c8157681b5c45fc8ce9b557a"},
+"members": [
+"mara/mara-example-project-1",
+"mara/mara-example-project-2",
+"mara/mara-example-project-2",
+"mara/mara-app"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"OpenRAVE Controller Plugin for UR5 (Universal Robots UR5) Robot","defaultBranch":"master","topics":["ur5","robotics","openrave","plugin","ros","openrave-conroller","ur5-robot"],"readmeSha":"9a8013ff0d0e9a5073e6da479b8a65a595898c0c"},
+"members": [
+"roboticsleeds/ur5controller-singularity",
+"ros-industrial-attic/ur_modern_driver",
+"personalrobotics/openrave_catkin",
+"personalrobotics/or_urdf"
+]
+}

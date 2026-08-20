@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A collection of shaders designed for LÖVE","defaultBranch":"master","topics":[],"readmeSha":"500bfa10d62a079c69a4c8a89a21d6ee552b6f07"},
+"members": [
+"love2d-community/awesome-love2d",
+"LewisJEllis/awesome-lua",
+"bayandin/awesome-awesomeness"
+]
+}

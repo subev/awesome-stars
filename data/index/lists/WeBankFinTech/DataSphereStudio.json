@@ -1,0 +1,18 @@
+{
+"meta": {"description":"DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling.","defaultBranch":"master","topics":["workflow","governance","azkaban","davinci","linkis","spark","hive","hadoop","visualis","zeppelin"],"readmeSha":"a16f6f22ad08846ce369dae98a2cd2be7c3f48de"},
+"members": [
+"WeBankFinTech/Scriptis",
+"WeBankFinTech/Visualis",
+"edp963/davinci",
+"WeBankFinTech/Qualitis",
+"WeBankFinTech/Schedulis",
+"WeBankFinTech/Exchangis",
+"WeBankFinTech/DataSphereStudio-Doc",
+"WeBankFinTech/Streamis",
+"WeBankFinTech/Prophecis",
+"apache/linkis",
+"apache/dolphinscheduler",
+"apache/airflow",
+"WeDataSphere/Exchangis"
+]
+}

@@ -1,0 +1,16 @@
+{
+"meta": {"description":"An \"awesome\" type curated list of how to use React Native and Meteor together","defaultBranch":"master","topics":[],"readmeSha":"337b50e4bdaafad78fd0ae5da9b1d49b168d7091"},
+"members": [
+"jondot/awesome-react-native",
+"avelino/awesome-go",
+"vinta/awesome-python",
+"spencercarli/meteor-todos-react-native",
+"meteor-factory/react-native-meteor-starter",
+"pmuens/friends",
+"hharnisc/react-native-meteor-websocket-polyfill",
+"inProgress-team/react-native-mantra-boilerplate",
+"mantrajs/mantra-sample-blog-app",
+"inProgress-team/react-native-meteor",
+"hharnisc/node-ddp-client"
+]
+}

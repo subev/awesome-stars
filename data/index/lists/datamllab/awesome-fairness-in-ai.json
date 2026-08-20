@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome Fairness in AI resources","defaultBranch":"master","topics":["fairness","machine-learning","deep-learning","gender-bias","xai","interpretability","bias","ai"],"readmeSha":"37ccd3987a6babc28a7786e693ccdf6fb0e672a9"},
+"members": [
+"sindresorhus/awesome",
+"google/ml-fairness-gym",
+"Trusted-AI/AIF360",
+"fairlearn/fairlearn",
+"algofairness/fairness-comparison",
+"ayong8/FairSight",
+"dssg/aequitas",
+"tensorflow/fairness-indicators",
+"koaning/scikit-fairness",
+"datamllab/Mitigating_Gender_Bias_In_Captioning_System",
+"jphall663/awesome-machine-learning-interpretability"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Sparrow scheduling platform (U.C. Berkeley).","defaultBranch":"master","topics":[],"readmeSha":"deba293bd200a38833ab39b5572e0f788bc02ed9"},
+"members": [
+"kayousterhout/spark"
+]
+}

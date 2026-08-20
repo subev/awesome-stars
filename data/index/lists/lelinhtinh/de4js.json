@@ -1,0 +1,20 @@
+{
+"meta": {"description":"JavaScript Deobfuscator and Unpacker","defaultBranch":"master","topics":["deobfuscator","deobfuscate","deobfuscation","unpacker","decode","javascript","online-tools","offline-app","javascript-deobfuscator"],"readmeSha":"d1f61769781687b6f3c39929266d7ab999582215"},
+"members": [
+"aemkei/jsfuck",
+"josdejong/mathjs",
+"beautifier/js-beautify",
+"highlightjs/highlight.js",
+"zenorocha/clipboard.js",
+"jacobsoo/Decoder-JJEncode",
+"geeksonsecurity/illuminatejs",
+"mindedsecurity/JStillery",
+"voidstar0/akamai-deobfuscator",
+"eth-sri/Nice2Predict",
+"jsoverson/javascript-deobfuscation-AMA",
+"LostMyCode/javascript-deobfuscator",
+"facebookarchive/prepack",
+"hax0r31337/JSDec",
+"relative/synchrony"
+]
+}

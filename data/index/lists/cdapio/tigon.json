@@ -1,0 +1,7 @@
+{
+"meta": {"description":"High Throughput Real-time Stream Processing Framework","defaultBranch":"develop","topics":[],"readmeSha":"ae1f7f62dbd2ce0a2fee7d08dd79404a9a99b0fa"},
+"members": [
+"cdapio/tigon",
+"cdapio/tigon-apps"
+]
+}

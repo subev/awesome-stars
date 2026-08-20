@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Beringei is a high performance, in-memory storage engine for time series data.","defaultBranch":"master","topics":[],"readmeSha":"b4483c26dc2ec0983ac09914a79fa9dbb09c932c"},
+"members": [
+"facebook/fbthrift",
+"facebook/folly",
+"facebook/wangle",
+"facebook/proxygen",
+"google/googletest",
+"gflags/gflags"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of awesome things regarding the Power Platform ecosystem.","defaultBranch":"master","topics":["tutorials","samples","awesome","awesome-list","power-platform","powerapps","powerappscomponentframework","powerbi","powervirtualagent"],"readmeSha":"85581e7ced1e49ad3dec70bc8141cabe9d2d3518"},
+"members": [
+"microsoft/powerapps-tools",
+"Power-Automate-in-a-day/Training-by-the-community"
+]
+}

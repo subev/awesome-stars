@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ","defaultBranch":"master","topics":["c-plus-plus","machine-learning","online-learning","contextual-bandits","reinforcement-learning","active-learning","learning-to-search","cpp"],"readmeSha":"bc1815db7595d4e010ff935be502d3773b00dc85"},
+"members": [
+
+]
+}

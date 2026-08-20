@@ -1,0 +1,8 @@
+{
+"meta": {"description":":sunglasses: A curated list of talks about React Native or topics related to React Native","defaultBranch":"master","topics":["talks","react-native"],"readmeSha":"d182cc70a0dbc26ed16d322ea00ffa7e4cad136f"},
+"members": [
+"jondot/awesome-react-native",
+"vitorebatista/open-source-react-native-apps",
+"tiaanduplessis/awesome-react-talks"
+]
+}

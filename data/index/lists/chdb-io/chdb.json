@@ -1,0 +1,10 @@
+{
+"meta": {"description":"chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ","defaultBranch":"main","topics":["data-science","database","embedded-database","olap","python","sql","chdb","clickhouse","clickhouse-database","clickhouse-server"],"readmeSha":"7d826cf6cbd6b25d8e50dd84762d503146432fc4"},
+"members": [
+"chdb-io/llama-index-tools-chdb",
+"chdb-io/pydantic-ai-chdb",
+"ClickHouse/mcp-clickhouse",
+"chdb-io/chdb-node",
+"ClickHouse/ClickHouse"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Relational Database Backed by Apache Kafka","defaultBranch":"master","topics":[],"readmeSha":"eb0f4791d14784dbfa096f3d81709ae44058961f"},
+"members": [
+"rayokota/kcache"
+]
+}

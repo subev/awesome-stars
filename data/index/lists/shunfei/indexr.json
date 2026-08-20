@@ -1,0 +1,6 @@
+{
+"meta": {"description":"An open-source columnar data format designed for fast & realtime analytic with big data.","defaultBranch":"master","topics":["indexr","columnar-storage","olap","datawarehouse","realtime"],"readmeSha":"40a51c5b4b9772879ad9a1d99f1417b8c7ca8b61"},
+"members": [
+"shunfei/sfmind"
+]
+}

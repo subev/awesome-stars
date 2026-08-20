@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Linter for Awesome lists","defaultBranch":"main","topics":["awesome","linter","lint","nodejs"],"readmeSha":"bae5fdfd56038684e3034d8b542814a518565947"},
+"members": [
+"remarkjs/remark-message-control",
+"sindresorhus/awesome",
+"vfile/vfile"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Extensible Neovim Scrollbar","defaultBranch":"main","topics":["neovim","neovim-plugin","neovim-lua-plugin","plugin","lua"],"readmeSha":"d1d211b74ddfc9a16415261430b5742dda9e0db0"},
+"members": [
+"lewis6991/gitsigns.nvim",
+"kevinhwang91/nvim-hlslens",
+"junegunn/vim-plug",
+"wbthomason/packer.nvim",
+"folke/tokyonight.nvim"
+]
+}

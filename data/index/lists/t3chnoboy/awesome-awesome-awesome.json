@@ -1,0 +1,15 @@
+{
+"meta": {"description":":octocat: A a curated list of curated lists of awesome lists.","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"048edce0b5e97e3463ee228543a37f0a121eadc4"},
+"members": [
+"sindresorhus/awesome",
+"bradoyler/awesome-all",
+"emijrp/awesome-awesome",
+"erichs/awesome-awesome",
+"oyvindrobertsen/awesome-awesome",
+"fleveque/awesome-awesomes",
+"bayandin/awesome-awesomeness",
+"jnv/lists",
+"sindresorhus/awesome-awesome-awesome-awesome",
+"coopermaa/awesome-awesome"
+]
+}

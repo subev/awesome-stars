@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A fast, light-weight proxy for memcached and redis","defaultBranch":"master","topics":[],"readmeSha":"ddd410047ba77796247c6e7720b1947232c61463"},
+"members": [
+"bewie/collectd-twemproxy",
+"eveiga/contrib",
+"ganglia/gmond_python_modules",
+"wanelo/nagios-checks",
+"wanelo-chef/nad-checks",
+"kontera-technologies/nutcracker-web",
+"Stono/redis-twemproxy-agent",
+"sensu-plugins/sensu-plugins-twemproxy",
+"areina/smitty",
+"Serekh/beholder",
+"yak0/twemsentinel"
+]
+}

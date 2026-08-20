@@ -1,0 +1,10 @@
+{
+"meta": {"description":"📚 🤓  - Awesome Javascript Books","defaultBranch":"master","topics":["education","javascript","books","js","awesome","learning","jsbooks"],"readmeSha":"bd6aa7de90e09efb7521b3542395a0000bdffc14"},
+"members": [
+"sindresorhus/awesome",
+"getify/You-Dont-Know-JS",
+"MostlyAdequate/mostly-adequate-guide",
+"getify/Functional-Light-JS",
+"revolunet/JSbooks"
+]
+}

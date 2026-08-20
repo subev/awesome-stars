@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Apache ECharts is a powerful, interactive charting and data visualization library for browser","defaultBranch":"master","topics":["echarts","data-visualization","charts","charting-library","visualization","apache","data-viz","canvas","svg"],"readmeSha":"e55a78e226f716f5a2c0f0bda2e017244782a1d9"},
+"members": [
+"ecomfe/zrender",
+"ecomfe/awesome-echarts",
+"ecomfe/echarts-gl",
+"ecomfe/echarts-liquidfill",
+"ecomfe/echarts-wordcloud",
+"ecomfe/vue-echarts",
+"ecomfe/echarts-stat"
+]
+}

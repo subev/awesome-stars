@@ -1,0 +1,18 @@
+{
+"meta": {"description":"We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.","defaultBranch":"main","topics":["ai-aided-drug-discovery","awesome","drug-discovery","molecular-docking","paper-list","bioinformatics","machine-learning","protein-protein-interaction","molecular-dynamics","binding"],"readmeSha":"a97046f9aa78eb7add23e699e6e0a860dfa1204b"},
+"members": [
+"gcorso/DiffDock",
+"luwei0917/TankBind",
+"HannesStark/EquiBind",
+"octavian-ganea/equidock_public",
+"luost26/diffab",
+"wengong-jin/abdockgen",
+"kyonofx/mlcgmd",
+"LPDI-EPFL/masif",
+"lmmentel/awesome-python-chemistry",
+"hsiaoyi0504/awesome-cheminformatics",
+"hussius/deeplearning-biology",
+"benb111/awesome-small-molecule-ml",
+"dengjianyuan/Survey_AI_Drug_Discovery"
+]
+}

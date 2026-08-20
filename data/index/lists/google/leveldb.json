@@ -1,0 +1,6 @@
+{
+"meta": {"description":"LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.","defaultBranch":"main","topics":[],"readmeSha":"d88eb78a8ef6518aa18dd05cc04c6c4944a9aa8d"},
+"members": [
+
+]
+}

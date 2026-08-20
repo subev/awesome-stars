@@ -1,0 +1,7 @@
+{
+"meta": {"description":"NVIM plugin to notify about LSP processes","defaultBranch":"main","topics":[],"readmeSha":"66c03572ef8bf516ca0920d3a6ce374d5c0b4606"},
+"members": [
+"rcarriga/nvim-notify",
+"wbthomason/packer.nvim"
+]
+}

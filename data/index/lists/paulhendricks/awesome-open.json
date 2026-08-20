@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of awesome Open Organizations and Communities!","defaultBranch":"master","topics":[],"readmeSha":"043fbd1d17312c585997e99f0955388320579590"},
+"members": [
+"ziadoz/awesome-php",
+"bayandin/awesome-awesomeness",
+"kakoni/awesome-healthcare",
+"opencompany/awesome-open-company"
+]
+}

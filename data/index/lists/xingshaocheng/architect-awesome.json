@@ -1,0 +1,24 @@
+{
+"meta": {"description":"后端架构师技术图谱","defaultBranch":"master","topics":[],"readmeSha":"7311d0b2300e3b56b3eb1d4ec839f481e18623e8"},
+"members": [
+"sorenduan/awesome-java-books",
+"xingshaocheng/simple-php-github-toc",
+"CL0610/Java-concurrency",
+"ToryZhou/design-pattern",
+"opentracing-contrib/opentracing-specification-zh",
+"apache/skywalking",
+"dianping/cat",
+"jaegertracing/jaeger",
+"pinpoint-apm/pinpoint",
+"openzipkin/zipkin",
+"jiangwenyuan/nuster",
+"varnishcache/varnish-cache",
+"squid-cache/squid",
+"alibaba/tair",
+"apolloconfig/apollo",
+"apereo/cas",
+"alibaba/p3c",
+"TeamStuQ/skill-map",
+"forezp/SpringCloudLearning"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Awesome list of software that I use to do research in medical imaging.","defaultBranch":"master","topics":["medical-imaging","image-processing","computer-vision","machine-learning","deep-learning","neural-networks"],"readmeSha":"1b81fc8f40aa4ab39c44dd1f7cce3242139bf74f"},
+"members": [
+"sindresorhus/awesome",
+"rordenlab/dcm2niix"
+]
+}

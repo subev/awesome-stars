@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Apache Pulsar - distributed pub-sub messaging system","defaultBranch":"master","topics":["pulsar","pubsub","messaging","streaming","queuing","event-streaming"],"readmeSha":"1a92146d00ba11838c28da9e5b586df4597dbf5a"},
+"members": [
+"apache/pulsar-helm-chart",
+"apache/pulsar-adapters",
+"apache/pulsar-dotpulsar",
+"apache/pulsar-client-cpp",
+"apache/pulsar-client-go",
+"apache/pulsar-client-node",
+"apache/pulsar-client-python",
+"apache/pulsar-client-reactive",
+"visortelle/dekaf",
+"apache/pulsar-manager",
+"apache/pulsar-site",
+"apache/pulsar-test-infra",
+"apache/pulsar-connectors",
+"apache/pulsar-translation",
+"apache/pulsar-client-ruby",
+"gradle/gradle-completion"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Open source Windows x64 PE packer and crypter. Compresses and encrypts executables with a custom virtual machine into a self extracting stub.","defaultBranch":"main","topics":["compression","packer","pe-packer","pe-compress","pe-protection","pepacker","peprotection","crypter","obfuscation","protection"],"readmeSha":"7bdf2cb9f5f1c1a5e1cafecd171c363a9a53f8ff"},
+"members": [
+"gmh5225/awesome-game-security"
+]
+}

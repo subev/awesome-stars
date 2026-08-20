@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of awesome static hosting & CMS providers","defaultBranch":"main","topics":["static-site","jekyll","hosting","hugo","ghost","hexo","gitlab"],"readmeSha":"d88aa6ef082c4fa21232798133700512b94b626a"},
+"members": [
+"sindresorhus/awesome",
+"agarrharr/awesome-static-website-services"
+]
+}

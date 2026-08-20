@@ -1,0 +1,30 @@
+{
+"meta": {"description":"🛠 All-in-one web-based IDE specialized for machine learning and data science.","defaultBranch":"main","topics":["machine-learning","deep-learning","data-science","docker","jupyter","jupyter-lab","python","anaconda","tensorflow","pytorch"],"readmeSha":"044d8f2c54556adc86b0e72e39515a6767410b08"},
+"members": [
+"NVIDIA/nvidia-docker",
+"ml-tooling/ml-hub",
+"novnc/noVNC",
+"microsoft/vscode",
+"coder/code-server",
+"jupyterlab/jupyterlab",
+"jupyterlab/jupyterlab-toc",
+"jupyterlab/jupyterlab-git",
+"chesterli29/jupyterlab_tensorboard",
+"FredrikNoren/ungit",
+"jupytext/jupytext",
+"jupyter/nbdime",
+"filebrowser/filebrowser",
+"libfuse/sshfs",
+"lspvic/jupyter_tensorboard",
+"lanpa/tensorboardX",
+"netdata/netdata",
+"nicolargo/glances",
+"aquasecurity/trivy",
+"pyenv/pyenv",
+"jlesage/docker-firefox",
+"pytorch/pytorch",
+"openresty/openresty",
+"nektos/act",
+"ml-tooling/universal-build"
+]
+}

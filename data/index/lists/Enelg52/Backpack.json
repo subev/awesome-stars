@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Golang packer that use process hollowing","defaultBranch":"main","topics":["av-bypass","av-evasion","golang","packer"],"readmeSha":"0a57ce20de68f17f453da0278b6f50547e5cf5e3"},
+"members": [
+"abdullah2993/go-runpe"
+]
+}

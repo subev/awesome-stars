@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more","defaultBranch":"master","topics":[],"readmeSha":"41f5c6bb5dd74779d502321af8e0599bec589675"},
+"members": [
+"basho/bitcask"
+]
+}

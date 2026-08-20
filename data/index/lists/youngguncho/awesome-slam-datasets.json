@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A curated list of awesome datasets for SLAM","defaultBranch":"master","topics":[],"readmeSha":"94eaee4d94e0305984e1a5e2885bea4283efd819"},
+"members": [
+"sindresorhus/awesome",
+"zhuzunjie17/FastFusion",
+"SJTU-ViSYS/M2DGR",
+"torrvision/CollaborativeSLAMDataset",
+"AaltoVision/ADVIO",
+"uzh-rpg/rpg_trajectory_evaluation",
+"mihaibujanca/slambench3",
+"rpng/open_vins"
+]
+}

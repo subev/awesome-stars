@@ -1,0 +1,6 @@
+{
+"meta": {"description":"An ELF / PE binary packer written in pure C, made for fun","defaultBranch":"master","topics":["pe-packer","elf-packer","encryption-methods","c","packer"],"readmeSha":"aa5826db74e5565a09e1e261cdc3af691aeb95f1"},
+"members": [
+"SilentVoid13/Silent_Log"
+]
+}

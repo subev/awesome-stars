@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Little Ball of Fur - A graph sampling extension library for NetworKit and NetworkX (CIKM 2020)","defaultBranch":"master","topics":["graph","graph-sampling","network-sampling","random-walk","forest-fire","node-embedding","network-embedding","minimum-spanning-tree","graph-embedding","sampling"],"readmeSha":"bc3cce2ce02ea1a38c491c6ac419a76d2c6783f5"},
+"members": [
+
+]
+}

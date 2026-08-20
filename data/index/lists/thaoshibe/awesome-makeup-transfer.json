@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of Awesome Makeup Transfer resources","defaultBranch":"main","topics":["awesome","awesome-list","makeup-transfer"],"readmeSha":"9897acae9964b0b031b9f837e50f6761c3479220"},
+"members": [
+"sindresorhus/awesome",
+"Honlan/BeautyGAN",
+"CyberAgentAILab/BeautyBank",
+"Snowfallingplum/SHMT",
+"Snowfallingplum/CSD-MT",
+"YangXingchao/makeup-extract",
+"Chenyu-Yang-2000/EleGANt",
+"VinAIResearch/CPM",
+"wtjiang98/PSGAN",
+"wangguanzhi/LADN",
+"ssarfraz/SPL",
+"wtjiang98/BeautyGAN_pytorch",
+"AnonymScholar/SpMT",
+"Honlan/DMT",
+"ZPdesu/Barbershop",
+"dukebw/LOHO",
+"tzt101/MichiGAN",
+"kyleolsz/hairgen",
+"zllrunning/face-makeup.PyTorch",
+"wanshun123/Facial-Beauty-Prediction",
+"thaoshibe/GUI-Makeup-Transfer"
+]
+}

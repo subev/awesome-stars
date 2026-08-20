@@ -1,0 +1,6 @@
+{
+"meta": {"description":"My curated list of audio DSP and plugin development resources (Github fork)","defaultBranch":"main","topics":["dsp","audio","math","algorithms","vst","rust","c","cpp","lv2","audio-processing"],"readmeSha":"ff6a09e9847b3ecc80dcb98e757ca86ffd7c47dd"},
+"members": [
+"AllenDowney/ThinkDSP"
+]
+}

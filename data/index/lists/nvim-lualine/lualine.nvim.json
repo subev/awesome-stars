@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A blazing fast and easy to configure neovim statusline plugin written in pure lua.","defaultBranch":"master","topics":["neovim","statusline","neovim-statusline","nvim","lua","neovim-plugin","neovim-lua","lualine"],"readmeSha":"7b91db913e7a873056fd192e439fa4dbbd2ac295"},
+"members": [
+"dstein64/vim-startuptime",
+"nvim-tree/nvim-web-devicons",
+"junegunn/vim-plug",
+"wbthomason/packer.nvim",
+"folke/lazy.nvim",
+"akinsho/bufferline.nvim",
+"kdheepak/tabline.nvim",
+"rockerBOO/awesome-neovim"
+]
+}

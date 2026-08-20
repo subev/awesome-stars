@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Project SnappyData - memory optimized analytics database, based on Apache Spark™ and Apache Geode™. Stream, Transact, Analyze, Predict in one cluster ","defaultBranch":"master","topics":["snappydata","spark","memory-database","analytics","stream","transaction","scale"],"readmeSha":"1e0a7caac1afbbe5bdc1d36e0c994acfcbfbf362"},
+"members": [
+"sbt/sbt",
+"TIBCOSoftware/snappy-examples"
+]
+}

@@ -1,0 +1,15 @@
+{
+"meta": {"description":":white_check_mark: Validate links in awesome projects","defaultBranch":"master","topics":["circleci","travis-ci","danger","tool","redirects","awesome","verify","readme","cli","links"],"readmeSha":"5d34be51a7129ae1be17e0938c0e683a625a768c"},
+"members": [
+"sindresorhus/awesome",
+"IDR/idr-notebooks",
+"dkhamsing/open-source-ios-apps",
+"tiimgreen/github-cheat-sheet",
+"enaqx/awesome-react",
+"ziadoz/awesome-php",
+"vsouza/awesome-ios",
+"alebcay/awesome-shell",
+"matteocrippa/awesome-swift",
+"danger/danger"
+]
+}

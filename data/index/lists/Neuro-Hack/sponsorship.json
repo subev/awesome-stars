@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A list of potential sponsors for hackathons.","defaultBranch":"master","topics":["awesome-list","hackathon","sponsorship"],"readmeSha":"3463468937331d407ef452399800cd6d006d61ff"},
+"members": [
+"sindresorhus/awesome"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A simple, decompressing executable packer","defaultBranch":"master","topics":[],"readmeSha":"981ecf7e16e06c04146adac43d1035aa861a836d"},
+"members": [
+"ionescu007/minlzma",
+"facebook/zstd",
+"richgel999/miniz"
+]
+}

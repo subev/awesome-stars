@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of awesome System Design (A.K.A. Distributed Systems) resources. ","defaultBranch":"master","topics":["relational-database","message-broker","hadoop-ecosystem","nosql","interview","distributed-systems","microservices-architecture","stream-processing","microservices"],"readmeSha":"d761d3e48e430287a2b69593a197aa725c1dc6a8"},
+"members": [
+"sindresorhus/awesome",
+"SanQri/safe-by-design",
+"twitter-archive/kestrel",
+"openresty/openresty",
+"gin-gonic/gin",
+"phoenixframework/phoenix",
+"expressjs/express",
+"rails/rails",
+"playframework/playframework",
+"pallets/flask",
+"fastapi/fastapi",
+"encode/django-rest-framework",
+"fastify/fastify"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"RBDL is a C++ library that contains some essential and efficient rigid body dynamics algorithms such as the Articulated Body Algorithm (ABA) for forward dynamics, Recursive Newton-Euler Algorithm (RNEA) for inverse dynamics, the Composite Rigid Body Algorithm (CRBA) for the efficient computation of the joint space inertia matrix and is also able to compute forward dynamics with external contact constraints and collision impulses. Furthermore it has some basic support for forward and inverse kinematics.","defaultBranch":"master","topics":["articulated-body-algorithm","inverse-dynamics","forward-dynamics","multi-body-dynamics","inverse-kinematics","robotics"],"readmeSha":"f851420d056b72b7e6fd16d204d6c2d463b735f5"},
+"members": [
+"microsoft/vcpkg",
+"catchorg/Catch2"
+]
+}

@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.","defaultBranch":"master","topics":["latex","machine-learning"],"readmeSha":"83ebdf385827389a3c74262c45edf40c98963507"},
+"members": [
+"xinychen/tracebase",
+"xinychen/ts-conv",
+"xinychen/LCR",
+"xinychen/transdim",
+"xinychen/Tensor4ML",
+"yxnchen/BATF",
+"mcgill-smart-transport/bgcp_imputation"
+]
+}

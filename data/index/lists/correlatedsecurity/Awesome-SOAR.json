@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated Cyber \"Security Orchestration, Automation and Response (SOAR)\" awesome list.","defaultBranch":"master","topics":[],"readmeSha":"4cafbd3226365a7fb1da9adab284b6f0964da4fc"},
+"members": [
+"demisto/COPS",
+"atc-project/atc-react",
+"certsocietegenerale/IRM",
+"guardsight/gsvsoc_cirt-playbook-battle-cards",
+"aws-samples/aws-incident-response-playbooks",
+"phantomcyber/playbooks",
+"phantomcyber/phantom-apps",
+"ThreatConnect-Inc/threatconnect-playbooks",
+"Azure/Azure-Sentinel",
+"Ayehu/custom-activities",
+"Ayehu/custom-workflows",
+"Ayehu/workflow-templates",
+"Shuffle/workflows",
+"Shuffle/python-apps",
+"ibmresilient/resilient-community-apps",
+"rapid7/insightconnect-plugins",
+"TheHive-Project/Cortex-Analyzers",
+"nsacyber/WALKOFF",
+"demisto/content",
+"ThreatConnect-Inc/threatconnect-developer-docs",
+"Securonix/CustomProcessor",
+"TheHive-Project/TheHive",
+"TheHive-Project/TheHiveDocs",
+"TheHive-Project/CortexDocs",
+"Shuffle/Shuffle",
+"SecurityBrewery/catalyst"
+]
+}

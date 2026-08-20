@@ -1,0 +1,9 @@
+{
+"meta": {"description":"PE Tools - Portable executable (PE) manipulation toolkit","defaultBranch":"master","topics":["pefile","hex-editor","disassembler","entropy","analysis","resources","dumper","rebuilder"],"readmeSha":"59bb4e3a2cbbb459f6ce8a832ac4b2846b76c435"},
+"members": [
+"gdabah/distorm",
+"corkami/pocs",
+"NtQuery/Scylla",
+"radareorg/radare2"
+]
+}

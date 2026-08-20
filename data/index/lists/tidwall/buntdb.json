@@ -1,0 +1,10 @@
+{
+"meta": {"description":"BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support","defaultBranch":"master","topics":["database","in-memory","key-value","golang","geospatial"],"readmeSha":"755bfac1cb5c6704e57282224154e7d77ee9e867"},
+"members": [
+"tidwall/collate",
+"tidwall/btree",
+"tidwall/gjson",
+"tidwall/raft-buntdb",
+"tidwall/buntdb-benchmark"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of awesome functional reactive programming stuff in js","defaultBranch":"master","topics":[],"readmeSha":"c858e0d9fc46dacac0609ff791958584f4ac2fd8"},
+"members": [
+"sindresorhus/awesome",
+"Reactive-Extensions/RxJS",
+"baconjs/bacon.js",
+"radioactive/radioactive",
+"cyclejs/cyclejs",
+"cujojs/most",
+"pozadi/kefir",
+"paldepind/flyd",
+"rpominov/basic-streams",
+"kriskowal/gtor",
+"jhusain/learnrx",
+"stoeffel/awesome-fp-js"
+]
+}

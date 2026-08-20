@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A fancy, configurable, notification manager for NeoVim","defaultBranch":"master","topics":["neovim","nvim"],"readmeSha":"909b69af3e053b75becc8df434bde078df403aea"},
+"members": [
+"ryanoasis/nerd-fonts",
+"Shougo/dein.vim",
+"junegunn/vim-plug",
+"wbthomason/packer.nvim",
+"nvim-telescope/telescope.nvim"
+]
+}

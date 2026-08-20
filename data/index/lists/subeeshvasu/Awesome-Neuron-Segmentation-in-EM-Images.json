@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of resources for 3D segmentation of neurites in EM images","defaultBranch":"master","topics":[],"readmeSha":"5deeef3c77ffcf348eb23cbd31edea379098b95b"},
+"members": [
+"divelab/deepem3d",
+"torms3/Superhuman",
+"google/ffn",
+"funkey/mala",
+"sciai-lab/mutex-watershed",
+"seung-lab/devoem",
+"weih527/SSNS-Net",
+"cremi/cremi_python",
+"mhlabCodingTeam/SegEM",
+"funkey/ted",
+"PytorchConnectomics/pytorch_connectomics",
+"wolny/pytorch-3dunet",
+"JackieZhai/awesome-vem-datasets"
+]
+}

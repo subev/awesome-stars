@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A distributed system designed to ingest and process time series data","defaultBranch":"master","topics":[],"readmeSha":"3456f6dcacf09a941cb748481d7b9e8568a2cae6"},
+"members": [
+"rax-maas/blueflood",
+"rackerlabs/raxmetrics-perf-test-scripts",
+"rax-maas/blueflood-carbon-forwarder",
+"rax-maas/blueflood-graphite-finder",
+"rax-maas/blueflood-statsd-backend"
+]
+}
