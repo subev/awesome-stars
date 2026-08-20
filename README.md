@@ -1,53 +1,77 @@
-# Welcome to [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim/) list extended with Stargazers count!
+# Awesome Stars
+
+**Awesome lists, rendered live with GitHub star counts and growth trends.**
+
+### → [subev.github.io/awesome-stars](https://subev.github.io/awesome-stars/)
+
+766 awesome lists, discovered by crawling outward from
+[sindresorhus/awesome](https://github.com/sindresorhus/awesome). Every README is
+fetched live from GitHub, so it is never stale — the star counts and `%/month`
+growth badges are overlaid from a weekly crawl.
 
 <img width="1270" height="619" alt="image" src="https://github.com/user-attachments/assets/8fe3fd2a-3661-40b9-994a-fa94b76530ae" />
 
+## Jump in
 
+| List | | |
+|---|---|---|
+| [Awesome](https://subev.github.io/awesome-stars/awesome/sindresorhus/awesome) — the list of lists | 672 repos | [trends](https://subev.github.io/awesome-stars/awesome/sindresorhus/awesome/trends) |
+| [Awesome Python](https://subev.github.io/awesome-stars/awesome/vinta/awesome-python) | 476 repos | |
+| [Awesome Go](https://subev.github.io/awesome-stars/awesome/avelino/awesome-go) | 2,806 repos | |
+| [Awesome Self-Hosted](https://subev.github.io/awesome-stars/awesome/awesome-selfhosted/awesome-selfhosted) | 1,114 repos | |
+| [Awesome Mac](https://subev.github.io/awesome-stars/awesome/jaywcjlove/awesome-mac) | 645 repos | |
+| [Awesome Node.js](https://subev.github.io/awesome-stars/awesome/sindresorhus/awesome-nodejs) | 526 repos | [trends](https://subev.github.io/awesome-stars/awesome/sindresorhus/awesome-nodejs/trends) |
+| [Awesome React](https://subev.github.io/awesome-stars/awesome/enaqx/awesome-react) | 131 repos | [trends](https://subev.github.io/awesome-stars/awesome/enaqx/awesome-react/trends) |
 
-## Features
+Or **[search all 766 lists](https://subev.github.io/awesome-stars/)** from the
+Explore box on the homepage.
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 💾 PostgreSQL + DrizzleORM
-- 📖 [React Router docs](https://reactrouter.com/)
-- TailwindCSS for styling
-- Eslint and Prettier for code quality
+A **trends** page ranks a list's repos by growth, with sparklines and a
+"dropped from the list" log. It needs two datapoints at least 14 days apart, so
+more lists gain one every week as the crawl runs.
+
+## How it works
+
+- **Markdown and stars come from different places.** The README is fetched live
+  from GitHub in the browser; star counts come from a static JSON built at
+  deploy time. Two requests per page, no server.
+- **Stars are collected in batches.** One GraphQL query carries 40 aliased
+  `repository()` lookups and costs GitHub *one* rate-limit point regardless of
+  size — so 85k lookups cost ~1,800 points instead of 85,000. READMEs come from
+  `raw.githubusercontent.com`, which is unmetered.
+- **Storage is normalized in git, denormalized on the wire.** 70k repos are
+  stored once each across 256 shards (13MB); the build fans them out into one
+  self-contained JSON per list. Those built files are never committed.
+- **History is append-only**, one gzipped `{repo: stars}` file per date, written
+  weekly. That is what the growth badges are computed from.
+
+Built with React Router (SPA mode), Tailwind, and TypeScript, deployed to GitHub
+Pages. Only the featured lists are prerendered; the rest render client-side via
+the SPA fallback, so build time stays flat as the crawl grows.
 
 ## Getting Started
 
-### Installation
-
-Install the dependencies:
-
 ```bash
 npm install
+cp .env.example .env      # then add a GitHub personal access token
 ```
 
-you also need .env file with the following variables:
+`GITHUB_TOKEN` is required — the crawler uses it for the GraphQL API. A classic
+token with no scopes is enough; only public data is read.
 
-``` GITHUB_TOKEN ``` - A GitHub personal access token.
+The repo ships with `data/index` already populated, so you can start straight
+away:
 
-Then populate the data store (see *Crawling awesome lists* below):
+```bash
+npm run dev               # http://localhost:3000
+```
+
+To extend the crawl yourself, see *Crawling awesome lists* below:
 
 ```bash
 npm run crawl -- --max-points 500
+npm run crawl:status
 ```
-
-### Development
-
-Copy `.env.example` to `.env` and provide a GITHUB_TOKEN.
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
 
 ## Star history & growth badges
 
@@ -101,30 +125,31 @@ is unmetered, falling back to the REST readme endpoint for unguessable filenames
 (`README.org`, `.github/README.md`, …). A run holds an exclusive lock at
 `data/crawl/crawl.lock`; two crawls at once would silently clobber each other's shards.
 
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
 ## Deployment
 
-### Docker Deployment
-
-To build and run using Docker:
+The live site is a **static build on GitHub Pages**. Pushing to `master` triggers
+`.github/workflows/deploy.yml`, which runs `npm run build:static` — that
+regenerates every star asset from the committed `data/index` and prerenders the
+featured lists. Nothing under `public/stars/` is committed, so a deploy can never
+ship stale numbers.
 
 ```bash
-# For npm
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
+npm run build:static      # what CI runs; output in build/client
 ```
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+`.github/workflows/crawl.yml` runs every 6 hours to extend and refresh the crawl,
+committing `data/crawl` and `data/index`, then triggering a deploy. Both
+workflows share a `data-write` concurrency group so they never race on a push.
+
+### Self-hosting (optional)
+
+The SSR server still works if you would rather run it yourself — this also gives
+you the on-demand "fetch this list now" endpoint that the static site cannot have:
+
+```bash
+npm run build && npm run start     # or: docker build -t awesome-stars . && docker run -p 3000:3000 awesome-stars
+```
 
 ---
 
-Built with ❤️ using React Router.
+Built with [React Router](https://reactrouter.com/) and Tailwind CSS.
