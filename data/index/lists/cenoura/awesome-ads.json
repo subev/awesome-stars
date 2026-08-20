@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome advertising content, resources and libraries.","defaultBranch":"master","topics":["awesome-list","prebid","header-bidding","advertising","adops","awesome"],"readmeSha":"b2f483ff41adc9e62f2d28668372f4a0adf8520b"},
+"members": [
+"jaanauati/react-dfp",
+"kmjennison/dfp-prebid-setup",
+"KijijiCA/react-advertising"
+]
+}

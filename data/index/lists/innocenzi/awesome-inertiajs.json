@@ -1,0 +1,23 @@
+{
+"meta": {"description":"A curated list of awesome Inertia.js resources","defaultBranch":"main","topics":["awesome","awesome-list","inertiajs"],"readmeSha":"1ea85e834b24d433477970b2d3ffc47e7798c83b"},
+"members": [
+"sindresorhus/awesome",
+"sindresorhus/awesome-lint",
+"inertiajs/demo-v3",
+"inertiajs/inertia",
+"inertiajs/inertia-laravel",
+"inertiajs/inertia-rails",
+"inertiajs/inertia-django",
+"inertiajs/inertia-phoenix",
+"adonisjs/inertia",
+"petaki/inertia-go",
+"kohkimakimoto/inertia-echo",
+"hxjo/fastapi-inertia",
+"matrei/grails-inertia-plugin",
+"j0ack/flask-inertia",
+"nytodev/inertia-bundle",
+"offload-project/inertiajs-use-api",
+"spatie/laravel-data",
+"spatie/laravel-navigation"
+]
+}

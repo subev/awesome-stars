@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of resources for building and promoting more compassionate engineering cultures","defaultBranch":"master","topics":["empathy","engineering","culture","awesome","awesome-list","lists"],"readmeSha":"a17d8262a1fb8cb3feebb554520bb986f94eeabe"},
+"members": [
+"sindresorhus/awesome",
+"Altreus/colourblind"
+]
+}

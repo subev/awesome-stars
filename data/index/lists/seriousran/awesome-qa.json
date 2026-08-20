@@ -1,0 +1,23 @@
+{
+"meta": {"description":"😎 A curated list of the Question Answering (QA)","defaultBranch":"master","topics":["question-answering","nlp","machine-comprehension","awesome","awesome-list","squad","bert","watson","deepqa"],"readmeSha":"64fe40f9ce4b545e7314b0a65a05d3d706ce346e"},
+"members": [
+"sindresorhus/awesome",
+"wissam-sib/dilbert",
+"xwhan/ProQA",
+"allenai/bi-att-flow",
+"localminimum/QANet",
+"HKUST-KnowComp/R-Net",
+"YerevaNN/R-NET-in-Keras",
+"hitvoice/DrQA",
+"google-research/bert",
+"scottyih/Slides",
+"semantic-systems/NLIWOD",
+"karthikncode/nlp-datasets",
+"Websail-NU/CODAH",
+"google-deepmind/rc-data",
+"facebookresearch/ELI5",
+"ysu1989/GraphQuestions",
+"google-deepmind/narrativeqa",
+"Maluuba/newsqa"
+]
+}

@@ -1,0 +1,23 @@
+{
+"meta": {"description":"A curated list of awesome TypeDB frameworks libraries, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"1f1e11f11911c06c2aee241d302179f2e5fd0f73"},
+"members": [
+"typedb/typedb",
+"typedb/typedb-studio",
+"Blitzapps/blitz-orm",
+"CaliLuke/go-typeql",
+"typedb/typedb-skills",
+"typedb/typedb-ml",
+"typedb-osi/typedb-loader",
+"typedb-osi/typedb-cti",
+"typedb-osi/typedb-bio",
+"sourceplusplus/interface-jetbrains",
+"RasaHQ/rasa",
+"ds1sqe/type-bridge",
+"typedb/typedb-driver-examples",
+"typedb/typedb-driver",
+"Humans-of-Julia/TypeDBClient.jl",
+"typedb-osi/typeql-plugin-emacs",
+"typedb-osi/typeql-plugin-vscode",
+"typedb-osi/typeql-plugin-jetbrains"
+]
+}

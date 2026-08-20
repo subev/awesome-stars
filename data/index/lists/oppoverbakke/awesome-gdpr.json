@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Protection of natural persons with regard to the processing of personal data and on the free movement of such data.","defaultBranch":"master","topics":["gdpr","gdpr-checklist","privacy","privacy-tools","privacy-by-design","general-data-protection-regulation","awesome","awesome-list","curated-list","security-tools"],"readmeSha":"2b1b50dfb2224245a10f68f59cccde50bdd16910"},
+"members": [
+"juro-privacy/free-privacy-notice",
+"LINCnil/GDPR-Developer-Guide",
+"Dstack-TEE/dstack",
+"meirwah/awesome-incident-response",
+"JermainKroot/best-consent-management-platforms",
+"nikivdev/privacy-respecting",
+"sindresorhus/awesome",
+"humanetech-community/awesome-humane-tech",
+"pluja/awesome-privacy",
+"truevault-safe/hipaa-compliance-developers-guide"
+]
+}

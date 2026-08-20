@@ -1,0 +1,23 @@
+{
+"meta": {"description":"A curated list of awesome things related to Seed","defaultBranch":"master","topics":["awesome-list","awesome","seed","rust","wasm","frontend","framework"],"readmeSha":"e28f795d1d7135e511a8f11742d0adb07dac12cd"},
+"members": [
+"seed-rs/seed",
+"seed-rs/seed-quickstart",
+"seed-rs/seed-quickstart-webpack",
+"trunk-rs/trunk",
+"panoptix-za/web-bundler",
+"MartinKavik/seeder",
+"seed-rs/seed-rs-realworld",
+"MartinKavik/seed-realworld-darklang",
+"seed-rs/erwa_mytodo",
+"arn-the-long-beard/seeded_game_of_life",
+"warycat/dotawasm",
+"heyAuraDev/adex-explorer",
+"MartinKavik/kavik.cz",
+"AlterionX/benxu-dev",
+"eopb/planters-rdconf-hackathon-project",
+"transact-rs/sqlx",
+"panoptix-za/seed-bootstrap",
+"mh84/seed_heroicons"
+]
+}

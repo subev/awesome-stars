@@ -1,8 +1,13 @@
-import { useState, useEffect } from "react";
-import { Link, data, isRouteErrorResponse, useLoaderData } from "react-router";
+import { Suspense, useState, useEffect } from "react";
 import {
-  MarkdownRenderer,
-} from "~/components/MarkdownRenderer";
+  Await,
+  Link,
+  isRouteErrorResponse,
+  useAsyncError,
+  useLoaderData,
+} from "react-router";
+import { ListSkeleton } from "~/components/ListSkeleton";
+import { MarkdownRenderer } from "~/components/MarkdownRenderer";
 import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
 import { starsAssetUrl, type StarsAsset } from "~/lib/starsAsset";
 import type { Route } from "./+types/awesome.$owner.$repo";
@@ -22,29 +27,36 @@ const fetchStarsAsset = async (
   }
 };
 
+const httpError = (message: string, status: number) =>
+  Object.assign(new Error(message), { status });
+
 const fetchLiveReadme = async (owner: string, repo: string) => {
   const res = await fetch(
     `https://api.github.com/repos/${owner}/${repo}/readme`,
     { headers: { Accept: "application/vnd.github.raw+json" } },
   );
   if (res.status === 404) {
-    throw data(`Repository ${owner}/${repo} not found or has no README.`, {
-      status: 404,
-    });
+    throw httpError(
+      `Repository ${owner}/${repo} not found or has no README.`,
+      404,
+    );
   }
   if (res.status === 403 || res.status === 429) {
-    throw new Error(
+    throw httpError(
       "GitHub API rate limit reached — try again in a few minutes.",
+      res.status,
     );
   }
   if (!res.ok) {
-    throw new Error(`GitHub returned ${res.status} for ${owner}/${repo}.`);
+    throw httpError(
+      `GitHub returned ${res.status} for ${owner}/${repo}.`,
+      res.status,
+    );
   }
   return res.text();
 };
 
-export async function clientLoader({ params }: Route.ClientLoaderArgs) {
-  const { owner, repo } = params;
+const loadList = async (owner: string, repo: string) => {
   const [asset, readme] = await Promise.all([
     fetchStarsAsset(owner, repo),
     fetchLiveReadme(owner, repo),
@@ -58,39 +70,52 @@ export async function clientLoader({ params }: Route.ClientLoaderArgs) {
   );
 
   return {
-    owner,
-    repo,
     markdown: replaceMarkdownLinksWithStars(readme, starMap),
     badges: asset?.badges ?? {},
     tracked: asset !== null,
     snapshotDate: asset?.date ?? null,
   };
+};
+
+type ListData = Awaited<ReturnType<typeof loadList>>;
+
+export async function clientLoader({ params }: Route.ClientLoaderArgs) {
+  const { owner, repo } = params;
+  const list = loadList(owner, repo);
+  // <Await> reports the rejection; this keeps it from also surfacing as an
+  // unhandled rejection when nothing is subscribed (navigated away, refetching).
+  list.catch(() => {});
+  return { owner, repo, list };
 }
 
 export function HydrateFallback({ params }: Route.HydrateFallbackProps) {
-  return (
-    <div className="mx-auto max-w-2xl p-8">
-      <div className="mb-4">
-        <Link to="/" className="text-ink-dim hover:text-ink text-sm">
-          &larr; All lists
-        </Link>
-      </div>
-      <div className="border-edge bg-surface rounded-lg border p-6">
-        <h2 className="font-display text-lg font-semibold">
-          Loading {params.owner}/{params.repo}…
-        </h2>
-      </div>
-    </div>
-  );
+  return <ListSkeleton owner={params.owner} repo={params.repo} />;
 }
 
-export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
-  const notFound = isRouteErrorResponse(error) && error.status === 404;
-  const message = notFound
-    ? String(error.data)
-    : error instanceof Error
-      ? error.message
-      : String(error);
+const describeError = (error: unknown) => {
+  if (isRouteErrorResponse(error)) {
+    return { notFound: error.status === 404, message: String(error.data) };
+  }
+  if (error instanceof Error) {
+    return {
+      notFound: (error as { status?: number }).status === 404,
+      message: error.message,
+    };
+  }
+  return { notFound: false, message: String(error) };
+};
+
+function ListError({
+  owner,
+  repo,
+  notFound,
+  message,
+}: {
+  owner: string;
+  repo: string;
+  notFound: boolean;
+  message: string;
+}) {
   return (
     <div className="mx-auto max-w-2xl p-8">
       <div className="mb-4">
@@ -106,7 +131,7 @@ export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
         {notFound && (
           <p className="text-ink-dim mt-2 text-sm">
             <a
-              href={`https://github.com/${params.owner}/${params.repo}`}
+              href={`https://github.com/${owner}/${repo}`}
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline"
@@ -117,6 +142,22 @@ export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
         )}
       </div>
     </div>
+  );
+}
+
+export function ErrorBoundary({ params, error }: Route.ErrorBoundaryProps) {
+  return (
+    <ListError
+      owner={params.owner}
+      repo={params.repo}
+      {...describeError(error)}
+    />
+  );
+}
+
+function AsyncListError({ owner, repo }: { owner: string; repo: string }) {
+  return (
+    <ListError owner={owner} repo={repo} {...describeError(useAsyncError())} />
   );
 }
 
@@ -167,7 +208,9 @@ function FetchStarsProgress({ owner, repo }: { owner: string; repo: string }) {
     return (
       <div className="mx-auto max-w-2xl p-8">
         <div className="border-down/30 bg-down/10 rounded-lg border p-6">
-          <h2 className="text-down font-display mb-2 text-lg font-semibold">Error</h2>
+          <h2 className="text-down font-display mb-2 text-lg font-semibold">
+            Error
+          </h2>
           <p className="text-down/90">{error}</p>
         </div>
       </div>
@@ -210,17 +253,20 @@ function FetchStarsProgress({ owner, repo }: { owner: string; repo: string }) {
   );
 }
 
-export default function DynamicAwesomeList() {
-  const data = useLoaderData<typeof clientLoader>();
-  const [fetching, setFetching] = useState(false);
-
-  if (fetching) {
-    return <FetchStarsProgress owner={data.owner} repo={data.repo} />;
-  }
-
+function LoadedList({
+  owner,
+  repo,
+  list,
+  onFetchStars,
+}: {
+  owner: string;
+  repo: string;
+  list: ListData;
+  onFetchStars: () => void;
+}) {
   return (
     <>
-      {!data.tracked && (
+      {!list.tracked && (
         <div className="border-edge bg-surface mx-5 mt-4 rounded-lg border p-3 text-sm">
           <span className="text-ink-dim">
             This list isn&apos;t tracked yet — showing the live README without
@@ -228,7 +274,7 @@ export default function DynamicAwesomeList() {
           </span>
           {!STATIC_BUILD && (
             <button
-              onClick={() => setFetching(true)}
+              onClick={onFetchStars}
               className="text-accent ml-2 font-medium hover:underline"
             >
               Fetch star data
@@ -237,16 +283,41 @@ export default function DynamicAwesomeList() {
         </div>
       )}
       <MarkdownRenderer
-        markdown={data.markdown}
-        title={`${data.owner}/${data.repo}`}
+        markdown={list.markdown}
+        title={`${owner}/${repo}`}
         trendsHref={
-          data.tracked ? `/awesome/${data.owner}/${data.repo}/trends` : undefined
+          list.tracked ? `/awesome/${owner}/${repo}/trends` : undefined
         }
-        badges={data.badges}
-        onRefresh={
-          STATIC_BUILD || !data.tracked ? undefined : () => setFetching(true)
-        }
+        badges={list.badges}
+        onRefresh={STATIC_BUILD || !list.tracked ? undefined : onFetchStars}
       />
     </>
+  );
+}
+
+export default function DynamicAwesomeList() {
+  const { owner, repo, list } = useLoaderData<typeof clientLoader>();
+  const [fetching, setFetching] = useState(false);
+
+  if (fetching) {
+    return <FetchStarsProgress owner={owner} repo={repo} />;
+  }
+
+  return (
+    <Suspense fallback={<ListSkeleton owner={owner} repo={repo} />}>
+      <Await
+        resolve={list}
+        errorElement={<AsyncListError owner={owner} repo={repo} />}
+      >
+        {(loaded: ListData) => (
+          <LoadedList
+            owner={owner}
+            repo={repo}
+            list={loaded}
+            onFetchStars={() => setFetching(true)}
+          />
+        )}
+      </Await>
+    </Suspense>
   );
 }

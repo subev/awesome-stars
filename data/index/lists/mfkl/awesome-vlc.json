@@ -1,0 +1,26 @@
+{
+"meta": {"description":"👻 A curated list of awesome VLC and LibVLC resources. ","defaultBranch":"main","topics":["vlc","libvlc","videolan","multimedia","awesome","awesome-list"],"readmeSha":"9c66ebb86e52937101d278f06e0ae4413a2c2079"},
+"members": [
+"nurupo/vlc-pause-click-plugin",
+"aklexel/vlc-tip-plugin",
+"johang/vlc-bittorrent",
+"nemosharma6/vlc-plugin-marker",
+"spmn/vlc-win10smtc",
+"lachie/vlc-mixer",
+"surrim/vlc-delete",
+"xaf/TraktForVLC",
+"Abstraxt-AA/playlist-youtube-vlc",
+"Trevelopment/vlc-super-skipper",
+"piebro/vlc-mcp-server",
+"eltoro0815/vlc-auto-dir-enqueue-prev-next",
+"oaubert/python-vlc",
+"caprica/vlcj",
+"videolan/libvlcsharp",
+"adrg/libvlc-go",
+"solid-software/flutter_vlc_player",
+"alexmercerind/dart_vlc",
+"RSATom/WebChimera.js",
+"kassane/libvlc-zig",
+"mfkl/libvlc-skill"
+]
+}

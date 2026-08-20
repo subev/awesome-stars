@@ -1,0 +1,10 @@
+{
+"meta": {"description":":sunrise: A collection of awesome resources for building progressive web apps","defaultBranch":"master","topics":[],"readmeSha":"62d92665fc434761fb8926161f4c732233d25658"},
+"members": [
+"sindresorhus/awesome",
+"TalAter/awesome-service-workers",
+"WICG/background-sync",
+"w3c/web-share",
+"w3c/web-share-target"
+]
+}

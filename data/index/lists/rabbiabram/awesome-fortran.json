@@ -1,0 +1,28 @@
+{
+"meta": {"description":"Awesome list of Fortran libs","defaultBranch":"master","topics":[],"readmeSha":"7913299ef43ee03d0f0af156806d84bf05da0cc4"},
+"members": [
+"sindresorhus/awesome",
+"Wolg/awesome-swift",
+"wavebitscientific/functional-fortran",
+"vmagnin/gtk-fortran",
+"szaghi/VTKFortran",
+"Unidata/netcdf-fortran",
+"OpenMathLib/OpenBLAS",
+"josephalevin/fson",
+"jacobwilliams/json-fortran",
+"andreww/fox",
+"wavebitscientific/datetime-fortran",
+"szaghi/BeFoR64",
+"szaghi/PENF",
+"szaghi/FLAP",
+"cngilbreth/optionsf90",
+"szaghi/FoBiS",
+"szaghi/PreForM",
+"sbryngelson/ffmt",
+"cmacmackin/ford",
+"MFlowCode/MFC",
+"szaghi/OFF",
+"mapmeld/fortran-machine",
+"bayandin/awesome-awesomeness"
+]
+}

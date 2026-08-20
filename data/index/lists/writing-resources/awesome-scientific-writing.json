@@ -1,0 +1,30 @@
+{
+"meta": {"description":":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ","defaultBranch":"main","topics":["awesome","markdown","restructuredtext","jupyter-notebook","org-mode","pandoc","awesome-list"],"readmeSha":"68da4c39a180fc7b72298d3437546a5b4c33b039"},
+"members": [
+"sindresorhus/awesome",
+"marktext/marktext",
+"rstudio/rstudio",
+"rstudio/bookdown",
+"msprev/fzf-bibtex",
+"vim-pandoc/vim-pandoc",
+"vim-pandoc/vim-pandoc-syntax",
+"yzhang-gh/vscode-markdown",
+"shd101wyy/markdown-preview-enhanced",
+"jgm/pandoc",
+"JohannesBuchner/languagecheck",
+"markdownlint/markdownlint",
+"amperser/proselint",
+"remarkjs/remark-lint",
+"twolfson/restructuredtext-lint",
+"vale-cli/vale",
+"btford/write-good",
+"dev-onejun/paper-templates-for-github-pages",
+"rstudio/bookdown-demo",
+"Wandmalfarbe/pandoc-latex-template",
+"tompollard/phd_thesis_markdown",
+"clawpack/riemann_book",
+"markusschanta/awesome-jupyter",
+"egeerardyn/awesome-LaTeX",
+"BubuAnabelas/awesome-markdown"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome responsible machine learning resources.","defaultBranch":"master","topics":["fairness","xai","interpretability","transparency","machine-learning","data-science","python","r","awesome","awesome-list"],"readmeSha":"f4dc9650555afe07131cf5c02636573a54a25f67"},
+"members": [
+"hallresearch-ai/ai_governance_policy_resources",
+"hallresearch-ai/ai_assessment_implementation_resources"
+]
+}

@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Software for humanities scholars using quantitative or computational methods.","defaultBranch":"main","topics":["awesome-list","awesome","digital-humanities","dh-tools","dh-resources"],"readmeSha":"79878298b2fe1d1f3dd77f081c377a4534e6c96e"},
+"members": [
+"vericle/intellyweave",
+"MichailSemoglou/renoir",
+"computationalstylistics/stylo",
+"ocrmypdf/OCRmyPDF",
+"maehr/awesome-digital-history",
+"IIIF/awesome-iiif",
+"kba/awesome-ocr",
+"writing-resources/awesome-scientific-writing",
+"iipc/awesome-web-archiving",
+"amandavisconti/DHslack",
+"maltevogl/jupyterworkspace",
+"quinnanya/dh-jupyter",
+"riatelab/bertin"
+]
+}

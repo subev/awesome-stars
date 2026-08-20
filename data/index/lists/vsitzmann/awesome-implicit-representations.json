@@ -1,0 +1,14 @@
+{
+"meta": {"description":"A curated list of resources on implicit neural representations.","defaultBranch":"main","topics":[],"readmeSha":"51c0b7b4da86890ddffcf67b60673afe5f66dfe3"},
+"members": [
+"sindresorhus/awesome",
+"jbhuang0604/awesome-computer-vision",
+"matanatz/SAL",
+"amosgropp/IGR",
+"autonomousvision/differentiable_volumetric_rendering",
+"awesome-NeRF/awesome-NeRF",
+"chenhsuanlin/signed-distance-SRN",
+"facebookresearch/NSVF",
+"yinboc/liif"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A list of cool features of Git and GitHub.","defaultBranch":"master","topics":["awesome","awesome-list","list","github","git"],"readmeSha":"e9189cc831fcf92ce551a66d85d810a8190bf598"},
+"members": [
+"sindresorhus/awesome",
+"rails/rails",
+"octokit/octokit.rb",
+"github-linguist/linguist",
+"scotch-io/All-Github-Emoji-Icons",
+"benbalter/congressional-districts",
+"mislav/hub",
+"mathiasbynens/dotfiles",
+"gorosgobe/git-god",
+"github/gitignore",
+"unixorn/git-extra-commands",
+"pluralsight/git-internals-pdf"
+]
+}

@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated and collaborative list of awesome Kustomize resources","defaultBranch":"main","topics":["awesome","awesome-list","gitops","kubectl","kubernetes","kustomize","kustomize-plugin"],"readmeSha":"ba2eae1bf6798e61582e84aa64233fff91433ee3"},
+"members": [
+"sindresorhus/awesome",
+"DevOpsHiveHQ/awesome-kustomize",
+"kubernetes-sigs/kustomize",
+"bbl/secretize",
+"goabout/kustomize-sopssecretgenerator",
+"viaduct-ai/kustomize-sops",
+"open-cluster-management-io/policy-generator-plugin",
+"kaweezle/krmfnbuiltin",
+"DevOpsHiveHQ/kustomize-plugin-merger",
+"openinfradev/kustomize-helm-transformer",
+"joshdk/template-transformer",
+"DevOpsHiveHQ/kustomize-plugin-kubeconform",
+"3deep5me/awesome-kustomize",
+"Banno/asdf-kustomize",
+"ramitsurana/awesome-kubernetes",
+"ishantanu/awesome-kubectl-plugins",
+"cdwv/awesome-helm"
+]
+}

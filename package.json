@@ -9,18 +9,10 @@
     "typecheck": "react-router typegen && tsc -b",
     "lint": "eslint . --ext .ts,.tsx",
     "test": "vitest",
-    "migrate-snapshots": "node --experimental-strip-types scripts/migrateSnapshots.ts",
-    "fetch-stars": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list all",
-    "fetch-stars:neovim": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list neovim",
-    "fetch-stars:nodejs": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list nodejs",
-    "cached-stars": "USE_CACHE=TRUE node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list all",
-    "cached-stars:neovim": "USE_CACHE=TRUE node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list neovim",
-    "cached-stars:nodejs": "USE_CACHE=TRUE node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list nodejs",
-    "fetch-stars:awesome": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list awesome",
-    "fetch-stars:macos-apps": "node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list macos-apps",
-    "cached-stars:awesome": "USE_CACHE=TRUE node --experimental-strip-types --env-file-if-exists=.env scripts/run-main.ts --list awesome",
     "build:static": "npm run stars-assets && STATIC_BUILD=1 VITE_STATIC_BUILD=1 react-router build",
-    "stars-assets": "node --experimental-strip-types scripts/build-stars-assets.ts"
+    "stars-assets": "node --experimental-strip-types scripts/build-stars-assets.ts",
+    "crawl": "node --experimental-strip-types --env-file-if-exists=.env scripts/crawl.ts",
+    "crawl:status": "node --experimental-strip-types scripts/crawl-status.ts"
   },
   "dependencies": {
     "@react-router/express": "^7.7.1",

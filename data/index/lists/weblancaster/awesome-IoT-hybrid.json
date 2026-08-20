@@ -1,0 +1,10 @@
+{
+"meta": {"description":"The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"afe1e53a4d964792d762329588d7667d5345d1af"},
+"members": [
+"sindresorhus/awesome",
+"lelylan/lelylan",
+"nwjs/nw.js",
+"electron/electron",
+"petermetz/cordova-plugin-ibeacon"
+]
+}

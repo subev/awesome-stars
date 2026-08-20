@@ -43,7 +43,8 @@
   --font-sans:
     "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-display: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display:
+    "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-data: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
 
   --color-bg: var(--bg);
@@ -64,8 +65,7 @@
 
 html,
 body {
-  background:
-    radial-gradient(
+  background: radial-gradient(
       1100px 480px at 72% -12%,
       color-mix(in oklab, var(--accent) 9%, transparent),
       transparent 65%
@@ -82,4 +82,33 @@ body {
 
 .glow-hot {
   text-shadow: 0 0 10px var(--glow);
+}
+
+@keyframes nav-progress {
+  0%,
+  4% {
+    transform: scaleX(0);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  60% {
+    transform: scaleX(0.7);
+  }
+  100% {
+    transform: scaleX(0.96);
+    opacity: 1;
+  }
+}
+
+.nav-progress {
+  transform-origin: left center;
+  animation: nav-progress 3s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nav-progress {
+    animation: none;
+  }
 }

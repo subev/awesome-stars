@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.","defaultBranch":"master","topics":[],"readmeSha":"c51357f185134929989dca02de9547a5a5a7e381"},
+"members": [
+"dotnet/BenchmarkDotNet",
+"petabridge/NBench",
+"AnthonyLloyd/CsCheck",
+"microsoft/perfview",
+"xoofx/ultra",
+"unchase/Unchase.FluentPerformanceMeter",
+"AppMetrics/AppMetrics",
+"PragmaticFlow/NBomber",
+"dotnet/performance",
+"dotnet/runtime",
+"AndyAyersMS/PerformanceExplorer",
+"Maoni0/mem-doc"
+]
+}

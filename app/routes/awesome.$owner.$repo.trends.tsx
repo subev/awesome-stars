@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { Link, data, useLoaderData } from "react-router";
-import { readSnapshots } from "~/lib/snapshots.server";
-import { computeTrends, type RepoTrend } from "~/lib/trends";
+import { computeTrends, type RepoTrend, type Trends } from "~/lib/trends";
+import { trendsAssetUrl } from "~/lib/starsAsset";
 import type { Route } from "./+types/awesome.$owner.$repo.trends";
 
 export function meta({ params }: Route.MetaArgs) {
@@ -10,27 +10,32 @@ export function meta({ params }: Route.MetaArgs) {
 
 export async function loader({ params }: Route.LoaderArgs) {
   const { owner, repo } = params;
-  const snapshots = await readSnapshots(owner, repo);
+  const { readAllRepos, readListIndex } = await import(
+    "~/lib/repoIndex.server"
+  );
+  const { loadHistory } = await import("~/lib/history.server");
 
-  if (snapshots.length === 0) {
-    throw data(
-      `No snapshots for ${owner}/${repo} yet. Run the fetch script to create one.`,
-      { status: 404 },
-    );
-  }
+  const list = await readListIndex(owner, repo);
+  if (!list) throw data(`${owner}/${repo} has not been indexed yet.`, { status: 404 });
 
-  return { trends: computeTrends(snapshots), owner, repo };
+  const history = await loadHistory(await readAllRepos());
+  const snapshots = history.snapshotsFor(list.members);
+  // Not an error: a freshly crawled list simply has one datapoint so far.
+  const trends = snapshots.length >= 2 ? computeTrends(snapshots) : null;
+  return { trends, owner, repo };
 }
 
 const STATIC_BUILD = import.meta.env.VITE_STATIC_BUILD === "1";
 
-export async function clientLoader({ serverLoader }: Route.ClientLoaderArgs) {
+export async function clientLoader({
+  params,
+  serverLoader,
+}: Route.ClientLoaderArgs) {
   if (!STATIC_BUILD) return serverLoader();
-  try {
-    return await serverLoader();
-  } catch {
-    throw data("No snapshots for this list", { status: 404 });
-  }
+  const { owner, repo } = params;
+  const res = await fetch(trendsAssetUrl(owner, repo));
+  const trends = res.ok ? ((await res.json()) as Trends) : null;
+  return { trends, owner, repo };
 }
 
 const ACCENT = "var(--accent)";
@@ -195,8 +200,42 @@ function SortableHeader({
 
 const VISIBLE_LIMIT = 100;
 
+function NotEnoughData({ owner, repo }: { owner: string; repo: string }) {
+  return (
+    <div className="mx-auto max-w-2xl p-8">
+      <div className="mb-4">
+        <Link to={`/awesome/${owner}/${repo}`} className="text-ink-dim hover:text-ink text-sm">
+          &larr; {owner}/{repo}
+        </Link>
+      </div>
+      <div className="border-edge bg-surface rounded-lg border p-6">
+        <h2 className="font-display mb-2 text-lg font-semibold">
+          Not enough history yet
+        </h2>
+        <p className="text-ink-dim">
+          Trends need at least two datapoints on different days. This list has
+          been seen once so far — check back after the next weekly crawl.
+        </p>
+      </div>
+    </div>
+  );
+}
+
 export default function TrendsPage() {
   const { trends, owner, repo } = useLoaderData<typeof loader>();
+  if (!trends) return <NotEnoughData owner={owner} repo={repo} />;
+  return <TrendsView trends={trends} owner={owner} repo={repo} />;
+}
+
+function TrendsView({
+  trends,
+  owner,
+  repo,
+}: {
+  trends: Trends;
+  owner: string;
+  repo: string;
+}) {
   const { dates, repos, removed, summary } = trends;
 
   const [sort, setSort] = useState<SortState>({

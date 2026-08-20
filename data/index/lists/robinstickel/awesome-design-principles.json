@@ -1,0 +1,7 @@
+{
+"meta": {"description":"✨ A curated list of awesome design principles","defaultBranch":"master","topics":["design-systems","design-principle","awesome","awesome-list","user-experience","ux-design","experience-principles","principles"],"readmeSha":"0fc81f012650ae2c100a5534746d791549cfd1b7"},
+"members": [
+"sindresorhus/awesome",
+"alexpate/awesome-design-systems"
+]
+}

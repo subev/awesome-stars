@@ -1,0 +1,21 @@
+{
+"meta": {"description":"📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.","defaultBranch":"main","topics":["adsb","awesome","awesome-list","list","resources","tools"],"readmeSha":"03e822455115637f3f0907e953ad8d9ff280337a"},
+"members": [
+"adsblol/globe_history_2026",
+"wiedehopf/readsb",
+"MalcolmRobb/dump1090",
+"mik3y/flightmon",
+"sdr-enthusiasts/plane-alert-db",
+"junzis/pyModeS",
+"eastham/adsb_actions",
+"sdr-enthusiasts/docker-adsb-ultrafeeder",
+"adsbfi/adsb-fi-scripts",
+"adsblol/feed",
+"wiedehopf/tar1090",
+"amnesica/BelugaProject",
+"d4rken/adsb-meta-tracker",
+"kx1t/docker-planefence",
+"Jxck-S/plane-notify",
+"MrAirspace/aircraft-flight-schedules"
+]
+}

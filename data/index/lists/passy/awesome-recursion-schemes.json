@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Resources for learning and using recursion schemes.","defaultBranch":"master","topics":["awesome","recursion-schemes","catamorphisms"],"readmeSha":"b150a9da5f9b46c9bf5714cf9b4c5c3e01054cb8"},
+"members": [
+"sindresorhus/awesome",
+"sellout/recursion-scheme-talk",
+"recursion-schemes/recursion-schemes",
+"precog/matryoshka",
+"higherkindness/droste",
+"vmchale/recursion_schemes",
+"purescript-contrib/purescript-matryoshka",
+"vmchale/recursion",
+"sellout/dada",
+"josephjunker/static-land-recursion-schemes",
+"gcanti/flow-static-land",
+"aedans/Katalyst"
+]
+}

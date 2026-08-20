@@ -1,0 +1,27 @@
+{
+"meta": {"description":"👔 How to transition from software development to engineering management","defaultBranch":"main","topics":["awesome","awesome-list","management","career","engineering-team","transition","leadership","cto","executive-management","recruitment"],"readmeSha":"e070520d64a116ac68e22c0f7eda762927f96363"},
+"members": [
+"sindresorhus/awesome",
+"papers-we-love/papers-we-love",
+"ryanburgess/engineer-manager",
+"tramcar/awesome-job-boards",
+"poteto/hiring-without-whiteboards",
+"cockroachlabs/open-sourced-interview-process",
+"arialdomartini/Back-End-Developer-Interview-Questions",
+"viraptor/reverse-interview",
+"EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+"DopplerHQ/awesome-interview-questions",
+"dwmkerr/hacker-laws",
+"pdfernhout/High-Performance-Organizations-Reading-List",
+"lukasz-madon/awesome-concepts",
+"kdeldycke/awesome-falsehood",
+"google/eng-practices",
+"lukasz-madon/awesome-remote-job",
+"VGraupera/1on1-questions",
+"dend/awesome-product-management",
+"ProductHired/open-product-management",
+"hakluke/how-to-exit-vim",
+"goabstract/Marketing-for-Engineers",
+"domenicosolazzo/awesome-okr"
+]
+}

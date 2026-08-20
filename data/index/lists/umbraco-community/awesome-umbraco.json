@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of awesome Umbraco packages, resources and tools","defaultBranch":"master","topics":["awesome","umbraco","awesome-list","list","umbraco-community","hacktoberfest"],"readmeSha":"7d3e90d596b78774e297c0e1929ee2ceec2aa043"},
+"members": [
+"sindresorhus/awesome",
+"umbraco/Umbraco-CMS",
+"quozd/awesome-dotnet",
+"umbraco/Umbraco.Deploy.Contrib"
+]
+}

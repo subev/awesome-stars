@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Learn about a type of vulnerability that specifically targets machine learning models","defaultBranch":"main","topics":["awesome-list","awesome"],"readmeSha":"a0a5af3d7a2c09cd3b0a731329768e0a61928309"},
+"members": [
+"x-zheng16/Awesome-Embodied-AI-Safety",
+"NVIDIA/garak",
+"OWASP/www-project-agent-memory-guard",
+"pic-standard/pic-standard",
+"Agent-Threat-Rule/agent-threat-rules",
+"leolee99/PIGuard",
+"tldrsec/prompt-injection-defenses",
+"stacklok/brood-box",
+"mthamil107/prompt-shield",
+"ReversecLabs/damn-vulnerable-llm-agent",
+"c-goosen/ai-prompt-ctf"
+]
+}

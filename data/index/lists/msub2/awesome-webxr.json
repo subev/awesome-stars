@@ -1,0 +1,15 @@
+{
+"meta": {"description":"All things WebXR.","defaultBranch":"main","topics":["webxr","awesome","awesome-list","vr","ar","immersive-web"],"readmeSha":"9e07e40038d7653a8e970b01b514ee1525d1cd72"},
+"members": [
+"exokitxr/avatars",
+"msub2/avatars",
+"Pico-Developer/awesome-webxr-development",
+"De-Panther/unity-webxr-export",
+"Rufus31415/Simple-WebXR-Unity",
+"jbaicoianu/janusweb",
+"jsar-project/runtime",
+"pmndrs/react-three-fiber",
+"pmndrs/xr",
+"hyperfy-xyz/hyperfy"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome iOS Twitter accounts","defaultBranch":"master","topics":[],"readmeSha":"229dfd2ae4eb6b82a53f56352bb3110584ad3e01"},
+"members": [
+"sindresorhus/awesome",
+"vsouza/awesome-ios",
+"Instagram/IGListKit"
+]
+}

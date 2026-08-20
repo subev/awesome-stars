@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curate list about PostCSS","defaultBranch":"master","topics":["postcss","resources","css","parser","awesome-list"],"readmeSha":"863158a89f4f2d2389f64a747bf72a5b182b6280"},
+"members": [
+"sindresorhus/awesome",
+"jdrgoms/awesome-postcss"
+]
+}

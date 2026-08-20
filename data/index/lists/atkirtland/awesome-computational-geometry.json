@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of awesome computational geometry visualizations, frameworks, and resources ","defaultBranch":"main","topics":["awesome","awesome-list","algorithm","algorithms","computer-science","geometry","mathematics"],"readmeSha":"69760e68e92318822f7205c673a0912cf83989a7"},
+"members": [
+"JeS24/CGViz",
+"gradientspace/geometry3Sharp",
+"andriiheonia/hull",
+"google/s2geometry",
+"Habrador/Computational-geometry"
+]
+}

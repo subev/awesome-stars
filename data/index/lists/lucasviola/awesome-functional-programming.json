@@ -1,0 +1,15 @@
+{
+"meta": {"description":":alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.","defaultBranch":"master","topics":[],"readmeSha":"fa0b05a6c266e43ecd7ee46c6d489ea70824e572"},
+"members": [
+"sindresorhus/awesome",
+"idris-hackers/idris-koans",
+"timoxley/functional-javascript-workshop",
+"the-little-prover/j-bob",
+"hzlmn/haskell-must-watch",
+"busypeoples/functional-programming-javascript",
+"hemanth/functional-programming-jargon",
+"bow-swift/bow",
+"lettier/parsing-with-haskell-parser-combinators",
+"imteekay/functional-programming-learning-path"
+]
+}

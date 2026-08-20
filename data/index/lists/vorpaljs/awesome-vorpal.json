@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of delightful Vorpal extensions.","defaultBranch":"master","topics":[],"readmeSha":"3eb84b19bf96b39b13aa82b41978505b47b47f6a"},
+"members": [
+"sindresorhus/awesome",
+"dthree/vorpal",
+"dthree/cash",
+"mischah/itunes-remote",
+"Kristories/phunt",
+"dthree/wat",
+"AljoschaMeyer/metronome-cli",
+"fastack/cli",
+"andrerpena/quotr",
+"dthree/vantage",
+"eliah-w/birdknife",
+"Glavin001/tv-remote-cli",
+"johnthepink/meteor-launch",
+"ristomatti/lifxsh",
+"vorpaljs/vorpal-less",
+"vorpaljs/vorpal-grep",
+"vorpaljs/vorpal-repl",
+"vorpaljs/vorpal-tour",
+"vantagejs/vantage-watch",
+"AljoschaMeyer/vorpal-log",
+"AljoschaMeyer/vorpal-setorprint",
+"vorpaljs/vorpal-use",
+"vorpaljs/vorpal-hacker-news",
+"subk/vorpal-rc",
+"subk/vorpal-comment",
+"ialpert/vorpal-as-default"
+]
+}

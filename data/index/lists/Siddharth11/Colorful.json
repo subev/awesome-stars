@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of awesome resources to choose your next color scheme","defaultBranch":"master","topics":["colors","resource","list","color-palette","articles","awesome-list","awesome","color-scheme","color-theory"],"readmeSha":"e24c94194307ca3b794d9bc6d124509223fec89d"},
+"members": [
+"sindresorhus/awesome",
+"satya164/pigment",
+"Siddharth11/gradstop",
+"krasimir/coloor",
+"lokesh/color-thief",
+"LukyVj/Colorify.js",
+"LukyVj/colofilter.css",
+"cdonohue/polychrome",
+"jiffyclub/palettable",
+"sarcadass/granim.js",
+"mistic100/tinygradient",
+"bgrins/TinyColor",
+"internalfx/distinct-colors",
+"ricokahler/color2k",
+"jimniels/sassme",
+"meodai/color-names"
+]
+}

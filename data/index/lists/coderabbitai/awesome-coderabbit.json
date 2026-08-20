@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Official awesome-list of CodeRabbit Starters & Resources ⚡️","defaultBranch":"main","topics":["ai","code","codereview","engineering","generative-ai","pull-requests","awesome","awesome-list","codereviewer"],"readmeSha":"cdf02bc6e7dd86561265c48852eee604aef23ad1"},
+"members": [
+"appsmithorg/appsmith",
+"linuxfoundation/crowd.dev",
+"documenso/documenso",
+"formbricks/formbricks",
+"neondatabase/neon",
+"heroui-inc/heroui",
+"novuhq/novu",
+"openobserve/openobserve",
+"Permify/permify",
+"PipedreamHQ/pipedream",
+"makeplane/plane",
+"unkeyed/unkey",
+"pingdotgg/uploadthing"
+]
+}

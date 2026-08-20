@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A list of awesome Robotics resources","defaultBranch":"master","topics":["robotics"],"readmeSha":"bc40f9bdf78a6f7ca3eb47df1dc094911323363d"},
+"members": [
+"sindresorhus/awesome",
+"Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+"openai/roboschool",
+"miccol/ROS-Behavior-Tree",
+"synthetos/g2",
+"roboticsleeds/ur5controller",
+"rbdl/rbdl",
+"Unity-Technologies/Unity-Robotics-Hub",
+"mithi/hexapod",
+"AtsushiSakai/PythonRobotics",
+"owainlewis/awesome-artificial-intelligence",
+"jbhuang0604/awesome-computer-vision",
+"josephmisiti/awesome-machine-learning",
+"ChristosChristofidis/awesome-deep-learning",
+"kjw0612/awesome-deep-vision",
+"fkromer/awesome-gazebo",
+"aikorea/awesome-rl",
+"ahundt/awesome-robotics",
+"jslee02/awesome-robotics-libraries",
+"fkromer/awesome-ros2",
+"robocup-junior/awesome-rcj-soccer"
+]
+}

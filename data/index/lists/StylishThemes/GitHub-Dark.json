@@ -1,0 +1,26 @@
+{
+"meta": {"description":":octocat: Dark GitHub style","defaultBranch":"master","topics":["theme","css","awesome","dark-theme","github","userstyle","usercss","dark"],"readmeSha":"f4bbab978f162bb5f650feddca6b5f7df791600c"},
+"members": [
+"StylishThemes/GitHub-Blog-Dark",
+"StylishThemes/GitHub-code-wrap",
+"StylishThemes/GitHub-Commit-Limit",
+"StylishThemes/Discourse-Dark",
+"StylishThemes/GitHub-Compact-Feed",
+"StylishThemes/GitHub-Feed-Icons",
+"StylishThemes/GitHub-FixedHeader",
+"StylishThemes/GitHub-Selected-Tab-Color",
+"StylishThemes/GitHub-Sticky-Sidebar",
+"StylishThemes/GitHub-tab-size",
+"StylishThemes/Feature-Override-Styles",
+"StylishThemes/GitHub-Upstream-BugFixes",
+"StylishThemes/Overlay-Scrollbars",
+"EnixCoda/Gitako",
+"apex/gh-polls",
+"musically-ut/lovely-forks",
+"fregante/notifications-preview-github",
+"OctoLinker/OctoLinker",
+"ovity/octotree",
+"refined-github/refined-github",
+"sujitpal/statlearning-notebooks"
+]
+}

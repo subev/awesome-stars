@@ -1,0 +1,13 @@
+{
+"meta": {"description":"An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.","defaultBranch":"main","topics":["zeronet","zeronet-site","awesome","awesome-list","markdown"],"readmeSha":"7024b60ea92d5e1cddb3144fdd5d0a2d34d7d73e"},
+"members": [
+"ZeroNetX/ZeroNet",
+"zeronet-conservancy/zeronet-conservancy",
+"canewsin/zerunet",
+"canewsin/zeronet-rs",
+"ZeroNetX/zeronet_mobile",
+"ZeroNetX/Plugin-NameYo",
+"HelloZeroNet/ZeroNet",
+"purplesyringa/The-Truth-about-ZeroNet"
+]
+}

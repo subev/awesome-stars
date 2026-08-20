@@ -1,0 +1,8 @@
+{
+"meta": {"description":"🕶️  List of communities powered by Slack.","defaultBranch":"master","topics":["slack","awesome-list","community","awesome","list"],"readmeSha":"712a68b8bc593007f97f539cfb678cc2bcbaf756"},
+"members": [
+"sindresorhus/awesome",
+"comunidad-tecnologica/awesome-spanish-slack-dev-groups",
+"phpearth/awesome-community"
+]
+}

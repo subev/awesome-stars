@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of helpful Heroku resources.","defaultBranch":"master","topics":["awesome","heroku","awesome-list","list","paas"],"readmeSha":"18ea10c49bdf8b8bcccae8f84633677d326cf58f"},
+"members": [
+"sindresorhus/awesome",
+"heroku/heroku-buildpack-pgbouncer",
+"ddollar/heroku-accounts",
+"heroku/heroku-pg-extras"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A list of amazing Newsletters","defaultBranch":"master","topics":["newsletter","email-newsletter","email","emails","awesome","awesome-list"],"readmeSha":"dad38a9ed8374aeeccd90777a3012317eff61873"},
+"members": [
+"sindresorhus/awesome",
+"rweekly/rweekly.org",
+"vitalets/github-trending-repos"
+]
+}

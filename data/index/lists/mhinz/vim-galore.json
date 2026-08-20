@@ -1,0 +1,21 @@
+{
+"meta": {"description":":mortar_board: All things Vim!","defaultBranch":"master","topics":["vim","guide","awesome","awesome-list","neovim","viml","vim-scripts","learn","help","tips"],"readmeSha":"bc17fdc152ecbdaad0f17fe6ad4bf81ce54dfb15"},
+"members": [
+"wsdjeg/vim-galore-zh_cn",
+"lsrdg/vim-galore",
+"kyoz/vim-galore-vi",
+"vim/vim",
+"mhinz/dotfiles",
+"lifepillar/vim-cheat40",
+"mbbill/undotree",
+"Konfekt/FastFold",
+"tpope/vim-pathogen",
+"terryma/vim-multiple-cursors",
+"tmux/tmux",
+"carlhuda/janus",
+"wsdjeg/SpaceVim",
+"spf13/spf13-vim",
+"oblitum/caps2esc",
+"ConradIrwin/vim-bracketed-paste"
+]
+}

@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine","defaultBranch":"master","topics":["nginx","lua","resources","awesome-list","awesome","list"],"readmeSha":"c9afbdd3db7c697f09700ae20c13e7dcf25c49b8"},
+"members": [
+"h5bp/server-configs-nginx",
+"nginx-boilerplate/nginx-boilerplate",
+"yandex/gixy",
+"dvershinin/gixy",
+"MegaManSec/Gixy-Next",
+"tldr-devops/nginx-common-configuration",
+"openresty/nginx-tutorials",
+"Kong/kong",
+"p0pr0ck5/lua-resty-tarpit",
+"pirogoeth/lsso",
+"fabiocicerchia/nginx-lua",
+"f5devcentral/nginx-njs-usecases",
+"cagerton/dropthat",
+"lusis/sysadvent-2014",
+"alexazhou/VeryNginx",
+"openresty/openresty"
+]
+}

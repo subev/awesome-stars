@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of security card games.","defaultBranch":"main","topics":["card-game","educational-game","education","awesome","awesome-list","incident-response","threat-modeling","application-security","cryptography"],"readmeSha":"beac8bc3790db03e68a37ba668734f11d1178980"},
+"members": [
+"sindresorhus/awesome",
+"Karneades/Defensomania",
+"adamshostack/eop",
+"TNG/cumulus"
+]
+}

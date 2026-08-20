@@ -1,0 +1,16 @@
+{
+"meta": {"description":"The ultimate list of open data semantic 3D city models","defaultBranch":"main","topics":["3d","semantic-models","citygml","city","awesome-list","3d-models","semantic-city-models","list","list-of-open-city-models"],"readmeSha":"5d81698b03ce1e73d1eaa4d7bac5218b9eebfe74"},
+"members": [
+"madebybowtie/FlagKit",
+"AICyberTeam/GABLE",
+"savenow/lod3-road-space-models",
+"tum-gis/tum2twin",
+"QiaosiLi/glasgow_3d_city_model",
+"OloOcki/LAS-Vegas-LoD1",
+"opencitymodel/opencitymodel",
+"CityOfNewYork/nyc-geo-metadata",
+"ualsg/hdb3d-data",
+"tudelft3d/Random3Dcity",
+"muratkendir/samplycity"
+]
+}

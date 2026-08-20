@@ -1,0 +1,19 @@
+{
+"meta": {"description":":memo: A curated list of awesome HTML5 resources","defaultBranch":"master","topics":["awesome-list","awesome","list"],"readmeSha":"968068c14307bf44cdd17b8b748530e681d7d424"},
+"members": [
+"sindresorhus/awesome",
+"ziadoz/awesome-php",
+"vinta/awesome-python",
+"w3c/ServiceWorker",
+"pixijs/pixijs",
+"phaserjs/phaser",
+"melonjs/melonJS",
+"gamelab/kiwi.js",
+"craftyjs/Crafty",
+"wellcaffeinated/PhysicsJS",
+"piqnt/stage.js",
+"cocos2d/cocos2d-html5",
+"bayandin/awesome-awesomeness",
+"jnv/lists"
+]
+}

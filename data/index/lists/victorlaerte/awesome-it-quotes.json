@@ -1,0 +1,6 @@
+{
+"meta": {"description":"This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.","defaultBranch":"master","topics":["awesome","awesome-list","quotes"],"readmeSha":"fb609867925495b38213efdabcea108988ea8c5b"},
+"members": [
+"sindresorhus/awesome"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"🕶 A high-level overview of the EVM security ecosystem","defaultBranch":"main","topics":["awesome-list","awesome","ethereum","blockchain","security","web3","evm"],"readmeSha":"de6340cf83d10d04f770eaa34eb4285ec82f2be3"},
+"members": [
+"transmissions11/solcurity",
+"runtimeverification/evm-semantics",
+"runtimeverification/verified-smart-contracts",
+"nascentxyz/simple-security-toolkit",
+"crytic/building-secure-contracts",
+"ethereum-lists/contracts",
+"0xjeffsec/awesome-blocksec-ctf",
+"sec-bit/awesome-buggy-erc20-tokens",
+"jpantunes/awesome-cryptoeconomics",
+"matter-labs/awesome-zero-knowledge-proofs",
+"OffcierCia/ultimate-defi-research-base",
+"0xalpharush/awesome-MEV-resources"
+]
+}

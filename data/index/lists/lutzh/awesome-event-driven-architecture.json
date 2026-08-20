@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Read-only mirror of https://codeberg.org/lutzh/awesome-event-driven-architecture","defaultBranch":"main","topics":["awesome","awesome-list","eda","eventdrivenarchitecture"],"readmeSha":"41866c09f10ef7bf2d54819c590202b21b74e9d0"},
+"members": [
+"sindresorhus/awesome"
+]
+}

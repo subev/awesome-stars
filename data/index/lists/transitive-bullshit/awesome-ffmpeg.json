@@ -1,0 +1,25 @@
+{
+"meta": {"description":"👻 A curated list of awesome FFmpeg resources.","defaultBranch":"master","topics":["ffmpeg","fluent-ffmpeg","awesome","awesome-list"],"readmeSha":"02b93aacf99013fe87dc94141ba5b3d611586c9e"},
+"members": [
+"transitive-bullshit/ffmpeg-cli-flags",
+"fluent-ffmpeg/node-fluent-ffmpeg",
+"transitive-bullshit/ffmpeg-probe",
+"transitive-bullshit/ffmpeg-concat",
+"mifi/editly",
+"transitive-bullshit/ffmpeg-generate-video-preview",
+"transitive-bullshit/ffmpeg-extract-frame",
+"transitive-bullshit/ffmpeg-extract-frames",
+"transitive-bullshit/gif-extract-frames",
+"transitive-bullshit/ffmpeg-extract-audio",
+"transitive-bullshit/ffmpeg-on-progress",
+"Kagami/ffmpeg.js",
+"eugeneware/ffmpeg-static",
+"NiKlimenko/FFParser",
+"transitive-bullshit/ffmpeg-gl-transition",
+"leixiaohua1020/simplest_ffmpeg_mobile",
+"bilibili/ijkplayer",
+"leandromoreira/ffmpeg-libav-tutorial",
+"talwrii/ffmpeg-cookbook",
+"rendi-api/ffmpeg-cheatsheet"
+]
+}

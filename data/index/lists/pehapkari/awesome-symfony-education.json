@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Useful sources around Symfony - articles, series and books (not Bundles)","defaultBranch":"master","topics":["symfony","symfony-education","awesome-list","education","top-sources","php"],"readmeSha":"8afbad2beeef538b4aa9fd3709267a9304662486"},
+"members": [
+"sindresorhus/awesome",
+"sitepoint-editors/awesome-symfony",
+"MarcelloDuarte/hexagonal-symfony"
+]
+}

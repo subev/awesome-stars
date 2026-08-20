@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Wardley maps community hub. Useful Wardley mapping resources","defaultBranch":"main","topics":["wardley-maps","awesome","awesome-list","wardleymaps","simon-wardley","strategy"],"readmeSha":"888b451fcaf2c89be97435ce5ea9ef7e6b5b55cd"},
+"members": [
+"andrewharmellaw/wardley-maps-book",
+"damonsk/onlinewardleymaps",
+"damonsk/obsidian-wardley-maps",
+"anjackson/ipywardley",
+"DavidGamba/go-wardley",
+"cdaniel/doctrine",
+"monkeypants/cli-owm",
+"harrylove/wardley-omnigraffle",
+"latticecut/Wardley_Chapter2_Finding_a_path",
+"colugo/yed-wardley",
+"simalexan/battlecamp",
+"LeadingEdgeForum/faciliator-pack"
+]
+}

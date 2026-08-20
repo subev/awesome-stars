@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated collection of links for economists","defaultBranch":"default","topics":["economics","economist","graduate","literature","american-economic-association","paper","repec","awesome-list","awesome","list"],"readmeSha":"dd87b966227fe20dc5171ffeb9810aadbcfceae6"},
+"members": [
+"sindresorhus/awesome",
+"donnemartin/data-science-ipython-notebooks",
+"ipython/ipython",
+"philschatz/economics-book",
+"gboehl/econpizza",
+"rsvp/fecon235",
+"gboehl/macro_puzzles",
+"gboehl/pydsge",
+"davidrpugh/pyeconomics",
+"jstac/quantecon_nyu_2016",
+"davidrpugh/zice-2014"
+]
+}

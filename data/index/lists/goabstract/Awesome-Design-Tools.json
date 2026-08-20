@@ -1,0 +1,28 @@
+{
+"meta": {"description":"The best design tools and plugins for everything 👉","defaultBranch":"master","topics":["design","design-tools","ui-design","awesome-list","awesome","design-systems","animations","font-awesome"],"readmeSha":"d33e8057c5046a9033b0bec78aef3a8626fd01ca"},
+"members": [
+"goabstract/Awesome-Design-Tools",
+"chialab/a11ygator-app",
+"toolness/accessible-color-matrix",
+"SSAgov/ANDI",
+"dequelabs/axe-core",
+"obscuredetour/color-deck",
+"BafS/Material-Colors-native",
+"casesandberg/react-color",
+"utom/sketch-measure",
+"styleguidist/react-styleguidist",
+"majodev/google-webfonts-helper",
+"jonaskay/webfontpreview",
+"FortAwesome/Font-Awesome",
+"fontello/fontello",
+"MariaLetta/mega-doodles-pack",
+"zehfernandes/screeener",
+"gmattie/Data-Pixels",
+"meetalva/alva",
+"wulkano/Kap",
+"mrk-us/sketchsheets",
+"akiraux/Akira",
+"vanila-io/wireflow",
+"GoogleChromeLabs/ProjectVisBug"
+]
+}

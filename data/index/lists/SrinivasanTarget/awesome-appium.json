@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of delightful Appium resources.","defaultBranch":"master","topics":["inspector","docker-appium","appium-tests","cloud-solution","appium-tutorials","appium","appium-android","appium-ios","awesome-appium"],"readmeSha":"4f157e2d2102d46a086b4b2e3e7f6c8b008e21e4"},
+"members": [
+"sindresorhus/awesome",
+"appium/appium",
+"appium/ruby_lib",
+"appium/python-client",
+"appium/java-client",
+"appium-boneyard/selenium-objective-c",
+"appium-boneyard/php-client",
+"appium/dotnet-client",
+"serhatbolsu/robotframework-appiumlibrary",
+"appium/appium-desktop",
+"facebookarchive/WebDriverAgent",
+"mykola-mokhnach/Appium-iOS-Inspector",
+"macacajs/app-inspector",
+"isonic1/appium-workshop",
+"aws-samples/aws-device-farm-appium-tests-for-sample-app",
+"openstf/stf-appium-example",
+"appium/appium-docker-android",
+"budtmo/docker-android",
+"aluedeke/appium-android",
+"softsam/docker-appium",
+"priyankshah217/AppiumCucumberTest",
+"isonic1/Appium-Native-Crawler",
+"WasiqB/coteafs-appium",
+"AppiumTestDistribution/PageObjectPatternAppium",
+"AppiumTestDistribution/AppiumTestDistribution"
+]
+}

@@ -46,6 +46,11 @@ export type Trends = {
 
 const MS_PER_MONTH = 1000 * 60 * 60 * 24 * 30.44;
 
+// Below this, dividing by the elapsed window extrapolates noise: a repo seen
+// once a day ago that gained 0.7% would be reported as +21%/month and outrank
+// one that genuinely doubled over six. Such repos are still flagged isNew.
+export const MIN_WINDOW_DAYS = 14;
+
 export const monthsBetween = (from: string, to: string) =>
   (new Date(to).getTime() - new Date(from).getTime()) / MS_PER_MONTH;
 
@@ -68,7 +73,9 @@ export function computeTrends(snapshots: Snapshot[]): Trends {
     const delta = repo.stars - firstStars;
     const months = monthsBetween(addedAt, latestDate);
     const pctPerMonth =
-      firstStars > 0 && months > 0 ? (delta / firstStars / months) * 100 : null;
+      firstStars > 0 && months >= MIN_WINDOW_DAYS / 30.44
+        ? (delta / firstStars / months) * 100
+        : null;
 
     repos.push({
       fullName: repo.fullName,

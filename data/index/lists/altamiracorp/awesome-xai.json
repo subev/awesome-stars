@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources","defaultBranch":"main","topics":["awesome","awesome-list","xai","explanations","saliency-methods","saliency-maps"],"readmeSha":"b08c7c732e58f260665d1c55a2eb42a314a14b18"},
+"members": [
+"EthicalML/xai",
+"MAIF/shapash",
+"PAIR-code/what-if-tool",
+"shap/shap"
+]
+}

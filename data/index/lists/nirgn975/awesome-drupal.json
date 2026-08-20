@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Useful resources for Drupal CMS 💧","defaultBranch":"main","topics":["awesome-list","awesome","list","drupal","php"],"readmeSha":"98b7e2708afacc038d2d75c9aab0de19870381a0"},
+"members": [
+"sindresorhus/awesome",
+"ziadoz/awesome-php",
+"Gizra/generator-hedley",
+"ddev/ddev",
+"RoySegall/solr-script",
+"Gizra/KnowledgeBase"
+]
+}

@@ -1,0 +1,13 @@
+{
+"meta": {"description":"🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!","defaultBranch":"master","topics":["dashboard","self-hosted","vue","docker","startpage","homepage","homelab","nodejs","awesome","mit"],"readmeSha":"759e8594803c649fae9bf24aae8465a567bbcabe"},
+"members": [
+"Templarian/MaterialDesign",
+"homarr-labs/dashboard-icons",
+"brix/crypto-js",
+"pawelmalak/flame",
+"bastienwirtz/homer",
+"linuxserver/Heimdall",
+"Smashing/smashing",
+"awesome-selfhosted/awesome-selfhosted"
+]
+}

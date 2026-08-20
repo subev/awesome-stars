@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of games that can teach you how to learn a programming language.","defaultBranch":"main","topics":["awesome-list","awesome","programming-language","guido-van-robot","robocode","game"],"readmeSha":"68b4b1416c63a0cd618e1f019108511e04ca5cd8"},
+"members": [
+"turkishviking/Python-Robocode",
+"bitburner-official/bitburner-src",
+"d6y/scala-robot-dev",
+"veltman/clmystery"
+]
+}

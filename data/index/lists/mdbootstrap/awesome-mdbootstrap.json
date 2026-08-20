@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of awesome things related to MDBootstrap","defaultBranch":"main","topics":["javascript","awesome","framework","bootstrap","awesome-list","material-design","html","css"],"readmeSha":"aefafa16362f7a858e474515d8e68679e96b2506"},
+"members": [
+"sindresorhus/awesome",
+"mdbootstrap/mdb-ui-kit",
+"mdbootstrap/MDB-VSCode-snippets",
+"mdbootstrap/mdb-angular-vscode-snippets",
+"mdbootstrap/mdb-webpack-starter"
+]
+}

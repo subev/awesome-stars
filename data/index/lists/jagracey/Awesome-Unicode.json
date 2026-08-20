@@ -1,0 +1,11 @@
+{
+"meta": {"description":":joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.","defaultBranch":"master","topics":["unicode-characters","unicode-standard","unicode-consortium","awesome","awesome-list","unicode","list","utf-8","utf8","utf-16"],"readmeSha":"9bcd28462df1881de2af5dee986268729cc209bd"},
+"members": [
+"sindresorhus/awesome",
+"mathiasbynens/esrever",
+"jagracey/PhantomScript",
+"reinderien/mimic",
+"rspeer/python-ftfy",
+"vim-utils/vim-troll-stopper"
+]
+}

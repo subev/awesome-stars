@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3","defaultBranch":"main","topics":["game-development","tutorial","construct","general-tutorials","platform-game","making-games","games-showcase","itch","engine","construct2"],"readmeSha":"70f4c008191d175f9489f6ef053658d21ccfdc63"},
+"members": [
+"sindresorhus/awesome",
+"ConstructCommunity/awesome-construct",
+"Floflis/AppPlayer-Electron",
+"kckarnige/FreshNWjsForC2",
+"Scirra/Construct-Addon-SDK",
+"ConstructFund/c3ide2-cli",
+"lostinmind-dev/c3-lost",
+"FabioSmuu/SDK_PluginC2"
+]
+}

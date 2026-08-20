@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of awesome AT Protocol resources","defaultBranch":"main","topics":["awesome","awesome-list","atproto"],"readmeSha":"856dcd8f3ed23baf0115a5a618feb7615c476166"},
+"members": [
+"dblock/sparta-social",
+"czue/bluesky-comments",
+"ziodotsh/atfile",
+"shopsavvy/bluesky-shopsavvy",
+"ziodotsh/lexicons",
+"aendra-rininsland/bluemoji",
+"bluesky-social/atproto",
+"nperez0111/bookhive",
+"frontpagefyi/frontpage",
+"hugeblank/grayhaze.live",
+"mkizka/linkat",
+"echo8/pastesphere",
+"shinolabs/PinkSea",
+"QuietImCoding/place.blue",
+"Gregoor/skylights",
+"safwanyp/skymdb",
+"whtwnd/whitewind-blog"
+]
+}

@@ -1,5 +1,10 @@
 import { describe, it, expect } from "vitest";
-import { computeTrends, monthsBetween, type Snapshot } from "./trends";
+import {
+  computeTrends,
+  monthsBetween,
+  MIN_WINDOW_DAYS,
+  type Snapshot,
+} from "./trends";
 
 const repo = (fullName: string, stars: number) => ({
   fullName,
@@ -95,5 +100,35 @@ describe("computeTrends", () => {
     expect(repos.find((r) => r.fullName === "a/one")!.series).toEqual([
       100, 150, 200,
     ]);
+  });
+});
+
+describe("minimum observation window", () => {
+  const twoDayWindow: Snapshot[] = [
+    { date: "2026-08-18", repos: [repo("a/one", 2579), repo("b/two", 100)] },
+    { date: "2026-08-20", repos: [repo("a/one", 2597), repo("b/two", 100)] },
+  ];
+
+  it("suppresses the percentage when the window is too short", () => {
+    const { repos } = computeTrends(twoDayWindow);
+    const one = repos.find((r) => r.fullName === "a/one")!;
+    expect(one.delta).toBe(18);
+    expect(one.pctPerMonth).toBeNull();
+  });
+
+  it("reports a percentage once the window is long enough", () => {
+    const dates = ["2026-06-01", "2026-08-20"];
+    const { repos } = computeTrends([
+      { date: dates[0], repos: [repo("a/one", 1000)] },
+      { date: dates[1], repos: [repo("a/one", 1100)] },
+    ]);
+    const one = repos.find((r) => r.fullName === "a/one")!;
+    expect(monthsBetween(dates[0], dates[1]) * 30.44).toBeGreaterThan(
+      MIN_WINDOW_DAYS,
+    );
+    expect(one.pctPerMonth).toBeCloseTo(
+      (100 / 1000 / monthsBetween(dates[0], dates[1])) * 100,
+      6,
+    );
   });
 });

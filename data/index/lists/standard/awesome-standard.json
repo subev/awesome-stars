@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Documenting the explosion of packages in the standard ecosystem!","defaultBranch":"master","topics":["standard","javascript","eslint","awesome","awesome-list","list","nodejs","development","ecmascript","es6"],"readmeSha":"a6321909610a4b44942ebecdd9b911262759908f"},
+"members": [
+"sindresorhus/awesome",
+"standard/standard",
+"standard/standard-packages",
+"prettier/prettier",
+"standard/standard",
+"standard/brackets-standard",
+"wemake-services/wemake-frontend-styleguide",
+"videojs/video.js"
+]
+}

@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome watchOS frameworks, libraries, sample apps.","defaultBranch":"master","topics":[],"readmeSha":"ded5f4806e14f6c842738bab4edd7bade1c2e526"},
+"members": [
+"yenchenlin/awesome-watchos",
+"griddynamics-archive/MMWormhole",
+"facebookarchive/IGInterfaceDataTable",
+"mikeswanson/JBWatchActivityIndicator",
+"yasuoza/YOChartImageKit",
+"NilStack/NKWatchChart",
+"hmaidasani/RadialChartImageGenerator",
+"kiavashfaisali/KFWatchKitAnimations",
+"kenshin03/Cherry",
+"genadyo/WWDC",
+"Dimillian/SwiftHN",
+"belm/BaiduFM-Swift",
+"FancyPixel/done-swift",
+"D-32/OnTime",
+"azamsharp/WatchNotes",
+"D-32/WatchPics",
+"kostiakoval/WatchKit-Apps",
+"shu223/watchOS-2-Sampler",
+"bayandin/awesome-awesomeness",
+"dkhamsing/open-source-ios-apps",
+"matteocrippa/awesome-swift",
+"Wolg/awesome-swift",
+"sanketfirodiya/sample-watchkit-apps",
+"sanketfirodiya/iOS-learning-resources",
+"v5tech/awesome-ios-animation",
+"v5tech/awesome-ios-chart",
+"vsouza/awesome-gists",
+"cjwirth/awesome-ios-ui"
+]
+}

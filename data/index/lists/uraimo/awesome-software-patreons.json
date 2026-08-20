@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of awesome programmers and software projects you can support!","defaultBranch":"master","topics":["patreon","opensource","awesome","awesome-list","funding","crowdfunding","sponsorship","github-sponsors"],"readmeSha":"b3758ac0771971b22a1edbc3e026bc21e3d57fab"},
+"members": [
+"ocornut/imgui"
+]
+}

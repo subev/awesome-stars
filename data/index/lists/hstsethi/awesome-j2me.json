@@ -1,0 +1,33 @@
+{
+"meta": {"description":"Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["awesome-list","j2me","java","javame","awesome","j2me-platform","java-platform","j2me-emulator","midp","resources"],"readmeSha":"ac4b6e1fac6e17dc5deace9a2dbb92d287bff814"},
+"members": [
+"hstsethi/awesome-symbian",
+"sindresorhus/awesome",
+"akullpp/awesome-java",
+"SimonKagstrom/cibyl",
+"shinovon/nnjson",
+"gtrxAC/discord-j2me",
+"Enough-Software/j2mepolish",
+"hex007/freej2me",
+"TASEmulators/freej2me-plus",
+"nikita36078/J2ME-Loader",
+"woesss/JL-Mod",
+"szatkus/js2me",
+"shinovon/KEmulator",
+"SquirrelJME/SquirrelJME",
+"baumschubser/hotpants",
+"shinovon/JTube",
+"faissaloo/telegram-micro",
+"VK4ME/client",
+"mulfyx/w4me-station",
+"felixp7/pocket-gopher",
+"rgimad/gravity_defied_cpp",
+"j2me-preservation/j2me-preservation",
+"CakesTwix/pylng",
+"JetBrains/fernflower",
+"Col-E/Recaf",
+"Vineflower/vineflower",
+"hourianto/sporeflower",
+"domib97/revive.nokia.n95"
+]
+}

@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A collection of important graph embedding, classification and representation learning papers with implementations.","defaultBranch":"master","topics":["graph2vec","classification-algorithm","graph-kernels","weisfeiler-lehman","kernel-methods","deep-graph-kernels","netlsd","graph-attention-model","graph-attention-networks","structural-attention"],"readmeSha":"513074552bce3e80fbb32139c833c96ac5c67c3d"},
+"members": [
+"sindresorhus/awesome",
+"TrustAGI-Lab/graph_datasets",
+"benedekrozemberczki/awesome-community-detection",
+"benedekrozemberczki/awesome-decision-tree-papers",
+"benedekrozemberczki/awesome-fraud-detection-papers",
+"benedekrozemberczki/awesome-monte-carlo-tree-search-papers",
+"benedekrozemberczki/awesome-gradient-boosting-papers"
+]
+}

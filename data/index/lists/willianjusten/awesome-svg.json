@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of SVG. ","defaultBranch":"master","topics":["svg","awesome-list"],"readmeSha":"ec9e1f4ffd610116cb14e2359449028eee83deeb"},
+"members": [
+"sindresorhus/awesome",
+"emijrp/awesome-awesome",
+"bayandin/awesome-awesomeness"
+]
+}

@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of awesome HTML5 Canvas with examples, related articles and posts.","defaultBranch":"main","topics":["html5-canvas","canvas-element","canvas2d","particles","javascript","draw-graphics","awesome-list","awesome","awesome-canvas"],"readmeSha":"6fad249cbb52a537eeba201bdca87c5c145cd618"},
+"members": [
+"sindresorhus/awesome",
+"vinta/awesome-python",
+"raphamorim/canvas-experiments",
+"kevinroast/webglshaders",
+"raphamorim/just-canvas",
+"knackstedt/matrix-animation",
+"rgab1508/PixelCraft",
+"fralonra/star-time-lapse",
+"ramesaliyev/trigonoparty",
+"tsparticles/tsparticles",
+"chartjs/Chart.js",
+"d3/d3",
+"sbiermanlytle/iioEngine",
+"gorhill/Javascript-Voronoi",
+"konvajs/konva",
+"raphamorim/origami.js",
+"paperjs/paper.js",
+"drawcall/Proton",
+"soulwire/sketch.js",
+"humanbydefinition/textmode.js",
+"filamentgroup/jQuery-Visualize",
+"metafizzy/zdog",
+"ecomfe/zrender",
+"Flipboard/react-canvas",
+"jeresig/processing-js",
+"mrdoob/three.js"
+]
+}

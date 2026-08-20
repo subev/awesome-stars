@@ -1,0 +1,28 @@
+{
+"meta": {"description":"Awesome Low Code platforms, vendors, tools and resources","defaultBranch":"main","topics":["awesome","awesome-list","low-code","no-code","robotic-process-automation","business-process-automation","low-code-development-platform","citizen-developers","citizen-development","ipaas"],"readmeSha":"1763e506b552356b0c41ba44d6e2bb3f26bed718"},
+"members": [
+"MscrmTools/XrmToolBox",
+"rajyraman/Levelup-for-Dynamics-CRM",
+"PowerPlatformAF/PowerPlatformAF",
+"Zerg00s/FlowPowerAppsMigrator",
+"Dev-Mom/SharePointWorkflowConverter",
+"microsoft/PowerPlatformConnectors",
+"microsoft/Power-Fx",
+"workato/custom_connector_docs",
+"pnp/powerfx-samples",
+"microsoft/PowerApps-Azure-Lab",
+"MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals",
+"workato/full-embed-sample",
+"pnp/powerapps-samples",
+"Eickhel/PowerApps-samples",
+"iAmManCat/PowerApps-Branding-Template",
+"pnp/sp-power-platform-solutions",
+"pnp/powerautomate-samples",
+"wortell/PowerAutomate-AutomatischeReistijd",
+"ericsche/MCinTeams",
+"ferrybouwman/Power-BI-Read-Only-REST-API",
+"vaibhav21791/PostListItemToTwitter",
+"Power-Maverick/awesome-power-platform",
+"valentin-vogel/awesome-nocode-lowcode"
+]
+}

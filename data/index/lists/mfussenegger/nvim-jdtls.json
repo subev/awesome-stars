@@ -1,0 +1,14 @@
+{
+"meta": {"description":"MIRROR of: https://codeberg.org/mfussenegger/nvim-jdtls","defaultBranch":"master","topics":["neovim","lsp-client","neovim-plugin","java"],"readmeSha":"c9fd37bc69855d7728d9f6bd0271ce9b2206918d"},
+"members": [
+"neoclide/coc-java",
+"eclipse-jdtls/eclipse.jdt.ls",
+"microsoft/java-debug",
+"microsoft/vscode-java-test",
+"neovim/nvim-lspconfig",
+"junegunn/vim-plug",
+"wbthomason/packer.nvim",
+"microsoft/vscode-java-debug",
+"lumen-oss/vimcats"
+]
+}

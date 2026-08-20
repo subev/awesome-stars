@@ -1,0 +1,18 @@
+{
+"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"a372eccd3fe4eebea2bc485b0f3df4929b25b1a7"},
+"members": [
+"nasa-jpl/open-source-rover",
+"GeiserX/PiSpot-Show",
+"GeiserX/PiSpot-Watch",
+"openmv/openmv",
+"kelu124/pic0rick",
+"OpenGammaProject/Open-Gamma-Detector",
+"openUC2/UC2-GIT",
+"ElmerCSC/elmerfem",
+"easyw/kicadStepUpMod",
+"google/skywater-pdk",
+"ajaymnk/open-electronics",
+"paulhendricks/awesome-open",
+"kitspace/awesome-electronics"
+]
+}

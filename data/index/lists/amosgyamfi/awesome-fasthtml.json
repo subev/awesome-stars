@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Awesome and Best FastHTML Resources For Python Developers","defaultBranch":"master","topics":["fasthtml","htmx","python","python3"],"readmeSha":"e951db35e7beaef1032d493941c180145870da21"},
+"members": [
+"Pjt727/Html2FastHtml",
+"timonweb/pytailwindcss",
+"oxalorg/sakura",
+"ninohdasilva/fasthtml-tailwind-template",
+"AnswerDotAI/fasthtml",
+"AnswerDotAI/fasthtml-example",
+"AnswerDotAI/FastHTML-Gallery",
+"curtis-allan/Shad4Fasthtml",
+"therg/fasthtml-pocketbase-auth",
+"phact/code-assistant",
+"AnswerDotAI/fh-deploy"
+]
+}

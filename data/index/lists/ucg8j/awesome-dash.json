@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome Dash (plotly) resources","defaultBranch":"master","topics":["awesome-list","awesome","python","plotly"],"readmeSha":"210e26e09b988d29951522bac342f300b9668dcb"},
+"members": [
+"sindresorhus/awesome",
+"ploomber/dash-pdf",
+"ploomber/dash-mui",
+"ploomber/dash-react-simple-maps",
+"ploomber/mosaic-python",
+"uwdata/mosaic",
+"ploomber/dash-tabler-icons",
+"ploomber/dash-react-syntax-highlighter",
+"brillout/awesome-react-components",
+"enaqx/awesome-react",
+"plotly/dash-core-components",
+"plotly/dash-html-components",
+"jimmybow/mydcc",
+"StratoDem/sd-material-ui",
+"StratoDem/sd-range-slider",
+"pikhovkin/dj-plotly-dash",
+"pikhovkin/dash-flexbox-grid",
+"vivekvs1/dash-color-picker",
+"vivekvs1/dash-dual-listbox",
+"fohrloop/dash-uploader",
+"snehilvj/dash-mantine-components",
+"predict-idlab/plotly-resampler",
+"vega/dash-vega-components",
+"plotly/dash-oil-and-gas-demo",
+"plotly/dash-sample-apps",
+"jackdbd/dash-earthquakes",
+"cordb/gutensearch",
+"plotly/dash-recipes"
+]
+}

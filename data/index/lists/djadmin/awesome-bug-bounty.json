@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.","defaultBranch":"master","topics":[],"readmeSha":"0ebc0cd42216f5587f2f637a9047948aff750c3e"},
+"members": [
+"sindresorhus/awesome",
+"EdOverflow/bugbounty-cheatsheet",
+"cryptocat/cryptocat"
+]
+}

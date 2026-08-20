@@ -7,12 +7,41 @@ export type StarredRepo = {
   stargazers_count: number;
 };
 
+// github.com/<first>/<second> is only a repo when <first> is a real account.
+const RESERVED_OWNERS = new Set([
+  "about",
+  "apps",
+  "collections",
+  "enterprise",
+  "events",
+  "features",
+  "login",
+  "marketplace",
+  "orgs",
+  "pricing",
+  "readme",
+  "search",
+  "security",
+  "sponsors",
+  "topics",
+  "trending",
+  "users",
+]);
+
 export const getRepoNames = (markdown: string): BasicRepoInfo[] => {
   const repoNames: BasicRepoInfo[] = [];
   const repoRegex = /https:\/\/github\.com\/([\w-.]+)\/([\w-.]+)/g;
+  const seen = new Set<string>();
   let match: RegExpExecArray | null;
   while ((match = repoRegex.exec(markdown)) !== null) {
-    repoNames.push({ owner: match[1], repo: match[2] });
+    const owner = match[1];
+    if (RESERVED_OWNERS.has(owner.toLowerCase())) continue;
+    const repo = match[2].replace(/\.git$/, "").replace(/\.+$/, "");
+    if (!repo || repo === "." || repo === "..") continue;
+    const key = `${owner}/${repo}`.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    repoNames.push({ owner, repo });
   }
   return repoNames;
 };

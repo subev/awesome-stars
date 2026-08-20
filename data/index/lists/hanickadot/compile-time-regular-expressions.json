@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Compile Time Regular Expression in C++","defaultBranch":"main","topics":["regular-expression","cpp17","cpp20","header-only","constexpr","compile-time","awesome","template-udl","pcre"],"readmeSha":"7d96b138943c6b42f9b257533489e9d02c89e97e"},
+"members": [
+"microsoft/vcpkg"
+]
+}

@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of awesome OpenGL libraries, debuggers and resources.","defaultBranch":"master","topics":["awesome","awesome-list","lists","opengl","computer-graphics","glsl-editors","opengl-tutorial","opengl-library","video-tutorial","graphics-pipeline"],"readmeSha":"5054127c4b3d69b0eea4bc3731414821fa714d6b"},
+"members": [
+"sindresorhus/awesome",
+"LWJGL/lwjgl3-wiki",
+"GPUOpen-Archive/CodeXL",
+"dtrebilco/glintercept",
+"baldurk/renderdoc",
+"wolfpld/tracy",
+"ValveSoftware/vogl",
+"glslify/glslify",
+"assimp/assimp",
+"brackeen/glfm",
+"mosra/magnum",
+"stevenlovegrove/Pangolin",
+"ABRG-Models/morphologica",
+"raysan5/raylib",
+"skaslev/gl3w",
+"Dav1dde/glad",
+"nnesse/glbindify",
+"cginternals/glbinding",
+"lettier/3d-game-shaders-for-beginners",
+"McNopper/OpenGL",
+"jbhuang0604/awesome-computer-vision",
+"sjfricke/awesome-webgl",
+"vinjn/awesome-vulkan",
+"ellisonleao/magictools",
+"mattdesl/graphics-resources"
+]
+}

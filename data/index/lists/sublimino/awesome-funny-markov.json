@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of delightfully amusing and facetious Markov chain output.","defaultBranch":"master","topics":[],"readmeSha":"0d237ac8da4d724c8d7ab8a7a6d2a40feb69f281"},
+"members": [
+"sindresorhus/awesome",
+"josephmisiti/awesome-machine-learning",
+"o2sh/4chanMarkovText",
+"Trshant/reimagined-yomama"
+]
+}

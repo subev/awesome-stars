@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.","defaultBranch":"master","topics":["motion-design","animation","ui","awesome-list","awesome","list"],"readmeSha":"fc1af536271699940637110e73df773ec2b827a5"},
+"members": [
+"sindresorhus/awesome",
+"airbnb/lottie-web",
+"mojs/mojs",
+"bendc/animateplus",
+"iamralpht/gravitas.js"
+]
+}

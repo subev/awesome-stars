@@ -1,0 +1,24 @@
+{
+"meta": {"description":"📄 🛠 A curated list of awesome static websites services","defaultBranch":"master","topics":["awesome-list","awesome","list"],"readmeSha":"0e499d282d3f39d6f23e6db0048766d25f4a2ab1"},
+"members": [
+"sindresorhus/awesome",
+"1backend/1backend",
+"eduardoboucas/staticman",
+"imsun/gitment",
+"giscus/giscus",
+"stevensona/briskforms",
+"sindresorhus/ama",
+"utterance/utterances",
+"itemsapi/itemsjs",
+"lucaong/minisearch",
+"nextapps-de/flexsearch",
+"dchest/static-search",
+"tinysearch/tinysearch",
+"fergiemcdowall/search-index",
+"bevacqua/fuzzysearch",
+"mattyork/fuzzy",
+"sambuccid/hulipaa",
+"MooseTheRebel/awesome-static-hosting-and-cms",
+"staticwebdev/awesome-azure-static-web-apps"
+]
+}

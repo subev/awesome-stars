@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of Blockchain projects for Artificial Intelligence and Machine Learning","defaultBranch":"master","topics":["blockchain","machine-learning","artificial-intelligence","awesome-list","awesome"],"readmeSha":"9b925705dfdd94d46beacc8b7e9206f37930e193"},
+"members": [
+"algorithmiaio/danku",
+"microsoft/0xDeCA10B",
+"RioTheGreat-ai/agentfund"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of host-parasite information","defaultBranch":"master","topics":["awesome","awesome-list","eha-modeling-analytics"],"readmeSha":"75538fc5e11116eb67c94dbc588fe1fe41aff7a9"},
+"members": [
+"ropensci/helminthR"
+]
+}

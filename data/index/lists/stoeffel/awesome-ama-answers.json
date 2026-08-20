@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A curated list of awesome AMA answers","defaultBranch":"master","topics":[],"readmeSha":"68dcd634715856898a0e71fe0761a01b1be55870"},
+"members": [
+"sindresorhus/awesome",
+"sindresorhus/amas",
+"hemanth/ama",
+"sindresorhus/ama",
+"passy/ama",
+"KittyGiraudel/ama",
+"ChrisMissal/ama",
+"RichardLitt/ama",
+"holman/ama",
+"gaearon/ama"
+]
+}

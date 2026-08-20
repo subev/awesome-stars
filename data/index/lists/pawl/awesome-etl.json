@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A curated list of awesome ETL frameworks, libraries, and software.","defaultBranch":"main","topics":["awesome","awesome-list","etl"],"readmeSha":"0056b271ae32e5f4bbd306a5fc20b558435162f0"},
+"members": [
+"apache/airflow",
+"spotify/luigi",
+"PrefectHQ/prefect",
+"jenkinsci/jenkins",
+"apache/camel",
+"dask/dask",
+"dbt-labs/dbt-core",
+"apache/hamilton",
+"ICRAR/ijson",
+"bruin-data/ingestr",
+"lxml/lxml",
+"r1chardj0n3s/parse",
+"petl-developers/petl",
+"pola-rs/polars",
+"jd/tenacity",
+"martinblech/xmltodict",
+"embulk/embulk",
+"thbar/kiba",
+"sparklemotion/nokogiri",
+"jeremyevans/sequel",
+"cloudquery/cloudquery",
+"pachyderm/pachyderm",
+"n8n-io/n8n",
+"pditommaso/awesome-pipeline"
+]
+}

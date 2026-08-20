@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries","defaultBranch":"master","topics":["awesome-list","javascript","charts","commercial","open-source"],"readmeSha":"ad1ff1ef6c773ad892eceeed39b4fcb643c66bf8"},
+"members": [
+"sindresorhus/awesome",
+"apexcharts/apexcharts.js",
+"ankane/chartkick",
+"danvk/dygraphs",
+"apache/echarts",
+"EmpriseCorporation/EJSCharts",
+"frewsxcv/graphosaurus",
+"tradingview/lightweight-charts",
+"plotly/plotly.js",
+"palantir/plottable",
+"typpo/quickchart",
+"jacomyal/sigma.js",
+"joewalnes/smoothie",
+"leeoniya/uPlot",
+"n3-charts/line-chart",
+"apinet/lit-line",
+"plouc/nivo",
+"uber/react-vis",
+"reactchartjs/react-chartjs-2",
+"esbullington/react-d3",
+"chartshq/react-muze",
+"uber/react-vis",
+"FormidableLabs/victory"
+]
+}

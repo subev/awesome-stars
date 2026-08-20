@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Standalone features to be integrated into web applications","defaultBranch":"main","topics":["awesome","awesome-list","lists","resources","web"],"readmeSha":"c4ac954e9e1cac2a819984ba4a3045472fb60ed6"},
+"members": [
+"Mastermindzh/react-cookie-consent",
+"buildo/react-cookie-banner",
+"elastic/search-ui",
+"web-padawan/awesome-web-components",
+"mfornos/awesome-microservices",
+"ChristianUlbrich/awesome-microfrontends"
+]
+}

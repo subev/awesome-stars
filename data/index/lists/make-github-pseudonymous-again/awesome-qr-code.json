@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome QR code libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","collections","lists","resources","qrcode","qrcodes","qr-code","qr-codes"],"readmeSha":"a42c8c1c0d5fc770a23a78661615ad01a4fd2887"},
+"members": [
+"sindresorhus/awesome",
+"gokulkrishh/qrcodescan.in",
+"claudiodangelis/qrcp",
+"sdushantha/qr-filetransfer",
+"make-github-pseudonymous-again/qrap",
+"make-github-pseudonymous-again/spqr",
+"sayanarijit/qrscan",
+"fukuchi/libqrencode",
+"nayuki/QR-Code-generator",
+"scola/Qart",
+"schmich/instascan",
+"airmrcr/qrious",
+"cozmo/jsQR",
+"zpao/qrcode.react",
+"moaazsidat/react-native-qrcode-scanner",
+"gruhn/vue-qrcode-reader",
+"x-hw/amazing-qr",
+"whomwah/rqrcode",
+"kingsic/SGQRCode",
+"EFPrefix/EFQRCode",
+"Shane32/QRCoder",
+"bingoogolapple/BGAQRCode-Android",
+"sumimakito/AwesomeQRCode",
+"khanamiryan/php-qrcode-detector-decoder",
+"SimpleSoftwareIO/simple-qrcode",
+"endroid/qr-code",
+"Bacon/BaconQrCode",
+"zxing/zxing"
+]
+}

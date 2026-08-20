@@ -1,0 +1,18 @@
+{
+"meta": {"description":":sunglasses: A curated list of awesome Payload resources for users and developers.","defaultBranch":"main","topics":["awesome","awesome-list","payload","payloadcms"],"readmeSha":"2f512d0ad89b9d3796a92838b98068ea5d32d81b"},
+"members": [
+"payloadcms/payload",
+"payloadcms/website",
+"DanailMinchev/payload-clerk-example",
+"shopnex-ai/shopnex",
+"r1tsuu/payload-enchants",
+"UPDOT/payload-auth-plugin",
+"payload-auth/payload-auth",
+"CrawlerCode/payload-authjs",
+"ashbuilds/payload-ai",
+"AdrianMaj/payload-lexical-typography",
+"rilrom/payload-bites",
+"shefing/payload-tools",
+"Crayonan/payload-plugin-ai-localization"
+]
+}

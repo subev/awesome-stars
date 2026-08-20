@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of useful xcode scripts 📝 .","defaultBranch":"master","topics":["xcode-scripts","xcode","semantic","auto-increment"],"readmeSha":"dcbc27fd53ac9ef3c3902ace2ebc46551f9fe966"},
+"members": [
+"bejo/XcodeIconTagger"
+]
+}

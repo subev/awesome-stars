@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A list of resources for backbone.js","defaultBranch":"master","topics":[],"readmeSha":"96ed4b922f87cc59fda044b1bf253516f8bca04c"},
+"members": [
+"sindresorhus/awesome",
+"jashkenas/backbone",
+"yeoman/generator-backbone",
+"BoilerplateMVC/Backbone-Require-Boilerplate",
+"ccoenraets/backbone-cellar",
+"ccoenraets/directory-backbone-bootstrap",
+"dmytroyarmak/backbone-contact-manager",
+"addyosmani/backbone-boilerplates",
+"hegdeashwin/Backbone",
+"PaulUithol/Backbone-relational",
+"powmedia/backbone-forms",
+"cloudflarearchive/backgrid",
+"jeromegn/Backbone.localStorage",
+"nytimes/backbone.stickit",
+"backbone-paginator/backbone.paginator",
+"thedersen/backbone.validation",
+"paulmillr/exoskeleton",
+"nilbus/Backbone.dualStorage",
+"noveogroup/backbone.iobind",
+"dhruvaray/backbone-associations",
+"PaulUithol/backbone-tastypie",
+"marionettejs/backbone.radio",
+"marionettejs/backbone.babysitter",
+"FidelityInternational/BackboneHistoryPolyfill"
+]
+}

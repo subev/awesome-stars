@@ -1,0 +1,6 @@
+{
+"meta": {"description":"[Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..","defaultBranch":"master","topics":["templates","opensource","naas","notebooks-templates","jupyter","jupyter-notebook","jupyterlab","python","awesome","awesome-list"],"readmeSha":"ceedec2fcee8e240f1f9482950bc8bd7fa49874a"},
+"members": [
+"sindresorhus/awesome"
+]
+}

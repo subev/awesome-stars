@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A simple command line tool to give you a fancy command line interface to dive into Awesome lists.","defaultBranch":"master","topics":["awesome","awesome-list","awesome-go","hacktoberfest"],"readmeSha":"6a8605d98d1441a1cfd2353282c913f85fd12be5"},
+"members": [
+"sindresorhus/awesome"
+]
+}

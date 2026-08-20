@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Library of 45+ independent Lua modules improving Neovim experience with minimal effort","defaultBranch":"main","topics":["neovim","lua","neovim-plugin","mini-nvim"],"readmeSha":"2b1249786b425b8b5ea38e9203f45bb8dfaa17bc"},
+"members": [
+"neovim/neovim",
+"folke/lazy.nvim",
+"monaqa/dial.nvim",
+"AndrewRadev/switch.vim",
+"kassio/neoterm"
+]
+}

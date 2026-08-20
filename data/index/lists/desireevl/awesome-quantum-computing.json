@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome quantum computing learning and developing resources.","defaultBranch":"master","topics":["awesome","awesome-list","quantum","quantum-computing"],"readmeSha":"a29dca0cc9d7f6250ed5de241b4f0d54ec2bb6f3"},
+"members": [
+"qosf/awesome-quantum-software",
+"Qiskit/qiskit-tutorials",
+"microsoft/QuantumKatas",
+"blueqat/blueqatSDK",
+"quantumlib/Cirq",
+"AgnostiqHQ/covalent",
+"QuantumAI-lib/NISQAI",
+"PaddlePaddle/Quantum",
+"rigetti/pyquil",
+"qiskit-community/qiskit-js",
+"softwareQinc/qpp",
+"LSaldyt/Qurry",
+"tequilahub/tequila",
+"smendoncabruna/ComputacaoQuantica"
+]
+}

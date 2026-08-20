@@ -1,0 +1,32 @@
+{
+"meta": {"description":"An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.","defaultBranch":"main","topics":["flame","flutter","awesome","game","game-development","awesome-list","lists","resources"],"readmeSha":"2888fd6b7f109df455287cdb919180d3c303b333"},
+"members": [
+"sindresorhus/awesome",
+"Dannark/FlameExamples",
+"flame-engine/flame",
+"RafaelBarbosatec/bonfire",
+"Brixto/flame_texturepacker",
+"kurtome/leap",
+"misha/flame_fuse",
+"lucasnlm/antimine-flutter",
+"cherrybit-studios/bob_box",
+"lucasnlm/snaake-flutter",
+"Float-like-a-dash-Sting-like-a-dart/GhostRigger",
+"sourabhgupta811/Ant-Squash",
+"androideen/color_mixer_flame",
+"ufrshubham/spacescape",
+"Yayo-Arellano/flutter_games_compilation",
+"maurovanetti/guidi-tu",
+"namzug16/squareshooter_flame",
+"mglsj/visual_graphs",
+"bluefireteam/bgug",
+"ufrshubham/dino_run",
+"ecklf/flutters",
+"ufrshubham/flame_simple_platformer",
+"RafaelBarbosatec/darkness_dungeon",
+"ernestwisniewski/aonw",
+"imaNNeo/save_the_potato",
+"Shadow60539/club_penguin_game",
+"ikbendewilliam/CyclingEscape"
+]
+}

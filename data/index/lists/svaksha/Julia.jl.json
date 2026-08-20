@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Curated decibans of Julia programming language.","defaultBranch":"master","topics":["julia","awesome-list","programming-language","scientific-computing","computer-science","programming","julia-language","julialang","agplv3","collection"],"readmeSha":"48b8a7049a0c7d265df9f18bccf632b58bc16801"},
+"members": [
+"djsegal/julia_observer",
+"JuliaLang/www_old.julialang.org"
+]
+}

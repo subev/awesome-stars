@@ -1,0 +1,7 @@
+{
+"meta": {"description":"curated list of awesome resources, pointers, and tips related to veganism","defaultBranch":"main","topics":["awesome","veganism","community","plant-based","vegan","awesome-list"],"readmeSha":"0bbd96255ba505fe93ddf377d9c95deb70b2f2c1"},
+"members": [
+"sindresorhus/awesome",
+"hmontazeri/is-vegan"
+]
+}

@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Collection of text editing resources and libraries for the web","defaultBranch":"master","topics":[],"readmeSha":"c51e12d27038deafaab248ea1dca6a22423c8518"},
+"members": [
+"sindresorhus/awesome",
+"ianstormtaylor/slate",
+"ueberdosis/tiptap",
+"basecamp/trix",
+"fastmail/Squire",
+"guardian/scribe",
+"ritzyed/ritzy",
+"kindsoft/kindeditor",
+"bergie/hallo",
+"yabwe/medium-editor",
+"evilstreak/markdown-js"
+]
+}

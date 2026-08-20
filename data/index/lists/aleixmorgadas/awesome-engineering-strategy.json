@@ -1,0 +1,7 @@
+{
+"meta": {"description":"🎉 How to design and execute engineering strategies for tech leadership.","defaultBranch":"main","topics":["awesome","awesome-list","strategy","tech-strategy","engineering-strategy"],"readmeSha":"ac9e445ef2d012a0e2edf904d74c2011e79be4d8"},
+"members": [
+"ddd-crew/context-mapping",
+"ddd-crew/core-domain-charts"
+]
+}

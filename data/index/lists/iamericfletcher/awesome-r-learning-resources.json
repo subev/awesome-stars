@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).","defaultBranch":"main","topics":["r","learning-resources","awesome","awesome-list","resources","data-science"],"readmeSha":"61e731f0cbc00d077ef6ca8b672e35135d2bb6db"},
+"members": [
+"grabear/awesome-rshiny",
+"erikgahner/awesome-ggplot2",
+"EmilHvitfeldt/r-color-palettes",
+"yusuzech/r-web-scraping-cheat-sheet",
+"rfordatascience/tidytuesday",
+"dgrtwo/data-screencasts",
+"iamericfletcher/awesome-r-learning-resources"
+]
+}

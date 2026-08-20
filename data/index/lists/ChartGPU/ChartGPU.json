@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Beautiful, open source, WebGPU-based charting library","defaultBranch":"main","topics":["chart-library","charting-library","data-analysis","webgpu","gpu","candlestick-chart","typescript","awesome-list","financial-charts","high-performance"],"readmeSha":"938f40005e03beeca0263985b961223d6ea5e539"},
+"members": [
+"mikbry/awesome-webgpu",
+"ChartGPU/chartgpu-react",
+"gpuweb/gpuweb"
+]
+}

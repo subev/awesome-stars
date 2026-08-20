@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A curated list of awesome production grade free and open source software organized by category","defaultBranch":"master","topics":[],"readmeSha":"4c6e36995048b94f3ff34db566926c68eb7ffc41"},
+"members": [
+"sindresorhus/awesome",
+"codesandbox/codesandbox-client",
+"PrecursorApp/precursor",
+"guardian/frontend",
+"TryGhost/Ghost",
+"gitlabhq/gitlabhq",
+"discourse/discourse",
+"mickael-kerjean/filestash",
+"dnote/dnote",
+"healthchecks/healthchecks",
+"atom/atom",
+"daytonaio/daytona",
+"0ad/0ad",
+"hedgewars/hw",
+"wesnoth/wesnoth"
+]
+}

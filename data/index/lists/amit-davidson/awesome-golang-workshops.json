@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of awesome golang workshops.","defaultBranch":"main","topics":[],"readmeSha":"71c7fdf332c25856623a77e2a06308faf59a54f6"},
+"members": [
+"davecheney/high-performance-go-workshop",
+"dgryski/go-perfbook",
+"jeromefroe/golang_benchmarks",
+"golang/go",
+"quii/learn-go-with-tests",
+"golangmastery/GopherLabs",
+"campoy/go-web-workshop",
+"uber-go/guide",
+"Pungyeon/clean-go-article",
+"tmrts/go-patterns",
+"teh-cmc/go-internals",
+"amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop",
+"go101/go101",
+"mresti/grpc-workshop",
+"presmihaylov/go-grpc-crash-course",
+"ardanlabs/training-ai",
+"campoy/go-tooling-workshop"
+]
+}

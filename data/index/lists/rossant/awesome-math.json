@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome mathematics resources","defaultBranch":"master","topics":["awesome-list","mathematics","awesome","lecture-notes","list"],"readmeSha":"2b7aab3f327c2ce1a2ecb4c08db65dea46e73a94"},
+"members": [
+"ossu/math",
+"leanprover-community/mathlib4",
+"juanklopper/MIT_OCW_Linear_Algebra_18_06",
+"mavam/stat-cookbook",
+"facebookresearch/miniF2F",
+"google-deepmind/alphageometry",
+"Nebius-Academy/ai-in-math-course",
+"Nonanti/MathFlow",
+"runmat-org/runmat",
+"mostafatouny/awesome-theoretical-computer-science",
+"nschloe/awesome-scientific-computing",
+"ebrahimpichka/awesome-optimization",
+"ubavic/awesome-interactive-math",
+"seewoo5/awesome-ai-for-math"
+]
+}

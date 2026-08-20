@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev","defaultBranch":"master","topics":["free-for-developers","awesome-list"],"readmeSha":"224e846138e29ee72f8980dfe0886944fb860f0c"},
+"members": [
+"unknownhad/CloudIntel",
+"tutao/tutanota",
+"msgwing/ZeroSMTP",
+"comet-ml/opik",
+"future-agi/future-agi",
+"langfuse/langfuse",
+"langwatch/langwatch",
+"latitude-dev/latitude-llm",
+"pollinations/pollinations",
+"localtunnel/localtunnel"
+]
+}

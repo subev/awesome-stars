@@ -1,0 +1,27 @@
+{
+"meta": {"description":"A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.","defaultBranch":"master","topics":["awesome-list","list","awesome","vagrant","vagrant-resources"],"readmeSha":"adf541d939fb59393c625f2c79580c8b019c8502"},
+"members": [
+"sindresorhus/awesome",
+"hashicorp/vagrant",
+"chef/bento",
+"dotless-de/vagrant-vbguest",
+"agiledivider/vagrant-hostsupdater",
+"phinze/vagrant-host-shell",
+"jaugustin/vagrant-ansible-local",
+"jedi4ever/sahara",
+"projectatomic/adb-vagrant-registration",
+"projectatomic/vagrant-service-manager",
+"projectatomic/adb-atomic-developer-bundle",
+"invernizzi/vagrant-scp",
+"thomvaill/tads-boilerplate",
+"jedi4ever/veewee",
+"ohmyzsh/ohmyzsh",
+"MunGell/vgm",
+"vagrantpress/vagrantpress",
+"Varying-Vagrant-Vagrants/VVV",
+"joomlatools/joomlatools-vagrant",
+"iJackUA/try-yii2",
+"bryannielsen/Laravel4-Vagrant",
+"openstack-ansible/openstack-ansible"
+]
+}

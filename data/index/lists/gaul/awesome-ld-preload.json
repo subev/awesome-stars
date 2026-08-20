@@ -1,0 +1,31 @@
+{
+"meta": {"description":"List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time","defaultBranch":"master","topics":["ld-preload"],"readmeSha":"48f74f20515c03a2ef6903e0d72743e6cb0fd983"},
+"members": [
+"stiletto/angrymlocker",
+"jktr/arg-inject",
+"kahing/bin",
+"smerritt/flockit",
+"majek/fluxcapacitor",
+"AGWA/force-urandom",
+"jacereda/fsatrace",
+"FeralInteractive/gamemode",
+"zliuva/ktlswrapper",
+"fritzw/ld-preload-open",
+"stewartsmith/libeatmydata",
+"wolfcw/libfaketime",
+"libhugetlbfs/libhugetlbfs",
+"gaul/libinput-force-middle-click-emulation",
+"msantos/libkeepalive",
+"DavidBuchanan314/libleakmydata",
+"gaul/libnoxattr",
+"lkl/linux",
+"sebcat/openssl-hook",
+"FiloSottile/otherport",
+"zardus/preeny",
+"disasters/srv-shim",
+"ku1ik/stderred",
+"vi/timeskew",
+"mariusae/trickle",
+"whitequark/unrandom"
+]
+}

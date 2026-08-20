@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A tiny list limited to the best JavaScript Learning Resources","defaultBranch":"master","topics":["javascript","javascript-learning","learning","awesome","awesome-list","resources"],"readmeSha":"203e3f2fa51b3184fec6e6cb826804284b18e8c4"},
+"members": [
+"getify/You-Dont-Know-JS",
+"getify/Functional-Light-JS",
+"mjavascript/practical-modern-javascript",
+"Chalarangelo/30-seconds-of-code",
+"max-mapper/art-of-node",
+"micromata/awesome-css-learning"
+]
+}

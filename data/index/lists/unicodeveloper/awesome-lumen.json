@@ -1,0 +1,33 @@
+{
+"meta": {"description":":eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)","defaultBranch":"master","topics":[],"readmeSha":"eabde0c13d7474f1b9735994e14b2123e77417b8"},
+"members": [
+"sindresorhus/awesome",
+"unicodeveloper/awesome-tdd",
+"laravel/lumen",
+"liyu001989/lumen-api-demo",
+"vluzrmos/lumen-cors",
+"palanik/lumen-cors",
+"pmartelletti/phpspec-lumen",
+"understand/understand-lumen",
+"vluzrmos/laravel-badge-poser",
+"neomerx/cors-illuminate",
+"generationtux/jwt-artisan",
+"SammyK/LaravelFacebookSdk",
+"webNeat/lumen-generators",
+"dingo/api",
+"vluzrmos/lumen-tinker",
+"rdehnhardt/lumen-maintenance-mode",
+"laravelista/lumen-vendor-publish",
+"michaelbonds/lumen-make",
+"digiaonline/lumen-file-manager",
+"arubacao/http-basic-auth-guard",
+"irazasyed/larasupport",
+"hasib32/rest-api-with-lumen",
+"dusterio/lumen-passport",
+"vluzrmos/lumen-slackin",
+"rlacerda83/lumen-email-microservice",
+"laravelista/Lissandra",
+"TechnicPack/LumenSolder",
+"FabrizioCafolla/lumen-microservice"
+]
+}

@@ -1,0 +1,15 @@
+{
+"meta": {"description":"✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience.","defaultBranch":"main","topics":["awesome","awesome-list","copilot-instructions","github-copilot","prompt-engineering","vscode-copilot-chat","copilot-prompting","agent-skills","ai-agents","custom-agents"],"readmeSha":"3faf26686e2664618605d97b0ac062ef2134c69b"},
+"members": [
+"anthropics/skills",
+"microsoft/playwright-cli",
+"modelcontextprotocol/servers",
+"github/github-mcp-server",
+"microsoft/playwright-mcp",
+"upstash/context7",
+"microsoft/mcp",
+"awslabs/mcp",
+"googleapis/gcloud-mcp",
+"kubestellar/console"
+]
+}

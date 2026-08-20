@@ -1,0 +1,22 @@
+{
+"meta": {"description":"📖 List of resources for developers building cross-platform .NET apps with Uno Platform.","defaultBranch":"main","topics":["awesome","awesome-list","hacktoberfest","uno-platform","android","ios","uwp","winappsdk","linux","macos"],"readmeSha":"11368d9d8af4ff51df82dfb70951d82b441dd2b2"},
+"members": [
+"unoplatform/uno",
+"unoplatform/Uno.Themes",
+"unoplatform/uno.toolkit.ui",
+"unoplatform/Uno.Gallery",
+"unoplatform/Uno.Samples",
+"unoplatform/Uno.Core",
+"unoplatform/Uno.UITest",
+"unoplatform/uno.extensions",
+"unoplatform/Uno.WindowsCommunityToolkit",
+"unoplatform/Uno.Telerik.UI-For-UWP",
+"xperiandri/Elmish.Uno",
+"unoplatform/uado",
+"unoplatform/Uno.Playground",
+"unoplatform/calculator",
+"NuGetPackageExplorer/NuGetPackageExplorer",
+"unoplatform/Uno.Ch9",
+"ibebbs/CODuo"
+]
+}

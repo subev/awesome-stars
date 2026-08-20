@@ -1,0 +1,71 @@
+name: Crawl awesome lists
+
+# Breadth-first crawl of the awesome-list graph, seeded from sindresorhus/awesome.
+# Each run resumes from data/crawl/state.json and stops on whichever budget runs
+# out first (GraphQL points or wall clock), so progress is cumulative.
+on:
+  schedule:
+    - cron: "43 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      max-points:
+        description: "GraphQL point budget for this run"
+        default: "3000"
+      max-minutes:
+        description: "Wall-clock budget in minutes"
+        default: "45"
+      depth:
+        description: "Max BFS depth"
+        default: "3"
+      min-stars:
+        description: "Star floor for expanding a discovered list"
+        default: "50"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: data-write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Crawl
+        env:
+          GITHUB_TOKEN: ${{ secrets.STARS_PAT || github.token }}
+        run: |
+          node --experimental-strip-types scripts/crawl.ts \
+            --max-points "${{ inputs.max-points || '3000' }}" \
+            --max-minutes "${{ inputs.max-minutes || '45' }}" \
+            --depth "${{ inputs.depth || '3' }}" \
+            --min-stars "${{ inputs.min-stars || '50' }}"
+      - name: Status
+        run: node --experimental-strip-types scripts/crawl-status.ts
+      - name: Commit data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/crawl data/index
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: crawl awesome lists"
+            git pull --rebase origin master
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+      # Pushes made with github.token never trigger on:push workflows.
+      - name: Trigger deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref master --repo ${{ github.repository }}

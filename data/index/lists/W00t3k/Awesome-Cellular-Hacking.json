@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Awesome-Cellular-Hacking","defaultBranch":"master","topics":["sdr","lte","eviltwin","lte-evil-twin","gsm-network","hacking","rogue-bts","gsm"],"readmeSha":"368c7c217e730979e64c2e0d6b79d2466020da8b"},
+"members": [
+"PentHertz/OpenBTS",
+"SyNSec-den/5GBaseChecker",
+"srsran/srsRAN_Project",
+"srsran/srsRAN_4G",
+"free5gc/free5gc",
+"Nuand/bladeRF",
+"Evrytania/LTE-Cell-Scanner",
+"ptrkrysik/gr-gsm",
+"CellularPrivacy/Android-IMSI-Catcher-Detector",
+"falkenber9/falcon",
+"scateu/kalibrate-hackrf",
+"SysSec-KAIST/LTESniffer",
+"Synacktiv-contrib/Modmobmap",
+"Synacktiv-contrib/Modmobjam",
+"SigPloiter/SigPloit",
+"fgsect/scat",
+"IntelMQ/intelmq",
+"srsran/srsRAN_4G",
+"osmocom/pysim",
+"seemoo-lab/CellGuard",
+"openairinterface/openairinterface5g",
+"cn0xroot/RFSec-ToolKit"
+]
+}

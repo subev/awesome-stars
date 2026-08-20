@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Awesome Observable related stuff - An Observable is a collection that arrives over time.","defaultBranch":"main","topics":["awesome","awesome-list","list","observables","javascript"],"readmeSha":"1fb48e8fe5605e2564f4045edb428a077ba9d759"},
+"members": [
+"tc39/proposal-observable",
+"tc39/proposal-observable",
+"zenparsing/zen-observable",
+"ReactiveX/rxjs",
+"sindresorhus/type-fest",
+"sindresorhus/any-observable",
+"sindresorhus/is-observable",
+"sindresorhus/observable-to-promise",
+"jamestalmage/stream-to-observable",
+"benlesh/symbol-observable",
+"SamVerschueren/obsify",
+"localForage/localForage-observable",
+"sindresorhus/awesome-nodejs"
+]
+}

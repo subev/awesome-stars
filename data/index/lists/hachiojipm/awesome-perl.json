@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!","defaultBranch":"master","topics":[],"readmeSha":"7c74e8c85936e9be8880e5d98e4baf01649ddb3c"},
+"members": [
+"sindresorhus/awesome",
+"avelino/awesome-go",
+"EnlightenedPerlOrganisation/task-kensho",
+"thibaultduponchelle/perlres",
+"eserte/srezic-misc",
+"ddollar/foreman",
+"bayandin/awesome-awesomeness",
+"emijrp/awesome-awesome",
+"fleveque/awesome-awesomes",
+"t3chnoboy/awesome-awesome-awesome"
+]
+}

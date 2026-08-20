@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of resources related to astrophotography.","defaultBranch":"main","topics":["astrophotography","photography","astronomy","awesome","awesome-list"],"readmeSha":"6335b541eafffd1396085f4352a8cef72b632fe7"},
+"members": [
+"celstark/OpenNebulosity",
+"Rolf-Hempel/PlanetarySystemStacker",
+"mrantonSG/nova_DSO_tracker",
+"ppissias/SpacePixels"
+]
+}

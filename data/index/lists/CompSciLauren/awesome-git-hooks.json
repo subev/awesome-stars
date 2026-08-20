@@ -1,0 +1,11 @@
+{
+"meta": {"description":":anchor: A curated list of awesome git hooks","defaultBranch":"master","topics":["git","hooks","automation","bash","script","awesome-list","awesome"],"readmeSha":"114f90f3591a51e61121cb6a1d51de30201c33b8"},
+"members": [
+"CompSciLauren/awesome-git-hooks",
+"typicode/husky",
+"sds/overcommit",
+"rudikershaw/git-build-hook",
+"captainhook-git/captainhook",
+"pre-commit/pre-commit"
+]
+}

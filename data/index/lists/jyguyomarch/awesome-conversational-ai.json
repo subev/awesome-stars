@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of delightful Conversational AI resources.","defaultBranch":"main","topics":["awesome","awesome-list","list","conversational-ai","chatbot","nlu","ai","digital-assistant"],"readmeSha":"366ecec9665dc565c0346469aa52c34e645883f3"},
+"members": [
+"brianspiering/awesome-dl4nlp",
+"josephmisiti/awesome-machine-learning",
+"accelerated-text/awesome-nlg",
+"keon/awesome-nlp",
+"arbox/nlp-with-ruby"
+]
+}

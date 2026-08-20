@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of articles that cover the software engineering best practices for building machine learning applications.","defaultBranch":"master","topics":["awesome","awesome-list","software-engineering","machine-learning","deep-learning","ml-ops"],"readmeSha":"22598e354975c813814cb87b05b9c5c33df25f2d"},
+"members": [
+"chiphuyen/machine-learning-systems-design",
+"SeldonIO/alibi-detect",
+"microsoft/archai",
+"fivetran/great_expectations",
+"PetrochukM/HParams",
+"HumanSignal/label-studio",
+"linkedin/LiFT",
+"tensorflow/model-card-toolkit",
+"Neuraxio/Neuraxle",
+"Lightning-AI/pytorch-lightning",
+"princetonvisualai/revise-tool",
+"google-research/robustness_metrics",
+"SeldonIO/seldon-core",
+"tensorflow/data-validation"
+]
+}

@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"daae50a6911c7f3fa2f48eb385af478f695e8e2a"},
+"members": [
+"playcanvas/engine",
+"playcanvas/react",
+"playcanvas/web-components",
+"playcanvas/texture-tool",
+"playcanvas/pcui",
+"tatelax/playcanvas-kinematic-character-controller",
+"playcanvas/playcanvas-ar",
+"yushimatenjin/playcanvas-node",
+"playcanvas/playcanvas-p2.js",
+"playcanvas/playcanvas-rest-api-tools",
+"playcanvas/playcanvas-spine",
+"playcanvas/playcanvas-tween",
+"isobolewski/playcanvas-vue",
+"recastnavigation/recastnavigation",
+"tweenjs/tween.js",
+"playcanvas/sublime-completions"
+]
+}

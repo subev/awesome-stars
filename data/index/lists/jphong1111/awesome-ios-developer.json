@@ -1,0 +1,22 @@
+{
+"meta": {"description":"List of awesome iOS & Swift stuff!!","defaultBranch":"main","topics":["swift","ios","ios-swift","swift5","ios-app","apple","awesome","awesome-list","usefull-materials","usefull"],"readmeSha":"07fd5be6be7716e0b2de4a36ef89a7a34b80c18f"},
+"members": [
+"realm/SwiftLint",
+"swiftlang/swift-format",
+"pointfreeco/swift-composable-architecture",
+"pointfreeco/swift-dependencies",
+"Alamofire/Alamofire",
+"SwiftGen/SwiftGen",
+"peripheryapp/periphery",
+"onevcat/Kingfisher",
+"SDWebImage/SDWebImage",
+"pointfreeco/swift-snapshot-testing",
+"Quick/Quick",
+"Quick/Nimble",
+"apple/swift-collections",
+"apple/swift-algorithms",
+"yonaskolb/XcodeGen",
+"vsouza/awesome-ios",
+"BohdanOrlov/iOS-Developer-Roadmap"
+]
+}

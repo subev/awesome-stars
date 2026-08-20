@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of podcasts we like to listen to. ","defaultBranch":"master","topics":["awesome-list","awesome"],"readmeSha":"8ee666c2eb1f6b50b3406b9fed7469a69624d12f"},
+"members": [
+"sindresorhus/awesome",
+"bottiger/SoundWaves"
+]
+}

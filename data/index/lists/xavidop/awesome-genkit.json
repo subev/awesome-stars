@@ -1,0 +1,32 @@
+{
+"meta": {"description":"🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!","defaultBranch":"main","topics":["awesome","awesome-list","firebase","firebase-genkit","genkit","genkit-indexer","genkit-plugin","genkit-retriever","genkitx"],"readmeSha":"3a54965a799aba622162f3417a0b66a6adc172db"},
+"members": [
+"xavidop/genkitx-github",
+"BloomLabsInc/genkit-plugins",
+"genkit-ai/aws-bedrock-js-plugin",
+"oddbit/genkitx-deepseek",
+"aciescrest/genkit-huggingface",
+"qdrant/qdrant-genkit",
+"retzd-tech/genkitx-redis",
+"xavidop/genkitx-voiceflow",
+"xavidop/genkitx-weaviate",
+"mongodb-partners/genkitx-mongodb",
+"yukinagae/genkitx-promptfoo",
+"BloomLabsInc/genkit-plugins",
+"invertase/genkit-plugin-redis",
+"pavelgj/genkitx-rxjs",
+"flowshapr/genkitx-langfuse",
+"orchlab/genkitx-posthog",
+"ejentum/ejentum-genkit",
+"genkit-ai/genkit",
+"genkit-ai/opentelemetry-go-plugin",
+"genkit-ai/genkit-java",
+"tanabee/internal-ai",
+"xavidop/perplexity-cli",
+"nozomi-koborinai/gcp-cost-mcp-server",
+"xavidop/genkit-azure-function-ai-foundry",
+"xavidop/genkit-aws-lambda-bedrock",
+"DEEJ4Y/genkitkraft",
+"genkit-ai/genkit-dart"
+]
+}

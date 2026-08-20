@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of awesome anomaly detection resources","defaultBranch":"master","topics":["awesome-anomaly-detection","awesome","anomaly-detection","anomalydetection","anomaly","deep-learning","awesomeanomalydetection","machine-learning","machinelearning"],"readmeSha":"cc48c03c9b7ef1c5a23cc550f81a00ebef1f602e"},
+"members": [
+"sdukshis/awesome-ml",
+"hibayesian/awesome-automl-papers",
+"KDD-OpenSource/DeepADoTS",
+"Stream-AD/MIDAS",
+"yuguangnudt/VEC_VAD",
+"tianyu0207/RTFM",
+"khalooei/ALOCC-CVPR2018",
+"PramuPerera/DeepOneClass",
+"podgorskiy/GPND",
+"hendrycks/ss-ood",
+"demonzyj56/E3Outlier",
+"alinlab/CSI",
+"ORippler/gaussian-ad-mvtec",
+"tianyu0207/IGD",
+"rohban-lab/Knowledge_Distillation_AD",
+"archon159/elsa",
+"nazim1021/OOD-detection-using-OECC",
+"mlindsk/molic",
+"PolinaKirichenko/flows_ood",
+"inspire-group/SSD",
+"byungjae89/SPADE-pytorch",
+"nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch",
+"YoungGod/DFR",
+"xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master",
+"liznerski/fcdd",
+"tianyu0207/CCD"
+]
+}

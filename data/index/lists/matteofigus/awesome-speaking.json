@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Resources about public speaking","defaultBranch":"master","topics":["awesome-list","awesome","list","speaking-resources","speaking","conference"],"readmeSha":"d4c8c89d537a11e1e69f448101af97069cae471c"},
+"members": [
+"sindresorhus/awesome",
+"softwaremill/it-cfp-list",
+"phpearth/awesome-community",
+"vmbrasseur/Public_Speaking",
+"JanVanRyswyck/awesome-talks"
+]
+}

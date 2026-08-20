@@ -1,0 +1,8 @@
+{
+"meta": {"description":":computer: Curated list of awesome resources and links about using NoSQL databases","defaultBranch":"main","topics":["nosql-databases","relational-databases","databases","nosql","awesome","awesome-list","learning-nosql","nosql-guides","brewer-theorem","graph-databases"],"readmeSha":"c862e6450d89796bbd20139347336496cf6df978"},
+"members": [
+"sindresorhus/awesome",
+"igorbarinov/awesome-data-engineering",
+"kahun/awesome-sysadmin"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of delightful productivity resources.","defaultBranch":"main","topics":["awesome","awesome-list","list","productivity"],"readmeSha":"6fb47e83b5a57d42efc30dfe9096c8cc2056d302"},
+"members": [
+"hsbalar/preserver",
+"amitmerchant1990/pomolectron",
+"topydo/topydo",
+"iSoron/uhabits",
+"ahkscript/awesome-AutoHotkey"
+]
+}

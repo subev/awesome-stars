@@ -1,0 +1,21 @@
+{
+"meta": {"description":"💫  Extensible UI for Neovim notifications and LSP progress messages.","defaultBranch":"main","topics":["neovim","neovim-plugin"],"readmeSha":"e0f906e241bb75411b11cf565050917651110664"},
+"members": [
+"shannpersand/comic-shanns",
+"neovim/neovim",
+"catppuccin/nvim",
+"nvim-lualine/lualine.nvim",
+"petertriho/nvim-scrollbar",
+"folke/lazy.nvim",
+"junegunn/vim-plug",
+"lumen-oss/rocks.nvim",
+"nvim-telescope/telescope.nvim",
+"rcarriga/nvim-notify",
+"mrded/nvim-lsp-notify",
+"vigoux/notifier.nvim",
+"neoclide/coc.nvim",
+"arkav/lualine-lsp-progress",
+"nvim-lua/lsp-status.nvim",
+"sindresorhus/cli-spinners"
+]
+}

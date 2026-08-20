@@ -1,0 +1,23 @@
+{
+"meta": {"description":"Official awesome-list of Supabase Starters & Resources ⚡️ ","defaultBranch":"main","topics":["awesome","awesome-list","supabase"],"readmeSha":"96f821a64055d683f16946cb1f424f9ef5e5a8bf"},
+"members": [
+"supabase/supabase",
+"supabase-community/expo-stripe-payments-with-supabase-functions",
+"supabase-community/flutter-stripe-payments-with-supabase-functions",
+"JMaylor/vuepabase",
+"Razikus/supabase-nextjs-template",
+"koji0701/supabase-react-social-media-starter",
+"turbostarter/extro",
+"jadynekena/supabase-googlesheet",
+"dreamlit-ai/lovable-cloud-to-supabase-exporter",
+"dsplce-co/supabase-plus",
+"lyqht/Octokit-lite",
+"lyqht/generate-supabase-db-types-github-action",
+"psteinroe/supabase-cache-helpers",
+"BemiHQ/bemi-supabase-js",
+"singh-inder/supabase-automated-self-host",
+"dataflows-au/supabase-sms-hook",
+"Juliusolsson05/pharos-ai",
+"supabase-community/firebase-to-supabase"
+]
+}

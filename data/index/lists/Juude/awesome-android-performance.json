@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具) ","defaultBranch":"master","topics":["android-performance","android","performance-optimization","memory-leak"],"readmeSha":"20a95b99eb5bf0086f25fa8f1258d9d40402ad0e"},
+"members": [
+"crosswalk-project/crosswalk-cordova-android",
+"square/leakcanary",
+"EverythingMe/probe",
+"seiginonakama/BlockCanaryEx",
+"zkwlx/DroidTelescope",
+"didi/booster",
+"udacity/ud825-render"
+]
+}

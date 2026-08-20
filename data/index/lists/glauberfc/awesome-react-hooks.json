@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A curated list about React Hooks","defaultBranch":"master","topics":["react","hooks","react-hooks","awesome","awesome-list"],"readmeSha":"a0f024193cb2391373978b02dc495589e0dd76b7"},
+"members": [
+"kentcdodds/advanced-react-hooks",
+"reduxjs/react-redux",
+"reactjs/rfcs",
+"react/react-native",
+"jacobp100/hooks-test",
+"kitze/react-hanger",
+"react-navigation/hooks",
+"matthewp/haunted",
+"luqmanoop/react-thanos",
+"facebookarchive/redux-react-hook",
+"streamich/react-use",
+"jaredpalmer/the-platform",
+"beizhedenglong/react-hooks-lib",
+"immerjs/use-immer",
+"CSFrequency/react-firebase-hooks",
+"AvraamMavridis/react-intersection-visible-hook",
+"thibaultboursier/use-timer",
+"react-native-community/hooks",
+"yesmeck/react-with-hooks",
+"pankod/react-hooks-screen-type",
+"ava/use-http",
+"ilyalesik/react-fetch-hook",
+"storeon/storeon",
+"react-hook-form/react-hook-form"
+]
+}

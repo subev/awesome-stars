@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Curated list of ad-free alternatives to popular services on the web.","defaultBranch":"master","topics":["awesome-list","ad-free","websites","services","awesome","alternatives","advertising","ads"],"readmeSha":"e1cb8b853a2804ad5f17e2f4e9643f6dda11d37b"},
+"members": [
+"sindresorhus/awesome",
+"TeamAmaze/AmazeFileManager",
+"gorhill/uBlock"
+]
+}

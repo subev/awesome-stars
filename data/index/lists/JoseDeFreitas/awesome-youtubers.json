@@ -1,0 +1,10 @@
+{
+"meta": {"description":"An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.","defaultBranch":"main","topics":["awesome","awesome-list","list","youtubers","youtube"],"readmeSha":"d63e66a9881bc5c8719a16ad2ee3fc0cf7e125f3"},
+"members": [
+"rcarubbi/awesome-brazilian-youtubers",
+"rcarubbi/awesome-spanish-youtubers",
+"mhxion/awesome-discord-communities",
+"sindresorhus/awesome",
+"sindresorhus/awesome-nodejs"
+]
+}

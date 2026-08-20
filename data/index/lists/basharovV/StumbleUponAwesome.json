@@ -1,0 +1,6 @@
+{
+"meta": {"description":"⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.","defaultBranch":"master","topics":["chrome-extension","stumbleupon","awesome-list","discovery","browser-extension","awesome","stumble","firefox-addon"],"readmeSha":"a934094106a48d09b087298bacd82ab8b0783538"},
+"members": [
+"sindresorhus/awesome"
+]
+}

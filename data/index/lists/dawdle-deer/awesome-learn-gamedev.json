@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated collection of game development learning resources","defaultBranch":"main","topics":["awesome","awesome-list","education","game-development","learning","list","gamedev","learn"],"readmeSha":"bb2f661f65c81528c0cfa399183211997e4cff66"},
+"members": [
+"dawdle-deer/awesome-learn-gamedev",
+"sindresorhus/awesome",
+"Kavex/GameDev-Resources",
+"Hengle/gamedev-resources-1",
+"ossu/computer-science",
+"jwasham/coding-interview-university",
+"charlax/professional-programming",
+"miloyip/game-programmer",
+"rossant/awesome-math",
+"luisdnsantos/awesome-computer-graphics",
+"QuakeKit/Unity",
+"etodd/dialogger",
+"vhladiienko/awesome-game-production",
+"viraptor/reverse-interview"
+]
+}

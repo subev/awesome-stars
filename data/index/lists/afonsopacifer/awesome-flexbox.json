@@ -1,0 +1,29 @@
+{
+"meta": {"description":":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.","defaultBranch":"master","topics":["flexbox","awesome","css","css3","css-flexbox","flexbox-layout","flexbox-grid","w3c-specification","hacktoberfest","hacktoberfest2022"],"readmeSha":"d4d0fcd2b0a97330b09ca73197a88bb61ea13a30"},
+"members": [
+"sindresorhus/awesome",
+"obetomuniz/awesome-webcomponents",
+"willianjusten/awesome-svg",
+"mastastealth/sass-flex-mixin",
+"differui/stylus-flex-mixin",
+"jonathantneal/flexibility",
+"doctyper/flexie",
+"doctyper/reflexie",
+"brenopolanski/css-flexbox-atom-snippets",
+"brenopolanski/css-flexbox-sublime-snippets",
+"maxsteenbergen/Fibonacci",
+"awinogradov/sharps",
+"kristoferjoseph/flexboxgrid",
+"henriquecustodia/fuux",
+"erwstout/ginger",
+"potch/flex-box",
+"philipwalton/flexbugs",
+"google/flexbox-layout",
+"layoutBox/FlexLayout",
+"rebassjs/grid",
+"afonsopacifer/post-apocalypse-flexbox",
+"tcoopman/react-flexbox",
+"jxnblk/reflexbox",
+"philipwalton/solved-by-flexbox"
+]
+}

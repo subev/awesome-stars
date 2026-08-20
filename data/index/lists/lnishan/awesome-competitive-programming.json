@@ -1,0 +1,31 @@
+{
+"meta": {"description":":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources","defaultBranch":"master","topics":["quora","learning-materials","contest","practice","reference-materials","competitive-programming","awesome-list","awesome","list","algorithm"],"readmeSha":"b5b3af68ce711129812b3be8d05160bb3ec072c9"},
+"members": [
+"sindresorhus/awesome",
+"mostafa-saad/MyCompetitiveProgramming",
+"mostafa-saad/ArabicCompetitiveProgramming",
+"prakhar1989/awesome-courses",
+"nishanthvijayan/CoderCalendar",
+"indy256/codelibrary",
+"spaghetti-source/algorithm",
+"kth-competitive-programming/kactl",
+"jaehyunp/stanfordacm",
+"ngthanhtrung23/ACM_Notebook_new",
+"chmnchiang/bcw_codebook",
+"foreverbell/acm-icpc-cheat-sheet",
+"slycelote/caide",
+"online-judge-tools/oj",
+"johnathan79717/codeforces-parser",
+"sukeesh/GoCF",
+"gnull/cfparser",
+"ikatanic/cfparser",
+"ia-toki/tcframe",
+"tayllan/awesome-algorithms",
+"enjalot/algovis",
+"rossant/awesome-math",
+"fffaraz/awesome-cpp",
+"akullpp/awesome-java",
+"EbookFoundation/free-programming-books",
+"DopplerHQ/awesome-interview-questions"
+]
+}

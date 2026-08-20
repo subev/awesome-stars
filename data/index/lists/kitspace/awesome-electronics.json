@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of awesome resources for Electronic Engineers and hobbyists","defaultBranch":"master","topics":["awesome","electronics","hardware","pcb","kicad","eagle","gerber","altium"],"readmeSha":"760e7d3b906223637c3a0692d50a60a7d5960812"},
+"members": [
+"upb-lea/Inkscape_electric_Symbols",
+"geckocircuits/GeckoCIRCUITS",
+"horizon-eda/horizon",
+"devbisme/kicad-3rd-party-tools",
+"ruiqimao/keyboard-pcb-guide",
+"kitspace/kicad_footprints",
+"openscopeproject/InteractiveHtmlBom",
+"INTI-CMNB/KiBot",
+"adafruit/Adafruit-Eagle-Library",
+"sparkfun/SparkFun-Eagle-Libraries",
+"Part-DB/Part-DB-legacy",
+"Alhadis/language-pcb",
+"0xjmux/InsanelyCheapElectronics",
+"ajaymnk/open-electronics",
+"Vitorian/awesome-fpga",
+"cajt/list_of_robot_electronics",
+"embedded-boston/awesome-embedded-systems",
+"kelu124/awesome-latticeFPGAs",
+"TM90/awesome-hwd-tools",
+"delftopenhardware/awesome-open-hardware",
+"upb-lea/awesome-open-source-power-electronics"
+]
+}

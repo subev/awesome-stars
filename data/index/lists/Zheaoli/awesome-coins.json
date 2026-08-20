@@ -1,0 +1,14 @@
+{
+"meta": {"description":"₿ A guide (for humans!) to cryto-currencies and their algos.","defaultBranch":"master","topics":["cryptocurrency","algorithms","bitcoin","ethereum","awesome","awesome-list","coin","wallet","algo","nicehash"],"readmeSha":"1d9e4e836f14178657a75b82cf37f5f1d4cdebe0"},
+"members": [
+"Zheaoli/awesome-coins",
+"sindresorhus/awesome",
+"kilimchoi/cryptocurrency",
+"bitcoinbook/bitcoinbook",
+"anderson-joyle/blockchain-for-humans",
+"glifio/wallet",
+"kozyilmaz/nheqminer-macos",
+"ofek/bit",
+"anders94/blockchain-demo"
+]
+}

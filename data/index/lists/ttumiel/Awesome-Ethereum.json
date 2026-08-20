@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A Curated List of Awesome Ethereum Resources","defaultBranch":"master","topics":["awesome-list","ethereum","awesome"],"readmeSha":"0dc43644ac2e2c30a3271b7ab874a8a92c8ca86c"},
+"members": [
+"embarklabs/embark",
+"ethereum/ethereum.org",
+"ethereum/mist",
+"ethereum/cbc-casper",
+"ethereum/research",
+"ethereum/casper",
+"web3/web3.js",
+"jstoxrocky/zksnarks_example",
+"ethereumbook/ethereumbook",
+"vinta/awesome-python",
+"josephmisiti/awesome-machine-learning"
+]
+}

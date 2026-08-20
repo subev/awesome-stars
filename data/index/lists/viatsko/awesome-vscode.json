@@ -1,0 +1,19 @@
+{
+"meta": {"description":"🎨 A curated list of delightful VS Code packages and resources.","defaultBranch":"master","topics":["visual-studio","vscode","vscode-theme","vscode-extension","awesome","awesome-list","list","visualstudio","visual-studio-code","visual-studio-code-extension"],"readmeSha":"34535164bdc22d94d980ceadfcdfc25ee988fd8c"},
+"members": [
+"sindresorhus/awesome",
+"microsoft/vscode",
+"antfu/wenyan-lang-vscode",
+"microsoft/vscode-recipes",
+"michaelgmcd/vscode-language-babel",
+"xojs/xo",
+"avajs/ava",
+"prettier/prettier-vscode",
+"DavidAnson/markdownlint",
+"vikrantnegi/vscode-personal-preference-setting",
+"gko/wrap",
+"foxundermoon/vs-shell-format",
+"essence-language/vscode-extension",
+"sozercan/OpenInCode"
+]
+}

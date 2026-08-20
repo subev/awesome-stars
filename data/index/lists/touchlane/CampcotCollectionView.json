@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Collapse and expand UICollectionView sections with one method call.","defaultBranch":"master","topics":["swift","cocoapods","ios","library","awesome","uicollectionview","expandable","collapsible"],"readmeSha":"d7529883e578715c35d1a455fdef8ebce45e067e"},
+"members": [
+"CocoaPods/Specs"
+]
+}

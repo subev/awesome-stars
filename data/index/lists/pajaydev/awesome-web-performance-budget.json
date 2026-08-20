@@ -1,0 +1,18 @@
+{
+"meta": {"description":"⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)","defaultBranch":"master","topics":["web-performance","readings","awesome-list","performance-budget","web-performance-budget","tools","videos","awesome","awesome-web","performance-budgeting"],"readmeSha":"34ba04b35bde7ad676142973febbfcd0492011f2"},
+"members": [
+"theodo/falco",
+"siddharthkp/bundlesize",
+"tkadlec/grunt-perfbudget",
+"ai/size-limit",
+"GoogleChromeLabs/size-plugin",
+"GoogleChromeLabs/pr-bot",
+"paulirish/pwmetrics",
+"TrySound/rollup-plugin-size-snapshot",
+"webpack/webpack-bundle-analyzer",
+"pajaydev/lasso-analyzer",
+"btd/rollup-plugin-visualizer",
+"gregtillbrook/parcel-plugin-bundle-visualiser",
+"macbre/analyze-css"
+]
+}

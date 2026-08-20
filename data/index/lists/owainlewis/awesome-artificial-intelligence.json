@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.","defaultBranch":"master","topics":["machine-learning","machine-intelligence","artificial-intelligence","reinforcement-learning","intelligent-systems","deep-learning","intelligent-machines","ai","statistical-learning","unsupervised-learning"],"readmeSha":"a96b5513d4aad8e6a7b9d072bfd634605edb6562"},
+"members": [
+"deepseek-ai/awesome-deepseek-agent",
+"humanlayer/12-factor-agents",
+"docling-project/docling",
+"openai/evals",
+"owainlewis/neo",
+"openai/codex",
+"google-gemini/gemini-cli",
+"cline/cline",
+"owainlewis/blueprint",
+"owainlewis/factory"
+]
+}

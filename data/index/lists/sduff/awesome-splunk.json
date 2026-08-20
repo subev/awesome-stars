@@ -1,0 +1,8 @@
+{
+"meta": {"description":"  A collection of awesome resources for Splunk","defaultBranch":"master","topics":["awesome","awesome-list","splunk","splunk-resources"],"readmeSha":"832918d37c3d76cbee11508cb161a2bd2f808a8d"},
+"members": [
+"sduff/awesome-es",
+"sduff/awesome-itsi",
+"hire-vladimir/SA-cim_vladiator"
+]
+}

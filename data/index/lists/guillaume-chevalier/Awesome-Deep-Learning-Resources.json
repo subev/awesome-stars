@@ -1,0 +1,20 @@
+{
+"meta": {"description":"Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier","defaultBranch":"master","topics":["awesome","awesome-list","deep-learning","machine-learning","tensorflow","lstm","cnn"],"readmeSha":"428adcedc06549f3823478f8b782e68d6c794f51"},
+"members": [
+"sindresorhus/awesome",
+"Neuraxio/Neuraxle",
+"tensorflow/tensorflow",
+"tensorflow/skflow",
+"carpedm20/NTM-tensorflow",
+"guillaume-chevalier/LSTM-Human-Activity-Recognition",
+"guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs",
+"guillaume-chevalier/seq2seq-signal-prediction",
+"guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100",
+"guillaume-chevalier/Smoothly-Blend-Image-Patches",
+"guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer",
+"Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code",
+"awesomedata/awesome-public-datasets",
+"guillaume-chevalier/filtering-stft-and-laplace-transform",
+"Neuraxio/Awesome-Neuraxle"
+]
+}

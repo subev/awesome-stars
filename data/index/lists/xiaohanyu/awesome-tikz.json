@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of awesome TikZ documentations, libraries and resources","defaultBranch":"master","topics":["awesome","awesome-list","tikz","latex","tex"],"readmeSha":"fcc8716a3f776578d10429a8ea9a7b7062728c7d"},
+"members": [
+"pgf-tikz/pgf",
+"walmes/Tikz",
+"MartinThoma/LaTeX-examples",
+"PetarV-/TikZ",
+"alemelis/tikz_drawings",
+"FriendlyUser/LatexDiagrams",
+"hackl/tikz-network",
+"opentikz/opentikz",
+"fhackenberger/ktikz",
+"jbn/itikz",
+"matlab2tikz/matlab2tikz",
+"nschloe/tikzplotlib",
+"HarisIqbal88/PlotNeuralNet",
+"xinychen/awesome-latex-drawing",
+"negrinho/sane_tikz",
+"varkor/quiver"
+]
+}

@@ -1,0 +1,27 @@
+{
+"meta": {"description":"A curated list of awesome Linux-specific Flutter packages and projects.","defaultBranch":"main","topics":["awesome","flutter","linux","dart"],"readmeSha":"cf9c2104299f4deb07624dbc5367ea4e0773eb29"},
+"members": [
+"sindresorhus/awesome",
+"prateekmedia/appimagepool",
+"ubuntu/user_manager",
+"dahliaOS/files",
+"dahliaOS/terminal",
+"meta-flutter/flutter_embedded",
+"sony/flutter-embedded-linux",
+"ardera/flutter-pi",
+"PlayPulseCom/flutter_wlroots",
+"Malte2036/flutter_linuxstats",
+"therexone/linux-mon",
+"jwinarske/meta-flutter",
+"dahliaOS/pangolin_desktop",
+"quickemu-project/quickgui",
+"ubuntu-flutter-community/software",
+"toyota-connected/ivi-homescreen",
+"UbuntuAccomplishments/viewer",
+"canonical/ubuntu-desktop-installer",
+"ubuntu-flutter-community/settings",
+"Solido/awesome-flutter",
+"leanflutter/awesome-flutter-desktop",
+"jpnurmi/awesome-generator"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"CouchDB - curated meta resources & best practices list","defaultBranch":"master","topics":["couchdb","cloudant","couchdb-wiki","best-practices","couchdb-chat","awesome"],"readmeSha":"2e48c7deff7fb8cb14698ba7a108dc2cbc3377c7"},
+"members": [
+"sindresorhus/awesome",
+"assafmo/couchdb-linux-performance",
+"pandeiro/jaki",
+"jo/couchdb-best-practices"
+]
+}

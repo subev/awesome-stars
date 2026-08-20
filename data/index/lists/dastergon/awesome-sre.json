@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of Site Reliability and Production Engineering resources.","defaultBranch":"master","topics":["site-reliability-engineering","production","availability","monitoring","post-mortem","reliability-engineering","capacity-planning","service-level-agreement","scalability","reliability"],"readmeSha":"2893b9873822e24865082cf3db5d3daf4b519d2b"},
+"members": [
+"sindresorhus/awesome",
+"devopsenterprise/2018-London",
+"dastergon/awesome-chaos-engineering",
+"alicegoldfuss/oncall-handbook",
+"SkeltonThatcher/run-book-template",
+"preed/incident-lifecycle-model",
+"danluu/post-mortems",
+"hjacobs/kubernetes-failure-stories",
+"dastergon/postmortem-templates",
+"open-guides/og-aws",
+"SquadcastHub/awesome-sre-tools",
+"ligurio/awesome-ci",
+"shibumi/SRE-cheat-sheet"
+]
+}

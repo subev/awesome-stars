@@ -2,13 +2,20 @@ import { createRequestHandler } from "@react-router/express";
 import express from "express";
 import "react-router";
 
-import { fetchReadme, fetchStarsWithProgress } from "~/lib/stars.server";
+import { fetchReadme } from "~/lib/stars.server";
+import { getRepoNames } from "~/lib/starsMarkdown";
 import {
-  toSnapshotRepos,
-  todayDate,
-  writeSnapshot,
-} from "~/lib/snapshots.server";
-import { buildStarsAsset } from "~/lib/starsAsset.server";
+  createBudgetTracker,
+  fetchRepos,
+} from "~/lib/graphql.server";
+import {
+  createRepoIndex,
+  readAllRepos,
+  readListIndex,
+  writeListIndex,
+} from "~/lib/repoIndex.server";
+import { loadHistory, mergeHistoryDate, todayDate } from "~/lib/history.server";
+import { buildIndexStarsAsset } from "~/lib/starsAsset.server";
 
 export const app = express();
 
@@ -21,12 +28,21 @@ app.get("/stars/:owner/:file", async (req, res) => {
     res.status(404).end();
     return;
   }
-  const asset = await buildStarsAsset(owner, file.slice(0, -5));
-  if (!asset) {
+  const wantsTrends = file.endsWith(".trends.json");
+  const name = file.slice(0, -(wantsTrends ? ".trends.json" : ".json").length);
+  const repos = await readAllRepos();
+  const built = await buildIndexStarsAsset(
+    owner,
+    name,
+    repos,
+    await loadHistory(repos),
+  );
+  const payload = wantsTrends ? built?.trends : built?.asset;
+  if (!payload) {
     res.status(404).end();
     return;
   }
-  res.json(asset);
+  res.json(payload);
 });
 
 // In-memory lock to prevent duplicate concurrent fetches
@@ -82,15 +98,14 @@ app.get("/api/stars/:owner/:repo", async (req, res) => {
 
     sendEvent("status", { message: "Extracting repository links..." });
 
-    const { cache } = await fetchStarsWithProgress(
-      readme,
-      GITHUB_TOKEN,
-      (progress) => {
-        sendEvent("progress", progress);
-      },
-    );
+    const members = getRepoNames(readme).map((r) => `${r.owner}/${r.repo}`);
+    const budget = createBudgetTracker({ maxPoints: 500, maxMinutes: 10 });
+    const { repos } = await fetchRepos(members, GITHUB_TOKEN!, budget, {
+      onProgress: (completed, total) =>
+        sendEvent("progress", { completed, total, current: "" }),
+    });
 
-    if (cache.size === 0) {
+    if (repos.size === 0) {
       const message =
         "All star fetches failed — GITHUB_TOKEN may be invalid or expired.";
       sendEvent("error", { message });
@@ -98,12 +113,34 @@ app.get("/api/stars/:owner/:repo", async (req, res) => {
       throw new Error(message);
     }
 
-    await writeSnapshot(
-      owner,
-      repo,
-      todayDate(),
-      toSnapshotRepos([...cache.values()]),
-    );
+    const index = createRepoIndex();
+    const observed: Record<string, number> = {};
+    const canonical: string[] = [];
+    for (const detail of repos.values()) {
+      await index.upsert(detail.nameWithOwner, [
+        detail.stargazerCount,
+        detail.owner.databaseId ?? 0,
+        detail.description ?? "",
+      ]);
+      observed[detail.nameWithOwner] = detail.stargazerCount;
+      canonical.push(detail.nameWithOwner);
+    }
+    await index.flush();
+    await mergeHistoryDate(todayDate(), observed);
+    // Keep whatever the crawler already recorded; on-demand fetches only know
+    // the membership.
+    const existing = await readListIndex(owner, repo);
+    await writeListIndex(owner, repo, {
+      ...existing,
+      meta: existing?.meta ?? {
+        description: "",
+        defaultBranch: "",
+        topics: [],
+        readmeSha: "",
+      },
+      members: canonical,
+    });
+
     sendEvent("done", {});
     res.end();
   })();

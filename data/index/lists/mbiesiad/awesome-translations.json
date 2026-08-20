@@ -1,0 +1,27 @@
+{
+"meta": {"description":"😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍","defaultBranch":"main","topics":["awesome","awesome-list","t9n","localization","locale","i18n","l10n","g11n","m17n","hacktoberfest"],"readmeSha":"517139fd1ee1d473a496a16853dd13f4d47a425a"},
+"members": [
+"niedev/awesome-translations",
+"alexture/awesome-translations",
+"nickprotop/LocalizationManager",
+"ever-co/ever-traduora",
+"niedev/RTranslator",
+"crow-translate/crow-translate",
+"CopyTranslator/CopyTranslator",
+"LibreTranslate/LibreTranslate",
+"argosopentech/argos-translate",
+"nidhaloff/deep-translator",
+"UlionTse/translators",
+"lokalise/i18n-ally",
+"translate/translate",
+"untra/polyglot",
+"sphinx-doc/sphinx-intl",
+"maximbilan/SwiftGoogleTranslate",
+"fkirc/attranslate",
+"translate/pootle",
+"globalizejs/globalize",
+"simplelocalize/simplelocalize-cli",
+"openlanguagedata/awesome-new-languages-in-machine-translation",
+"GILT-Forum/Globalization-Strategy-Playbook"
+]
+}

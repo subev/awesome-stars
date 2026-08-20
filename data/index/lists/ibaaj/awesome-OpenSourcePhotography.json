@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A list of awesome free open source software & libraries for photography. Also tools for video.","defaultBranch":"master","topics":[],"readmeSha":"20c60f439bc6ed46787e662f7384c3e8d15bbf80"},
+"members": [
+"sindresorhus/awesome",
+"aferrero2707/PhotoFlow",
+"KonradIT/autoexechack",
+"PJanisio/Xiaomi_Yi_autoexec",
+"gphoto/libgphoto2",
+"diederickh/ofxCanon",
+"kritzikratzi/edsdk4j",
+"kschzt/gopro",
+"DenisCarriere/gopro",
+"joshvillbrandt/goprohero",
+"r1pper/GoPro.Hero",
+"storborg/sonypy",
+"ThibaudM/timelapse-sony",
+"michaelzoech/remoteyourcam-usb",
+"dukus/digiCamControl",
+"rawstudio/rawstudio",
+"LuminanceHDR/LuminanceHDR",
+"SimpleMobileTools/Simple-Gallery",
+"UnevenSoftware/LeafPic",
+"k3b/APhotoManager",
+"Exiv2/exiv2",
+"TheGreyDiamond/open360viewer",
+"MrKepzie/Natron",
+"buttleofx/ButtleOFX",
+"mltframework/shotcut",
+"tuttleofx/TuttleOFX",
+"georgmartius/vid.stab",
+"dyne/frei0r"
+]
+}

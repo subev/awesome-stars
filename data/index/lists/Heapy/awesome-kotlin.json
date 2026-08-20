@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of awesome Kotlin related stuff Inspired by awesome-java. ","defaultBranch":"main","topics":["kotlin-language","kotlin","kotlin-android","kotlin-extensions","kotlin-library","hacktoberfest"],"readmeSha":"3657c5222c2a59087d5df7e0ae2502c10c6985cc"},
+"members": [
+"sindresorhus/awesome"
+]
+}

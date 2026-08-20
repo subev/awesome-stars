@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated list of awesome projects related to cilium","defaultBranch":"main","topics":["awesome","awesome-list","cilium","ebpf"],"readmeSha":"0e681bd9ebdfe6cc95468ce228e223ad4bb19a64"},
+"members": [
+"sindresorhus/awesome",
+"littlejo/cilium-eks-cookbook",
+"isovalent/CCA-Study-Guide",
+"cilium/cilium",
+"cilium/ebpf",
+"cilium/proxy",
+"cilium/hubble",
+"cilium/tetragon",
+"cilium/hubble-otel",
+"cilium/pwru",
+"coroot/coroot",
+"pixie-io/pixie",
+"groundcover-com/caretta",
+"cosmonic-labs/netreap",
+"lizrice/learning-ebpf",
+"xinity/k0s_cilium_playground",
+"accuknox/cilium-spire-tutorials",
+"kubearmor/policy-templates",
+"adobeSlash/cilium-kyverno"
+]
+}

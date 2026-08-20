@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of cryptography papers, articles, tutorials and howtos.","defaultBranch":"master","topics":["cryptography","applied-cryptography","awesome-list","awesome-lists","howto","awesome"],"readmeSha":"0367937537e9af81367fa06ad2c3900e99a55a9f"},
+"members": [
+"sindresorhus/awesome",
+"arup24mondal/Crypto-Research",
+"manjunath5496/Shafi-Goldwasser-Publications"
+]
+}

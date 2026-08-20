@@ -1,0 +1,16 @@
+{
+"meta": {"description":" All that you need to create a great mobile web experience","defaultBranch":"master","topics":["awesome","awesome-list","mobile-web","best-practices","web-performance"],"readmeSha":"1f5e1ab7bdb9f9e8366f1ac98865a058d0338393"},
+"members": [
+"pazguille/offline-first",
+"GoogleChrome/lighthouse",
+"liriliri/eruda",
+"taye/interact.js",
+"ftlabs/fastclick",
+"ApoorvSaxena/lozad.js",
+"react-dates/react-dates",
+"rikschennink/shiny",
+"Mango/slideout",
+"nolimits4web/swiper",
+"google/web-starter-kit"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base","defaultBranch":"main","topics":["mcp","data-sources","ai","awesome-list","datasets","fact-checking","knowledge-base","llm","model-context-protocol","open-data"],"readmeSha":"1ebfafddc549a432d0b77674f5d49a0f05d7ca4c"},
+"members": [
+"google-gemini/gemini-cli",
+"openai/codex"
+]
+}

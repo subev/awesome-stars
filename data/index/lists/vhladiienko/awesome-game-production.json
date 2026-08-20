@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome resources, related to game production process: books, articles, tools, project management stuff etc.","defaultBranch":"main","topics":["gamedev","production","project-management","awesome","awesome-list","game-development"],"readmeSha":"58529a4db69fcd56e5ea58105d4815daf7477681"},
+"members": [
+"sindresorhus/awesome",
+"excalidraw/excalidraw",
+"lipis/flag-icons"
+]
+}

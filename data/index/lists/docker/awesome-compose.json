@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Awesome Docker Compose samples","defaultBranch":"master","topics":["awesome-list","awesome","docker-compose"],"readmeSha":"4711791fbbec123acbb74fdd1a5c9764bdce0d0b"},
+"members": [
+"docker/compose"
+]
+}

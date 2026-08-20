@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A community-curated list of awesome open companies.","defaultBranch":"master","topics":[],"readmeSha":"fb2259f14acc857269d31339da37aff72f8b8a8c"},
+"members": [
+"sindresorhus/awesome",
+"arduino/Arduino",
+"axem-solutions/dem",
+"docpad/docpad",
+"codecombat/codecombat",
+"daytonaio/daytona",
+"documenso/documenso",
+"gratipay/finances",
+"Growstuff/growstuff",
+"neocities/neocities",
+"teamniteo/handbook",
+"ProtonMail/WebClients",
+"openpgpjs/openpgpjs",
+"readthedocs/readthedocs.org",
+"getsentry/sentry",
+"tessel/project",
+"wemake-services/meta",
+"watermelontools/watermelon",
+"paulhendricks/awesome-open"
+]
+}

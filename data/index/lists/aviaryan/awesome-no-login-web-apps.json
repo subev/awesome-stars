@@ -1,0 +1,7 @@
+{
+"meta": {"description":"🚀 Awesome (free) web apps that work without login","defaultBranch":"master","topics":["awesome","awesomeness","list","web-app","awesome-list","application","applications","portableapps","no-login","no-login-web-apps"],"readmeSha":"5f95dddf011c459ce1eb5dd206af1c1a477d3b48"},
+"members": [
+"sindresorhus/awesome",
+"anshumanv/ongaku-desktop"
+]
+}

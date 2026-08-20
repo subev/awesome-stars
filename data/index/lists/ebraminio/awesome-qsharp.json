@@ -1,0 +1,23 @@
+{
+"meta": {"description":"A curated list of Q# code and resources.","defaultBranch":"main","topics":["awesome","awesome-list","q-sharp","qsharp","quantum-computing","quantum-programming"],"readmeSha":"611682b2bda563411c8619c21e35527158807df0"},
+"members": [
+"microsoft/Quantum",
+"microsoft/QuantumLibraries",
+"microsoft/Quantum-NC",
+"microsoft/QuantumKatas",
+"microsoft/GHC18-IntroToQuantumComputing",
+"microsoft/MLADS2018-QuantumML",
+"microsoft/MLADS2020-QuantumClassification",
+"RobertDurfee/QSharpCodingChallenge",
+"hkurokawa/QSharpCodingContest2018",
+"hajifkd/qsharp-vscode",
+"rzrn/emacs-qsharp-mode",
+"gootorov/q-sharp.vim",
+"Djohnnie/QuantumComputingQSharpIntroduction2018",
+"Michaelvll/myQShor",
+"jwulf/HGate",
+"pktippa/q_sharp_bell_state",
+"weize07/Qsharp-playgroud",
+"mapmeld/quantum-peep"
+]
+}

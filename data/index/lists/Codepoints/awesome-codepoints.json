@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Awesome Code Points","defaultBranch":"master","topics":[],"readmeSha":"bcc4f90a59e4a9aeff57485a3f2bad754fb85c2c"},
+"members": [
+"sindresorhus/awesome",
+"ehmicky/cross-platform-terminal-characters"
+]
+}

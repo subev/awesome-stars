@@ -1,0 +1,28 @@
+{
+"meta": {"description":"🖥 Delightful Hyper plugins, themes, and resources","defaultBranch":"master","topics":["hyper","hyperterm","zeit","terminal","awesome","awesome-list"],"readmeSha":"f2be45955d8a3ab88778e466c47889f020010d77"},
+"members": [
+"sindresorhus/awesome",
+"sindresorhus/awesome-nodejs",
+"sindresorhus/awesome-npm",
+"dylanaraps/wal",
+"mbadolato/iTerm2-Color-Schemes",
+"IBM-Design/colors",
+"patrickemuller/Sublime-Darkmatter-Theme",
+"primer/github-vscode-theme",
+"morhetz/gruvbox",
+"w0ng/vim-hybrid",
+"carloscuesta/materialshell",
+"fxn/vim-monochrome",
+"taniarascia/new-moon",
+"atom/one-light-syntax",
+"NLKNguyen/papercolor-theme",
+"atom/one-dark-syntax",
+"jolaleye/horizon-theme-vscode",
+"chriskempson/vim-tomorrow-theme",
+"nanotech/jellybeans.vim",
+"altercation/vim-colors-solarized",
+"voronianski/oceanic-next-color-scheme",
+"Swordfish90/cool-retro-term",
+"xero/sourcerer"
+]
+}

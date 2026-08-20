@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.","defaultBranch":"main","topics":["awesome-list","progressive-enhancement","feature-detection","support-tables","examples","awesome","list","open-source"],"readmeSha":"8be41c87fbedd5b68fbeb0215d7007d2b58c7e06"},
+"members": [
+"sindresorhus/awesome",
+"bramstein/stateofwebtype",
+"mdn/browser-compat-data",
+"scottjehl/Device-Bugs",
+"SeleniumHQ/selenium",
+"GoogleChrome/lighthouse",
+"filamentgroup/jQuery-Slider",
+"ghengeveld/react-isomorphic-form",
+"tvler/lazy-progressive-enhancement",
+"miguel-perez/smoothState.js",
+"defunkt/jquery-pjax",
+"MoOx/pjax",
+"turbolinks/turbolinks"
+]
+}

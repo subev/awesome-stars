@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of algorithms and papers for auditing black-box algorithms.","defaultBranch":"main","topics":["audit","blackbox","algorithms","reverse-engineering","inference","awesome","awesome-list"],"readmeSha":"e4dad6716d6c040568a1e6c6934382e147ef3995"},
+"members": [
+"bchugg/auditing-fairness",
+"gesiscss/WebBot",
+"erwanlemerrer/bouncer_problem",
+"thisisalirah/GeoDA",
+"erwanlemerrer/erwanlemerrer.github.io",
+"gdamaskinos/RecRank",
+"dunky11/adversarial-frontier-stitching",
+"coallaoh/WhitenBlackBox",
+"jeiks/Stealing_DL_Models",
+"ftramer/Steal-ML",
+"marcotcr/lime-experiments",
+"tsabsch/goldeneye"
+]
+}

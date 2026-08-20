@@ -1,0 +1,14 @@
+{
+"meta": {"description":"List of CHIP-8 resources","defaultBranch":"main","topics":["awesome","awesome-list","chip8","chip-8","chip","retrocomputing","cosmac-vip","octo","cosmac-elf","emulator"],"readmeSha":"f3917efd3f1922ffb12f7a4b62a26e368e459d7d"},
+"members": [
+"mattmikolay/chip-8",
+"Chromatophore/HP48-Superchip",
+"corax89/chip8-test-rom",
+"Timendus/chip8-test-suite",
+"Ersanio/Super-Chip8x",
+"pwmarcz/fpga-chip8",
+"wernsey/chip8",
+"jdeeny/octofont",
+"jdeeny/chip8-multiply"
+]
+}

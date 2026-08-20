@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Curated list of all things public domain.","defaultBranch":"master","topics":["cc0","uncopyright","public-domain","awesome-list","unlicense","freedom","awesome"],"readmeSha":"41a963ee2df57089030ebaf05b6107ef491fa8f9"},
+"members": [
+"sindresorhus/awesome",
+"mawww/kakoune",
+"r-lyeh/single_file_libs"
+]
+}

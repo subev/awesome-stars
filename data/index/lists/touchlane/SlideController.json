@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount. ","defaultBranch":"master","topics":["swift","cocoapods","ios","library","uipageviewcontroller","uiscrollview","awesome"],"readmeSha":"f94c1ebb36fef4dedc4982656872895470b581d3"},
+"members": [
+"CocoaPods/Specs"
+]
+}

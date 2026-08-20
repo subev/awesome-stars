@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Awesome list of resources for reducing the potential negative effects of technology on society, primarily focussed on what tech workers themselves can do.","defaultBranch":"main","topics":["awesome","awesome-list","ethics-in-technology"],"readmeSha":"a9aee94c7f76a89ba43bebe59324c7a40efeeda7"},
+"members": [
+"brunopulis/awesome-a11y",
+"folkswhocode/awesome-diversity",
+"Green-Software-Foundation/awesome-green-software",
+"thisisisa/awesome-permacomputing",
+"TechforgoodCAST/awesome-techforgood"
+]
+}

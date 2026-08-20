@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of awesome Adafruit IO guides, videos, libraries, frameworks, software and resources. ","defaultBranch":"master","topics":["awesome-list","awesome","iot","mqtt","arduino","python","adafruit"],"readmeSha":"966db9ffc720e0be080e2a40dc5ec9bb08b8a46e"},
+"members": [
+"adafruit/Adafruit_IO_Arduino",
+"adafruit/Adafruit_CircuitPython_AdafruitIO",
+"adafruit/Adafruit_IO_Python",
+"adafruit/io-client-ruby",
+"adafruit/adafruit-io-node",
+"adafruit/io-client-go"
+]
+}

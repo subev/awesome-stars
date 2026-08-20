@@ -1,0 +1,13 @@
+{
+"meta": {"description":"🎬 A curated list of movies every hacker & cyberpunk must watch.","defaultBranch":"master","topics":["hacking","movies","curated-list","collection","sexy-lists","awesome","awesome-list","list"],"readmeSha":"9b346242e5765ddd25aa8a3aa0f83cc6782091fb"},
+"members": [
+"sindresorhus/awesome",
+"carpedm20/awesome-hacking",
+"sbilly/awesome-security",
+"PaulSec/awesome-sec-talks",
+"watson/awesome-computer-history",
+"k4m4/terminals-are-sexy",
+"danielmiessler/SecLists",
+"zbetcheckin/Security_list"
+]
+}

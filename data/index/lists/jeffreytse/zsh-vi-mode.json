@@ -1,0 +1,17 @@
+{
+"meta": {"description":"💻 A better and friendly vi(vim) mode plugin for ZSH.","defaultBranch":"master","topics":["zsh","zsh-plugin","awesome","oh-my-zsh","shell-scripts","zsh-plugins","vi-keybinds","vim","terminal","shell"],"readmeSha":"ec40387167dae3b4cebb60541ee98d245f0ce32c"},
+"members": [
+"jeffreytse/grimoire",
+"zsh-users/antigen",
+"zplug/zplug",
+"tarjoilija/zgen",
+"zdharma-continuum/zinit",
+"ohmyzsh/ohmyzsh",
+"zap-zsh/zap",
+"zimfw/zimfw",
+"NixOS/nixpkgs",
+"ohmyzsh/ohmyzsh",
+"tpope/vim-surround",
+"machakann/vim-sandwich"
+]
+}

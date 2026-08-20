@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Useful resources for Silverstripe CMS and framework","defaultBranch":"main","topics":["awesome","awesome-list","silverstripe","php","hacktoberfest"],"readmeSha":"cda79723883b03ee9700f297f5cc6e0918048ea5"},
+"members": [
+"jonom/silverstripe-tinytidy",
+"silverstripe/silverstripe-multiuser-editing-alert",
+"tractorcow-farm/silverstripe-fluent",
+"bratiask/silverstripe-autotranslate",
+"Dean-Forest-Tech/silverstripe-searchable",
+"g4b0/silverstripe-searchable-dataobjects",
+"silverstripe/silverstripe-fulltextsearch",
+"Firesphere/silverstripe-solr-search",
+"lekoala/silverstripe-debugbar",
+"silverleague/silverstripe-ideannotator",
+"silverstripe/silverstripe-populate",
+"unclecheese/silverstripe-mock-dataobjects",
+"axllent/silverstripe-version-truncator",
+"sheadawson/silverstripe-userswitcher",
+"dhensby/silverstripe-masquerade",
+"HelloBetterLTD/markdownfield",
+"nathancox/silverstripe-codeeditorfield",
+"silverstripe/sspak",
+"Firesphere/silverstripe-sspy",
+"northcreation-agency/silverstripe-php-web-storm-live-templates",
+"laravel/homestead",
+"Zauberfisch/vagrant-boxes"
+]
+}

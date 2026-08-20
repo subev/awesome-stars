@@ -1,0 +1,21 @@
+{
+"meta": {"description":"List of Golang books","defaultBranch":"master","topics":["go","book","awesome-list","golang","awesome","list","books","gobooks","awesome-go","awesome-golang"],"readmeSha":"2bc86e407bdf0e3b62f6c730c3c9f69ae1ae5dc6"},
+"members": [
+"sindresorhus/awesome",
+"quii/learn-go-with-tests",
+"bitfield/love",
+"pazams/go-for-javascript-developers",
+"miekg/learninggo",
+"volodymyrprokopyuk/go-blockchain",
+"ThreeDotsLabs/wild-workouts-go-ddd-example",
+"thewhitetulip/web-dev-golang-anti-textbook",
+"juanmanuel-tirado/savetheworldwithgo",
+"golang/go",
+"tuxerrante/go_exercises",
+"devtoolsd/DevBooks",
+"minouou/JSBooks",
+"sara8086/PostgresBooks",
+"lara-west/PythonBooks",
+"mahseema/aibooks"
+]
+}

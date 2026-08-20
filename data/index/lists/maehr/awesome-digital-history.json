@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Find primary sources online and learn how to research history digitally.","defaultBranch":"main","topics":["digital-history","history","historian","awesome","awesome-list","dh","digital-humanities","historical-sciences","humanities","archives"],"readmeSha":"71e11692ab63aaa2fc0edc2e9dca2516584b5d17"},
+"members": [
+"watson/awesome-computer-history",
+"hal9ai/awesome-dataviz",
+"emptymalei/awesome-research",
+"writing-resources/awesome-scientific-writing"
+]
+}

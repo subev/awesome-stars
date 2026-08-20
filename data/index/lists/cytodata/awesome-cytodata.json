@@ -1,0 +1,14 @@
+{
+"meta": {"description":"A curated list of awesome cytodata resources","defaultBranch":"master","topics":["awesome-list","awesome","image-analysis","morphology","cellprofiler","machine-learning"],"readmeSha":"676425ef154b0e84561c4fd665a761229f20fae4"},
+"members": [
+"CellProfiling/HPA-competition",
+"carpenter-singh-lab/2022_Haghighi_NatureMethods",
+"carpenterlab/2016_Bray_NatureProtocols",
+"broadinstitute/cell-health",
+"cytomining/cytominer",
+"aoles/EBImage",
+"menchelab/BioProfiling.jl",
+"cytomining/pycytominer",
+"BodenmillerGroup/histoCAT"
+]
+}

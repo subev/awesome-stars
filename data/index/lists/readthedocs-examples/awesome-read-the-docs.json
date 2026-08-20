@@ -1,0 +1,7 @@
+{
+"meta": {"description":" A curated list of awesome Read the Docs projects","defaultBranch":"main","topics":["awesome","awesome-list","documentation","read-the-docs"],"readmeSha":"c7917f8a4a2007f99ca7949d493a712bc0d34f9a"},
+"members": [
+"crate/crate-docs-theme",
+"aiidateam/aiida-qe-demo"
+]
+}

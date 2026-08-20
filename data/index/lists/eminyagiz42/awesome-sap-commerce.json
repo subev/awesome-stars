@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of delightful SAP Commerce resources.","defaultBranch":"main","topics":["hybris","sap-commerce","awesome","awesome-list","sap-commerce-cloud","sap-hybris"],"readmeSha":"c68173380da025239c6be3ca16c35d1be4ee52b7"},
+"members": [
+"SAP/SapMachine",
+"SAP/commerce-gradle-plugin",
+"SAP/spartacus",
+"avrilfanomar/flexiblesearchbuilder",
+"sergaks/y-scripts",
+"sindresorhus/awesome-lint"
+]
+}

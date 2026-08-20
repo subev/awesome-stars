@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of awesome places to learn and/or practice algorithms.","defaultBranch":"master","topics":[],"readmeSha":"f9eed5aad5bc0f056fb6a3ad32b459bbc5b6cc73"},
+"members": [
+"bayandin/awesome-awesomeness",
+"tsiege/Tech-Interview-Cheat-Sheet",
+"teivah/algodeck",
+"mostafatouny/awesome-theoretical-computer-science",
+"rossant/awesome-math"
+]
+}

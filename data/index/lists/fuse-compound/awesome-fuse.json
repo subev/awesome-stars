@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of awesome Fuse applications, articles, and plugins","defaultBranch":"master","topics":["awesome","fuse","norway"],"readmeSha":"5a9a3a6e8f237d6910fcc4da94e7281ba37e69a3"},
+"members": [
+"sindresorhus/awesome",
+"fusetools/FuseCloud",
+"fuse-open/fuse-samples",
+"englekk/TourDeFuse",
+"jeroensmeets/11t",
+"jveres/D500px",
+"fuse-compound/Fuse.Firebase",
+"sanderdan/FormulaFuse",
+"mokko-labs/fuse-input-validation",
+"bolav/fusepm",
+"franzsilva/FusePokeDex",
+"LuisRodriguezLD/Fuse-RequestReview",
+"LuisRodriguezLD/Fuse-TapticFeedback",
+"kingwill101/fuse.QrScanner",
+"LuisRodriguezLD/Fuse-Tags-with-Firebase",
+"elsassph/fusetools-haxe",
+"fuse-open/hikr",
+"AlexGustafsson/fuse-motion",
+"Syncano/syncano-fuse-example",
+"englekk/Fusetools_UnityAdsSample",
+"fuse-open/atom-plugin",
+"fuse-open/bash-completion",
+"kristianhasselknippe/fuse-mode",
+"fuse-open/sublime-plugin",
+"Nebu1eto/vscode-fuse",
+"bstrr/vscode-fuse-log"
+]
+}

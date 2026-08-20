@@ -1,0 +1,31 @@
+{
+"meta": {"description":"🍎 🖥 🎆 A curated list of screensavers for Mac OS X","defaultBranch":"master","topics":["awesome-list","awesome","list","screensavers"],"readmeSha":"ae070980f25adac5a16ccce1b785c1d7f68920e8"},
+"members": [
+"sindresorhus/awesome",
+"chrstphrknwtn/epoch-flip-clock-screensaver",
+"chrstphrknwtn/grid-clock-screensaver",
+"chrstphrknwtn/word-clock-screensaver",
+"Wandmalfarbe/Simple-Clock-Screensaver",
+"edwardloveall/ColorClockSaver",
+"dado3212/ScreenMazer",
+"Wandmalfarbe/evangelion-clock-screensaver",
+"vpeschenkov/Predator",
+"mcvnh/DeathCounter",
+"mattiarossini/MinimalClock",
+"amiantos/multiclock",
+"JohnCoates/Aerial",
+"pedrommcarrasco/Brooklyn",
+"Ventuss-OvO/start-now-saver",
+"obrhoff/MusaicFM",
+"lekevicius/october30",
+"Corkscrews/fruit",
+"nemesit/SwiftBubble",
+"winterbe/github-matrix-screensaver",
+"monroewilliams/MatrixDownload",
+"orta/SpeedS-ver",
+"DK1DA/DeveloperExcuses",
+"dessibelle/Blue-Screen-Saver",
+"orderedlist/octoscreen",
+"hauxir/macos-live-screensaver"
+]
+}

@@ -1,0 +1,24 @@
+{
+"meta": {"description":":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.","defaultBranch":"master","topics":["browserify","awesome","list","awesome-list","meta"],"readmeSha":"e79a4411714ead01404bbdd2933466268a2a2277"},
+"members": [
+"sindresorhus/awesome",
+"browserify/browserify",
+"browserify/browserify-handbook",
+"workshopper/browserify-adventure",
+"mattdesl/budo",
+"chrisdickinson/beefy",
+"max-mapper/wzrd",
+"Macil/browserify-hmr",
+"browserify/watchify",
+"royriojas/persistify",
+"stackcss/sheetify",
+"rotundasoftware/parcelify",
+"css-modules/css-modulesify",
+"babel/babelify",
+"benbria/aliasify",
+"browserify/brfs",
+"browserify/stream-browserify",
+"feross/buffer",
+"choojs/bankai"
+]
+}

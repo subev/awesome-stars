@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A list of resources for marionette.js","defaultBranch":"master","topics":[],"readmeSha":"d123739ce7c082f28af867a11ff8da429fafda04"},
+"members": [
+"sindresorhus/awesome",
+"marionettejs/backbone.marionette",
+"marionettejs/marionette.inspector",
+"mrichard/generator-marionette",
+"denar90/marionette-cli",
+"BoilerplateMVC/Marionette-Require-Boilerplate",
+"dmytroyarmak/marionette-contact-manager",
+"jroeckle/Marionette-Require-Gulpjs-Boilerplate",
+"ajaxray/marionette-boilerplate",
+"davidsulc/marionette-gentle-introduction",
+"jamiebuilds/marionette-wires",
+"MarionetteLabs/marionette-cookbook",
+"denar90/brunch-with-marionettejs",
+"jamesplease/gistbook",
+"samccone/edit.sx-frontend",
+"MeoMix/StreamusChromeExtension",
+"marionettejs/marionette-integrations",
+"abiee/es6-marionette",
+"tastejs/todomvc",
+"alexpsi/webpack-marionette",
+"Squareknot/marionette.state",
+"themindfuldev/marionette-vdom",
+"viverae/marionette.formview",
+"Betterment/backbone.blazer",
+"RoundingWellOS/marionette.toolkit"
+]
+}

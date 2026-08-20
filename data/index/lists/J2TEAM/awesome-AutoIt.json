@@ -1,0 +1,22 @@
+{
+"meta": {"description":":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.","defaultBranch":"master","topics":["autoit","programming-language","scripting-language","autoit-script","udf","awesome-list","awesome","list"],"readmeSha":"3a3736e12343e2e8e87d8369c351788c13d2e31b"},
+"members": [
+"sindresorhus/awesome",
+"htejera/AutoItMonkey",
+"QuentinLemCode/AutoIt-3270",
+"J2TEAM/AutoIt-Imgur-UDF",
+"TheDcoder/Experimental-Maps-UDF",
+"AutoItMicro/AutoItAppveyor",
+"AutoItMicro/MicroUnitTestingFramework",
+"QuentinLemCode/AutoIt-Logger",
+"loganch/AutoIt-VSCode",
+"bradoyler/awesome-all",
+"emijrp/awesome-awesome",
+"erichs/awesome-awesome",
+"oyvindrobertsen/awesome-awesome",
+"bayandin/awesome-awesomeness",
+"fleveque/awesome-awesomes",
+"flyhigher139/awesome-collection",
+"jnv/lists"
+]
+}

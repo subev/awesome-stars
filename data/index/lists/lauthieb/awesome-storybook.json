@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of awesome resources about @storybookjs ecosystem 🎨","defaultBranch":"main","topics":["awesome","storybook","awesome-list"],"readmeSha":"b5abc8a101262546cf4a48580b33cc3b94982c1a"},
+"members": [
+"storybookjs/brand",
+"xavierlefevre/shared-react-components-example"
+]
+}

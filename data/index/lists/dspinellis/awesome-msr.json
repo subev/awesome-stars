@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated repository of software engineering repository mining data sets","defaultBranch":"master","topics":["msr","dataset","ghtorrent","mining","awesome","awesome-list"],"readmeSha":"65ae553a5e5db4ca799a8c33b8bfe936e48fb01e"},
+"members": [
+"sindresorhus/awesome",
+"Derek-Jones/ESEUR-code-data",
+"rjust/defects4j",
+"istlab/maven_bug_catalog",
+"cscout-project/cscout-engine",
+"bkarak/data_msr2015",
+"jxshin/mzdata",
+"AuthEceSoftEng/msr-2018-npm-miner",
+"tue-mdse/ocl-dataset",
+"dspinellis/unix-history-repo",
+"JetBrains-Research/astminer",
+"JetBrains-Research/buckwheat",
+"SpoonLabs/coming",
+"rvantonder/CryptOSS",
+"tushartushar/DbDeo",
+"tushartushar/DesigniteJava",
+"jrfaller/diggit",
+"andrehora/gitevo",
+"diverse-project/maven-miner",
+"chaoss/grimoirelab-perceval",
+"tushartushar/Puppeteer",
+"ishepard/pydriller",
+"dspinellis/cqmetrics",
+"RepoReapers/reaper",
+"tsantalis/RefactoringMiner",
+"electricalwind/data7"
+]
+}

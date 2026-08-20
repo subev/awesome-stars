@@ -1,0 +1,21 @@
+{
+"meta": {"description":"🕶️A curated list of awesome tools for dealing with CSV.","defaultBranch":"master","topics":["awesome","awesome-list","csv","csv-data","csv-json","csv-files","csv-standards","csv-utilities","csv-parser","csv-essays"],"readmeSha":"191771f252e2195ef3a20da21f150ec0475baa20"},
+"members": [
+"d3/d3-dsv",
+"dathere/qsv",
+"learnbyexample/Command-line-text-processing",
+"wiseio/paratext",
+"mcastorina/graph-cli",
+"kentcb/KBCsv",
+"archiecobbs/csvprintf",
+"mechatroner/rainbow_csv",
+"microsoft/vscode-data-wrangler",
+"Clever/csvlint",
+"faradayio/scrubcsv",
+"dfinke/PSKit",
+"vividvilla/csvtotable",
+"awesomedata/awesome-public-datasets",
+"csvy/csvy.github.io",
+"dbohdan/structured-text-tools"
+]
+}

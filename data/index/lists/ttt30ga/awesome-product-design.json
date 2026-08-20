@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of bookmarks, resources, articles for product designers.","defaultBranch":"main","topics":["design","product-design","ui","ux","design-resource","tools","list","bookmark","font","article"],"readmeSha":"1d39fb474f794d997308585e39aeb318d1ed3c04"},
+"members": [
+"alexpate/awesome-design-systems",
+"diessica/awesome-sketch",
+"fliptheweb/motion-ui-design",
+"tategallery/collection"
+]
+}

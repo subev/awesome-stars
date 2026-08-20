@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Manually curated collection of resources for frontend web developers.","defaultBranch":"master","topics":["frontend","awesome-list","awesome","list"],"readmeSha":"28a672c0d67a43aac8c822d6d0f642d2dae07e3c"},
+"members": [
+"sindresorhus/awesome"
+]
+}

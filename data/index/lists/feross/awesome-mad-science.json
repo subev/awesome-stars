@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Delightful npm packages that make you say \"wow, didn't know that was possible!\"","defaultBranch":"master","topics":["awesome","awesome-list","lstm","npm","javascript","nodejs","browser","browserify","mad-science"],"readmeSha":"5788ba42d1992a9a218a5622eb893c4f8bbf12e4"},
+"members": [
+"sindresorhus/awesome",
+"glslify/glslify",
+"DanielRapp/doppler",
+"mtttmpl/speak-js",
+"dthree/vantage",
+"dthree/cash",
+"fcambus/jsemu",
+"plasma-umass/doppio"
+]
+}

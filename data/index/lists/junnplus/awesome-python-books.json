@@ -1,0 +1,10 @@
+{
+"meta": {"description":":books: Directory of Python books","defaultBranch":"master","topics":["python-book","learning-python","book","python-cookbook","python-programming"],"readmeSha":"03c2584bd1aa41490909476bf8911b9644b80666"},
+"members": [
+"sindresorhus/awesome",
+"kyclark/tiny_python_projects",
+"PracticalDL/Practical-Deep-Learning-Book",
+"vinta/awesome-python",
+"humiaozuzu/awesome-flask"
+]
+}

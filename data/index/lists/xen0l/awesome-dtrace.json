@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome DTrace books, articles, videos, tools and resources.","defaultBranch":"master","topics":["dtrace","awesome-list","awesome","list"],"readmeSha":"02aa4081c383f7b645793ac2307fbbb5aa4c6db0"},
+"members": [
+"sindresorhus/awesome",
+"NanXiao/using-dtrace-stories",
+"chrisa/lua-usdt",
+"chrisa/node-dtrace-provider",
+"chrisa/perl-Devel-DTrace-Provider",
+"nshalman/python-usdt",
+"thekvn/ruby-usdt",
+"TritonDataCenter/mod_usdt",
+"brendangregg/FlameGraph",
+"TritonDataCenter/node-stackvis",
+"brendangregg/dtrace-cloud-tools",
+"TritonDataCenter/pgsqlstat",
+"TritonDataCenter/portsnoop",
+"richardelling/tools"
+]
+}

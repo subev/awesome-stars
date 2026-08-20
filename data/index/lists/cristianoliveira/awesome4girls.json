@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:","defaultBranch":"master","topics":["women-in-tech","women","girl","awesome","curated-list","rails-girls","django-girls","conference","events","learning"],"readmeSha":"9cac252165eaf00346812837661ecdc1c675c31a"},
+"members": [
+"sindresorhus/awesome",
+"Webschool-io/js4girls",
+"folkswhocode/awesome-diversity"
+]
+}

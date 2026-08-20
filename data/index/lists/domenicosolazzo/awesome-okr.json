@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list about OKR (Objective - Key Results)","defaultBranch":"master","topics":[],"readmeSha":"7c96cccc2211f9413e029cdbc6df98baccad7874"},
+"members": [
+"sindresorhus/awesome",
+"domenicosolazzo/awesome-okr",
+"BurningOKR/BurningOKR",
+"oxisto/okr2go"
+]
+}

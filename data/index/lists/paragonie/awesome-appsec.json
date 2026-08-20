@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of resources for learning about application security","defaultBranch":"master","topics":["security-experts","reading-list","curated","application-security","security","owasp"],"readmeSha":"1261c2445a89bb91bdbb7545bad2f2cc4bc4dc33"},
+"members": [
+"sindresorhus/awesome",
+"osirislab/Hack-Night",
+"OWASP/NodeGoat",
+"nubank/clj-owasp",
+"doyensec/awesome-electronjs-hacking",
+"defuse/php-encryption",
+"ircmaxell/password_compat",
+"ircmaxell/RandomLib",
+"thephpleague/oauth2-server",
+"paragonie/random_compat",
+"psecio/gatekeeper",
+"ebranca/owasp-pysec",
+"jrusnack/secure-ruby-development-guide"
+]
+}

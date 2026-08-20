@@ -1,0 +1,11 @@
+{
+"meta": {"description":"🎓 Path to a free self-taught education in Computer Science!","defaultBranch":"master","topics":["computer-science","awesome-list","courses","curriculum"],"readmeSha":"0cbd557ae8b40e927da5e9ce9c1815912fad8f80"},
+"members": [
+"sindresorhus/awesome",
+"spamegg1/Math-for-CS-solutions",
+"frevib/mit-cs-math-6042-fall-2010-problems",
+"ubccpsc/310",
+"LearnPrologNow/lpn",
+"ossu/code-of-conduct"
+]
+}

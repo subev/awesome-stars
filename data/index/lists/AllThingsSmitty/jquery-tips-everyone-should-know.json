@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of tips to help up your jQuery game 🎮","defaultBranch":"master","topics":["jquery","jquery-tips","protip","tips","tips-and-tricks","awesome","list","awesome-list","useful","learning-resources"],"readmeSha":"6152ca6ecd2cf94951b4eda6d7bef3a56f32eb05"},
+"members": [
+"sindresorhus/awesome",
+"jquery/api.jquery.com"
+]
+}

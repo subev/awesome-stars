@@ -1,0 +1,32 @@
+{
+"meta": {"description":":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.","defaultBranch":"master","topics":["awesome-list","cordova","phonegap","ionic","framework7","kendo-ui","onsen-ui","cordova-libraries"],"readmeSha":"3cb2bfb0a80a1634144ddc51d3bc8526a65ab38d"},
+"members": [
+"sindresorhus/awesome",
+"johnkmzhou/cordova-create-react-app",
+"Alexintosh/Awesome-Ionic",
+"Cap-go/awesome-ionic",
+"keshavos/generator-angularjs-cordova",
+"Jackong/generator-cordova-react",
+"busterc/generator-cordova-www",
+"mway-io/generator-m-ionic",
+"healthonnet/generator-onsenui-ngcordova",
+"emoriarty/generator-polymer-cordova",
+"zmeecer/generator-redux-react-cordova",
+"busterc/cordova-resource-generators",
+"AlexDisler/cordova-icon",
+"disusered/cordova-icon-gm",
+"AlexDisler/cordova-splash",
+"disusered/cordova-splash-gm",
+"lholmquist/generator-cordova-plugin",
+"blackberry/generator-cordova-plugin-bb10",
+"sony/generator-cordova-plugin-devbed",
+"busterc/profiles",
+"ripple-emulator/ripple",
+"dpa99c/cordova-custom-config",
+"mifi/cordova-xml",
+"alexshevch/cordova-auto-patch",
+"gabrielrobert/xavtool",
+"bugfender/cordova-plugin-bugfender",
+"bayandin/awesome-awesomeness"
+]
+}

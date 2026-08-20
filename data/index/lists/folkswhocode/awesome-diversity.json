@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A curated list of amazingly awesome articles, websites and resources about diversity in technology.","defaultBranch":"master","topics":["awesome-list","awesome","diversity","technology"],"readmeSha":"1691796123a1bc0bd48777eb8afc563cf93bad44"},
+"members": [
+"sindresorhus/awesome",
+"comunidad-tecnologica/comunidad-tecnologica.github.io",
+"1millionwomentotech/toolkitten",
+"GoodForPoC/GoodForPoC",
+"larahogan/ally-resources",
+"lnug/community",
+"sublimemarch/so-you-just-learned",
+"folkswhocode/base"
+]
+}

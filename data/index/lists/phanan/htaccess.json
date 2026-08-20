@@ -1,0 +1,7 @@
+{
+"meta": {"description":"✂A collection of useful .htaccess snippets.","defaultBranch":"master","topics":["apache","dev-ops","awesome","awesome-list","list","htaccess","snippets","htaccess-snippets"],"readmeSha":"edbe05aed3b97fddeca0a496b25fd56f46c74777"},
+"members": [
+"sindresorhus/awesome",
+"h5bp/server-configs-apache"
+]
+}

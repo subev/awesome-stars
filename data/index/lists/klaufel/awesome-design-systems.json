@@ -1,0 +1,18 @@
+{
+"meta": {"description":"📒 A curated list of bookmarks, resources and articles about design systems focused on developers.","defaultBranch":"main","topics":["design","design-systems","design-system","reusable-components","figma","digital-products","storybook","atomic-design","css","design-tokens"],"readmeSha":"e07e5af5946048f80928bcb87f004accad688981"},
+"members": [
+"alexpate/awesome-design-systems",
+"Eneryleen/ai-web-design-codex",
+"goabstract/Awesome-Design-Tools",
+"design-tokens/community-group",
+"MichaelZaporozhets/abstractconnect",
+"mikaelvesavuori/figmagic",
+"style-dictionary/style-dictionary",
+"salesforce-ux/theo",
+"sturobson/Awesome-Design-Tokens",
+"storybookjs/storybook",
+"storybook-eol/storybook-addon-console",
+"lauthieb/awesome-storybook",
+"storybookjs/design-system"
+]
+}

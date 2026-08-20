@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of resources for teaching kids programming. ","defaultBranch":"master","topics":["awesome-list","awesome","list","teach-kids","ipad"],"readmeSha":"d59f831e0de63446c35e25c52337ada44ff843d3"},
+"members": [
+"sindresorhus/awesome",
+"PythonTurtle/PythonTurtle"
+]
+}

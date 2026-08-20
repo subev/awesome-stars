@@ -1,0 +1,31 @@
+{
+"meta": {"description":"𝛌 Awesome Idris resources","defaultBranch":"master","topics":["idris","functional-programming","type-driven-development","haskell","awesome","awesome-list"],"readmeSha":"4900cc04b3758944165adb0b83325c9697eb7c10"},
+"members": [
+"sindresorhus/awesome",
+"idris-lang/Idris-dev",
+"idris-hackers/software-foundations",
+"puffnfresh/iridium",
+"ziman/lightyear",
+"timjb/quantities",
+"david-christiansen/idris-type-providers",
+"idris-hackers/IdrisScript",
+"jfdm/idris-containers",
+"david-christiansen/IdrisSqlite",
+"uwap/idris-http",
+"FranckS/RingIdris",
+"pheymann/specdris",
+"jfdm/idris-config",
+"fieldstrength/probability",
+"google/idris-protobuf",
+"idris-hackers/idris-free",
+"statebox/idris-ct",
+"typedefs/typedefs",
+"mmhelloworld/idris-jvm",
+"idris-hackers/idris-llvm",
+"lenary/idris-erlang",
+"stedolan/idris-malfunction",
+"idris-industry/ikan",
+"elba/elba",
+"idream-build/idream"
+]
+}

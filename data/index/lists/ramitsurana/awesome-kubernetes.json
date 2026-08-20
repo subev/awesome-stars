@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list for awesome kubernetes sources :ship::tada:","defaultBranch":"master","topics":["kubernetes","minikube","meetup","resource","kubernetes-sources","google-cloud","kubernetes-cluster","deploy-kubernetes","aws","enterprise-kubernetes-products"],"readmeSha":"a787e74f82d5d1a2dbb25f394416bc80cf8d1952"},
+"members": [
+"sindresorhus/awesome",
+"meteorhacks/meteorhacks.github.io",
+"eficode-academy/kubernetes-katas",
+"xiaopeng163/docker-k8s-lab"
+]
+}

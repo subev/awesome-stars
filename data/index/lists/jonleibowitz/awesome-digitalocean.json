@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin","defaultBranch":"master","topics":["digitalocean","awesome-list","awesome","cloud-computing","infrastructure","hacktoberfest"],"readmeSha":"fd8f569cc42ed060e2f3a3f2bee9c9d5cf988066"},
+"members": [
+"keithnoguchi/do-in-action",
+"netbox-community/netbox",
+"digitalocean/doctl",
+"digitalocean/go-libvirt",
+"digitalocean/go-qemu",
+"f/do-sshuttle",
+"qmx/drophosts",
+"tam7t/droplan",
+"theforeman/foreman-digitalocean",
+"shiva-hack/ghost-digitalocean",
+"jimmycuadra/lita-digitalocean",
+"progrium/hostpool",
+"skibish/ddns",
+"addpipe/Less-Confusing-Digital-Ocean-Menus",
+"NicholasPCole/dodc",
+"bjornjohansen/do-upgrade-plans",
+"andrewsomething/digitalocean-indicator",
+"terhechte/OceanBar",
+"petems/tugboat",
+"digitalocean/engineering-code-of-conduct",
+"digitalocean/do_user_scripts"
+]
+}

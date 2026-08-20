@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A collection of web typography resources","defaultBranch":"master","topics":["awesome","awesome-list","list"],"readmeSha":"975a9e1e51ace44af7086416ebc9cd68a4a95bd8"},
+"members": [
+"sindresorhus/awesome",
+"jkroso/flowtype",
+"kennethormandy/normalize-opentype.css",
+"alfredxing/brick",
+"forwardemail/custom-fonts-in-emails",
+"forwardemail/custom-fonts-in-emails"
+]
+}

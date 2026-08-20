@@ -1,0 +1,12 @@
+{
+"meta": {"description":"⚡Metrics to help understand page speed and user experience","defaultBranch":"master","topics":["perfmatters","web-performance","performance","metrics","awesome","awesome-list","page-speed"],"readmeSha":"603891918832d35fac2187d2e76044e6629ef196"},
+"members": [
+"GoogleChrome/web-vitals",
+"csabapalfi/awesome-pagespeed-metrics",
+"w3c/largest-contentful-paint",
+"WICG/layout-instability",
+"catchpoint/WebPageTest",
+"GoogleChromeLabs/first-input-delay",
+"patrickhulce/third-party-web"
+]
+}

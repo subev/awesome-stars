@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of awesome Hydrogen things.","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"3eed5e31b20d8f9b0dd31c8c3707eb04a0963219"},
+"members": [
+"sindresorhus/awesome",
+"Shopify/hydrogen",
+"Shopify/hydrogen-v1",
+"Shopify/gated-hydrogen-example",
+"algolia/shopify-hydrogen-algolia",
+"Crossing-Minds/hydrogen-demo-store",
+"DynamicYield/shopify-hydrogen-demo",
+"gorgias/hydrogen-demo",
+"Nosto/shopify-hydrogen-demo",
+"okendo/okendo-shopify-hydrogen-demo",
+"packdigital/pack-hydrogen-demo",
+"sanity-io/hydrogen-sanity-demo",
+"swym-archives/swym-hydrogen-store"
+]
+}

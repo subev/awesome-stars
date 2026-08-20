@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curate list about A11Y","defaultBranch":"main","topics":["accessibility","wai-aria","wcag","a11y","awesome-list","awesome","assistive-technology"],"readmeSha":"6cc0b4b620dde7d8a02a41789e8c0a6b37874f0e"},
+"members": [
+"willianjusten/awesome-svg",
+"obetomuniz/awesome-webcomponents",
+"afonsopacifer/awesome-flexbox"
+]
+}

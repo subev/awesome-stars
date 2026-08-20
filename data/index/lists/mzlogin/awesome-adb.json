@@ -1,0 +1,8 @@
+{
+"meta": {"description":"ADB Usage Complete / ADB 用法大全","defaultBranch":"master","topics":["android-adb","android-debug-bridge","android"],"readmeSha":"e75e599932b0bdbc6743cdfe72813675fadffc76"},
+"members": [
+"aosp-mirror/platform_frameworks_base",
+"senzhk/ADBKeyBoard",
+"facebookarchive/fb-adb"
+]
+}

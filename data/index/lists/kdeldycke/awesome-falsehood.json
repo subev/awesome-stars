@@ -1,0 +1,26 @@
+{
+"meta": {"description":"😱 Falsehoods Programmers Believe in","defaultBranch":"main","topics":["falsehoods","phone-number","geography","postal-addresses","identity","date","time","myths","edge-cases","internationalization"],"readmeSha":"16d018aa25bf5f7f7f8af3a9749b8025bb2b9f0b"},
+"members": [
+"sindresorhus/awesome",
+"globalcitizen/php-iban",
+"unicode-org/cldr",
+"commerceguys/tax",
+"theborakompanioni/bitcoin-spring-boot-starter",
+"dertuxmalwieder/libvldmail",
+"jagracey/Awesome-Unicode",
+"patch/i18n-testing",
+"minimaxir/big-list-of-naughty-strings",
+"google/libphonenumber",
+"twcclegg/libphonenumber-csharp",
+"iziz/libPhoneNumber-iOS",
+"daviddrysdale/python-phonenumbers",
+"giggsey/libphonenumber-for-php",
+"google/libaddressinput",
+"commerceguys/addressing",
+"scaleway/postal-address",
+"Boostport/address",
+"xenoterracide/falsehoods",
+"RoelN/Font-Falsehoods",
+"kdeldycke/kdeldycke"
+]
+}

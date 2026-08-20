@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.","defaultBranch":"master","topics":["awesome","awesome-list","gnome","applications","gnome-shell-extension"],"readmeSha":"558e13072334a7b8702088ce0942dbbca10eaeff"},
+"members": [
+"sindresorhus/awesome",
+"vmkspv/netsleuth",
+"qwersyk/Newelle",
+"manishprivet/dynamic-gnome-wallpapers",
+"tkashkin/Adwaita-for-Steam",
+"sidevesh/Luminance",
+"feschber/lan-mouse",
+"CleoMenezesJr/escambo",
+"somepaulo/MoreWaita",
+"Bonandry/adwaita-plus",
+"pop-os/icon-theme",
+"PapirusDevelopmentTeam/papirus-icon-theme",
+"keeferrourke/la-capitaine-icon-theme",
+"madmaxms/iconpack-obsidian",
+"numixproject/numix-icon-theme-circle",
+"numixproject/numix-icon-theme-square",
+"shimmerproject/elementary-xfce",
+"ful1e5/Bibata_Cursor",
+"keeferrourke/capitaine-cursors",
+"piousdeer/vscode-adwaita",
+"ricewind012/discord-gnome-theme",
+"rafaelmardojai/firefox-gnome-theme",
+"rafaelmardojai/thunderbird-gnome-theme",
+"birneee/obsidian-adwaita-theme",
+"valpackett/awesome-gtk"
+]
+}

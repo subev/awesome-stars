@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Typefaces for source code beautification","defaultBranch":"master","topics":["list","awesome-list","awesome","font","fonts","font-face","typeface","typefaces","otf","ttf"],"readmeSha":"51a97cdbe41035f64e0527a3c5d414ee60a03a89"},
+"members": [
+"sindresorhus/awesome",
+"source-foundry/font-line"
+]
+}

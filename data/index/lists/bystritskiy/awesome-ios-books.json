@@ -1,0 +1,8 @@
+{
+"meta": {"description":"📚 Directory of iOS books","defaultBranch":"master","topics":["awesome","awesome-list","ios-book","swift-book","learning","books","ios","swift"],"readmeSha":"2cca4b3314b3ebc10f6c32830f0a52843afdc0a8"},
+"members": [
+"sindresorhus/awesome",
+"vsouza/awesome-ios",
+"matteocrippa/awesome-swift"
+]
+}

@@ -1,0 +1,13 @@
+{
+"meta": {"description":":star: Useful resources for the Ledger command-line accounting system","defaultBranch":"main","topics":["awesome","ledger","accounting","plaintext","plaintext-accounting","budget-manager","awesome-list","list"],"readmeSha":"d962eee0e7cca5a49c57c843259224ad738d0937"},
+"members": [
+"wzyboy/awesome-beancount",
+"ledger/ledger",
+"rolfschr/GSWL-book",
+"ledger/vim-ledger",
+"mariosangiorgio/vscode-ledger",
+"Rudd-O/ledgerhelpers",
+"slashdotdash/node-ledger-web",
+"egh/ledger-autosync"
+]
+}

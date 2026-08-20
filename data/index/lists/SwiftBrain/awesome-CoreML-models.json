@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Collection of models for Core ML ","defaultBranch":"master","topics":["machine-learning","ios","ios11","coreml","model","ai","coreml-models","coreml-framework","coremltools","machine-learning-models"],"readmeSha":"3c2d2bcf765104b27e0fd7cfcefd3ce9f0a1b502"},
+"members": [
+"sindresorhus/awesome",
+"hollance/MobileNet-CoreML",
+"ph1ps/MNIST-CoreML",
+"ph1ps/Food101-CoreML",
+"cocoa-ai/SentimentCoreMLDemo",
+"imatge-upc/sentiment-2017-imavis",
+"cocoa-ai/SentimentVisionDemo",
+"cocoa-ai/FacesVisionDemo",
+"cocoa-ai/NamesCoreMLDemo",
+"cocoa-ai/FlowersVisionDemo",
+"cocoa-ai/StylesVisionDemo",
+"eugenebokhan/awesome-ml"
+]
+}

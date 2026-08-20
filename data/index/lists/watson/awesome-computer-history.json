@@ -1,0 +1,10 @@
+{
+"meta": {"description":"An Awesome List of computer history videos, documentaries and related folklore","defaultBranch":"master","topics":["awesome-list","awesome","list","history","computer-history","hackers","video","documentary"],"readmeSha":"c6b40903888a541e745c174e53e9b1be0d47802c"},
+"members": [
+"sindresorhus/awesome",
+"chrislgarry/Apollo-11",
+"mortdeus/solana-copy-sniper-mev-trading-bot",
+"dspinellis/unix-history-repo",
+"microsoft/MS-DOS"
+]
+}

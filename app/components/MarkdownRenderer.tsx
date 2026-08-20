@@ -122,12 +122,7 @@ function RewrittenLink(
               {children}
             </Link>
           ) : (
-            <a
-              href={href}
-              target="_blank"
-              rel="noopener noreferrer"
-              {...rest}
-            >
+            <a href={href} target="_blank" rel="noopener noreferrer" {...rest}>
               {children}
             </a>
           )}
@@ -141,6 +136,41 @@ function RewrittenLink(
     <a href={href} target="_blank" rel="noopener noreferrer" {...rest}>
       {children}
     </a>
+  );
+}
+
+export function ListHeader({
+  trendsHref,
+  onRefresh,
+}: {
+  trendsHref?: string;
+  onRefresh?: () => void;
+}) {
+  return (
+    <div className="mb-4 flex items-center justify-between">
+      <Link to="/" className="text-ink-dim hover:text-ink text-sm no-underline">
+        &larr; All lists
+      </Link>
+      <div className="flex items-center gap-4">
+        {onRefresh && (
+          <button
+            onClick={onRefresh}
+            className="text-accent text-sm font-medium hover:underline"
+            title="Refetch stars from GitHub and record a new snapshot"
+          >
+            ↻ Refresh stars
+          </button>
+        )}
+        {trendsHref && (
+          <Link
+            to={trendsHref}
+            className="text-accent text-sm font-medium no-underline hover:underline"
+          >
+            📈 Trends
+          </Link>
+        )}
+      </div>
+    </div>
   );
 }
 
@@ -165,37 +195,16 @@ export function MarkdownRenderer({
 
   return (
     <div className="prose prose-sm dark:prose-invert prose-a:text-accent prose-ul:marker:text-ink-dim max-w-none p-5">
-      <div className="mb-4 flex items-center justify-between">
-        <Link
-          to="/"
-          className="text-ink-dim hover:text-ink text-sm no-underline"
-        >
-          &larr; All lists
-        </Link>
-        <div className="flex items-center gap-4">
-          {onRefresh && (
-            <button
-              onClick={onRefresh}
-              className="text-accent text-sm font-medium hover:underline"
-              title="Refetch stars from GitHub and record a new snapshot"
-            >
-              ↻ Refresh stars
-            </button>
-          )}
-          {trendsHref && (
-            <Link
-              to={trendsHref}
-              className="text-accent text-sm font-medium no-underline hover:underline"
-            >
-              📈 Trends
-            </Link>
-          )}
-        </div>
-      </div>
+      <ListHeader trendsHref={trendsHref} onRefresh={onRefresh} />
       <h1 className="sr-only">{title}</h1>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw, rehypeSanitize, rehypeAutolinkHeadings, rehypeSlug]}
+        rehypePlugins={[
+          rehypeRaw,
+          rehypeSanitize,
+          rehypeAutolinkHeadings,
+          rehypeSlug,
+        ]}
         components={{
           a: (props) => <RewrittenLink {...props} badges={badges} />,
         }}

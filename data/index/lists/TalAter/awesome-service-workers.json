@@ -1,0 +1,11 @@
+{
+"meta": {"description":":nut_and_bolt: A collection of awesome resources for learning Service Workers","defaultBranch":"master","topics":[],"readmeSha":"5313eb273928155c62450a325e49528cad214cb6"},
+"members": [
+"sindresorhus/awesome",
+"TalAter/awesome-progressive-web-apps",
+"w3c/ServiceWorker",
+"delapuente/service-workers-101",
+"GoogleChromeLabs/sw-toolbox",
+"GoogleChromeLabs/sw-precache"
+]
+}

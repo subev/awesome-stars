@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Resources for independent developers to make money","defaultBranch":"master","topics":["indie","indiedev","passive-income","financial-independence","bootstrapper","entrepreneurs","sideproject","awesome","awesome-list"],"readmeSha":"1e495555df3783f5132b1292c06958092c5c11fa"},
+"members": [
+"sindresorhus/awesome",
+"lightningminers/awesome-indie",
+"awesome-self-funded/awesome-self-funded",
+"ripienaar/free-for-dev",
+"255kb/stack-on-a-budget",
+"cjbarber/ToolsOfTheTrade",
+"awesome-selfhosted/awesome-selfhosted"
+]
+}

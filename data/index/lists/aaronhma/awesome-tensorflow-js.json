@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js","defaultBranch":"master","topics":["awesome-list","awesome","tensorflow","tfjs","machine-learning"],"readmeSha":"3c8c5ee3f680b8ce8a90a98411979e07d29aa216"},
+"members": [
+"tensorflow/tfjs",
+"tensorflow/tfjs-models",
+"tensorflow/tfjs-examples",
+"aaronhma/ngconf-2020",
+"infinitered/nsfwjs",
+"justadudewhohacks/face-api.js",
+"victordibia/handtrack.js"
+]
+}

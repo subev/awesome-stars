@@ -1,0 +1,10 @@
+{
+"meta": {"description":"The most cited deep learning papers","defaultBranch":"master","topics":["deep-learning","deep-neural-networks","machine-learning"],"readmeSha":"e73a4d356bd408a71afc22f426b4b38e1d46f41b"},
+"members": [
+"sindresorhus/awesome",
+"kjw0612/awesome-deep-vision",
+"kjw0612/awesome-rnn",
+"floodsung/Deep-Learning-Papers-Reading-Roadmap",
+"oxford-cs-deepnlp-2017/lectures"
+]
+}

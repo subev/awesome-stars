@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.","defaultBranch":"master","topics":[],"readmeSha":"5f0584f8d0f980b12749246b143bfd826611f3a3"},
+"members": [
+"sindresorhus/awesome",
+"Paczesiowa/hsenv",
+"commercialhaskell/stack",
+"commercialhaskell/stackage",
+"lightbend/config",
+"dhall-lang/dhall-haskell",
+"facebook/Haxl",
+"BayesWitnesses/m2cgen",
+"haskell/HTTP",
+"freizl/hoauth2",
+"simplex-chat/simplex-chat",
+"hreinhardt/amqp",
+"idris-lang/Idris-dev",
+"snoyberg/conduit",
+"Gabriella439/pipes",
+"hstreamdb/hstream",
+"bitemyapp/learnhaskell",
+"scotty-web/scotty",
+"andys8/awesome-haskell-videos"
+]
+}

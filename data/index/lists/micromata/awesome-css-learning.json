@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A tiny list limited to the best CSS Learning Resources","defaultBranch":"master","topics":["awesome","awesome-list","resources","learning","css","css-learning"],"readmeSha":"6cdb0dbcbff7b418e2b62c402155f1ebc6e4a703"},
+"members": [
+"philipwalton/flexbugs",
+"rachelandrew/gridbugs",
+"micromata/awesome-javascript-learning"
+]
+}

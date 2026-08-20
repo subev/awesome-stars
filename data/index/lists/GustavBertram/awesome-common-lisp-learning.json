@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of awesome Common Lisp learning resources","defaultBranch":"master","topics":["common-lisp","awesome","awesome-list"],"readmeSha":"9060eab87b7fc232a4d4f472a531df38762f9394"},
+"members": [
+"CodyReichert/awesome-cl",
+"vindarel/curated-awesome-cl",
+"azzamsa/awesome-cl-software",
+"roswell/roswell",
+"google/lisp-koans",
+"norvig/paip-lisp"
+]
+}

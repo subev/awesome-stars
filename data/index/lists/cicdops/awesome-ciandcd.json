@@ -1,0 +1,29 @@
+{
+"meta": {"description":"continuous integration and continuous delivery","defaultBranch":"master","topics":[],"readmeSha":"8b6f59588099769192057e6cc360f2f9f503f976"},
+"members": [
+"sindresorhus/awesome",
+"nilbuild/developer-roadmap",
+"lewbor/simpleci",
+"php-censor/php-censor",
+"spotify/luigi",
+"thomvaill/tads-boilerplate",
+"jedi4ever/veewee",
+"8gears/do.sh",
+"alibaba/macaca",
+"jordansissel/fpm",
+"russss/Herd",
+"lg/murder",
+"deepfence/ThreatMapper",
+"itech001/awesome-shell",
+"vinta/awesome-python",
+"hachiojipm/awesome-perl",
+"kahun/awesome-sysadmin",
+"emijrp/awesome-awesome",
+"bayandin/awesome-awesomeness",
+"itech001/awesome-sysadmin",
+"cicdops/Continuous-Integration-services",
+"ligurio/awesome-ci",
+"veggiemonk/awesome-docker",
+"awsomecicd/awesomecicd"
+]
+}

@@ -1,0 +1,15 @@
+{
+"meta": {"description":"😎 A curated list of resources related to calculators!","defaultBranch":"master","topics":["awesome","awesome-list","calculator","awesome-calculators","hacktoberfest"],"readmeSha":"1a98310fca091538505ca74812c9185d822f4738"},
+"members": [
+"shagr4th/droid48",
+"microsoft/calculator",
+"galculator/galculator",
+"KDE/kcalc",
+"gwenhael-le-moine/x48",
+"DCKT/electron-calculator",
+"xxczaki/elcalc",
+"lirios/calculator",
+"metadelta/mdlt",
+"alfredxing/calc"
+]
+}

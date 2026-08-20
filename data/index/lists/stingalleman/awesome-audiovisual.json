@@ -1,0 +1,25 @@
+{
+"meta": {"description":"Curated list of audiovisual projects","defaultBranch":"main","topics":["awesome","awesome-list","dmx","audiovisual","audio-processing","video-processing"],"readmeSha":"568c5d0f5a9d4c954d09c5ea387fce2b42edf3fc"},
+"members": [
+"mcallegari/qlcplus",
+"xLightsSequencer/xLights",
+"Ardour/ardour",
+"FrancescoCeruti/linux-show-player",
+"ebu/awesome-broadcasting",
+"netlob/livescript",
+"cpvalente/ontime",
+"DimitriCroes/TCGenerator",
+"MrExplode/ShowManager",
+"TheGreyDiamond/Time-MIDI-sender",
+"lorenzofattori/M2Q-python",
+"zjstraus/AES67-WebMeter",
+"x42/meters.lv2",
+"OpenLightingProject/ola",
+"node-dmx/dmx",
+"hobbyquaker/artnet",
+"cansik/artnet4j",
+"nodiscc/awesome-linuxaudio",
+"BryanCrotaz/blender-artnet",
+"cbdevnet/midimonster"
+]
+}

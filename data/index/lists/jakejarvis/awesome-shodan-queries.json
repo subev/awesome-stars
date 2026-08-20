@@ -1,0 +1,8 @@
+{
+"meta": {"description":"🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻","defaultBranch":"main","topics":["shodan","infosec","pentesting","iot","internet-of-things","security","awesome","awesome-list","hacking","penetration-testing"],"readmeSha":"a4733cc971c7a8f476959c18133dc531020ddaa6"},
+"members": [
+"mongo-express/mongo-express",
+"Tautulli/Tautulli",
+"WordPress/WordPress"
+]
+}

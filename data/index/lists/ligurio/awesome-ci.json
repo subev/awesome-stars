@@ -1,0 +1,33 @@
+{
+"meta": {"description":"The list of continuous integration services and tools","defaultBranch":"master","topics":["comparison","ci","continuous-integration","development","developer-tools","devops","awesome"],"readmeSha":"bb35584743bc0ed8b72f1c2e294a37953cb0ffbc"},
+"members": [
+"sindresorhus/awesome",
+"bleenco/abstruse",
+"agola-io/agola",
+"assertible/deployments",
+"bitrise-io/bitrise",
+"buildkite/agent",
+"ovh/cds",
+"dagger/dagger",
+"harness/harness",
+"evergreen-ci/evergreen",
+"FlowCI/docs",
+"FlowCI/docker-install",
+"gocd/gocd",
+"firecow/gitlab-ci-local",
+"theSage21/jaypore_ci",
+"jenkinsci/jenkins",
+"Kraken-CI/kraken",
+"ohwgiles/laminar",
+"kristapsdz/minci",
+"pandaci-com/PandaCI",
+"crocuda/pipelight",
+"PaulRosset/previs",
+"scrutinizer-ci/scrutinizer",
+"semaphoreio/semaphore",
+"SonarSource/sonarqube",
+"tektoncd/triggers",
+"travis-ci/travis-ci",
+"woodpecker-ci/woodpecker"
+]
+}

@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Curated list of Linguistic Resources for doing NLP & CL on Spanish","defaultBranch":"master","topics":[],"readmeSha":"59cf59f1e5502f69be3806d5ecc8ad1b53b80eef"},
+"members": [
+"sindresorhus/awesome",
+"ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA",
+"ixa-ehu/ixa-pipe-pos",
+"dbpedia-spotlight/dbpedia-spotlight",
+"dav009/LatinamericanTextResources",
+"idio/wiki2vec"
+]
+}

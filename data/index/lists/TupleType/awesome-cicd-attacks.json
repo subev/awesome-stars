@@ -1,0 +1,22 @@
+{
+"meta": {"description":"Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.","defaultBranch":"main","topics":["appsec","awesome","bugbounty","cicd","devesecops","hacking","offensive-security","research","tools","awesome-list"],"readmeSha":"b9ae4b33d32dcae41ddd224374d80849789deade"},
+"members": [
+"RichardoC/gitlab-secrets",
+"AdnaneKhan/ActionsTOCTOU",
+"boostsecurityio/lotp",
+"mortenson/pr-sneaking",
+"xforcered/ADOKit",
+"praetorian-inc/gato",
+"AdnaneKhan/gato-x",
+"arthaud/git-dumper",
+"mxrch/GitFive",
+"Accenture/jenkins-attack-framework",
+"synacktiv/nord-stream",
+"gquere/pwn_jenkins",
+"mazen160/secrets-patterns-db",
+"zizmorcore/zizmor",
+"jstawinski/GitHub-Actions-Attack-Diagram",
+"rung/threat-matrix-cicd",
+"wiz-sec-public/SITF"
+]
+}

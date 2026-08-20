@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Python web framework for building both your frontend and backend with no JavaScript","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"be2d5a71d4c3e30405a941e982daac1dee0b9825"},
+"members": [
+"sindresorhus/awesome",
+"reflex-dev/reflex-examples",
+"reflex-dev/reflex-web",
+"joyhchen/reflex-embedded-checkout"
+]
+}

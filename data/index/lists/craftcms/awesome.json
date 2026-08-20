@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A collection of awesome Craft CMS plugins, articles, resources and shiny things.","defaultBranch":"main","topics":["craftcms","craft","awesome-list","awesome","craft-plugin","list"],"readmeSha":"bc49ce6be2ecd6c245c54c7273bd4b0b12733a71"},
+"members": [
+"craftcms/cms",
+"craftcms/craft",
+"craftcms/generator",
+"jeromecoupe/iad_craftcms_introduction",
+"rsanchez/craft-cli",
+"timkelty/craftcms-bootstrap",
+"atillay/craftcms3-docker",
+"nystudio107/craft3-multi-environment",
+"nystudio107/craft-multi-environment",
+"nystudio107/craft-scripts",
+"gabrielmoreira/craftman",
+"niceandserious/crafty-vagrant",
+"nystudio107/generator-craftinstall",
+"timkelty/HappyLager",
+"nystudio107/nginx-craft"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.","defaultBranch":"main","topics":["seo","keyword","optimization","search","engine","google","tips","collection","awesome","awesome-list"],"readmeSha":"bc5be96340cea3b2505ee82dab2256dfb22a6cc3"},
+"members": [
+"eyecatchup/SEOstats",
+"fulldecent/linkbuilding-spider",
+"carlsednaoui/seo-bookmarklet",
+"jekyll/jekyll-seo-tag"
+]
+}

@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Collection of frontend dev and web design links :bulb:","defaultBranch":"master","topics":["list","awesome","awesome-list"],"readmeSha":"e22784b0cdda08e23005c84aecaffea2f1ed9d74"},
+"members": [
+"sindresorhus/awesome",
+"noahbuscher/flatron",
+"jamiewilson/predawn"
+]
+}

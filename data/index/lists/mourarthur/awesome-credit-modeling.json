@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A collection of awesome papers, articles and various resources on credit and credit risk modeling","defaultBranch":"main","topics":["credit-scoring","credit-modeling","financial-machine-learning","sample-selection","reject-inference","awesome-list","awesome"],"readmeSha":"f15434c9de107e93f77176d634ec01e315c4494a"},
+"members": [
+"sindresorhus/awesome"
+]
+}

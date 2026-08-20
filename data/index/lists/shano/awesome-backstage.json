@@ -1,0 +1,12 @@
+{
+"meta": {"description":"📋 A curated list of awesome Backstage resources!","defaultBranch":"main","topics":["backstage","developer-portal","developer-tools","idp","awesome","awesome-list"],"readmeSha":"013ff3138e4e1a6b496bf33e20833f8cfb2cd945"},
+"members": [
+"backstage/backstage",
+"backstage/community-plugins",
+"purple-technology/backstage-aws-cloudformation-plugin",
+"wiz-sec-public/backstage-plugin-wiz",
+"backstage/charts",
+"backstage/community",
+"GoogleChrome/lighthouse-ci"
+]
+}

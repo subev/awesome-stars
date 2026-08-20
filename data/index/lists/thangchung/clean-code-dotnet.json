@@ -1,0 +1,29 @@
+{
+"meta": {"description":":bathtub:  Clean Code concepts and tools adapted for .NET ","defaultBranch":"master","topics":["awesome","aspnet","azure","csharp","dotnet","clean-code","best-practices","principles","composition","inheritance"],"readmeSha":"9891fbfd6d02501e04f4ece9a584a9cd1e469d29"},
+"members": [
+"ryanmcdermott/clean-code-javascript",
+"piotrplenik/clean-code-php",
+"thangchung/awesome-dotnet-core",
+"uohzxela/clean-code-ruby",
+"zedr/clean-code-python",
+"labs42io/clean-code-typescript",
+"Pungyeon/clean-go-article",
+"Pungyeon/clean-go",
+"SAP/styleguides",
+"webpro/programming-principles",
+"lucasvegi/Elixir-Code-Smells",
+"kkisiele/awesome-clean-code",
+"google/styleguide",
+"HackSoftware/Django-Styleguide",
+"goldbergyoni/nodebestpractices",
+"codecadwallader/codemaid",
+"sharpenrocks/Sharpen",
+"Glavin001/tslint-clean-code",
+"davidfowl/AspNetCoreDiagnosticScenarios",
+"mbeaudru/modern-js-cheatsheet",
+"Maoni0/mem-doc",
+"kettanaito/naming-cheatsheet",
+"luk4z7/go-concurrency-guide",
+"zakirullin/cognitive-load"
+]
+}

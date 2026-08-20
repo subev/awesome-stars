@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.","defaultBranch":"main","topics":["awesome-list","awesome","python","micropython","circuitpython","adafruit","iot","embedded"],"readmeSha":"2d819499dfeefeb8320c0bf90fb1bc36fb0644ee"},
+"members": [
+"adafruit/circuitpython",
+"adafruit/Adafruit_CircuitPython_Bundle",
+"adafruit/CircuitPython_Community_Bundle",
+"prcutler/awesome-macropad",
+"todbot/circuitpython-tricks",
+"todbot/circuitpython-synthio-tricks",
+"wmerkens/vscode-circuitpython",
+"adafruit/glider",
+"s-light/CircuitPython_Atom_helper",
+"microsoft/vscode-python-devicesimulator",
+"adafruit/circuitpython-weekly-newsletter"
+]
+}

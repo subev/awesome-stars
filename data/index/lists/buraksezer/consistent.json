@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Consistent hashing with bounded loads in Golang","defaultBranch":"master","topics":["consistent-hashing","golang","load-balancing","consistent-hashing-library","consistenthash","awesome-go","awesome"],"readmeSha":"e19cbfea3b975d64a5c2c799ac79e46a5c724e57"},
+"members": [
+"avelino/awesome-go",
+"olric-data/olric",
+"aws/amazon-cloudwatch-agent-operator",
+"Azure/prometheus-collector",
+"open-telemetry/opentelemetry-operator",
+"weibocom/motan-go",
+"vllm-project/aibrix",
+"erda-project/erda",
+"giantswarm/starboard-exporter",
+"aquasecurity/starboard",
+"easegress-io/easegress",
+"smartcontractkit/chainlink",
+"rudderlabs/keydb",
+"celo-org/celo-blockchain",
+"koderover/zadig",
+"ds2-lab/infinicache",
+"opencord/voltha-lib-go",
+"kubeedge/edgemesh",
+"authorizer-tech/access-controller",
+"Conflux-Chain/confura",
+"mapprotocol/atlas"
+]
+}

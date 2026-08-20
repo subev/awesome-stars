@@ -1,0 +1,6 @@
+{
+"meta": {"description":":unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.","defaultBranch":"master","topics":["awesome-list","lockpicking","locksport","physec","physical-security","picking-locks","keypicking","locksmith","locksmithing","awesome"],"readmeSha":"b48182715606185cf61a77e68db1bb34d07d174c"},
+"members": [
+"sindresorhus/awesome"
+]
+}

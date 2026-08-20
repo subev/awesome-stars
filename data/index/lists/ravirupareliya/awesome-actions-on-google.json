@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A collection of useful things regarding Actions on Google.","defaultBranch":"master","topics":["actions-on-google","google-assistant","aog","actions-on-google-nodejs","actionsongoogle","awesome","awesome-list","hacktoberfest"],"readmeSha":"b1a1e4052c2155a9c9efd9e114ac514592339172"},
+"members": [
+"googlecreativelab/aog-canvas-quiz",
+"actions-on-google-labs/interactive-canvas-editor-nodejs",
+"actions-on-google-labs/virtual-pet-game-nodejs",
+"actions-on-google-labs/dialogflow-spellcast-nodejs",
+"actions-on-google/dialogflow-silly-name-maker-webhook-nodejs",
+"actions-on-google/dialogflow-silly-name-maker-webhook-java",
+"actions-on-google/dialogflow-facts-about-google-nodejs",
+"actions-on-google/dialogflow-name-psychic-nodejs",
+"actions-on-google/dialogflow-name-psychic-java",
+"actions-on-google/dialogflow-number-genie-nodejs",
+"actions-on-google/dialogflow-number-genie-java",
+"actions-on-google/dialogflow-gdg-nodejs",
+"actions-on-google/actionssdk-say-number-nodejs",
+"actions-on-google/actionssdk-say-number-java",
+"google-home/smart-home-nodejs",
+"nish17/scheduler",
+"amdcavallaro/karaoke"
+]
+}

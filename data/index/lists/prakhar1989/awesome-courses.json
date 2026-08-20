@@ -1,0 +1,24 @@
+{
+"meta": {"description":":books: List of awesome university courses for learning Computer Science!","defaultBranch":"master","topics":["computer-science","courses","awesome-list","awesome"],"readmeSha":"03f3ac50cfd016cee3b349574219506c142a8ee3"},
+"members": [
+"sindresorhus/awesome",
+"angrave/SystemProgramming",
+"patricklam/p4p-2015",
+"compilers-course-materials/cs75-s16-lectures",
+"cis198-2016s/homework",
+"jaehyunp/stanfordacm",
+"aaronbloomfield/pdr",
+"sarabander/sicp",
+"sarabander/sicp-pdf",
+"oxford-cs-deepnlp-2017/lectures",
+"chiphuyen/stanford-tensorflow-tutorials",
+"fastai/fastai",
+"torch/torch7",
+"yandexdataschool/Practical_RL",
+"RPISEC/MBE",
+"RPISEC/Malware",
+"ut-cs378-vision-2014fall/course-info",
+"mikeizbicki/ucr-cs100",
+"luong-komorebi/CS193A"
+]
+}

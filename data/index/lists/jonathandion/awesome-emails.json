@@ -1,0 +1,25 @@
+{
+"meta": {"description":"✉️ An awesome list of resources to build better emails.","defaultBranch":"master","topics":["awesome","emails","email-marketing","html","email","html-emails","email-campaigns","responsive-email","email-template","jdion"],"readmeSha":"f48c00a2aa261dab7987b6f8f39c4bb71038923a"},
+"members": [
+"foundation/foundation-emails",
+"bevacqua/campaign",
+"mailchimp/email-blueprints",
+"mailgun/transactional-email-templates",
+"emailmonday/Cerberus",
+"InterNations/antwort",
+"charlesmudy/responsive-html-email-template",
+"dwightjack/grunt-email-boilerplate",
+"seanpowell/Email-Boilerplate",
+"ActiveCampaign/postmark-templates",
+"leemunroe/grunt-email-workflow",
+"AfterShip/email-verifier",
+"postalserver/postal",
+"simple-login/app",
+"darylldoyle/Gulp-Email-Creator",
+"threeheartsdigital/email-marketing-regulations",
+"mailhog/MailHog",
+"jonathandion/awesome-js-books",
+"jonathandion/mono",
+"jonathandion/web-dev.nvim"
+]
+}

@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Carefully curated list of awesome Jamstack resources","defaultBranch":"master","topics":["jamstack","static-site-generator","static-site","javascript","awesome-list","awesome"],"readmeSha":"375ded2daec6f22cd2b7827687286dc992acda67"},
+"members": [
+"myles/awesome-static-generators",
+"staticwebdev/awesome-azure-static-web-apps",
+"fiatjaf/coisas",
+"vercel/next.js",
+"lloydjatkinson/astro-snipcart",
+"saleor/saleor",
+"DataFire/DataFire",
+"pmuens/awesome-serverless"
+]
+}

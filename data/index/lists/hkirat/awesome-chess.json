@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Chess!","defaultBranch":"master","topics":[],"readmeSha":"086969b3592c97ad8e3cebcebd9f4faaf386349c"},
+"members": [
+"sindresorhus/awesome",
+"tlehman/fenparser",
+"ucarion/fen",
+"benwr/latrunculorum",
+"jhlywa/chess.js",
+"cgearhart/Chessnut",
+"oakmac/chessboardjs",
+"laat/chess-board",
+"bmarini/jchess",
+"caustique/chessboard-js"
+]
+}

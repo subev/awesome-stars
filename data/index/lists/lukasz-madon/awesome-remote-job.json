@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python","defaultBranch":"master","topics":["awesome-list","awesome","list"],"readmeSha":"fdc76b507f752cf92659e077ed0cf59fca78e43b"},
+"members": [
+"sindresorhus/awesome",
+"remote-es/remotes",
+"thatmlopsguy/remote-pt",
+"remoteintech/remote-jobs",
+"Olshansk/interview",
+"DopplerHQ/awesome-interview-questions",
+"sourcegraph/careers",
+"remotesclub/remotes",
+"gethopp/hopp",
+"ResultadosDigitais/matrix",
+"cbovis/awesome-digital-nomads",
+"yanirs/established-remote",
+"greatghoul/remote-working",
+"Websoft9/websoft9"
+]
+}

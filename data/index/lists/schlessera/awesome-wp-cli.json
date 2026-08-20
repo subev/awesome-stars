@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.","defaultBranch":"master","topics":["awesome","awesome-list","wp-cli","wordpress","cli","shell","console","hacktoberfest"],"readmeSha":"751b5695b8e0f26d3762382e67498d41f0759f01"},
+"members": [
+"wp-cli/wp-cli",
+"wp-cli/wp-cli-bundle",
+"wp-cli/wp-cli-tests",
+"Yoast/wp-cli-faker",
+"aaemnnosttv/wp-cli-login-command",
+"schlessera/wp-cli-psysh",
+"php-stubs/wp-cli-stubs"
+]
+}

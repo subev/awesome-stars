@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Curated list of Go design patterns, recipes and idioms","defaultBranch":"master","topics":["go","idioms","patterns","awesome","golang","design-patterns","design-patterns-for-humans"],"readmeSha":"981ebab27f30476e0c237f1c37f371581ecb8203"},
+"members": [
+"sindresorhus/awesome"
+]
+}

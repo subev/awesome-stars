@@ -1,0 +1,13 @@
+{
+"meta": {"description":":chart_with_upwards_trend: Curated list of resources to help you get started with Data Science","defaultBranch":"master","topics":["data-science","machine-learning","awesome","awesome-list","lists"],"readmeSha":"4690f3b84ca81bbfe639d11b92d16ef77d41edd5"},
+"members": [
+"sindresorhus/awesome",
+"ujjwalkarn/DataScienceR",
+"pandas-dev/pandas",
+"drivendataorg/cookiecutter-data-science",
+"lightgbm-org/LightGBM",
+"academic/awesome-datascience",
+"ujjwalkarn/DataSciencePython",
+"ujjwalkarn/Machine-Learning-Tutorials"
+]
+}

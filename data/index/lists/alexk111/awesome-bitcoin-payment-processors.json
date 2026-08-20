@@ -1,0 +1,11 @@
+{
+"meta": {"description":"🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.","defaultBranch":"master","topics":["awesome-lists","bitcoin","payment-processing","awesome-list","awesome","bitcoin-payment","payment-processors","lightning","lightning-network","btc"],"readmeSha":"d4009453667d626425290a8e7deefea29269db96"},
+"members": [
+"Marfusios/strike-btcpayserver-plugin",
+"alexk111/One-Time-Address",
+"bumi/lnme",
+"SatSale/SatSale",
+"dilan-dio4/Keagate",
+"yanascz/lnurld"
+]
+}

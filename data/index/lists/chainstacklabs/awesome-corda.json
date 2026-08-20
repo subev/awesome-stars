@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome Corda resources","defaultBranch":"master","topics":["awesome-list","corda","cordapp"],"readmeSha":"c387e889b750c12a99168d70a0f41dee5dfd321e"},
+"members": [
+"180Protocol/codaptor",
+"LayerXcom/cordage",
+"hyperledger-labs/cordentity",
+"chainstacklabs/awesome-corda",
+"chainhaus/pycorda",
+"manosbatsis/corda-testacles",
+"corda/vscode-corda",
+"corda/samples",
+"rafaelazeredo/creditbank",
+"ashutoshmeher-r3/auction-cordapp",
+"corda-codeclub/marge"
+]
+}

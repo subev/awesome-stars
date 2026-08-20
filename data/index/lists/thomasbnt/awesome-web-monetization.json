@@ -1,0 +1,29 @@
+{
+"meta": {"description":"🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.","defaultBranch":"main","topics":["web-monetization","monetization","webmonetization","coil","javascript","ilp","ilp-payment","awesome-list","awesome","gatehub"],"readmeSha":"cfd21a5951517de36416c1dfcc97f7c66bfd89a5"},
+"members": [
+"sunchayn/monetize.js",
+"dacioromero/types-wm",
+"CDDelta/ngx-monetization",
+"dacioromero/react-hook-wm",
+"guidovizoso/react-monetize",
+"ISNIT0/ep_monetization",
+"devcer/eleventy-plugin-monetization",
+"philnash/web-monetization-components",
+"kewbish/revshare",
+"tcdowney/web-monetization-proxy",
+"Sergix/gridsome-plugin-monetization",
+"spekulatius/vuepress-plugin-web-monetization",
+"philnash/jekyll-web_monetization",
+"uchibeke/react-web-monetization-meta",
+"Jasmin2895/web-monetization-electron-app",
+"Jasmin2895/web-monetized-video",
+"immers-space/web-monetization-polyfill",
+"proyecto26/awesome-jsgames",
+"oofdere/mediadisclosures",
+"peter279k/web-monetization-demo",
+"dfoderick/money-chat",
+"jkga/is-web-monetized",
+"esse-dev/akita",
+"kristianfreeman/openmonetizationwallet"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"An \"Awesome\" list of code review resources - articles, papers, tools, etc","defaultBranch":"main","topics":["awesome","awesome-list","code-review","code-reviews"],"readmeSha":"f071f11c559ed41c92b46c076f12eb4e356d6370"},
+"members": [
+"sindresorhus/awesome"
+]
+}

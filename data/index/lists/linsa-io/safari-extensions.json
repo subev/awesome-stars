@@ -1,0 +1,22 @@
+{
+"meta": {"description":"Awesome Safari extensions ","defaultBranch":"master","topics":["safari","safari-extension","awesome","awesome-list","learning"],"readmeSha":"0baad34f95bf78e554efa0bde42300de820cf53d"},
+"members": [
+"linsa-io/curated-lists",
+"kishikawakatsumi/SourceKitForSafari",
+"Swift-open-source/UltraTabSaver",
+"Gofake1/Nightlight",
+"ovity/octotree",
+"lautis/refined-github-safari",
+"makoni/select-like-a-boss-for-safari",
+"uetchy/Polyglot",
+"ashchan/safarikai",
+"soffes/ZoomIn",
+"amarcu5/PiPer",
+"smmr-software/privacy-redirect-safari",
+"algolia/github-awesome-autocomplete",
+"rfletcher/safari-json-formatter",
+"Samirla/xmlview",
+"Nuclides/github-highlight-selected",
+"flippidippi/sVim"
+]
+}

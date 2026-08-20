@@ -1,0 +1,14 @@
+{
+"meta": {"description":":city_sunrise: A collection of links for free stock photography, video and Illustration websites","defaultBranch":"master","topics":["stock-photos","free-photos","icon-font","stock-photography","stock-videos","weather-icons","patterns","font","icons","music"],"readmeSha":"fba3676fde0fae25d582fb7c56fb0e2c304be909"},
+"members": [
+"sindresorhus/awesome",
+"MariaLetta/mega-doodles-pack",
+"alfredxing/brick",
+"fontello/fontello",
+"simple-icons/simple-icons",
+"topcoat/icons",
+"twbs/icons",
+"microsoft/fluentui-system-icons",
+"djaiss/mapsicon"
+]
+}

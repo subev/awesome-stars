@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Curated list of projects that build non-financial applications of blockchain","defaultBranch":"master","topics":["awesome","awesome-list","blockchain","list"],"readmeSha":"2a242c129be53d24e0cd1484c2baacd523603dee"},
+"members": [
+"sindresorhus/awesome"
+]
+}

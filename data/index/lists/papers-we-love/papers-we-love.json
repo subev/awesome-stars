@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Papers from the computer science community to read and discuss.","defaultBranch":"main","topics":["computer-science","read-papers","meetup","papers","programming","theory","awesome"],"readmeSha":"8b9ca2e9b89d74f876b947a1fb675a637efa01ec"},
+"members": [
+"papers-we-love/organizers",
+"eugeneyan/applied-ml",
+"mmcgrana/services-engineering"
+]
+}

@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of research, applications and projects built using the H2O Machine Learning platform","defaultBranch":"master","topics":["machine-learning","h2o","deep-learning","h2oai","awesome-list","awesome","data-science"],"readmeSha":"50ac56eb654913ca0995fbff36fdf832e1c9a5d7"},
+"members": [
+"sindresorhus/awesome",
+"h2oai/h2o-3",
+"h2oai/h2o-tutorials",
+"h2oai/h2o-meetups",
+"malhartakle/MastersDissertation",
+"glouppe/phd-thesis",
+"szilard/benchm-ml",
+"szilard/teach-data-science-UCLA-master-appl-stats",
+"jphall663/GWU_data_mining",
+"kdpsingh/Evaporate",
+"kdpsingh/splash",
+"stevenpawley/h2oparsnip",
+"kcrandall/EMR_Spark_Automation",
+"RamiKrispin/USelectricity",
+"navdeep-G/h2o3-pam",
+"navdeep-G/h2o3-gapstat"
+]
+}
