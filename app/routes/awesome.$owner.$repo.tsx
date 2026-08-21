@@ -9,6 +9,7 @@ import {
 import { ListSkeleton } from "~/components/ListSkeleton";
 import { MarkdownRenderer } from "~/components/MarkdownRenderer";
 import { GitHubLink } from "~/components/RepoActions";
+import { looksLikeOrg, orgToMarkdown } from "~/lib/orgToMarkdown";
 import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
 import {
   loadListLookup,
@@ -61,7 +62,8 @@ const fetchLiveReadme = async (owner: string, repo: string) => {
       res.status,
     );
   }
-  return res.text();
+  const text = await res.text();
+  return looksLikeOrg(text) ? orgToMarkdown(text) : text;
 };
 
 const loadList = async (owner: string, repo: string) => {
