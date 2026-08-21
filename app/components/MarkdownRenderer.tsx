@@ -8,6 +8,11 @@ import { useEffect, type ComponentPropsWithoutRef } from "react";
 import { Link } from "react-router";
 import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
 import { AWESOME_LISTS } from "~/lists";
+import {
+  buildListLookup,
+  resolveList,
+  type ListLookup,
+} from "~/lib/listLookup";
 
 const GITHUB_REPO_REGEX = /^https:\/\/github\.com\/([\w.-]+)\/([\w.-]+)\/?$/;
 
@@ -27,13 +32,25 @@ const resolveFragment = (fragment: string) => {
   );
 };
 
-const CONFIGURED_REPOS = new Set(
+// The featured lists stay internal even if the lookup fails to load, so the
+// front page never links out to GitHub.
+const CONFIGURED_REPOS = buildListLookup(
   Object.values(AWESOME_LISTS).map((l) => `${l.owner}/${l.repo}`),
 );
 
-// Only actual curated lists get the internal star-fetching view; leaf repos go to GitHub.
-const looksLikeAwesomeList = (owner: string, repo: string) =>
-  /awesome/i.test(repo) || CONFIGURED_REPOS.has(`${owner}/${repo}`);
+// Only pages the crawler measured as lists get the internal star-annotated view;
+// leaf repos go to GitHub. Returns the canonical `owner/repo` so the route and
+// the case-sensitive stars asset path agree with the index.
+const internalListPath = (
+  lookup: ListLookup | undefined,
+  owner: string,
+  repo: string,
+) => {
+  const canonical =
+    resolveList(lookup, owner, repo) ??
+    resolveList(CONFIGURED_REPOS, owner, repo);
+  return canonical ? `/awesome/${canonical}` : null;
+};
 
 export type RepoBadge = {
   pct: number | null;
@@ -87,9 +104,12 @@ function GrowthBadge({ badge }: { badge: RepoBadge }) {
 }
 
 function RewrittenLink(
-  props: ComponentPropsWithoutRef<"a"> & { badges?: RepoBadges },
+  props: ComponentPropsWithoutRef<"a"> & {
+    badges?: RepoBadges;
+    listLookup?: ListLookup;
+  },
 ) {
-  const { href, children, badges, ...rest } = props;
+  const { href, children, badges, listLookup, ...rest } = props;
 
   if (href?.startsWith("#")) {
     return (
@@ -115,11 +135,11 @@ function RewrittenLink(
     if (match) {
       const [, owner, repo] = match;
       const badge = badges?.[`${owner}/${repo}`.toLowerCase()];
-      const internal = looksLikeAwesomeList(owner, repo);
+      const internal = internalListPath(listLookup, owner, repo);
       return (
         <>
           {internal ? (
-            <Link to={`/awesome/${owner}/${repo}`} {...rest}>
+            <Link to={internal} {...rest}>
               {children}
             </Link>
           ) : (
@@ -195,6 +215,7 @@ export function MarkdownRenderer({
   repo,
   trendsHref,
   badges,
+  listLookup,
   onRefresh,
 }: {
   markdown: string;
@@ -203,6 +224,7 @@ export function MarkdownRenderer({
   repo?: string;
   trendsHref?: string;
   badges?: RepoBadges;
+  listLookup?: ListLookup;
   onRefresh?: () => void;
 }) {
   useEffect(() => {
@@ -229,7 +251,9 @@ export function MarkdownRenderer({
           rehypeSlug,
         ]}
         components={{
-          a: (props) => <RewrittenLink {...props} badges={badges} />,
+          a: (props) => (
+            <RewrittenLink {...props} badges={badges} listLookup={listLookup} />
+          ),
         }}
       >
         {markdown}

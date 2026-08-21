@@ -10,7 +10,12 @@ import { ListSkeleton } from "~/components/ListSkeleton";
 import { MarkdownRenderer } from "~/components/MarkdownRenderer";
 import { GitHubLink } from "~/components/RepoActions";
 import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
-import { starsAssetUrl, type StarsAsset } from "~/lib/starsAsset";
+import {
+  loadListLookup,
+  starsAssetUrl,
+  type StarsAsset,
+} from "~/lib/starsAsset";
+import { resolveList } from "~/lib/listLookup";
 import { listDisplayName } from "~/lib/favorites";
 import { siteMeta } from "~/lib/meta";
 import type { Route } from "./+types/awesome.$owner.$repo";
@@ -60,8 +65,14 @@ const fetchLiveReadme = async (owner: string, repo: string) => {
 };
 
 const loadList = async (owner: string, repo: string) => {
+  const listLookup = await loadListLookup();
+  // Asset paths are case-sensitive on Pages while the URL carries whatever
+  // casing the inbound link used, so resolve to the index's canonical name.
+  const canonical = resolveList(listLookup, owner, repo) ?? `${owner}/${repo}`;
+  const [assetOwner, assetRepo] = canonical.split("/");
+
   const [asset, readme] = await Promise.all([
-    fetchStarsAsset(owner, repo),
+    fetchStarsAsset(assetOwner, assetRepo),
     fetchLiveReadme(owner, repo),
   ]);
 
@@ -77,6 +88,8 @@ const loadList = async (owner: string, repo: string) => {
     badges: asset?.badges ?? {},
     tracked: asset !== null,
     snapshotDate: asset?.date ?? null,
+    listLookup,
+    canonical,
   };
 };
 
@@ -306,9 +319,10 @@ function LoadedList({
         owner={owner}
         repo={repo}
         trendsHref={
-          list.tracked ? `/awesome/${owner}/${repo}/trends` : undefined
+          list.tracked ? `/awesome/${list.canonical}/trends` : undefined
         }
         badges={list.badges}
+        listLookup={list.listLookup}
         onRefresh={STATIC_BUILD || !list.tracked ? undefined : onFetchStars}
       />
     </>
