@@ -6,6 +6,7 @@ import rehypeRaw from "rehype-raw";
 import rehypeSanitize from "rehype-sanitize";
 import { useEffect, type ComponentPropsWithoutRef } from "react";
 import { Link } from "react-router";
+import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
 import { AWESOME_LISTS } from "~/lists";
 
 const GITHUB_REPO_REGEX = /^https:\/\/github\.com\/([\w.-]+)\/([\w.-]+)\/?$/;
@@ -140,18 +141,28 @@ function RewrittenLink(
 }
 
 export function ListHeader({
+  owner,
+  repo,
   trendsHref,
   onRefresh,
 }: {
+  owner?: string;
+  repo?: string;
   trendsHref?: string;
   onRefresh?: () => void;
 }) {
   return (
-    <div className="mb-4 flex items-center justify-between">
+    <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
       <Link to="/" className="text-ink-dim hover:text-ink text-sm no-underline">
         &larr; All lists
       </Link>
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-3">
+        {owner && repo && (
+          <>
+            <FavoriteButton owner={owner} repo={repo} showLabel />
+            <GitHubLink owner={owner} repo={repo} showLabel />
+          </>
+        )}
         {onRefresh && (
           <button
             onClick={onRefresh}
@@ -177,12 +188,16 @@ export function ListHeader({
 export function MarkdownRenderer({
   markdown,
   title,
+  owner,
+  repo,
   trendsHref,
   badges,
   onRefresh,
 }: {
   markdown: string;
   title: string;
+  owner?: string;
+  repo?: string;
   trendsHref?: string;
   badges?: RepoBadges;
   onRefresh?: () => void;
@@ -195,7 +210,12 @@ export function MarkdownRenderer({
 
   return (
     <div className="prose prose-sm dark:prose-invert prose-a:text-accent prose-ul:marker:text-ink-dim max-w-none p-5">
-      <ListHeader trendsHref={trendsHref} onRefresh={onRefresh} />
+      <ListHeader
+        owner={owner}
+        repo={repo}
+        trendsHref={trendsHref}
+        onRefresh={onRefresh}
+      />
       <h1 className="sr-only">{title}</h1>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}

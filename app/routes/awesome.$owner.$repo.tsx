@@ -8,6 +8,7 @@ import {
 } from "react-router";
 import { ListSkeleton } from "~/components/ListSkeleton";
 import { MarkdownRenderer } from "~/components/MarkdownRenderer";
+import { GitHubLink } from "~/components/RepoActions";
 import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
 import { starsAssetUrl, type StarsAsset } from "~/lib/starsAsset";
 import type { Route } from "./+types/awesome.$owner.$repo";
@@ -118,28 +119,17 @@ function ListError({
 }) {
   return (
     <div className="mx-auto max-w-2xl p-8">
-      <div className="mb-4">
+      <div className="mb-4 flex items-center justify-between gap-4">
         <Link to="/" className="text-ink-dim hover:text-ink text-sm">
           &larr; All lists
         </Link>
+        <GitHubLink owner={owner} repo={repo} showLabel />
       </div>
       <div className="border-down/30 bg-down/10 rounded-lg border p-6">
         <h2 className="text-down font-display mb-2 text-lg font-semibold">
           {notFound ? "Not found" : "Error"}
         </h2>
         <p className="text-down/90">{message}</p>
-        {notFound && (
-          <p className="text-ink-dim mt-2 text-sm">
-            <a
-              href={`https://github.com/${owner}/${repo}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-accent hover:underline"
-            >
-              Look for it on GitHub
-            </a>
-          </p>
-        )}
       </div>
     </div>
   );
@@ -285,6 +275,8 @@ function LoadedList({
       <MarkdownRenderer
         markdown={list.markdown}
         title={`${owner}/${repo}`}
+        owner={owner}
+        repo={repo}
         trendsHref={
           list.tracked ? `/awesome/${owner}/${repo}/trends` : undefined
         }

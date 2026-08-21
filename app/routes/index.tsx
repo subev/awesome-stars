@@ -1,13 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { NavLink } from "react-router";
-import { AWESOME_LISTS } from "~/lists";
-import {
-  DEFAULT_FAVORITES,
-  loadFavorites,
-  repoDisplayName,
-  saveFavorites,
-  type FavoriteList,
-} from "~/lib/favorites";
+import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
+import { PINNED_LIST, useFavorites } from "~/lib/favorites";
 import { listDirectoryUrl, type ListDirectoryEntry } from "~/lib/starsAsset";
 
 
@@ -21,55 +15,8 @@ function PendingSpinner({ className = "" }: { className?: string }) {
   );
 }
 
-function HeartIcon({ filled }: { filled: boolean }) {
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      className="size-4"
-      fill={filled ? "currentColor" : "none"}
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" />
-    </svg>
-  );
-}
-
 const compactStars = (stars: number) =>
   stars >= 1000 ? `${(stars / 1000).toFixed(1)}k` : String(stars);
-
-function useFavorites() {
-  const [favorites, setFavorites] = useState<FavoriteList[]>(DEFAULT_FAVORITES);
-
-  useEffect(() => {
-    const stored = loadFavorites();
-    if (stored) setFavorites(stored);
-  }, []);
-
-  const update = (next: FavoriteList[]) => {
-    setFavorites(next);
-    saveFavorites(next);
-  };
-
-  const isFavorite = (owner: string, repo: string) =>
-    favorites.some((f) => f.owner === owner && f.repo === repo);
-
-  const remove = (owner: string, repo: string) =>
-    update(favorites.filter((f) => !(f.owner === owner && f.repo === repo)));
-
-  const toggle = (owner: string, repo: string) => {
-    if (isFavorite(owner, repo)) {
-      remove(owner, repo);
-    } else {
-      update([...favorites, { name: repoDisplayName(repo), owner, repo }]);
-    }
-  };
-
-  return { favorites, isFavorite, remove, toggle };
-}
 
 function ListCard({
   name,
@@ -88,7 +35,7 @@ function ListCard({
         to={`/awesome/${owner}/${repo}`}
         className={({ isPending }) =>
           `border-edge bg-surface hover:border-accent/50 hover:bg-surface-2 flex items-baseline gap-2 rounded-lg border p-4 transition-colors ${
-            onRemove ? "pr-12" : ""
+            onRemove ? "pr-24" : "pr-14"
           } ${isPending ? "border-accent/50 bg-surface-2" : ""}`
         }
       >
@@ -104,28 +51,27 @@ function ListCard({
           </>
         )}
       </NavLink>
-      {onRemove && (
-        <button
-          type="button"
-          aria-label={`Remove ${name} from favourites`}
-          onClick={onRemove}
-          className="text-ink-dim hover:text-ink absolute top-1/2 right-3 -translate-y-1/2 rounded p-1.5 text-lg leading-none transition-colors"
-        >
-          ×
-        </button>
-      )}
+      {/* Siblings of the card link: anchors and buttons can't nest inside it. */}
+      <span className="absolute top-1/2 right-3 flex -translate-y-1/2 items-center gap-1">
+        <GitHubLink owner={owner} repo={repo} />
+        {onRemove && (
+          <button
+            type="button"
+            aria-label={`Remove ${name} from favourites`}
+            title={`Remove ${name} from favourites`}
+            onClick={onRemove}
+            className="text-ink-dim hover:text-ink rounded p-1 text-lg leading-none transition-colors"
+          >
+            ×
+          </button>
+        )}
+      </span>
     </li>
   );
 }
 
 // The directory is a few hundred KB, so it loads on first interaction only.
-function ExploreLists({
-  isFavorite,
-  onToggleFavorite,
-}: {
-  isFavorite: (owner: string, repo: string) => boolean;
-  onToggleFavorite: (owner: string, repo: string) => void;
-}) {
+function ExploreLists() {
   const [entries, setEntries] = useState<ListDirectoryEntry[] | null>(null);
   const [status, setStatus] = useState<"idle" | "loading" | "empty">("idle");
   const [query, setQuery] = useState("");
@@ -190,47 +136,30 @@ function ExploreLists({
 
       {matches.length > 0 && (
         <ul className="divide-edge border-edge bg-surface mt-3 divide-y rounded-lg border">
-          {matches.map((entry) => {
-            const favorited = isFavorite(entry.owner, entry.repo);
-            return (
-              <li key={`${entry.owner}/${entry.repo}`} className="p-3 text-sm">
-                <div className="flex items-center justify-between gap-3">
-                  <NavLink
-                    to={`/awesome/${entry.owner}/${entry.repo}`}
-                    className="text-accent min-w-0 truncate font-medium hover:underline"
-                  >
-                    {entry.owner}/{entry.repo}
-                  </NavLink>
-                  <span className="flex shrink-0 items-center gap-2">
-                    <span className="text-ink-dim font-data text-xs">
-                      ⭐️ {compactStars(entry.stars)} · {entry.members} repos
-                    </span>
-                    <button
-                      type="button"
-                      aria-label={
-                        favorited
-                          ? `Remove ${entry.owner}/${entry.repo} from favourites`
-                          : `Add ${entry.owner}/${entry.repo} to favourites`
-                      }
-                      onClick={() => onToggleFavorite(entry.owner, entry.repo)}
-                      className={`rounded p-1 transition-colors ${
-                        favorited
-                          ? "text-accent"
-                          : "text-ink-dim hover:text-accent"
-                      }`}
-                    >
-                      <HeartIcon filled={favorited} />
-                    </button>
+          {matches.map((entry) => (
+            <li key={`${entry.owner}/${entry.repo}`} className="p-3 text-sm">
+              <div className="flex items-center justify-between gap-3">
+                <NavLink
+                  to={`/awesome/${entry.owner}/${entry.repo}`}
+                  className="text-accent min-w-0 truncate font-medium hover:underline"
+                >
+                  {entry.owner}/{entry.repo}
+                </NavLink>
+                <span className="flex shrink-0 items-center gap-1">
+                  <span className="text-ink-dim font-data mr-1 text-xs">
+                    ⭐️ {compactStars(entry.stars)} · {entry.members} repos
                   </span>
-                </div>
-                {entry.description && (
-                  <p className="text-ink-dim mt-0.5 line-clamp-2 text-xs">
-                    {entry.description}
-                  </p>
-                )}
-              </li>
-            );
-          })}
+                  <FavoriteButton owner={entry.owner} repo={entry.repo} />
+                  <GitHubLink owner={entry.owner} repo={entry.repo} />
+                </span>
+              </div>
+              {entry.description && (
+                <p className="text-ink-dim mt-0.5 line-clamp-2 text-xs">
+                  {entry.description}
+                </p>
+              )}
+            </li>
+          ))}
         </ul>
       )}
     </section>
@@ -238,8 +167,7 @@ function ExploreLists({
 }
 
 export default function Index() {
-  const home = AWESOME_LISTS.awesome;
-  const { favorites, isFavorite, remove, toggle } = useFavorites();
+  const { favorites, remove } = useFavorites();
 
   return (
     <div className="mx-auto max-w-2xl p-8">
@@ -250,7 +178,11 @@ export default function Index() {
         Curated awesome lists enriched with GitHub star counts.
       </p>
       <ul className="space-y-4">
-        <ListCard name={home.name} owner={home.owner} repo={home.repo} />
+        <ListCard
+          name={PINNED_LIST.name}
+          owner={PINNED_LIST.owner}
+          repo={PINNED_LIST.repo}
+        />
         {favorites.map((list) => (
           <ListCard
             key={`${list.owner}/${list.repo}`}
@@ -262,15 +194,7 @@ export default function Index() {
         ))}
       </ul>
 
-      <ExploreLists
-        isFavorite={(owner, repo) =>
-          (owner === home.owner && repo === home.repo) || isFavorite(owner, repo)
-        }
-        onToggleFavorite={(owner, repo) => {
-          if (owner === home.owner && repo === home.repo) return;
-          toggle(owner, repo);
-        }}
-      />
+      <ExploreLists />
     </div>
   );
 }
