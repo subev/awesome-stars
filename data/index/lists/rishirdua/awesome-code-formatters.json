@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A curated list of awesome code formatting tools and libraries","defaultBranch":"master","topics":[],"readmeSha":"7443480d5b368fe972c72607a752fde2714f16eb"},
+"members": [
+"bayandin/awesome-awesomeness",
+"chrisdone-archive/hindent",
+"google/google-java-format",
+"psf/black",
+"google/yapf"
+]
+}

@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A collection of awesome Jekyll editors","defaultBranch":"master","topics":[],"readmeSha":"0e8d9a0b9954b3d686a589c85c048bb6cd114f87"},
+"members": [
+"planetjekyll/awesome-jekyll",
+"planetjekyll/awesome-jekyll-themes",
+"planetjekyll/awesome-jekyll-plugins",
+"decaporg/decap-cms",
+"prose/prose",
+"jekyll/jekyll-admin",
+"cloud-gov/pages-core",
+"bitmand/utterson",
+"L-A/Little-Jekyll",
+"mushishi78/content-editor",
+"shinemoon/jekyller",
+"tatey/JekyllStudio",
+"23maverick23/sublime-jekyll",
+"parkr/vim-jekyll",
+"mundimark/awesome-markdown-editors"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of amazingly awesome Drupal open source, resources and shiny things.","defaultBranch":"master","topics":["drupal","awesome-drupal"],"readmeSha":"8a781567944571e531994b804a832b5c68c9e3c3"},
+"members": [
+"drush-ops/drush",
+"cytopia/check_drupal"
+]
+}

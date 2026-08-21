@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Software libraries that implement hierarchical matrices","defaultBranch":"master","topics":[],"readmeSha":"06c92ccbcb539ab5b35e07e243d942d1a84d196e"},
+"members": [
+"bayandin/awesome-awesomeness",
+"ecrc/hicma",
+"scalable-matrix/H2Pack",
+"xantares/ahmed",
+"ruoxi-wang/BBFMM3D",
+"bempp/bempp-legacy",
+"YingzhouLi/dmhm",
+"amiraa127/Dense_HODLR",
+"jeffchadwick/rank_structured_cholesky",
+"jiechenjiechen/RLCM",
+"zaspel/hmglib",
+"sergeyvoronin/LowRankMatrixDecompositionCodes",
+"YingzhouLi/HMat",
+"hoshino-UTokyo/hacapk-gpu",
+"bonevbs/HssMatrices.jl",
+"IntegralEquations/HMatrices.jl"
+]
+}

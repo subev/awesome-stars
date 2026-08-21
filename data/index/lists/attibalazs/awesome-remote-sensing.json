@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Collection of Remote Sensing Resources","defaultBranch":"main","topics":[],"readmeSha":"f74dcca9cf38167aa597a277cac221e6285ed20a"},
+"members": [
+"torchgeo/torchgeo",
+"xarray-contrib/xarray-spatial",
+"rapidsai/cuspatial",
+"pka/awesome-georust",
+"georust/gdal",
+"opengeos/segment-geospatial",
+"CosmiQ/solaris",
+"weecology/DeepForest",
+"Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
+"xiaoaoran/awesome-RSFMs"
+]
+}

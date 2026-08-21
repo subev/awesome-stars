@@ -1,0 +1,7 @@
+{
+"meta": {"description":"some code tips for android 💯","defaultBranch":"master","topics":["awesome","tips","android"],"readmeSha":"6225db41e59305d0a2d201eba6c1b3eea3c5c32c"},
+"members": [
+"jiang111/awesome-androidstudio-plugins",
+"rubensousa/GravitySnapHelper"
+]
+}

@@ -1,0 +1,20 @@
+{
+"meta": {"description":"Awesome Developer Relations resources curated by the DevRel Collective","defaultBranch":"main","topics":["awesome-list","devrel","speaking-resources","cfps","awesome-lists"],"readmeSha":"c944e2d3fe0fd7c39366c0ed87541817980fd93a"},
+"members": [
+"slatedocs/slate",
+"jpetazzo/container.training",
+"googlecodelabs/tools",
+"Mermade/widdershins",
+"GitbookIO/gitbook",
+"lettier/gifcurry",
+"kohler/gifsicle",
+"phw/peek",
+"faressoft/terminalizer",
+"tech-conferences/confs.tech",
+"vmbrasseur/Public_Speaking",
+"scraly/developers-conferences-agenda",
+"jansche/oss-advisors",
+"linuxfoundation/crowd.dev",
+"npentrel/devrel-strategy-sbs"
+]
+}

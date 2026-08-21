@@ -1,0 +1,14 @@
+{
+"meta": {"description":"Awesome 11ty / Build Awesome list AND docs for Build Awesome Kit, 2-in-1 🥷🕶️","defaultBranch":"master","topics":["awesome-list","11ty","buildawesome","eleventy","blades-css","buildawesome-kit"],"readmeSha":"2f3eb42ae4502e08f77bec3a13a329aa33600b58"},
+"members": [
+"11ty/buildawesome",
+"11ty/buildawesome",
+"11ty/awesome-base-blog",
+"GoogleChrome/starter-extended-blog",
+"oleeskild/digitalgarden",
+"KonnorRogers/11ty-webawesome-ssr",
+"anyblades/buildawesome-kit",
+"uncenter/eleventy-plugin-toc",
+"podop29/eleventy-plugin-shotpipe"
+]
+}

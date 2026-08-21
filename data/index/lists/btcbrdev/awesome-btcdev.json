@@ -1,0 +1,7 @@
+{
+"meta": {"description":"List of resources of bitcoin development","defaultBranch":"master","topics":[],"readmeSha":"c2fe9e5d6ec76c8d62cb25f4ea0867787532df7e"},
+"members": [
+"simondlr/theblockchain",
+"minium/Bitcoin-Spec"
+]
+}

@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Awesome projects and services related to FHE (Fully Homomorphic Encryption)","defaultBranch":"master","topics":[],"readmeSha":"1cefa98ba987c4c4a609b0d56e7920ff350da185"},
+"members": [
+"arkworks-rs/algebra",
+"RustCrypto/crypto-bigint",
+"openfheorg/openfhe-development",
+"microsoft/SEAL",
+"IntelLabs/hexl",
+"tuneinsight/lattigo",
+"tlepoint/fhe.rs",
+"dripdropdr/Face-heaan"
+]
+}

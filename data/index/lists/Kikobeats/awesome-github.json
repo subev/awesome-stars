@@ -1,0 +1,14 @@
+{
+"meta": {"description":"An exquisite list of awesome :octocat: secrets.","defaultBranch":"master","topics":["awesome","awesome-list","github-notifications","github-stars","github-profiles"],"readmeSha":"e6cbc69e225a98b561acd846cedecbe6f47f0907"},
+"members": [
+"sshaw/export-pull-requests",
+"vercel/release",
+"nilbuild/githunt",
+"fregante/notifications-preview-github",
+"refined-github/refined-github",
+"npmhub/npmhub",
+"dderevjanik/github-vscode-icons",
+"vitalets/github-trending-repos",
+"thelittlewonder/gitstalk"
+]
+}

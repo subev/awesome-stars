@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Defences against Cobalt Strike","defaultBranch":"main","topics":["cobalt-strike","cobaltstrike-defence","beacon","detection","defences"],"readmeSha":"dabe2c235baa01116079f9f9630ff6bbc55ea671"},
+"members": [
+"thefLink/Hunt-Sleeping-Beacons",
+"shabarkin/pointer",
+"CCob/BeaconEye",
+"3lp4tr0n/BeaconHunter",
+"NexusFuzzy/CobaltSpam",
+"isafe/cobaltstrike_brute",
+"Apr4h/CobaltStrikeScan",
+"whickey-r7/grab_beacon_config",
+"WBGlIl/CS_Decrypt",
+"JPCERTCC/aa-tools",
+"salesforce/jarm",
+"RomanEmelyanov/CobaltStrikeForensic",
+"Te-k/cobaltstrike",
+"cedowens/C2-JARM",
+"AndrewRathbun/DFIRMindMaps",
+"BinaryDefense/ThreatHuntingJupyterNotebooks",
+"threatexpress/random_c2_profile",
+"Sentinel-One/CobaltStrikeParser",
+"Neo23x0/signature-base",
+"SigmaHQ/sigma",
+"fox-it/cobaltstrike-beacon-data",
+"SigmaHQ/sigma"
+]
+}

@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.","defaultBranch":"master","topics":[],"readmeSha":"3813821d51eb9dcde14ac148562715b5bea739d9"},
+"members": [
+"bayandin/awesome-awesomeness",
+"WordPress/WordPress",
+"gambitph/Titan-Framework",
+"juyal-ahmed/tStarter",
+"zoerooney/Emi",
+"zoerooney/yo-emi",
+"syamilmj/Aqua-Resizer",
+"TGMPA/TGM-Plugin-Activation",
+"inuyaksa/jquery.nicescroll",
+"joeldbirch/superfish",
+"mhuggins/jquery-countTo",
+"sydlawrence/jquery.videoBG",
+"davist11/jQuery-One-Page-Nav",
+"mdbootstrap/bootstrap-hover-dropdown",
+"scaron/prettyphoto",
+"animate-css/animate.css",
+"desandro/imagesloaded"
+]
+}

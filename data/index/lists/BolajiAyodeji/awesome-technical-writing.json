@@ -1,0 +1,22 @@
+{
+"meta": {"description":":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.","defaultBranch":"master","topics":["technical-writing","documentation","writing","content","resources","open-source","awesome-list"],"readmeSha":"6b010ea42349a5b2b99911dcfa354e629698d022"},
+"members": [
+"sindresorhus/awesome",
+"BolajiAyodeji/awesome-jamstack",
+"lboshuizen/dutch-style-guide",
+"BolajiAyodeji/technical-writing-template",
+"malgamves/CommunityWriterPrograms",
+"kefranabg/readme-md-generator",
+"thomvaill/log4brains",
+"suncloudsmoon/TextCraft",
+"omachala/heroshot",
+"berelevant-ai/slopless",
+"antydizajn/ai-slop-detect",
+"hwajongpark/slop-gate",
+"nanolaba/readme-generator",
+"theluckystrike/bln-writing-assistant",
+"MohamedAbdallah-14/unslop",
+"devswha/patina",
+"sixhobbits/technical-writing"
+]
+}

@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A list about Apache Kafka","defaultBranch":"master","topics":["kafka","streaming-data","data-pipeline","stream-processing","apache-kafka","apache-spark","kafka-streams","infrastructure","data-processing"],"readmeSha":"4dd7a819b3de4e2f4242b68b3c266791031db5a3"},
+"members": [
+"raystack/firehose",
+"raystack/dagger",
+"raystack/raccoon",
+"raystack/stencil",
+"raystack/meteor",
+"aklivity/zilla",
+"AhmedSarie/spring-boot-starter-kafka-ops",
+"linkedin/Burrow",
+"splee/burrower",
+"yahoo/CMAK",
+"tchiotludo/akhq",
+"SourceLabOrg/kafka-webview",
+"kafka-ops/julie",
+"strimzi/strimzi-kafka-operator",
+"edenhill/kcat",
+"90poe/connectctl",
+"obsidiandynamics/kafdrop",
+"daneshzaki/kokpit",
+"SystemCraftsman/strimzi-kafka-cli",
+"redpanda-data/console",
+"kafbat/kafka-ui",
+"typestreamio/typestream",
+"themoah/klag",
+"closeup1202/klag",
+"kzmlabs/flink-statefun",
+"minhhungit/kafka-kraft-cluster-docker-compose"
+]
+}

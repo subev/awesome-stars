@@ -1,0 +1,20 @@
+{
+"meta": {"description":"Curated List of awesome Blockchain and Crytocurrency Resources","defaultBranch":"master","topics":["awesome-list","awesome","bicoin","blockchain","ethereum","smart-contracts","cryptocurrencies","exchanges","mining","dapp"],"readmeSha":"d1564b01f8090f785a649a7eede70ae70469712b"},
+"members": [
+"sindresorhus/awesome",
+"bitcoinbook/bitcoinbook",
+"BTCMarkets/API",
+"BTCTrader/broker-api-docs",
+"binance-exchange/binance-official-api-docs",
+"Coinbene/API-Documents",
+"evbots/dex-protocols",
+"AuroraDAO/idex",
+"AuroraDAO/idex-api-docs",
+"etherdelta/etherdelta.github.io",
+"forkdelta/backend-replacement",
+"ParadexRelayer/Consumer-API-docs",
+"AltCoinExchange/ethatomicswap",
+"LegolasExchange/LegolasToken",
+"MyEtherWallet/myetherapi"
+]
+}

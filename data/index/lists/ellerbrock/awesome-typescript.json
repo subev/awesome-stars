@@ -1,0 +1,28 @@
+{
+"meta": {"description":":star2: A collection of awesome TypeScript resources.","defaultBranch":"master","topics":["typescript"],"readmeSha":"23143a5209ad6b3e91c152faf13af80b95bca16f"},
+"members": [
+"ellerbrock/typescript-badges",
+"ellerbrock/open-source-badges",
+"microsoft/TypeScript",
+"gibbok/typescript-book",
+"microsoft/TypeScript-Sublime-Plugin",
+"TypeStrong/atom-typescript",
+"ananthakumaran/tide",
+"leafgarland/typescript-vim",
+"mrward/typescript-addin",
+"hi104/typescript-playground-on-ace",
+"basarat/TypeScriptEditor",
+"basarat/typescript-collections",
+"fuselabs/jsxtyper",
+"tastejs/todomvc",
+"barbar/vortigern",
+"phusion/passenger",
+"PatrickJS/angular-webpack-starter",
+"palantir/tslint",
+"NativeScript/NativeScript",
+"angular/angular",
+"palantir/plottable",
+"microsoft/vscode",
+"alm-tools/alm"
+]
+}

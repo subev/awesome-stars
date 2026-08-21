@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of awesome Business Process Management (BPM) tools, engines, frameworks, resources and other awesomeness.","defaultBranch":"master","topics":[],"readmeSha":"16719bb3ba9f889e019b176a3417c99759a53f5f"},
+"members": [
+"sindresorhus/awesome",
+"camunda/camunda-bpm-platform",
+"meirwah/awesome-workflow-engines",
+"matthiasgeiger/BPMNspector-fixSeqFlow",
+"benchflow/benchflow",
+"uniba-dsg/betsy",
+"uniba-dsg/BPELlint",
+"uniba-dsg/BPELlint-idea",
+"dluebke/bpelstats",
+"bpmn-io/bpmnlint",
+"uniba-dsg/BPMNspector",
+"uniba-dsg/bpp",
+"dmn-tck/tck"
+]
+}

@@ -1,0 +1,10 @@
+{
+"meta": {"description":"This is a repo with links to everything you'd ever want to learn about data engineering","defaultBranch":"main","topics":["apachespark","awesome","bigdata","data","dataengineering","sql"],"readmeSha":"d4bcb6dbe6d75ad5c9a3cd52785deea83353a466"},
+"members": [
+"apache/hamilton",
+"MigoXLab/dingo",
+"SylphAI-Inc/AdalFlow",
+"langchain-ai/langchain",
+"run-llama/llama_index"
+]
+}

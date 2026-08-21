@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A list of nice hosting providers","defaultBranch":"master","topics":[],"readmeSha":"a8b8009caeb7fe785267268bfd323f4f762a462f"},
+"members": [
+"sindresorhus/awesome",
+"awesome-selfhosted/awesome-selfhosted",
+"drewrwilson/toolsforactivism"
+]
+}

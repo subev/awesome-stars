@@ -1,0 +1,16 @@
+{
+"meta": {"description":":scroll: A curated list of awesome pure CSS resources.","defaultBranch":"master","topics":[],"readmeSha":"2333bc72ba1347f8bc739c25fdd9621476a91e6b"},
+"members": [
+"ConnorAtherton/loaders.css",
+"kazzkiq/balloon.css",
+"pure-css/pure",
+"saeedalipoor/icono",
+"gudh/ihover",
+"marvelapp/devices.css",
+"drublic/css-modal",
+"jaysalvat/image2css",
+"javierbyte/img2css",
+"imsun/CSS-Minesweeper",
+"SLaks/Silon"
+]
+}

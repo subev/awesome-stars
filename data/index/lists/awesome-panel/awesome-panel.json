@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Awesome Panel supports Panel and its users. We want to show how awesome the framework is and help push it forward. ❤️🐍📈 ","defaultBranch":"main","topics":["holoviz","businessinte","machinelearning","deeplearning","python","dataviz","datavisualization","artificialintelligence","dataapps","analytics"],"readmeSha":"8a86b182349b820d66c1f5a8bc2907d25c0eab1c"},
+"members": [
+"holoviz/panel"
+]
+}

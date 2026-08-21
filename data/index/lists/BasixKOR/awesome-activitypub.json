@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Awesome list of ActivityPub based projects","defaultBranch":"main","topics":["activitypub","awesome-list","awesome"],"readmeSha":"7e4a3cbd3870f7bc6d916f24f7d56796d6850411"},
+"members": [
+"syuilo/Misskey.old",
+"Chocobozzz/PeerTube",
+"Plume-org/Plume",
+"rustodon/rustodon",
+"anforaProject/anfora",
+"nextcloud/social",
+"LemmyNet/lemmy",
+"MbinOrg/mbin",
+"ckolderup/postmarks",
+"benbrown/shuttlecraft",
+"hyphacoop/social.distributed.press",
+"hyphacoop/reader.distributed.press",
+"jointakahe/takahe",
+"neodb-social/neodb",
+"bonfire-networks/bonfire-app",
+"tOkeshu/activitypub-example",
+"dsblank/activitypub",
+"rowanlupton/pylodon",
+"dariusk/express-activitypub",
+"snarfed/bridgy-fed",
+"dariusk/rss-to-activitypub"
+]
+}

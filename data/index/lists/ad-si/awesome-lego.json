@@ -1,0 +1,30 @@
+{
+"meta": {"description":"Curated list of awesome LEGO resources","defaultBranch":"main","topics":["awesome","lego","awesome-list","ldraw","lego-cad"],"readmeSha":"1a053f10f4bb5fdaecb4de4c8b813040621e8459"},
+"members": [
+"sindresorhus/awesome",
+"segfault87/Konstruktor",
+"HazenBabcock/opensdraw",
+"joewalnes/toybrick",
+"remig/web_lic",
+"360er0/awesome-lego-machine-learning",
+"dgrant/brickowl2rebrickable",
+"NickAb/ldd-to-ai-swatches",
+"le717/LDR-Importer",
+"segfault87/ldraw.rs",
+"JuanPotato/Legofy",
+"jpgerdeman/minifig-svg-decals",
+"Unitron-Galactic/Tools-Workflows",
+"NateJacobs/Brickset-API",
+"jsonxr/node-ldraw",
+"hobbyquaker/node-movehub",
+"hbmartin/pyldraw3",
+"rioforce/LEGO-Textures",
+"seankross/lego",
+"ScanMountGoat/ldr_wgpu",
+"fuddl/BrickDock",
+"tobetz/LegoMicroscope",
+"ad-si/Brickify",
+"otonribic/milsgen",
+"hugs/bitbeam"
+]
+}

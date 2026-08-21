@@ -1,0 +1,20 @@
+{
+"meta": {"description":"Awesome Open Atmospheric, Ocean, and Climate Science ","defaultBranch":"master","topics":[],"readmeSha":"476d37dbcb7bf0c6e2f2fabdfd7057ef7d7015ac"},
+"members": [
+"sindresorhus/awesome",
+"softwareunderground/awesome-open-geoscience",
+"TEOS-10/GSW-Python",
+"NOAA-EMC/WW3",
+"umwm/umwm",
+"ropensci/rnoaa",
+"wavespectra/wavespectra",
+"csparpa/pyowm",
+"sentinelsat/sentinelsat",
+"cistools/collocate",
+"darothen/xbpch",
+"holoviz/datashader",
+"pangeo-data/pangeo-tutorial",
+"pangeo-data/pangeo-tutorial-sea-2018",
+"prasunkgupta/python-cheat-sheets"
+]
+}

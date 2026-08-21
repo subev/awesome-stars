@@ -1,0 +1,9 @@
+{
+"meta": {"description":"All awesome mev-boost related content","defaultBranch":"main","topics":[],"readmeSha":"bcc506efcf814f59ef9847fe2c80931ac93c2060"},
+"members": [
+"flashbots/mev-boost",
+"ralexstokes/mev-rs",
+"protolambda/mergemock",
+"flashbots/flashbots-data-transparency"
+]
+}

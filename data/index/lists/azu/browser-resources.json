@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Collection of official Resources/Status/Issues for browsers.","defaultBranch":"master","topics":["browser","javascript","resource","awesome","link","changelog","releasenote"],"readmeSha":"10b7b6e51e4133a8f81eb0ab23a72fddd13089c6"},
+"members": [
+"mdn/browser-compat-data"
+]
+}

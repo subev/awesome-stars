@@ -1,0 +1,29 @@
+{
+"meta": {"description":"Links to lose yourself in, curated from HN and other sources","defaultBranch":"master","topics":["python3","awesome","awesome-list"],"readmeSha":"d70d2b95a07ffe1c94defa5a9b490bf224e4f788"},
+"members": [
+"mrdrozdov-github/rabbit-holes",
+"engineerapart/TheRemoteFreelancer",
+"floodsung/Deep-Learning-Papers-Reading-Roadmap",
+"enaqx/awesome-pentest",
+"EbookFoundation/free-programming-books",
+"codepath/android_guides",
+"lukasz-madon/awesome-remote-job",
+"hemanth/functional-programming-jargon",
+"knubie/learning-hoon",
+"danielmiessler/SecLists",
+"cameron/squirt",
+"maduce/fosscad-repo",
+"SamyPesse/How-to-Make-a-Computer-Operating-System",
+"MostlyAdequate/mostly-adequate-guide",
+"CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+"jlevy/the-art-of-command-line",
+"vinta/awesome-python",
+"redecentralize/alternative-internet",
+"Hunter-Github/GitScience",
+"Hunter-Github/awesome-space-books",
+"emijrp/awesome-awesome",
+"bayandin/awesome-awesomeness",
+"sindresorhus/awesome",
+"jnv/lists"
+]
+}

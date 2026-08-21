@@ -1,0 +1,13 @@
+{
+"meta": {"description":":bookmark_tabs: Online machine learning resources","defaultBranch":"master","topics":["awesome","awesome-list","machine-learning","online-machine-learning"],"readmeSha":"a251e519b0e1682ad2910abc266dd777b4bb46bc"},
+"members": [
+"sindresorhus/awesome",
+"PacktPublishing/Machine-Learning-for-Streaming-Data-with-Python",
+"online-ml/river",
+"huawei-noah/streamDM",
+"alipsgh/tornado",
+"VowpalWabbit/vowpal_wabbit",
+"vsoch/django-river-ml",
+"online-ml/chantilly"
+]
+}

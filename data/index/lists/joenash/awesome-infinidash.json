@@ -1,0 +1,16 @@
+{
+"meta": {"description":"An awesome list for the awe-inspiring power of Infinidash, an imaginary product. ","defaultBranch":"main","topics":["awesome","awesome-list","infinidash"],"readmeSha":"f5ef0bf63b672e21f6bd3d3898e80e4b9c83d3fe"},
+"members": [
+"SuperFlyTV/sofie-automation-aws-infinidash",
+"eduardohitek/go-infinidash-sdk",
+"bermannoah/infinidash-ruby",
+"rafaelcaricio/aws-infinidash-rs",
+"davidwhitney/aws-infinidash-sdk",
+"christophejunke/cl-infinidash",
+"jillr/community.aws",
+"oxinabox/AWSInfinidash.jl",
+"Roave/LaravelInfinidash",
+"afstanton/opendash",
+"mattstratton/paid-gnu"
+]
+}

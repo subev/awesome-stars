@@ -1,0 +1,8 @@
+{
+"meta": {"description":"🎉 Personal GNU Emacs configuration","defaultBranch":"master","topics":["advanced","awesome","clean","config","elisp","emacs","emacs-configuration","emacs-lisp","gtd","hydra"],"readmeSha":"1358489f1e9703653c1d93d54a1fabae1bb8ddd5"},
+"members": [
+"jwiegley/use-package",
+"seagle0128/doom-modeline",
+"nordtheme/emacs"
+]
+}

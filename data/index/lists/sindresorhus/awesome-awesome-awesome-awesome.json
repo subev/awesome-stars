@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome lists of awesome lists.","defaultBranch":"main","topics":["awesome","awesome-list","list"],"readmeSha":"d34a02b6b664afdb6cd9f791f9c559affaac503e"},
+"members": [
+"t3chnoboy/awesome-awesome-awesome",
+"sindresorhus/awesome"
+]
+}

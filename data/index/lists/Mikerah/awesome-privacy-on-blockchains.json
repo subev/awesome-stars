@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of privacy on blockchains resources","defaultBranch":"master","topics":["awesome-list","privacy","blockchain","cryptocurrency","p2p","anonymity","confidential","bitcoin","zcash","monero"],"readmeSha":"ca97f5f91781bd15de642afe27aad9c5fa51b46e"},
+"members": [
+"AztecProtocol/aztec-v1",
+"cfromknecht/OZcoin",
+"stellar/slingshot",
+"darkrenaissance/darkfi",
+"lightninglabs/neutrino",
+"seresistvanandras/MixEth",
+"barryWhiteHat/miximus",
+"sontol/RingToken",
+"blackyblack/laundromat",
+"ameensol/privacy-pools",
+"monerobook/monerobook",
+"zcash/zips",
+"matter-labs/awesome-zero-knowledge-proofs",
+"ventali/awesome-zk"
+]
+}

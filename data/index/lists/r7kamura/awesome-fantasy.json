@@ -1,0 +1,15 @@
+{
+"meta": {"description":"A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.","defaultBranch":"master","topics":[],"readmeSha":"df1fbf4ed40a015680b05c124f55a41ba68881c7"},
+"members": [
+"sindresorhus/awesome",
+"crystal-lang/crystal",
+"elixir-lang/elixir",
+"valpackett/httpotion",
+"MithrilJS/mithril.js",
+"ethna/ethna",
+"meteor/meteor",
+"phoenixframework/phoenix",
+"thinkaurelius/titan",
+"devinus/poison"
+]
+}

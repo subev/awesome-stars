@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of wonderful resource links for Jitsi","defaultBranch":"master","topics":["jitsi","jitsi-meet","jitsi-meet-installation","documentation","videoconferencing","jibri","awesome","awesome-list","awesome-lists","awesome-jitsi"],"readmeSha":"14ee0c1c70252f82e5fc5db1ea4676aa5b78f320"},
+"members": [
+"jitsi/handbook",
+"jitsi/docker-jitsi-meet",
+"jitsi/jitsi-meet",
+"webrtc/KITE",
+"christiancuri/Docs",
+"jitsi/jitsi-videobridge",
+"gunschu/jitsi_meet",
+"jitsi/jibri",
+"nvonahsen/jitsi-token-moderation-plugin",
+"gordonmurray/terraform_prometheus_digitalocean",
+"transitive-bullshit/ffmpeg-concat",
+"yolossn/Prometheus-Basics",
+"golang/go"
+]
+}

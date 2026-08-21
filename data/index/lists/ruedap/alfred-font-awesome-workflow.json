@@ -1,0 +1,6 @@
+{
+"meta": {"description":"🎩 Font Awesome workflow for Alfred","defaultBranch":"main","topics":["fontawesome","font-awesome","icons","webfont","font","css","svg-icons","alfred","alfred-workflow","sketch"],"readmeSha":"cb0801a65063312c9438c5ef1263942ba5ebd03e"},
+"members": [
+"ruedap/alfred-bootstrap-icons-workflow"
+]
+}

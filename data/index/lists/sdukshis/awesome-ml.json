@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Machine Learning Awesome List","defaultBranch":"master","topics":[],"readmeSha":"3d4a40ab244ffa80e3d2fa09cf863e92120f93c1"},
+"members": [
+"apache/mxnet",
+"openai/requests-for-research",
+"fonnesbeck/Bios8366",
+"awesomedata/awesome-public-datasets"
+]
+}

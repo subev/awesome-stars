@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Papers : Biological and Artificial Neural Networks","defaultBranch":"master","topics":["artificial-neural-networks","biological-neural-networks","awesome-list","neurosci"],"readmeSha":"7cb38968385d75305e586556641928dfc8403339"},
+"members": [
+"google-research/computation-thru-dynamics",
+"mattgolub/fixed-point-finder",
+"neuroailab/tnn",
+"vicariousinc/science_rcn",
+"dicarlolab/npc",
+"dicarlolab/retinawarp",
+"cycentum/cascaded-am-tuning-for-sound-recognition",
+"google-deepmind/grid-cells",
+"gyyang/multitask",
+"eminorhan/recurrent-memory",
+"fonsc/algonauts",
+"anokland/local-loss",
+"yaliamit/URFB"
+]
+}

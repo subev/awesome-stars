@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome tools/scripts/configs for Awesome Window Manager.","defaultBranch":"master","topics":[],"readmeSha":"616cf7e4dbe326be8b713831c2de5b364a87e624"},
+"members": [
+"sindresorhus/awesome",
+"awesomeWM/awesome",
+"pw4ever/awesome-wm-config",
+"lcpz/awesome-freedesktop",
+"lcpz/awesome-copycats",
+"actionless/awesome_config",
+"worron/awesome-config",
+"4ban/awesome-ban",
+"4ban/awesome-pro",
+"Relz/awesome-wm-theme",
+"chjj/compton",
+"Elv13/radical",
+"atsepkov/awesome-zen",
+"streetturtle/awesome-wm-widgets",
+"lcpz/lain",
+"vicious-widgets/vicious",
+"Maato/volumeicon",
+"pltanton/net_widgets",
+"NuckChorris/assault",
+"ralluri/yawn",
+"cdump/awesome-calendar",
+"alexander-yakushev/Orglendar",
+"optama/awmodoro",
+"proteansec/awesome-scratch",
+"dluksza/screenful",
+"wertarbyte/autorandr",
+"wheatdog/awesome-termgrp",
+"RobSis/treesome"
+]
+}

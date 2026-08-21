@@ -1,0 +1,10 @@
+{
+"meta": {"description":"A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.","defaultBranch":"master","topics":["ai"],"readmeSha":"f51f8e1cdfdfa05cb4cc2ad187599b386961e685"},
+"members": [
+"Sygil-Dev/sygil-webui",
+"pharmapsychotic/clip-interrogator",
+"n00mkrad/cupscale",
+"joeyballentine/chaiNNer",
+"shellward/StablenderDiffusion"
+]
+}

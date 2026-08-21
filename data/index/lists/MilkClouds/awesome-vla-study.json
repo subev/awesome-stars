@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers in reading order.","defaultBranch":"main","topics":[],"readmeSha":"a6aadf75ff911e96e8981931763bb0bd7c894f76"},
+"members": [
+"google-research/rlds",
+"huggingface/lerobot",
+"MilkClouds/vla0-trl",
+"allenai/vla-evaluation-harness",
+"Denghaoyuan123/Awesome-RL-VLA",
+"Jiaaqiliu/Awesome-VLA-Robotics",
+"keon/awesome-physical-ai"
+]
+}

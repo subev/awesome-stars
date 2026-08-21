@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of open source tools for archiving audio & video data for offline usage.","defaultBranch":"master","topics":[],"readmeSha":"89079159223fe6c71bfbd20bdc887ecd8550e2ed"},
+"members": [
+"sindresorhus/awesome",
+"ytdl-org/youtube-dl",
+"mafintosh/download-m3u8",
+"CodeDotJS/instavim",
+"Miserlou/SoundScrape",
+"soimort/you-get"
+]
+}

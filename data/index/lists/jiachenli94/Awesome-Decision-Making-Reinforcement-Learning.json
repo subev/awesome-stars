@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A selection of state-of-the-art research materials on decision making and motion planning.","defaultBranch":"master","topics":["reinforcement-learning","decision-making","autonomous-vehicles","trajectory-planning","algorithms","motion-planning","inverse-reinforcement-learning","motion-control","trajectory-generation","machine-learning"],"readmeSha":"af5d9cedfd358256367d357f5cbfb16f1207e1db"},
+"members": [
+"jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction",
+"YunzhuLi/InfoGAIL",
+"sisl/gail-driver",
+"sisl/ngsim_env",
+"praveen-palanisamy/macad-gym",
+"HubFire/Muti-branch-DDPG-CARLA"
+]
+}

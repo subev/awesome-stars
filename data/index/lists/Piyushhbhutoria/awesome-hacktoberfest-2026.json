@@ -1,0 +1,29 @@
+{
+"meta": {"description":"We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:","defaultBranch":"master","topics":["hacktoberfest","awesome-list","awesome-lists","awesome","meetups","star","open-source","opensource","contribution","2025"],"readmeSha":"087d404059e4780d1fa11dd27be814b952b4047b"},
+"members": [
+"Piyushhbhutoria/awesome-hacktoberfest-2026",
+"AliceWonderland/hacktoberfest",
+"ossamamehmood/Hacktoberfest",
+"Scottcjn/Rustchain",
+"Scottcjn/bottube",
+"Scottcjn/ram-coffers",
+"Scottcjn/llama-cpp-power8",
+"Scottcjn/beacon-skill",
+"Scottcjn/rustchain-bounties",
+"alpi248/data-science-notebook",
+"appwrite/appwrite",
+"Documentive/TemplateBuddy",
+"vinitshahdeo/inspirational-quotes",
+"vinitshahdeo/Water-Monitoring-System",
+"vinitshahdeo/HBD",
+"Atharv-Attri/HacktoberFest-Projects",
+"RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer",
+"cimplec/sim-c",
+"Project-DC/pygeneses",
+"vinitshahdeo/PortScanner",
+"OpenPsiMu/ThePhysicsHub",
+"roc-streaming/roc-toolkit",
+"arc53/DocsGPT",
+"KeyboardNinjas/hacktoberfest-mobileapp"
+]
+}

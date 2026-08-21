@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of awesome MATLAB toolboxes, applications, software and resources.","defaultBranch":"main","topics":[],"readmeSha":"85c34692c8a4e53702e7de37ca002072826cc905"},
+"members": [
+"sindresorhus/awesome",
+"qinwf/awesome-R",
+"matlab-deep-learning/constrained-deep-learning",
+"matlab-deep-learning/llms-with-matlab",
+"matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub",
+"matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples",
+"gibbonCode/GIBBON",
+"markuman/go-redis",
+"rmartinjak/mex-sqlite3",
+"mathworks/dotenv-for-MATLAB",
+"kyamagu/mexopencv",
+"sfikas/zah",
+"zeybek/node-matlab",
+"kreutz-lab/Rcall",
+"jaketmp/matlab-quicklook",
+"manur/MATLAB-git",
+"NeuroJSON/jsonlab",
+"altmany/export_fig",
+"matlab2tikz/matlab2tikz",
+"djoshea/matlab-save-figure",
+"clugen/MOCluGen",
+"redbKIT/redbKIT",
+"MORLab/sssMOR",
+"QuantumComputingLab/qclab",
+"nschloe/matlab-guidelines",
+"cvnlab/knkutils"
+]
+}

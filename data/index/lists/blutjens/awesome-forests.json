@@ -1,0 +1,16 @@
+{
+"meta": {"description":"🌳 A curated list of ground-truth forest datasets for the machine learning and forestry community.","defaultBranch":"main","topics":["machine-learning","forestry","carbon","deep-learning","datasets","ecosystems","biodiversity","climate-change"],"readmeSha":"0fcb69362f2d15ff93abee90c386abfa0c875251"},
+"members": [
+"weecology/NeonTreeEvaluation",
+"norlab-ulaval/PercepTreeV1",
+"juanb09111/FinnForest",
+"gyrrei/ReforesTree",
+"chrieke/awesome-satellite-imagery-datasets",
+"wenhwu/awesome-remote-sensing-change-detection",
+"visipedia/iwildcam_comp",
+"visipedia/inat_comp",
+"patrickcgray/awesome-deep-ecology",
+"sshuair/awesome-gis",
+"RolnickLab/OpenForest"
+]
+}

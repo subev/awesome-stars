@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated list of awesome runbook documents, guidebooks, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list","runbook"],"readmeSha":"af4205eb38f09e4fc4147b5656e275378ac12ec7"},
+"members": [
+"DrDroidLab/PlayBooks",
+"Nurtch/rubix",
+"braintree/runbook",
+"getsavvyinc/savvy-cli",
+"openshift/runbooks",
+"prometheus-operator/runbooks",
+"SkeltonThatcher/run-book-template"
+]
+}

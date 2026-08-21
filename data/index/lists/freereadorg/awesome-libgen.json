@@ -1,0 +1,26 @@
+{
+"meta": {"description":"😎 Awesome list of Library Genesis, the world's largest free library.","defaultBranch":"main","topics":[],"readmeSha":"2923d9860867a8ca4604f6c5ef38677a83ad5821"},
+"members": [
+"nexus-stc/hyperboria",
+"dunn/libgen.js",
+"lgdbdumps/lgdbdumps",
+"adulau/Library-Genesis",
+"manuelvargastapia/libgen_mobile_app",
+"ftruzzi/libgen_uploader",
+"fawazahmed0/libgen-uploader",
+"ciehanski/libgen-cli",
+"obsfx/libgen-downloader",
+"libgenapps/LibgenDesktop",
+"nfd9001/Libgen-Scan",
+"laxyapahuja/bunken",
+"smoqadam/search-in-libgen",
+"audstanley/libgen-tui",
+"gchenfc/sci-hub-now",
+"ethanwillis/zotero-scihub",
+"greenelab/scihub",
+"subdavis/libgen-seedtools",
+"noDRM/DeDRM_tools",
+"ourresearch/oadoi",
+"MengtingWan/goodreads"
+]
+}

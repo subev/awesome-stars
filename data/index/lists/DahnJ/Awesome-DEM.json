@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Overview of Digital Elevation Model (DEM) datasets","defaultBranch":"main","topics":["digital-elevation-model","earth-observation","raster","remote-sensing","list"],"readmeSha":"ee386854942c8ea5cfb1b0d51a4b1fafea33932d"},
+"members": [
+"JohnLeber/NZDEM-HGT-30"
+]
+}

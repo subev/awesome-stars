@@ -1,0 +1,9 @@
+{
+"meta": {"description":":clapper: :mortar_board: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.","defaultBranch":"master","topics":["educational","pycon","video","presentations","knowledge","conferences","awesome","awesome-list"],"readmeSha":"c9e250bdaf1360afc811eec87893732a889e89a2"},
+"members": [
+"s16h/py-must-watch",
+"vinta/awesome-python",
+"JanVanRyswyck/awesome-talks",
+"mam-dev/awesome-tech-talks"
+]
+}

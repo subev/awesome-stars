@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Emacs package to provide out-of-the-box configuration to use tabs.","defaultBranch":"master","topics":[],"readmeSha":"f430a447d3cd0a0d2d3412495ddc796aec97b96b"},
+"members": [
+"jwiegley/use-package",
+"domtronn/all-the-icons.el"
+]
+}

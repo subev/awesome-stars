@@ -1,0 +1,26 @@
+{
+"meta": {"description":"List of tools and techniques for working with relational databases.","defaultBranch":"main","topics":["awesome","awesome-list","database","oracle","postgresql","sql","sql-server"],"readmeSha":"d1bbb97229d10b74069fec90fa90ff05a3af5735"},
+"members": [
+"shlomi-noach/awesome-mysql",
+"dhamaniasad/awesome-postgres",
+"mortenbra/alexandria-plsql-utils",
+"doberkofler/PLSQL-JSON",
+"dbcli/mssql-cli",
+"TaoK/PoorMansTSqlFormatter",
+"quarylabs/sqruff",
+"djberube/sqlaxe",
+"HelgeSverre/sql-splitter",
+"sqlpage/SQLPage",
+"Phildo/pixQL",
+"eralchemy/eralchemy",
+"Borisvl/bigbash",
+"dbcli/pgcli",
+"schemaspy/schemaspy",
+"Mission-Kontrol/MissionKontrol",
+"clidey/whodb",
+"itrummer/thalamusdb",
+"slowql/slowql",
+"ben-nour/SQL-tips-and-tricks",
+"mergisi/sql-syntax-cheat-sheet"
+]
+}

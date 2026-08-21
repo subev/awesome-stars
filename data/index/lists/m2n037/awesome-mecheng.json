@@ -1,0 +1,16 @@
+{
+"meta": {"description":"Awesome Mechanical Engineering Resources","defaultBranch":"master","topics":["engineering","robotics","control-engineering","mechanical-engineering","finite-element-analysis","altair","ansys","lsdyna","unigraphics","mechanics"],"readmeSha":"5357e32f735cba68eb6f706881128be9479fffe5"},
+"members": [
+"EbookFoundation/free-programming-books",
+"EbookFoundation/free-programming-books",
+"jakevdp/PythonDataScienceHandbook",
+"quobit/awesome-python-in-education",
+"jupyter/jupyter",
+"conda-forge/miniforge",
+"mikecroucher/awesome-MATLAB",
+"kiloreux/awesome-robotics",
+"qd-cae/awesome-CAE",
+"tpaviot/oce",
+"CadQuery/cadquery-freecad-workbench"
+]
+}

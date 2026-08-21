@@ -1,0 +1,23 @@
+{
+"meta": {"description":"Curated list of open resources that make our lives as (eco-)hydrologists easier or just more awesome","defaultBranch":"master","topics":[],"readmeSha":"ebe0ebff8a505f0296093a0130aa6186176c4239"},
+"members": [
+"sindresorhus/awesome",
+"chrisleaman/awesome-coastal",
+"pangeo-data/awesome-open-climate-science",
+"softwareunderground/awesome-open-geoscience",
+"RoboDonut/awesome-spatial",
+"raoulcollenteur/Python-Hydrology-Tools",
+"csdms/bmi",
+"environmentalscience/essm",
+"landlab/landlab",
+"csdms/pymt",
+"holoviz/colorcet",
+"davenquinn/geologic-patterns",
+"pyvista/omfvista",
+"OpenGeoVis/PVGeo",
+"pyvista/pyvista",
+"ringmesh/RINGMesh",
+"panodata/dwdweather2",
+"hyriver/pygeohydro"
+]
+}

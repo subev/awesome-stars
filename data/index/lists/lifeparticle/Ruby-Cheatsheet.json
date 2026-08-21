@@ -1,0 +1,14 @@
+{
+"meta": {"description":"💎 The Missing Cheatsheet for Ruby","defaultBranch":"master","topics":["ruby","cheatsheet","awesome","basic","programming","lambdas","loop","range","hash","yield"],"readmeSha":"5f36efa24c61a4ef07edecb35f18084272550edf"},
+"members": [
+"microsoft/winget-cli",
+"rbenv/rbenv",
+"soveran/cuba",
+"voltrb/volt",
+"patriciomacadden/hobbit",
+"Yegorov/awesome-ruby-blogs",
+"jakewmeyer/Ruby-Scripts",
+"markets/awesome-ruby",
+"dreikanter/ruby-bookmarks"
+]
+}

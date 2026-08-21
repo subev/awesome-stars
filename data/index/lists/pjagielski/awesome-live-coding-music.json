@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of awesome Live Coding Music frameworks, libraries and software.","defaultBranch":"master","topics":["awesome-list","live-coding","music"],"readmeSha":"e90128df6b1c2882eee621dfb51c20a464424129"},
+"members": [
+"sindresorhus/awesome",
+"supercollider/supercollider",
+"sonic-pi-net/sonic-pi",
+"overtone/overtone",
+"tidalcycles/Tidal",
+"alda-lang/alda",
+"gibber-cc/gibber",
+"digego/extempore",
+"Qirky/FoxDot",
+"hundredrabbits/Orca",
+"pjagielski/punkt",
+"Gwion/Gwion",
+"ctford/klangmeister",
+"ctford/leipzig",
+"pjagielski/disclojure",
+"josephwilk/mud",
+"toplap/awesome-livecoding"
+]
+}

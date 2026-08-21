@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥","defaultBranch":"main","topics":["chatgpt","computer-vision","openai","classification","clip","zero-shot","grounding-dino","open-vocabulary-detection","open-vocabulary-segmentation","segment-anything"],"readmeSha":"68d0c8f37e38b19365cb86a9c20a123afcf8fb67"},
+"members": [
+"microsoft/SoM",
+"Jiayi-Pan/GPT-V-on-Web",
+"abi/screenshot-to-code",
+"roboflow/gpt-checkup"
+]
+}

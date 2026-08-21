@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A list of learning materials to understand databases internals","defaultBranch":"master","topics":["awesome-list","database","course","papers","books","blogs","awesome"],"readmeSha":"268352a1964c33c619740ec66aab6039ee5f8e09"},
+"members": [
+"Vonng/ddia",
+"pivotal/blog",
+"learnedsystems/RadixSpline",
+"gvinciguerra/PGM-index"
+]
+}

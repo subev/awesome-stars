@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.","defaultBranch":"main","topics":["ai","awesome-list","climate","green-ai","green-software","sustainability","sustainable-ai","deep-learning","machine-learning"],"readmeSha":"e3cf1ef8c61e9e96b434d91b576358f18b9d14b1"},
+"members": [
+"mlco2/codecarbon",
+"saintslab/carbontracker",
+"sb-ai-lab/Eco2AI",
+"mlco2/ecologits",
+"fvaleye/tracarbon",
+"GreenAI-Uppa/AIPowerMeter",
+"Breakend/experiment-impact-tracker",
+"GreenAITorch/GATorch",
+"autoai-incubator/powermeter",
+"powerapi-ng/pyJoules",
+"hubblo-org/scaphandre",
+"joular/powerjoular",
+"alumet-dev/alumet",
+"Root-Branch/cardamon-core",
+"Boavizta/boagent",
+"green-kernel/powerletrics",
+"davidson-consulting/vjoule",
+"mahendrapaipuri/jupyter-power-usage",
+"geopm/geopm",
+"SotaroKaneda/MLCarbon",
+"Boavizta/boaviztapi",
+"greenscale-ai/genai-carbon-footprint",
+"sophia-falk/more-than-carbon"
+]
+}

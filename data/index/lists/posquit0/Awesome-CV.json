@@ -1,0 +1,9 @@
+{
+"meta": {"description":":page_facing_up: Awesome CV is LaTeX template for your outstanding job application","defaultBranch":"master","topics":["tex","overleaf","sharelatex","pdf","resume","cv","coverletter","latex","latex-template","awesome"],"readmeSha":"cb967da1906fd1a3037820107ead85a8edd3e088"},
+"members": [
+"braniii/fontawesome",
+"googlefonts/roboto-2",
+"adobe-fonts/source-sans",
+"posquit0/hugo-awesome-identity"
+]
+}

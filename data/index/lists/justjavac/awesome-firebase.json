@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Awesome Firebase: Firebase 相关文章索引","defaultBranch":"master","topics":["firebase","angularjs-firebase","firebase-grunt","firebase-javascript","python-firebase"],"readmeSha":"7ef97b8f977fb28e0a66be9c5638c82a5dff0fb8"},
+"members": [
+"justjavac/json-api-zh_CN",
+"unifapi-agent/agents",
+"balderdashy/sails",
+"firebase/firebase-tools",
+"doowb/grunt-firebase",
+"FirebaseExtended/angularfire",
+"oscardelben/firebase-ruby",
+"ozgur/python-firebase",
+"FirebaseExtended/firechat",
+"FirebaseExtended/emberfire",
+"googlearchive/firereader",
+"FirebaseExtended/reactfire",
+"dstaley/realtime-hacker-news"
+]
+}

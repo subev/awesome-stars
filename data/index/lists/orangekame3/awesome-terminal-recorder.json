@@ -1,0 +1,20 @@
+{
+"meta": {"description":"🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.","defaultBranch":"main","topics":["awesome","awesome-list","cli","terminal"],"readmeSha":"73c5fed66d9fe893ff874aae96ddf6690ce7fd96"},
+"members": [
+"sindresorhus/awesome",
+"asciinema/agg",
+"asciinema/asciinema",
+"charmbracelet/vhs",
+"faressoft/terminalizer",
+"orhun/menyoki",
+"sassman/t-rec-rs",
+"nbedos/termtosvg",
+"icholy/ttygif",
+"chjj/ttystudio",
+"cortezcristian/terminal-recorder",
+"elisescu/tty-record",
+"getsavvyinc/savvy-cli",
+"rewindtty/rewindtty",
+"util-linux/util-linux"
+]
+}

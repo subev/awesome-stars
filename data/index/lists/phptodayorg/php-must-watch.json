@@ -1,0 +1,7 @@
+{
+"meta": {"description":"list of interesting conference talks and videos on PHP - ","defaultBranch":"master","topics":["php","conference-talk","awesome-list","awesome"],"readmeSha":"3edee5ef1a8f36ea9526062b8d8785e2fdc585c0"},
+"members": [
+"bolshchikov/js-must-watch",
+"symfony-si/symfony-must-watch"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome resources related to feature flagging & management 🚩","defaultBranch":"main","topics":["awesome","awesome-list","feature-flagging","feature-flags","feature-management"],"readmeSha":"0ac98f8c23b47306a164554aa13c9090eef12555"},
+"members": [
+"tdeekens/flopflip",
+"tompave/fun_with_flags"
+]
+}

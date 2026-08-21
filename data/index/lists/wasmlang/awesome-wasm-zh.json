@@ -1,0 +1,24 @@
+{
+"meta": {"description":"WebAssembly(wasm)资源精选","defaultBranch":"master","topics":["wasm","webassembly","awesome","awesome-wasm","awesome-wasm-cn","awesome-list"],"readmeSha":"ca9eb2c441ced75c3fb17f2507d60d6bb2ca38f0"},
+"members": [
+"wa-lang/wa",
+"mbasso/awesome-wasm",
+"WebAssembly/spec",
+"3dgen/cppwasm-book",
+"LuisHsu/WasmVM",
+"WAVM/WAVM",
+"perlin-network/life",
+"akupila/go-wasm",
+"gate-computer/wag",
+"dotnet/blazor",
+"AssemblyScript/assemblyscript",
+"golang/go",
+"dave/wasmgo",
+"i-net-software/JWebAssembly",
+"konsoletyper/teavm",
+"rustwasm/book",
+"appcypher/awesome-wasm-langs",
+"damoebius/HaxeBench",
+"elliotforbes/oak"
+]
+}

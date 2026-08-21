@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cloud-native","cncf","deep-learning","devops","kubeflow","kubeflow-pipelines","kubernetes"],"readmeSha":"104f8b4eef28f2f20c3a653968a97da0139e80b0"},
+"members": [
+"kubeflow/kubeflow",
+"kubeflow/katib",
+"kubeflow/pipelines",
+"kubeflow/trainer",
+"kubeflow/arena",
+"argoproj/argo-workflows",
+"couler-proj/couler",
+"deployKF/deployKF",
+"kubeflow/kale",
+"kedro-org/kedro",
+"kserve/kserve",
+"mlrun/mlrun",
+"VertaAI/modeldb",
+"polyaxon/polyaxon",
+"SeldonIO/seldon-core",
+"sql-machine-learning/sqlflow",
+"zenml-io/zenml",
+"elyra-ai/elyra",
+"Cloud-Pipelines/pipeline-editor",
+"kubestellar/console",
+"terrytangyuan/distributed-ml-patterns",
+"terrytangyuan/public-talks",
+"kubeflow/community"
+]
+}

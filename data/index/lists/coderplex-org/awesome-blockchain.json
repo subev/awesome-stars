@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A curated list of awesome Blockchain, Bitcoin and Ethereum related resources","defaultBranch":"master","topics":[],"readmeSha":"147d0b300926dfd6093fe8cfc9f386208fef84b0"},
+"members": [
+"sindresorhus/awesome",
+"blockai-unofficial/openpublish",
+"OpenAssets/open-assets-protocol",
+"Scanate/EthList"
+]
+}

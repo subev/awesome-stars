@@ -1,0 +1,10 @@
+{
+"meta": {"description":"This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!","defaultBranch":"main","topics":["chatgpt","chatgpt-api","free-chatgpt-4","free-gpt4","gpt","gpt-4","gpt4-api","piss","ai","awesome-list"],"readmeSha":"519be1365dfcf0c7aa1f0e7230308ef3cea3cd4f"},
+"members": [
+"zukijourney/example-api",
+"zukijourney/api-oss",
+"snowby666/poe-api-wrapper",
+"xtekky/gpt4free",
+"OEvortex/llm4free"
+]
+}

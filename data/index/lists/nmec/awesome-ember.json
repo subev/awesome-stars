@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome Ember.js things","defaultBranch":"master","topics":[],"readmeSha":"6e1fc8edd31e438e1c80d88bad312e59903a4c30"},
+"members": [
+"sindresorhus/awesome",
+"bayandin/awesome-awesomeness",
+"emberjs/ember-inspector",
+"bmac/ember-data-sails-adapter",
+"HeyHumanAgency/Ember-Data-WordPress",
+"mike-north/ember-perf",
+"eoinkelly/ember-runloop-handbook",
+"emberjs/ember.js",
+"adopted-ember-addons/ember-cli-flash",
+"yapplabs/ember-modal-dialog",
+"AnyChart/AnyChart-Ember",
+"yapplabs/ember-tether",
+"yapplabs/ember-wormhole",
+"kimroen/ember-cli-autoprefixer"
+]
+}

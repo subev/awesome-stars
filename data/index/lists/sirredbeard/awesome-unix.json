@@ -1,0 +1,33 @@
+{
+"meta": {"description":"All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.","defaultBranch":"main","topics":["unix","linux","bsd","solaris","unix-philosophy","posix","plan9","devuan","macos","awesome"],"readmeSha":"ba23871542a9c24327e3c15ba28d3625b0445362"},
+"members": [
+"oasislinux/oasis",
+"minoca/os",
+"brho/akaros",
+"klange/toaruos",
+"jlevy/the-art-of-command-line",
+"herrbischoff/awesome-command-line-apps",
+"inputsh/awesome-c",
+"ctjhoa/rust-learning",
+"rust-unofficial/awesome-rust",
+"rigtorp/awesome-modern-cpp",
+"matteocrippa/awesome-swift",
+"hardikvasa/awesome-programming",
+"bayandin/awesome-awesomeness",
+"pwittchen/learning-fortran",
+"rabbiabram/awesome-fortran",
+"CodementorIO/Python-Learning-Resources",
+"vinta/awesome-python",
+"dspinellis/unix-history-repo",
+"kahun/awesome-sysadmin",
+"jaywcjlove/awesome-mac",
+"herrbischoff/awesome-macos-command-line",
+"us/mocker",
+"DiscoverBSD/awesome-bsd",
+"ligurio/awesome-openbsd",
+"FabioLolix/BSD-Timeline",
+"luong-komorebi/Awesome-Linux-Software",
+"inputsh/awesome-linux",
+"FabioLolix/LinuxTimeline"
+]
+}

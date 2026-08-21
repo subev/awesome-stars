@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of awesome Snips projects","defaultBranch":"master","topics":[],"readmeSha":"aff80069d79410bb9e949a6872824ebb82eba9f8"},
+"members": [
+"sindresorhus/awesome",
+"snipsco/snips-skill-hue-pro",
+"thomas-bouvier/hermod-action-yeelight",
+"Martin1887/snips-skill-yeelight",
+"andrenatal/voice-addon",
+"snipsco/snips-app-sonos",
+"acolytec3/mopidy-mqtt",
+"benoit-cty/snips_bebop",
+"snipsco/snips-skill-owm",
+"snipsco/snips-skill-fakeweather",
+"hcooper/overhead",
+"snipsco/snipsmanager",
+"Psychokiller1888/satConnect",
+"uchagani/snips-enable-sounds",
+"todschmidt/homeassistant-config",
+"hcooper/snips-tts-polly",
+"Psychokiller1888/snips-custom-hotword",
+"project-alice-assistant/HermesLedControl",
+"syntithenai/opensnips",
+"Psychokiller1888/snipsvelux",
+"Psychokiller1888/snipslanghotswap",
+"Psychokiller1888/SnipsArbitraryTextCapture",
+"pylapp/tapsterbot",
+"Psychokiller1888/SnipsSonosInvader",
+"Psychokiller1888/snipsSamless"
+]
+}

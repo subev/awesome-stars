@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A collection of pre-trained StyleGAN 2 models to download ","defaultBranch":"master","topics":[],"readmeSha":"e28f46c45aa73b1f593b2611ed16d982440e21a0"},
+"members": [
+"NVlabs/stylegan2",
+"justinpinkney/awesome-pretrained-stylegan3",
+"justinpinkney/awesome-pretrained-stylegan",
+"justinpinkney/stylegan2",
+"pbaylies/stylegan2",
+"mit-han-lab/data-efficient-gans",
+"justinpinkney/data-efficient-gans",
+"NVlabs/stylegan"
+]
+}

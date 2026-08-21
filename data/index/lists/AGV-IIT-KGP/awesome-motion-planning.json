@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of Resources for Motion Planning","defaultBranch":"master","topics":[],"readmeSha":"cb5c658134bef75e5708528eab63d3f17b8933b8"},
+"members": [
+"sbpl/sbpl",
+"aurone/smpl"
+]
+}

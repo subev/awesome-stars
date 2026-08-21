@@ -1,0 +1,18 @@
+{
+"meta": {"description":"Useful resources and samples for using Clang-related tools, or for building stuff on top of Clang.","defaultBranch":"master","topics":[],"readmeSha":"b4a19ef3143e65977afbc689c23bfb3cdb2d2904"},
+"members": [
+"sindresorhus/awesome",
+"Ericsson/codechecker",
+"haoNoQ/clang-analyzer-guide",
+"andreasfertig/cppinsights",
+"Caphyon/clang-power-tools",
+"eliben/llvm-clang-samples",
+"neolynx/lloccount",
+"cppit/libclangmm",
+"cppit/jucipp",
+"mapbox/cncc",
+"Sarcasm/irony-mode",
+"libav/c99-to-c89",
+"macmade/ClangKit"
+]
+}

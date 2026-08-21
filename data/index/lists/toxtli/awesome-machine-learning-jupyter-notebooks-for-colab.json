@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory","defaultBranch":"master","topics":["awesome","awesome-list","awesome-lists","machine-learning","deep-learning","jupyter-notebook","jupyter-notebooks"],"readmeSha":"1f15ca59cbde81d6d28cbc125258cd96ebe229e8"},
+"members": [
+"sindresorhus/awesome"
+]
+}

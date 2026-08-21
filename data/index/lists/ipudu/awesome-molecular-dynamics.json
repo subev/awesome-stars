@@ -1,0 +1,18 @@
+{
+"meta": {"description":":sunglasses: A curated list of awesome Molecular Dynamics libraries, tools and software.","defaultBranch":"master","topics":["awesome-list","molecular-dynamics"],"readmeSha":"cf376647dd061b80258811391f59349bb03cd374"},
+"members": [
+"Allen-Tildesley/examples",
+"gromacs/gromacs",
+"glotzerlab/hoomd-blue",
+"i-pi/i-pi",
+"lammps/lammps",
+"openmm/openmm",
+"pyiron/pyiron",
+"TinkerTools/tinker",
+"Amber-MD/cpptraj",
+"glotzerlab/freud",
+"nglviewer/nglview",
+"cryos/avogadro",
+"glotzerlab/plato"
+]
+}

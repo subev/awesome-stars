@@ -1,0 +1,6 @@
+{
+"meta": {"description":"The official implementation of the ACM MM'21 paper Co-learning: Learning from noisy labels with self-supervision.","defaultBranch":"master","topics":["awesome-list","benchmark","cifar10","cifar100","contrastive-learning","deep-learning","label-noise","noisy-label-learning","noisy-labels","pytorch"],"readmeSha":"d57b6863794161a0724e30f3b42289fcab52c25a"},
+"members": [
+
+]
+}

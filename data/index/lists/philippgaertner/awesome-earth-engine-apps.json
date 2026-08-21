@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A collection of all public Google Earth Engine Apps. ","defaultBranch":"main","topics":["google-earth-engine","earth-engine","apps"],"readmeSha":"6e69e9b060b643135aa09f2cab4435863357519a"},
+"members": [
+"sindresorhus/awesome"
+]
+}

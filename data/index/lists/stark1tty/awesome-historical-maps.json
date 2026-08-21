@@ -1,0 +1,26 @@
+{
+"meta": {"description":"Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gis","historical","historical-data","historical-documents","historical-maps","history","map"],"readmeSha":"d0f4aecfd4bc78a53e356bf9a331b6de7258278b"},
+"members": [
+"kaorahi/patched-historical-atlas",
+"Riksarkivet/tora",
+"timwaters/mapwarper",
+"johannesuhl/hironex",
+"maps-as-data/MapReader",
+"docuracy/desCartes",
+"EVS-GIS/hmvt-cli",
+"zackbatist/open-archaeo",
+"dh-tech/awesome-digital-humanities",
+"sshuair/awesome-gis",
+"totpero/awesome-qgis",
+"esri-es/awesome-arcgis",
+"acgeospatial/awesome-earthobservation-code",
+"opengeos/Awesome-GEE",
+"tmcw/awesome-geojson",
+"sacridini/Awesome-Geospatial",
+"chrieke/awesome-geospatial-companies",
+"softwareunderground/awesome-open-geoscience",
+"wenhwu/awesome-remote-sensing-change-detection",
+"chrieke/awesome-satellite-imagery-datasets",
+"mapbox/awesome-vector-tiles"
+]
+}

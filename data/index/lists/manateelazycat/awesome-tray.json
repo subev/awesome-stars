@@ -1,0 +1,13 @@
+{
+"meta": {"description":"Hide mode-line, display necessary information at right of minibuffer.","defaultBranch":"master","topics":[],"readmeSha":"7bc279b020eec7ff020f3280beb17282603a6d8c"},
+"members": [
+"manateelazycat/awesome-tab",
+"gabesoft/evil-mc",
+"magnars/multiple-cursors.el",
+"mpdel/libmpdel",
+"dbrock/volume.el",
+"emacsorphanage/anzu",
+"jwiegley/emacs-async",
+"magit/ghub"
+]
+}

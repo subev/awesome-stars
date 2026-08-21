@@ -1,0 +1,26 @@
+{
+"meta": {"description":" A curated list of awesome AST resources","defaultBranch":"master","topics":[],"readmeSha":"a1d8d37acd7070d8d803b6a7088e37f0ddf0654a"},
+"members": [
+"sindresorhus/awesome",
+"estree/estree",
+"jquery/esprima",
+"acornjs/acorn",
+"babel/babylon",
+"eslint/js",
+"shapesecurity/shift-parser-js",
+"estools/estraverse",
+"estools/esquery",
+"dependents/node-source-walk",
+"dustinspecker/awesome-eslint",
+"babel/babel",
+"babel/awesome-babel",
+"jamiebuilds/babel-handbook",
+"codemod-js/codemod",
+"facebook/jscodeshift",
+"sejoker/awesome-jscodeshift",
+"cpojer/js-codemod",
+"estools/escodegen",
+"benjamn/recast",
+"JamieMason/astexplorer.app"
+]
+}

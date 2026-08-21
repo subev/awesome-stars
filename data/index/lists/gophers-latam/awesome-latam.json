@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Colección de contenidos y recursos en Español para desarrolladores de Golang. Awesome oficial: https://awesome-go.com","defaultBranch":"main","topics":["recursos","awesome-go","golang","comunidades","aprendizaje","discord","go"],"readmeSha":"518109149c073672e352145fa6b41350098a797f"},
+"members": [
+"golang/go",
+"avelino/awesome-go",
+"lggomez/go-talks",
+"golang/benchmarks",
+"teivah/100-go-mistakes",
+"TheAlgorithms/Go",
+"gophers-mx/recursos"
+]
+}

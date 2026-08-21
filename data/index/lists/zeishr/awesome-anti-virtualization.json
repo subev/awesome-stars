@@ -1,0 +1,22 @@
+{
+"meta": {"description":"A curated list of awesome resources related to anti virtualization techniques","defaultBranch":"main","topics":["anti-virtualization","antivm","antivmdetection","awesome","awesome-list","list","security"],"readmeSha":"a5b6d779a813f228d1e7d210d45768e4a451a5b5"},
+"members": [
+"zeishr/awesome-anti-virtualization",
+"momo5502/ept-hook-detection",
+"NotRequiem/VMAware",
+"HyperDbg/slides",
+"a0rtega/pafish",
+"hfiref0x/VMDE",
+"void-stack/Hypervisor-Detection",
+"ayoubfaouzi/al-khaser",
+"memN0ps/illusion-rs",
+"nsmfoo/antivmdetection",
+"CheckPointSW/InviZzzible",
+"Print3M/Anti-VM",
+"vim951/apate",
+"PicoJr/inside-vm",
+"KiExitDispatcher/GoDefender",
+"rapid7/metasploit-framework",
+"systemd/systemd"
+]
+}

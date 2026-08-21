@@ -1,0 +1,19 @@
+{
+"meta": {"description":"Carefully curated list of projects and resources for the voice assistant Rhasspy","defaultBranch":"master","topics":["awesome-list","awesome","rhasspy","voice","voice-assistant","open-source","voice-apps","voice-commands","voice-control","offline"],"readmeSha":"e6b3f6f4476042f05569e4667a97552cf7bfd2bf"},
+"members": [
+"fhem/fhem-rhasspy",
+"JarvyJ/HomeIntent",
+"daniele-athome/hass-config",
+"patrickjane/hss-server",
+"patrickjane/hss-skill",
+"patrickjane/node-hss-skill",
+"rhasspy/rhasspy-hermes",
+"Daenara/rhasspy_weather",
+"Romkabouter/ESP32-Rhasspy-Satellite",
+"razzo04/rhasspy-mobile-app",
+"project-alice-assistant/HermesLedControl",
+"Rayz224/rhasspy-IBMWatson",
+"Daenara/rhasspy_save_wakeword",
+"cedcox/rhasspy-watch"
+]
+}

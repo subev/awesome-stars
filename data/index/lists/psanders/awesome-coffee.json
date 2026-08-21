@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Awesome-coffee is a curated list of resources to help people make the most of each day.","defaultBranch":"main","topics":["software-engineering","cold-shower","productivity","stress-management"],"readmeSha":"43d98ccc938f5dc097ee4f511dafe2eae30d99f6"},
+"members": [
+"sindresorhus/awesome"
+]
+}

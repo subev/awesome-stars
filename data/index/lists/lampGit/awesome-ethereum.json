@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome Ethereum Ressources","defaultBranch":"master","topics":[],"readmeSha":"fdf4e1fffcef1aea56d2acfeae6c2da4dc5ca119"},
+"members": [
+"sindresorhus/awesome",
+"avelino/awesome-go",
+"lampGit/awesome-ethereum",
+"ethereum/ethereum-org",
+"ethereum/aleth",
+"ethereum/go-ethereum",
+"ethereum/ethereumj",
+"ethereum/node-ethereum",
+"ethereum/pyethereum",
+"ethereum/mist",
+"web3/web3.js"
+]
+}

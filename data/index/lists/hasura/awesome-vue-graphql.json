@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated collection of resources, clients and tools that make working with `GraphQL and Vue.js` awesome","defaultBranch":"master","topics":["hasura","graphql","vuejs","vue-graphql","awesome-list"],"readmeSha":"7514baaaf1a5fac164f563617069c44808c5ffce"},
+"members": [
+"sindresorhus/awesome",
+"aws-amplify/amplify-js",
+"apollographql/apollo-tooling",
+"dotansimha/graphql-code-generator",
+"apollographql/eslint-plugin-graphql",
+"vuejs/devtools-v6",
+"apollographql/apollo-client-devtools",
+"graphql/graphql-playground",
+"hasura/graphql-engine",
+"graphql-boilerplates/vue-fullstack-graphql",
+"amazon-archives/aws-amplify-vue",
+"apollographql/apollo-link-state"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php.","defaultBranch":"master","topics":[],"readmeSha":"6c3c166148d9f818600992c837385e9fbe1e7c3d"},
+"members": [
+"sindresorhus/awesome"
+]
+}

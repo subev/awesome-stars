@@ -1,0 +1,16 @@
+{
+"meta": {"description":":sparkler: Compilation of the best resources to learn programming OpenGL Shaders","defaultBranch":"master","topics":["opengl","glsl","glsl-shader","fragment-shader","vertex-shaders","computer-graphics","creative-coding","webgl","html5","graphics-programming"],"readmeSha":"d756ed27eff1e06a37e1cadd13a018f6220f4fa0"},
+"members": [
+"sjfricke/awesome-webgl",
+"eug/awesome-opengl",
+"stackgl/shader-school",
+"mattdesl/lwjgl-basics",
+"lettier/3d-game-shaders-for-beginners",
+"patriciogonzalezvivo/glslViewer",
+"jwurzer/glslScene",
+"jbhuang0604/awesome-computer-vision",
+"vinjn/awesome-vulkan",
+"ellisonleao/magictools",
+"mattdesl/graphics-resources"
+]
+}

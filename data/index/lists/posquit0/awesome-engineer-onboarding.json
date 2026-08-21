@@ -1,0 +1,10 @@
+{
+"meta": {"description":"😎 A curated list of awesome resources for engineer onboarding","defaultBranch":"master","topics":["awesome","awesome-list","engineer-onboarding","onboarding","engineering-management","engineering-team","engineering-practice","engineering-managers","awesome-engineer"],"readmeSha":"076ee3346243a1176ba1232d44ca720012ef693a"},
+"members": [
+"ellerbrock/open-source-badges",
+"greenelab/onboarding",
+"actionjack/so-you-want-to-onboard-a-devops-engineer",
+"posquit0/awesome-engineering-team-principles",
+"posquit0/awesome-engineering-ladders"
+]
+}

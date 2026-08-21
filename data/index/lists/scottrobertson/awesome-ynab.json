@@ -1,0 +1,27 @@
+{
+"meta": {"description":"A list of awesome YNAB projects. A lot of these projects use the YNAB API, and can be used to improve your YNAB experience.","defaultBranch":"main","topics":[],"readmeSha":"802009281749f0575e273ebe940f9199971606e3"},
+"members": [
+"samdenty/ynab-amazon-gappscript-sync",
+"GraysonCAdams/amazon-ynab-sync",
+"GraysonCAdams/amex-ynab-import",
+"bank2ynab/bank2ynab",
+"wesselt/bunq2ynab",
+"plmrph/budget-helper",
+"syncforynab/fintech-to-ynab",
+"NikolaInvernizzi/GoCardlessToYnabSync",
+"krachtstefan/moneymoney2ynab",
+"ivallesp/N26-to-YNAB",
+"RelicCornhusk/partner-split-for-ynab",
+"ljb2of3/ynab-sms",
+"akashpjames/sms-import-for-ynab",
+"toolkit-for-ynab/toolkit-for-ynab",
+"samdenty/ynab-trading212-sync",
+"nielsmaerten/ynab-buddy",
+"DeLuca21/ynab-ha",
+"jaboc83/ynab-sdk-dotnetcore",
+"SathyaBhat/ynab-weekly-wrap",
+"troylar/ynab-a-day",
+"ivallesp/YNAB-reporter",
+"sindresorhus/awesome"
+]
+}

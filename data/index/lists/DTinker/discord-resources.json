@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of awesome Discord modding resources","defaultBranch":"master","topics":["discord","css","awesome-list","discord-theme"],"readmeSha":"0ae1f6326eb8957f5f5c09e51deed0de3ade6e59"},
+"members": [
+"sindresorhus/awesome",
+"Blackhippy/HpstrDiscord",
+"polyjitter/Discord-Prism",
+"jakeoid/Discord-Adapta",
+"oliyy/Material-Design-Discord",
+"SamuiNe/Crystalline-css",
+"Snazzah/BeautifulDiscordThemes",
+"TheBITLINK/Discord-Adapta",
+"ProbablyGallium/beautifuldiscord-nametags",
+"jakeoid/disccord",
+"jakeoid/discord-emoji-anim",
+"Pitu/cozy-discord",
+"Martmists-GH/Discord-DnD",
+"PikaDude/Discord-Fade-Anims",
+"Ratismal/pink-hljs",
+"Snazzah/BeautifulDiscordSnippets"
+]
+}

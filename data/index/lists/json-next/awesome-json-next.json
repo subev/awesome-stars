@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More","defaultBranch":"master","topics":["json","json5","son","hjson","opendata","data","txt","metadata","hanson","cson"],"readmeSha":"51139f0bbe28833580adef22875974b0b548e9e3"},
+"members": [
+"json5/json5",
+"timjansen/hanson",
+"aleksandergurin/simple-object-notation",
+"lifthrasiir/cson",
+"bevry/cson",
+"burningtree/uson",
+"lightbend/config",
+"hashicorp/hcl",
+"vstakhov/libucl",
+"henry-luo/mark",
+"burningtree/awesome-json"
+]
+}

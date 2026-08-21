@@ -1,0 +1,33 @@
+{
+"meta": {"description":"📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).","defaultBranch":"master","topics":["awesome","relation-extraction","relation-classification","distant-supervision","deep-learning","natural-language-processing","nlp","paper","machine-learning","semeval-2010"],"readmeSha":"ad1228d31e4c7de1326468be8284f20db11fd16e"},
+"members": [
+"keon/awesome-nlp",
+"kjw0612/awesome-deep-vision",
+"roomylee/cnn-relation-extraction",
+"pratapbhanu/CRCNN",
+"nicolay-r/mlp-attention",
+"dgai91/pytorch-acnn-model",
+"SeoSangwoo/Attention-Based-BiLSTM-relation-extraction",
+"roomylee/entity-aware-relation-classification",
+"pratapbhanu/MVRNN",
+"Sshanu/Relation-Classification-using-Bidirectional-LSTM-Tree",
+"XueFuzhao/GDPNet",
+"ansonb/RECON",
+"nicolay-r/sentiment-pcnn",
+"may-/cnn-re-tf",
+"thunlp/OpenNRE",
+"desh2608/crnn-relation-classification",
+"kwonmha/Convolutional-Recurrent-Neural-Networks-for-Relation-Extraction",
+"thunlp/HNRE",
+"malllabiisc/RESIDE",
+"ZhixiuYe/Intra-Bag-and-Inter-Bag-Attentions",
+"studio-ousia/luke",
+"facebookresearch/SpanBERT",
+"DFKI-NLP/TRE",
+"nadgeri14/KGPool",
+"ProKil/FewRel",
+"4AI/TDEER",
+"nicolay-r/AREkit",
+"ims-tcl/DeRE"
+]
+}

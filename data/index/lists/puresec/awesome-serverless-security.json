@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.","defaultBranch":"master","topics":["serverless-applications","serverless-architectures","security","aws-lambda","azure-function-apps","google-cloud-functions","ibm-cloud-functions","awesome"],"readmeSha":"1f7224ce451764c525b2f360c17acdde1fc65ddb"},
+"members": [
+"aws-samples/aws-serverless-security-workshop",
+"google/gvisor"
+]
+}

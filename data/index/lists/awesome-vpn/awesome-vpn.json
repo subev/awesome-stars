@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入","defaultBranch":"master","topics":["v2ray","gfw","shadowsocks","free","fanqiang","ss","trojan","geopolitics","vless","vmess"],"readmeSha":"ff5dc2e96c50c754ab98b96def2c00c49d266a45"},
+"members": [
+"2dust/v2rayN",
+"clash-verge-rev/clash-verge-rev",
+"v2rayA/v2rayA",
+"2dust/v2rayNG",
+"SagerNet/sing-box"
+]
+}

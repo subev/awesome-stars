@@ -1,0 +1,7 @@
+{
+"meta": {"description":"An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!","defaultBranch":"master","topics":["awesome","awesome-list","agile","agile-methodologies","agile-development","agile-integration","scrum","scrum-agile","kanban","product-management"],"readmeSha":"4284a7592a1925f7d8428d3fc9965f9be40a5934"},
+"members": [
+"sindresorhus/awesome",
+"rubymorillo/pocket-scrum-self-study-list"
+]
+}

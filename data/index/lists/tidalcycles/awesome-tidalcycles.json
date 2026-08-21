@@ -1,0 +1,25 @@
+{
+"meta": {"description":"List of awesome things related to the live coding system TidalCycles and its close relatives","defaultBranch":"main","topics":[],"readmeSha":"436c58a8ea4bff9be4a25ce6f3b8ac083eed75fd"},
+"members": [
+"tidalcycles/tidal-doc",
+"ShaiRosenblit/tidal-sound-explorer",
+"musikinformatik/SuperDirt",
+"tidalcycles/Dirt",
+"thgrund/SuperDirtMixer",
+"thgrund/tidal-looper",
+"thgrund/TidalVST",
+"diegovdc/piratidal",
+"XiNNiW/tranquility",
+"tidalcycles/vortex",
+"tidalcycles/Dirt-Samples",
+"tidalcycles/Clean-Samples",
+"geikha/tidal-drum-machines",
+"toplap/awesome-livecoding",
+"terkelg/awesome-creative-coding",
+"willianjusten/awesome-audio-visualization",
+"noteflakes/awesome-music",
+"pjagielski/awesome-live-coding-music",
+"olilarkin/awesome-musicdsp",
+"madskjeldgaard/awesome-supercollider"
+]
+}

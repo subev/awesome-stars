@@ -1,0 +1,6 @@
+{
+"meta": {"description":"yara detection rules for hunting with the threathunting-keywords project","defaultBranch":"main","topics":["awesome-list","blueteam","detection-engineering","dfir","forensics-tools","hacktools","hunting","incident-response","offensive-security","threat-hunting"],"readmeSha":"907f2f5bcff6096eb3f048dfa91748e294dddaac"},
+"members": [
+"mthcht/ThreatHunting-Keywords"
+]
+}

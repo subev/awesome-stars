@@ -1,0 +1,10 @@
+{
+"meta": {"description":"Product Management and Leadership Guide","defaultBranch":"main","topics":["product-management","product-manager","product-analytics","awesome","awesome-list","management","manager","interview-preparation","pm-interview","interview-questions"],"readmeSha":"2c78b5366cb664b84d3671d7cde2d176c5d7586e"},
+"members": [
+"ElizaLo/Product-Management-and-Leadership",
+"donnemartin/system-design-primer",
+"tlbootcamp/tlroadmap",
+"ryanburgess/engineer-manager",
+"engineering-management/awesome-engineering-management"
+]
+}

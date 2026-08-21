@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native.","defaultBranch":"main","topics":["csharp","dotnet","microservices","ddd","cqrs","dotnet-core","caching","docker","kubernetes","testing"],"readmeSha":"8f72e324fb40b46b91bdf094b754bf17fcb0bd1e"},
+"members": [
+
+]
+}

@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of awesome grasping libraries and resources","defaultBranch":"master","topics":["robotics","grasp","manipulation"],"readmeSha":"0503cfb5a4ac36d99008a78f9e07041e949f5889"},
+"members": [
+"atenpas/agile_grasp",
+"BerkeleyAutomation/dex-net",
+"atenpas/gpd",
+"atenpas/gpg",
+"atenpas/grasp_selection",
+"moveit/moveit_grasps",
+"mirsking/Deep_learning_for_detectin_robotic_grasps",
+"dougsm/ggcnn",
+"lerrel/Grasp-Detector",
+"machines-in-motion/grasping_sim",
+"andyzeng/visual-pushing-grasping",
+"ivalab/grasp_multiObject",
+"jslee02/awesome-robotics-libraries"
+]
+}

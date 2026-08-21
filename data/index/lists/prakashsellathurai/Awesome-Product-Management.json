@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated list of Product Management Resources :seedling:","defaultBranch":"main","topics":["product-managment","awesome-list","awesome-product-management","tools","curated-list","product","management","product-school","product-roadmap","product-hunt"],"readmeSha":"2d59317b5480d9eb79d706b8bd732f16c4336381"},
+"members": [
+"intuit/AnimationEngine",
+"LaunchKit/LaunchKit",
+"goabstract/Marketing-for-Engineers",
+"facebookarchive/pop",
+"dend/awesome-product-management",
+"goabstract/Awesome-Design-Tools",
+"sindresorhus/awesome"
+]
+}

@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A list of awesome developer resources on the .dev TLD","defaultBranch":"master","topics":[],"readmeSha":"0e80699f5d2e8715bce391ee11a0ab2d55abe27b"},
+"members": [
+"sindresorhus/awesome"
+]
+}

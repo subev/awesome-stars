@@ -1,0 +1,18 @@
+{
+"meta": {"description":"✨  Awesome - A curated list of amazing Bootstrap tools and themes.","defaultBranch":"master","topics":["awesome","awesome-list","bootstrap"],"readmeSha":"4b690e9745bb2e98bf584dcb0aa95c9d9dadbec7"},
+"members": [
+"sindresorhus/awesome",
+"wenzhixin/bootstrap-table",
+"flatlogic/bootstrap-tabcollapse",
+"mdbootstrap/mdb-ui-kit",
+"bootstrap-vue/bootstrap-vue",
+"ng-bootstrap/ng-bootstrap",
+"reactstrap/reactstrap",
+"themesberg/pixel-bootstrap-ui-kit",
+"johnfraney/django-bootstrap-customizer",
+"akveo/ngx-admin",
+"reduction-admin/react-reduction",
+"DevExpress/bootstrap-themes",
+"themesberg/windows-95-ui-kit"
+]
+}

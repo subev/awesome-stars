@@ -1,0 +1,31 @@
+{
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"a6a2c4ad0a9c36aec715c4f72887e56c677db9c5"},
+"members": [
+"sindresorhus/awesome",
+"ziadoz/awesome-php",
+"jbhuang0604/awesome-computer-vision",
+"jesolem/PCV",
+"liuliu/ccv",
+"nourani/LBP",
+"banterle/HDR_Toolbox",
+"davidstutz/seeds-revised",
+"pdollar/edges",
+"GerhardR/kfusion",
+"Nerei/kinfu_remake",
+"niessner/VoxelHashing",
+"uzh-rpg/rpg_svo",
+"tum-vision/dvo_slam",
+"RainerKuemmerle/g2o",
+"tum-vision/lsd_slam",
+"raulmur/ORB_SLAM",
+"arron2003/rgbd2full3d",
+"rbgirshick/voc-dpm",
+"rbgirshick/rcnn",
+"ShaoqingRen/SPP_net",
+"fbesse/pmbp",
+"karpathy/neuraltalk",
+"kjw0612/awesome-deep-vision",
+"josephmisiti/awesome-machine-learning",
+"ChristosChristofidis/awesome-deep-learning"
+]
+}

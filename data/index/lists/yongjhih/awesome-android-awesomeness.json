@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of android awesomeness","defaultBranch":"master","topics":[],"readmeSha":"6564f81b2a3b84ed342e7bae5faeb6f7511ef466"},
+"members": [
+"wasabeef/awesome-android-ui",
+"wasabeef/awesome-android-libraries",
+"snowdream/awesome-android",
+"JStumpp/awesome-android",
+"ashishb/android-security-awesome",
+"akullpp/awesome-java",
+"kaiinui/android-awesome-libraries",
+"liuguangqiang/awesome-android",
+"hehonghui/android-tech-frontier",
+"Trinea/android-open-project",
+"yeungeek/awesome-android-libraries",
+"iamdaiyuan/android_top_1000",
+"lightSky/Awesome-MaterialDesign",
+"android-cn/android-dev-com",
+"naughtyspirit/awesome-android-apps",
+"naughtyspirit/awesome-android-dev-tools",
+"treesouth/AndroidLibrary",
+"hotchemi/awesome-android-testing",
+"tangqi92/Android-Tips",
+"kesenhoo/android-training-course-in-chinese",
+"Juude/awesome-android-performance",
+"codepath/android_guides",
+"xiaomeixw/Library-Everyday-Gitbook",
+"gabrielemariotti/androiddev",
+"dogriffiths/HeadFirstAndroid",
+"AndroidStudyGroup/conferences"
+]
+}

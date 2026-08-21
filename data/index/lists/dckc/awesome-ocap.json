@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Awesome Object Capabilities and Capability Security","defaultBranch":"master","topics":["web-security","security","capabilities","awesome-list","ocap","javascript","ocaps","capability-based","awesome"],"readmeSha":"69b85cb752d3b6e5986a62285bdb1f389fb2597f"},
+"members": [
+"sandstorm-io/sandstorm",
+"cloudflare/workerd",
+"LavaMoat/LavaMoat",
+"nextauthjs/next-auth",
+"Moddable-OpenSource/moddable",
+"capnproto/capnproto-java",
+"tenuo-ai/tenuo",
+"bytecodealliance/cap-std",
+"bytecodealliance/cap-std",
+"capnproto/capnproto-rust",
+"capnproto/go-capnp",
+"austral/austral",
+"AmbiML/sparrow-manifest",
+"NuxiNL/arpc",
+"NuxiNL/flower",
+"marcsAtSkyhunter/Capper"
+]
+}

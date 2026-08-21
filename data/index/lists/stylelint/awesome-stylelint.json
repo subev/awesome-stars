@@ -1,0 +1,14 @@
+{
+"meta": {"description":"A list of awesome Stylelint plugins, configs, etc.","defaultBranch":"main","topics":["stylelint","awesome","awesome-list"],"readmeSha":"779449b5d9f037db9b38ad9d3354e6d50e5d8601"},
+"members": [
+"codacy/codacy-stylelint",
+"coderaiser/putout",
+"qltysh/qlty",
+"reviewdog/action-stylelint",
+"dense-analysis/ale",
+"neoclide/coc-stylelint",
+"flycheck/flycheck",
+"SublimeLinter/SublimeLinter-stylelint",
+"thibaudcolas/pre-commit-stylelint"
+]
+}

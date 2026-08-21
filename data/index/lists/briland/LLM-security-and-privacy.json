@@ -1,0 +1,12 @@
+{
+"meta": {"description":"LLM security and privacy","defaultBranch":"main","topics":["generative-ai","llm","llm-framework","llm-security","privacy","security","llm-threats","llm-vulnerabilities","llm-privacy","awesome"],"readmeSha":"f597fed1fc00ac602c478ffb0f63a8098aa9adf3"},
+"members": [
+"javirandor/passgpt",
+"greshake/llm-security",
+"ftramer/LM_Memorization",
+"StavC/Here-Comes-the-AI-Worm",
+"ShuyangCao/cliff_summ",
+"mitre-atlas/arsenal",
+"deadbits/vigil-llm"
+]
+}

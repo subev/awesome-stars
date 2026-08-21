@@ -1,0 +1,26 @@
+{
+"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"875e6a3a747f0dc1197a57fdff3d61f255b9bf3a"},
+"members": [
+"hanjuku-kaso/awesome-offline-rl",
+"seohongpark/HILP",
+"younggyoseo/apv",
+"google/brax",
+"google-deepmind/android_env",
+"tigerneil/mujoco-zh",
+"rll-research/url_benchmark",
+"Farama-Foundation/D4RL",
+"google-deepmind/spriteworld",
+"chainer/chainerrl-visualizer",
+"google-deepmind/bsuite",
+"google/dopamine",
+"google-deepmind/pysc2",
+"google-deepmind/trfl",
+"chainer/chainerrl",
+"PaddlePaddle/PARL",
+"opendilab/DI-engine",
+"opendilab/PPOxFamily",
+"YyzHarry/SV-RL",
+"openai/phasic-policy-gradient",
+"Kaixhin/NoisyNet-A3C"
+]
+}

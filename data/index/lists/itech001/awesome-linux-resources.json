@@ -1,0 +1,16 @@
+{
+"meta": {"description":"linux resources for the begainners and advanced users.","defaultBranch":"master","topics":[],"readmeSha":"816f2b08289d57eb6c5f4956607f824cbb976388"},
+"members": [
+"alebcay/awesome-shell",
+"webpro/awesome-dotfiles",
+"kahun/awesome-sysadmin",
+"jondot/awesome-devenv",
+"vinta/awesome-python",
+"tiimgreen/github-cheat-sheet",
+"arslanbilal/git-cheat-sheet",
+"emacs-tw/awesome-emacs",
+"EbookFoundation/free-programming-books",
+"sindresorhus/awesome",
+"emijrp/awesome-awesome"
+]
+}

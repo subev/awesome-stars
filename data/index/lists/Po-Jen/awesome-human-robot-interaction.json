@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of awesome human-robot interaction libraries and resources","defaultBranch":"master","topics":["robotics","human-robot-interaction"],"readmeSha":"7477fc77882f163286b9bca64ba43351d290d6a2"},
+"members": [
+"thealexhong/starship",
+"morse-simulator/morse",
+"AravinthPanch/gesture-recognition-for-human-robot-interaction",
+"ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction",
+"ahq1993/Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks",
+"jslee02/awesome-robotics-libraries"
+]
+}

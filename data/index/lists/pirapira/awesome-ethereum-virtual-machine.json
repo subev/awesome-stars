@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Ethereum Virtual Machine Awesome List","defaultBranch":"master","topics":[],"readmeSha":"799d031cf1549732394dffa705ec8d751d6d266a"},
+"members": [
+"sindresorhus/awesome",
+"thlorenz/doctoc",
+"ethereum/yellowpaper",
+"CoinCulture/evm-tools",
+"ethereum/tests",
+"ethereum/go-ethereum",
+"tokamak-network/py-ethclient",
+"runtimeverification/evm-semantics",
+"argotorg/hevm",
+"ethereumjs/ethereumjs-monorepo",
+"argotorg/solidity",
+"bkrem/awesome-solidity",
+"vyperlang/vyper",
+"Zokrates/ZoKrates",
+"o1-labs/snarky",
+"remix-project-org/remix-project",
+"crytic/echidna",
+"muellerberndt/mythril",
+"trailofbits/manticore",
+"eth-sri/securify2",
+"VulnPlanet/l3x",
+"ethereum/EIPs"
+]
+}

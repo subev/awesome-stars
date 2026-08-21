@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of awesome lnurl things.","defaultBranch":"master","topics":["lightning","lnurl","lightning-network"],"readmeSha":"3568c1252cc2dceb4fa058988231178b3db6b493"},
+"members": [
+"sindresorhus/awesome",
+"lnurl/luds"
+]
+}

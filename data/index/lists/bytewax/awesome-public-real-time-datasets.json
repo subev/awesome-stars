@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A list of publicly available datasets with real-time data maintained by the team at bytewax.io","defaultBranch":"main","topics":["data","streaming","awesome-list","data-science","data-visualization","datasets","real-time"],"readmeSha":"13501a79e35eb818dee4b68599503387320a3595"},
+"members": [
+"awesomedata/awesome-public-datasets",
+"oanda/py-api-streaming",
+"MobilityData/gbfs",
+"glidernet/python-ogn-client",
+"ryansherby/RedfinScraper",
+"lensesio/datagen",
+"tinybirdco/mockingbird",
+"AnswerDotAI/ghapi",
+"viirya/eventsim",
+"theOehrly/Fast-F1",
+"ISS-Mimic/Mimic",
+"HackerNews/API",
+"r-spacex/SpaceX-API",
+"Xquik-dev/x-twitter-scraper"
+]
+}

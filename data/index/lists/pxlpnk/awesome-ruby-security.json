@@ -1,0 +1,25 @@
+{
+"meta": {"description":"Awesome Ruby Security resources","defaultBranch":"master","topics":["security","ruby","ruby-on-rails","security-tools","awesome-list"],"readmeSha":"0a6bcc34522d14745057065f4bc88d5e520f2758"},
+"members": [
+"sindresorhus/awesome",
+"github/secure_headers",
+"rack/rack-attack",
+"ronin-rb/ronin",
+"coinbase/salus",
+"presidentbeef/brakeman",
+"thesp0nge/dawnscanner",
+"awslabs/git-secrets",
+"microsoft/DevSkim",
+"bahmutov/ban-sensitive-files",
+"flyerhzm/rails_best_practices",
+"Bearer/bearer",
+"rubysec/ruby-advisory-db",
+"Splint3r7/GemScanner",
+"OWASP/railsgoat",
+"rietta/DeleteMe",
+"eliotsykes/rails-security-checklist",
+"brunofacca/zen-rails-security-checklist",
+"ankane/secure_rails",
+"rubyfu/RubyFu"
+]
+}

@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Awesome list of digital forensic tools","defaultBranch":"master","topics":["awesome","awesome-list","forensics","forensic-analysis","digital-forensics","metadata","investigative-journalism"],"readmeSha":"13b6cafe99a3ffd6d8a5ae9afc6360825ae9df89"},
+"members": [
+"sindresorhus/awesome",
+"ivbeg/awesome-forensicstools",
+"vstinner/hachoir",
+"drewnoakes/metadata-extractor",
+"hartator/wayback-machine-downloader",
+"firstlookmedia/pdf-redact-tools"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.","defaultBranch":"master","topics":["curated-lists","awesome","awesome-list","awesome-lists","storage","backup","replication","redundancy","encription","high-availability"],"readmeSha":"623621c9f42e4375dc94045f7346181b6610cf0b"},
+"members": [
+"chrislusf/seaweedfs",
+"scality/Zenko",
+"cubefs/cubefs",
+"moosefs/moosefs",
+"vdbsh/backy",
+"borgbackup/borg",
+"gilbertchen/duplicacy",
+"kopia/kopia",
+"guiofsaints/backup-anything",
+"treeverse/lakeFS",
+"styletronix/cfapiSync",
+"okhosting/awesome-cyber-security"
+]
+}

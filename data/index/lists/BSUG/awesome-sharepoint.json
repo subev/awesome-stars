@@ -1,0 +1,13 @@
+{
+"meta": {"description":"A collection of awesome libraries, tools, frameworks and software for SharePoint","defaultBranch":"master","topics":["sharepoint","awesome-list"],"readmeSha":"34eeecbe8bbbfd813a3e8fb257ae2923cec870c8"},
+"members": [
+"sindresorhus/awesome",
+"quozd/awesome-dotnet",
+"markets/awesome-ruby",
+"ziadoz/awesome-php",
+"vinta/awesome-python",
+"dypsilon/frontend-dev-bookmarks",
+"dreikanter/ruby-bookmarks",
+"BSUG/awesome-sharepoint"
+]
+}

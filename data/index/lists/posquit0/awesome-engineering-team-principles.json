@@ -1,0 +1,10 @@
+{
+"meta": {"description":":sunglasses: A curated list of awesome resources for engineering team principles","defaultBranch":"master","topics":["awesome","awesome-list","engineering-principles","engineering-culture","engineering-team","engineering-practice"],"readmeSha":"80bd9e57316d5a821bccb5823e4ce556f9b99379"},
+"members": [
+"ellerbrock/open-source-badges",
+"AbleHealth/team",
+"Skyscanner/engineering-principles",
+"posquit0/awesome-engineer-onboarding",
+"posquit0/awesome-engineering-ladders"
+]
+}

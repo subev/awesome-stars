@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Community maintained, human, machine and AI readable list of Public APIs 📝","defaultBranch":"main","topics":["awesome-list","api","rest","public-api","awesome","list","community-project","javascript"],"readmeSha":"312145aa7843352de6fbfdde5a34393c94502477"},
+"members": [
+"n0shake/Public-APIs",
+"public-apis/public-apis",
+"APIs-guru/openapi-directory"
+]
+}

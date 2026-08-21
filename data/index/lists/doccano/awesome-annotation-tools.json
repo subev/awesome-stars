@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome data annotation tools","defaultBranch":"master","topics":["annotation","annotation-tool","awesome","awesome-list","data-labeling"],"readmeSha":"689d55cf787c16c28149a91345e14d91d9c021d9"},
+"members": [
+"doccano/doccano",
+"RTIInternational/SMART",
+"HumanSignal/label-studio"
+]
+}

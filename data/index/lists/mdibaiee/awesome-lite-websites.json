@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A list of awesome lightweight websites without all the bloat","defaultBranch":"master","topics":["awesome","awesome-list","websites","collection","links"],"readmeSha":"2ddb6ef0bf51865046f4d0ab831eb2f6934175b1"},
+"members": [
+"sindresorhus/awesome"
+]
+}

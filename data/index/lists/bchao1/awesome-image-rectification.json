@@ -1,0 +1,6 @@
+{
+"meta": {"description":"📝 A curated list of image rectification papers.","defaultBranch":"master","topics":["computer-vision","image-processing","fisheye-lens-distortion","distortion-correction","image-rectification"],"readmeSha":"2331aed6d659771ca578975cb6853a3c77690bf9"},
+"members": [
+"mdbloice/Augmentor"
+]
+}

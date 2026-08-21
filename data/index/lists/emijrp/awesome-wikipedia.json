@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.","defaultBranch":"master","topics":["wikipedia","datasets"],"readmeSha":"05ae9f1a9e8a4107b9bb12c930670da0d2048551"},
+"members": [
+"huggle/huggle3-qt-lx",
+"abelsson/stats.grok.se",
+"wikimedia/limn",
+"emijrp/wlm-stats",
+"emijrp/wmcharts",
+"hatnote/listen-to-wikipedia",
+"edsu/wikipulse",
+"emijrp/wmcounter",
+"mediawiki-utilities/python-mediawiki-utilities",
+"wikimedia/pywikibot",
+"Wikidata-Toolkit/Wikidata-Toolkit",
+"maxlath/wikibase-sdk",
+"spencermountain/wtf_wikipedia",
+"zaataylor/wikiref"
+]
+}

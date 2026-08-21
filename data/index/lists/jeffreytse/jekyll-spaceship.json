@@ -1,0 +1,14 @@
+{
+"meta": {"description":"🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.","defaultBranch":"master","topics":["jekyll","latex","plantuml","mathjax","emoji","video","markdown","polyfill","awesome","jekyll-plugin"],"readmeSha":"a2255b87f8258d5f155383a802a6edf0d2cc167c"},
+"members": [
+"jeffreytse/jekyll-deploy-action",
+"jeffreytse/jekyll-jeffreytse-blog",
+"github/gemoji",
+"jekyll/jekyll",
+"redbug312/markdown-it-multimd-table",
+"jekyll/jemoji",
+"keithmifsud/jekyll-target-blank",
+"gildesmarais/jekyll-loading-lazy",
+"mermaid-js/mermaid"
+]
+}

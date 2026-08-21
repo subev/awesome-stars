@@ -1,0 +1,19 @@
+{
+"meta": {"description":":octocat: A great list of open sourced UI Motion Library produced by Animatious Group.","defaultBranch":"master","topics":["animation","ios-animation"],"readmeSha":"2eebeca2ccb2c000044ae1c1fe61d0d42352040b"},
+"members": [
+"MartinRGB/Replace-iOS",
+"SergioChan/SCTrelloNavigation",
+"dianqk/TrelloNavigation",
+"JustinFincher/JZMultiChoicesCircleButton",
+"JustinFincher/JZtvOSParallaxButton",
+"SergioChan/SCCinemaAnimation",
+"DavidWangTM/DWCinemaAnimation-Android",
+"MartinRGB/MTPrivateTrainerAnimation",
+"DavidWangTM/DWPrivateTrainerAnimation",
+"SergioChan/SCCatWaitingHUD",
+"chemzqm/dribbble-effects",
+"mmoaay/MBMotion",
+"liuzhiyi1992/SpreadButton",
+"liuzhiyi1992/WaveLoadingView"
+]
+}

@@ -1,0 +1,25 @@
+{
+"meta": {"description":"A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:","defaultBranch":"master","topics":["apollo","graphql","boilerplate","apollo-client","apollo-server","apollo-graphql-ecosystem","article","awesome-list","awesomeness","awesome"],"readmeSha":"3ea0f4e4dc0c0a2351ab562df92e8c570d926034"},
+"members": [
+"sindresorhus/awesome",
+"apollographql/apollo-server",
+"apollographql/apollo-client",
+"ardatan/graphql-tools",
+"apollographql/graphql-subscriptions",
+"apollographql/apollo-client-devtools",
+"apollographql/apollo-fetch",
+"apollographql/apollo-link",
+"graphql-hive/graphql-yoga",
+"ecerroni/apollo-cache-updater",
+"DanielMSchmidt/apollo-opentracing",
+"ooade/ApolloSimpleStarter",
+"vercel/next.js",
+"MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter",
+"ooade/next-apollo-auth",
+"ZaninAndrea/minimalGraphql",
+"RishikeshDarandale/serverless-graphql-boilerplate",
+"WeLikeGraphQL/universal-react-apollo-example",
+"KATT/shop",
+"the-road-to-graphql/react-graphql-github-apollo"
+]
+}

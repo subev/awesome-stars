@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A list of space exploration related books (some are online, some are on paper)","defaultBranch":"master","topics":["awesome","space-science","books","space","rocket-science","aerospace-engineering"],"readmeSha":"063ab427cdcb7781ffe546a4f11f2d0f3d78969c"},
+"members": [
+"Hunter-Github/StBenedict",
+"elburz/awesome-space",
+"specifics/aero-structures",
+"emijrp/awesome-awesome",
+"bayandin/awesome-awesomeness",
+"sindresorhus/awesome",
+"torchhound/warren"
+]
+}

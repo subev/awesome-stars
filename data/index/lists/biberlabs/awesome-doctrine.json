@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.","defaultBranch":"master","topics":["doctrine-orm","doctrine2","doctrine","awesome-list","awesome"],"readmeSha":"bac420cc258406e5e1ec90a8bbb7305cdc0a2b3b"},
+"members": [
+"sindresorhus/awesome",
+"ramsey/uuid-doctrine",
+"vinyvicente/doctrine-point-type",
+"KnpLabs/DoctrineBehaviors",
+"doctrine-extensions/DoctrineExtensions",
+"doctrine/migrations",
+"creof/doctrine2-spatial",
+"Happyr/Doctrine-Specification",
+"biberlabs/ddd-embeddables",
+"consistence/consistence-doctrine",
+"carnage/doctrine-encrypted-column",
+"opsway/doctrine-dbal-postgresql",
+"martin-georgiev/postgresql-for-doctrine",
+"sonata-project/sonata-doctrine-extensions",
+"elcodi/elcodi",
+"andreia/awesome-doctrine"
+]
+}

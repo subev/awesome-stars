@@ -1,0 +1,33 @@
+{
+"meta": {"description":"Collect some related resources of NVIDIA Isaac Sim","defaultBranch":"main","topics":[],"readmeSha":"1abaaf04655e29e4551b59afebf8db176cb1a247"},
+"members": [
+"robotlearning123/awesome-isaac-gym",
+"isaac-sim/IsaacLab",
+"isaac-sim/OmniIsaacGymEnvs",
+"Toni-SM/skrl",
+"Denys88/rl_games",
+"abizovnuralem/go2_omniverse",
+"gazebosim/gz-omni",
+"maximiliangilles/MetaGraspNet",
+"orbit-surgical/orbit-surgical",
+"isaac-sim/IsaacSim",
+"isaac-sim/IsaacGymEnvs",
+"isaac-sim/IsaacSim-ros_workspaces",
+"isaac-sim/isaac-launchable",
+"isaac-sim/isaacsim-app-template",
+"isaac-sim/IsaacAutomator",
+"MetaToolEU/MT_Isaac_sim",
+"MuammerBay/isaac_so_arm101",
+"agilexrobotics/Limo-Isaac-Sim",
+"unitreerobotics/unitree_sim_isaaclab",
+"unitreerobotics/unitree_rl_lab",
+"j3soon/OmniIsaacGymEnvs-UR10Reacher",
+"sjtuyinjie/awesome-wheel-slam",
+"sjtuyinjie/awesome-LiDAR-Visual-SLAM",
+"Deephome/Awesome-LiDAR-Camera-Calibration",
+"SilenceOverflow/Awesome-SLAM",
+"youngguncho/awesome-slam-datasets",
+"zubair-irshad/Awesome-Implicit-NeRF-Robotics",
+"jonyzhang2023/awesome-humanoid-learning"
+]
+}

@@ -1,0 +1,18 @@
+{
+"meta": {"description":"bangumi.tv 相关的坑","defaultBranch":"gh-pages","topics":["acg","bangumi","awesome-list"],"readmeSha":"2f3ad3b42e901c5cab042f84ebbff2492b04f935"},
+"members": [
+"czy0729/Bangumi",
+"ekibun/Bangumi",
+"edwardez/BangumiN",
+"lhyzf/Bangumi",
+"weizhenye/bangumi-mosaic-tile",
+"bangumi/api",
+"JeffersonQin/calibre-web-bgm",
+"bangumi/scripts",
+"jerrylususu/bangumi-takeout-py",
+"czy0729/Bangumi-Subject",
+"czy0729/Bangumi-Mono",
+"ekibot/bangumi-onair",
+"bangumi-data/bangumi-data"
+]
+}

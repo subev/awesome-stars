@@ -1,0 +1,27 @@
+{
+"meta": {"description":"A curated list of awesome Plan9-related documents, libraries, and software","defaultBranch":"master","topics":[],"readmeSha":"fdd76acfaf39b6d6d742bf1e9e142d15681a72b1"},
+"members": [
+"henesy/disco",
+"oridb/git9",
+"okvik/unionfs",
+"majiru/mpl",
+"majiru/ytfs",
+"henesy/c4",
+"ashinn/chibi-scheme",
+"henesy/clox9",
+"henesy/squeak",
+"Plan9-Archive/libtheme",
+"cls/libutf",
+"karahobny/acme2k",
+"jmigpin/editor",
+"rjkroege/edwood",
+"deadpixi/sam",
+"sminez/ad",
+"martanne/vis",
+"dcjones/mk",
+"zyedidia/sregx",
+"TheEnbyperor/plan_rust",
+"r9os/r9",
+"mntmn/interim"
+]
+}

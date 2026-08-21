@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated list of video stabilization methods","defaultBranch":"main","topics":["video-stabilization"],"readmeSha":"7b697d1d0a51caacf65eb05ff45cd47e16476bf9"},
+"members": [
+"ishit/L1Stabilizer",
+"ishank-juneja/L1-optimal-paths-Stabilization",
+"higerra/SubspaceStab",
+"SuTanTank/BundledCameraPathVideoStabilization",
+"rimchang/SteadyFlow",
+"sudheerachary/Mesh-Flow-Video-Stabilization",
+"cxjyxxme/deep-online-video-stabilization-deploy",
+"705062791/TVCG-Video-Stabilization-via-joint-Trajectory-Smoothing-and-frame-warping",
+"mindazhao/PWStableNet",
+"jinsc37/DIFRINT",
+"Annbless/DUTCode",
+"jiy173/selfievideostabilization",
+"yaochih/Deep3D-Stabilizer-release",
+"alex04072000/NeRViS",
+"googleinterns/deep-stabilization",
+"liuzhen03/NNDVS",
+"zwyking/Fast-Stab",
+"pzzz-cv/RStab",
+"huawei-bayerlab/GaVS"
+]
+}

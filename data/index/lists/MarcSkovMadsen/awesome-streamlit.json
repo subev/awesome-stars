@@ -1,0 +1,18 @@
+{
+"meta": {"description":"The purpose of this project is to share knowledge on how awesome Streamlit is and can be","defaultBranch":"master","topics":["data","models","analytics","streamlit","machine-learning","apps","python","data-science","innovation","exploration"],"readmeSha":"61328eb13ea64d936e16b16cbbea1cbfc54ebd97"},
+"members": [
+"vinta/awesome-python",
+"tommyod/awesome-pandas",
+"robmarkcole/mqtt-camera-streamer",
+"pierpaolo28/Data-Visualization",
+"Jcharis/Streamlit_DataScience_Apps",
+"collinprather/streamlit-docker",
+"gtancev/Medical-Language-Model-Learner",
+"virusvn/streamlit-components-demo",
+"Taxuspt/heroku_streamlit_nginx",
+"streamlit/streamlit",
+"PyCQA/autoflake",
+"python/mypy",
+"pytest-dev/pytest"
+]
+}

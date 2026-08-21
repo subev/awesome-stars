@@ -1,0 +1,13 @@
+{
+"meta": {"description":"🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, and contract testing 🚀","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"ab9b4bce3adc682de1c56885e1ab4f903caa95bd"},
+"members": [
+"avajs/ava",
+"smartystreets/goconvey",
+"jumpstarter-dev/jumpstarter",
+"karatelabs/karate",
+"TestStack/White",
+"sherlo-io/sherlo",
+"dequelabs/axe-core",
+"restqa/restqa"
+]
+}

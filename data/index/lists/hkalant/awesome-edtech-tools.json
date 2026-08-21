@@ -1,0 +1,10 @@
+{
+"meta": {"description":"An ongoing curated list with awesome tools and resources for instructional designers.","defaultBranch":"master","topics":["tools","awesome-list","resources","lists","educators","learning-technology","edtech"],"readmeSha":"2c25565f9cd24fda1917a616ab44c1f51f7d86a5"},
+"members": [
+"cjbarber/ToolsOfTheTrade",
+"hkalant/awesome-edtech-tools",
+"NickeManarin/ScreenToGif",
+"sindresorhus/awesome",
+"neutraltone/awesome-stock-resources"
+]
+}

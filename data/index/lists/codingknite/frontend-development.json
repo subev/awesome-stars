@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated list of resources for Frontend  development","defaultBranch":"main","topics":["list","lists","awesome-list","awesome-lists","css3","resources","web-development","frontend","frontend-development"],"readmeSha":"307f245358bbbf2671ac1a436caccb4f3c458824"},
+"members": [
+"mourner/dead-simple-grid",
+"airbnb/css",
+"getify/You-Dont-Know-JS",
+"mbeaudru/modern-js-cheatsheet",
+"Chalarangelo/30-seconds-of-code",
+"airbnb/javascript",
+"gitextensions/gitextensions",
+"remix-run/react-router",
+"facebookexperimental/Recoil",
+"reduxjs/redux",
+"creativetimofficial/material-kit-react",
+"enzymejs/enzyme",
+"react/create-react-app",
+"react-boilerplate/react-boilerplate",
+"teambit/bit",
+"paulpflug/vue-dev-server",
+"vuejs/devtools-v6",
+"vuejs/vue-cli",
+"emmabostian/developer-portfolios"
+]
+}

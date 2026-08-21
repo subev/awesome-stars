@@ -1,0 +1,22 @@
+{
+"meta": {"description":"Awesome Power Mode","defaultBranch":"master","topics":[],"readmeSha":"a4a5c93ad5dc4d8ff3adb3de73a390439e923377"},
+"members": [
+"codeinthedark/editor",
+"JoelBesada/activate-power-mode",
+"Equals182/brackets-power-mode",
+"chinchang/code-blast-codemirror",
+"vercel/hyperpower",
+"ViceFantasyPlace/activate-power-mode",
+"axaluss/power-mode-intellij-plugin",
+"disjukr/activate-power-mode",
+"itszero/rage-power",
+"mattn/vim-particle",
+"LiamMorrow/Visual-Studio-Power-Mode",
+"BigEggTools/PowerMode",
+"hoovercj/vscode-power-mode",
+"goyusia/ParticleOnTextCursor",
+"poboke/ActivatePowerMode",
+"qfish/XActivatePowerMode",
+"dawnightillight/CoderPower"
+]
+}

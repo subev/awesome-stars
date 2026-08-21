@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A curated list of Developer Experience resources and tools.","defaultBranch":"main","topics":["developer-experience","developer-productivity","developer-tools","dx","developerexperience","awesome","awesome-list","hacktoberfest"],"readmeSha":"a4ed309de3a6828d65762abad6c5f878712f7afa"},
+"members": [
+"hoppscotch/hoppscotch",
+"rogchap/wombat",
+"slatedocs/slate",
+"localstack/localstack",
+"woolflare/EasyInstall",
+"backstage/backstage",
+"biomejs/biome",
+"softwaremill/elasticmq",
+"minio/minio",
+"googleapis/release-please",
+"semantic-release/semantic-release",
+"nvm-sh/nvm",
+"rbenv/rbenv",
+"styfle/awesome-online-ide",
+"simonaronsson/awesome-software-architecture"
+]
+}

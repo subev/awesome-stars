@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A collection of resources which were useful to Tweagers for learning Haskell and its various aspects","defaultBranch":"main","topics":[],"readmeSha":"bc6f2d919e37ec3fe686eabff06bb15c5362e0e1"},
+"members": [
+"hablapps/DontFearTheProfunctorOptics",
+"NorfairKing/haskell-dangerous-functions"
+]
+}

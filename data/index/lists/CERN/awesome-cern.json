@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of awesome open source frameworks, libraries and software developed by CERN for the world","defaultBranch":"main","topics":[],"readmeSha":"ee4d2e7fbd75b2f33aad774252aae9a465534289"},
+"members": [
+"zenodo/zenodo-rdm",
+"indico/newdle",
+"acts-project/acts",
+"CERN/CAiMIRA",
+"geodetic-metrology-tools/LGC2",
+"CERN-CERT/pam_2fa",
+"cs3org/reva",
+"indico/flask-multipass",
+"indico/flask-pluginengine",
+"indico/js-flask-urls",
+"indico/react-jsx-i18n",
+"indico/react-overridable",
+"CERN/react-openapi-generator-hook",
+"inveniosoftware/react-searchkit"
+]
+}

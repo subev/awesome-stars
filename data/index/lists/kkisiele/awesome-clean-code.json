@@ -1,0 +1,16 @@
+{
+"meta": {"description":"","defaultBranch":"master","topics":["awesome","awesome-list","cleancode","oop","ood"],"readmeSha":"27de14e5114785c655811fe1ee99e3b4427ecea8"},
+"members": [
+"kkisiele/codekata",
+"jakubnabrdalik/hentai",
+"sf105/goos-code",
+"jcabi/jcabi-email",
+"kkisiele/loganalyzer",
+"ddd-by-examples/library",
+"ddd-by-examples/factory",
+"mariuszgil/aggregates-by-example",
+"BottegaIT/ddd-leaven-v2",
+"michal-michaluk/ddd-wro-warehouse",
+"citerus/dddsample-core"
+]
+}

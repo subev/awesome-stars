@@ -1,0 +1,10 @@
+{
+"meta": {"description":"🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟","defaultBranch":"master","topics":["r","shinyapps","statistics","datascience","machine-learning","awsome","awesome-list"],"readmeSha":"059350ba9a38584ad9f6c7cc0d4b3e30f5696c76"},
+"members": [
+"huyingjie/Awesome-shiny-apps-for-statistics",
+"grabear/awesome-rshiny",
+"paternogbc/SSregression",
+"kylehamilton/MAVIS",
+"yindeng/shinyData"
+]
+}

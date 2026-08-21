@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome things related to plonk proof system","defaultBranch":"main","topics":[],"readmeSha":"8b54ba81a84b552fc5a66cf45e17194b210356df"},
+"members": [
+"sindresorhus/awesome",
+"arielgabizon/Lectures",
+"arielgabizon/plonk-addendum",
+"barryWhiteHat/plonk_tutorial",
+"AztecProtocol/Setup",
+"AztecProtocol/ignition-verification",
+"AztecProtocol/barretenberg",
+"matter-labs/bellman",
+"0xPolygonZero/plonky",
+"dusk-network/plonk",
+"ZK-Garage/plonk"
+]
+}

@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of Javascript topics the just might spark the next revolt!","defaultBranch":"master","topics":[],"readmeSha":"5ff8697f915097f0216d24c93c63af96bc834d94"},
+"members": [
+"sindresorhus/awesome",
+"whatwg/fetch",
+"nodejs/NG",
+"dear-github/dear-github"
+]
+}

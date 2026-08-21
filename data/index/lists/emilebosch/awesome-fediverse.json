@@ -1,0 +1,20 @@
+{
+"meta": {"description":"A curated, collaborative list of awesome Fediverse resources","defaultBranch":"master","topics":["fediverse","awesome-list","mastodon","prismo","diaspora","activitypub"],"readmeSha":"804419e1a8b1ff51e8ab80b81bf47c7a418689b5"},
+"members": [
+"hometown-fork/hometown",
+"weathermen/soundstorm",
+"Gargron/cobalt",
+"xwiki-contrib/application-activitypub",
+"davecheney/pub",
+"jointakahe/takahe",
+"benbrown/shuttlecraft",
+"yukimochi/Activity-Relay",
+"jaywink/social-relay",
+"matrix-org/synapse",
+"matrix-org/dendrite",
+"friendica/friendica",
+"pubsubhubbub/PubSubHubbub",
+"pubcast/pubcast",
+"autogestion/pubgate"
+]
+}

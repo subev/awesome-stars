@@ -1,0 +1,31 @@
+{
+"meta": {"description":"Actively curated list of awesome BI tools. PRs welcome!","defaultBranch":"master","topics":["business-intelligence","etl","data-visualization","data-analysis","data-science","database","sql","awesome-list"],"readmeSha":"bdadef2c42850fbdb1d78bab03d71b09d4a5cfed"},
+"members": [
+"sindresorhus/awesome",
+"ankane/blazer",
+"running-elephant/datart",
+"mariusandra/insights",
+"shzlw/poli",
+"getredash/redash",
+"apache/superset",
+"tellery/tellery",
+"embulk/embulk",
+"mara/mara-pipelines",
+"amundsen-io/amundsenfrontendlibrary",
+"elementary-data/elementary",
+"MarquezProject/marquez",
+"Netflix/metacat",
+"opendatadiscovery/odd-platform",
+"AbsaOSS/spline",
+"elementary-data/elementary",
+"kestra-io/kestra",
+"spotify/luigi",
+"pinterest/pinball",
+"transferwise/pipelinewise",
+"windmill-labs/windmill",
+"DataCater/datacater",
+"orchest/orchest",
+"airbnb/knowledge-repo",
+"mrvautin/openKB"
+]
+}

@@ -1,0 +1,12 @@
+{
+"meta": {"description":"💎 A curated list of awesome HTTP Clients for exploring, debugging, and testing APIs. Best place to find postman alternatives.","defaultBranch":"main","topics":[],"readmeSha":"ff0560187371ce23990a74690efcad5f93682c7d"},
+"members": [
+"Andrea-Cavallo/adOmnia",
+"warmuuh/milkman",
+"wiztools/rest-client",
+"kylebebak/Requester",
+"friflo/vscode-friflo-post",
+"flexiberry/flexiberry",
+"frigus02/RESTer"
+]
+}

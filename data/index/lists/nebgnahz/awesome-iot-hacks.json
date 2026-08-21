@@ -1,0 +1,6 @@
+{
+"meta": {"description":"A Collection of Hacks in IoT Space so that we can address them (hopefully).","defaultBranch":"master","topics":["awesome","iot","security","hack"],"readmeSha":"c6751b7334f72f86da9e1686001a6273c69fd440"},
+"members": [
+"thlorenz/doctoc"
+]
+}

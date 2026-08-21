@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Alfred workflow to search awesome lists","defaultBranch":"master","topics":["alfred-workflow","awesome-lists","awgo","alfred","awesome","go"],"readmeSha":"e4a23e66f4e0dbf7f04c1d4045db7b92d6d651a8"},
+"members": [
+"sindresorhus/awesome",
+"deanishe/awgo"
+]
+}

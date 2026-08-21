@@ -1,0 +1,17 @@
+{
+"meta": {"description":":ticket: A list of awesome conferences","defaultBranch":"main","topics":["awesome-list","awesome","list","conference","camp","conf"],"readmeSha":"96688bd92a3c083a197ebdb986cb0e7bd60345ae"},
+"members": [
+"sindresorhus/awesome",
+"aar0nTw/jsdc2014-notes",
+"papers-we-love/papers-we-love",
+"matteofigus/awesome-speaking",
+"gitpitch/gitpitch",
+"softwaremill/it-cfp-list",
+"AndroidStudyGroup/conferences",
+"fmbenhassine/awesome-software-craftsmanship",
+"Lascorbe/CocoaConferences",
+"watson/conferences",
+"planetruby/conferences",
+"mobilehackersdotio/pwa-confs"
+]
+}

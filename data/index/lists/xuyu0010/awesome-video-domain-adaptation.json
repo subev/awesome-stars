@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A comprehensive collection of awesome research and other items about video domain adaptation","defaultBranch":"main","topics":[],"readmeSha":"df5f560913860b05965052c814a7d024c9ea33de"},
+"members": [
+"zhaoxin94/awesome-domain-adaptation",
+"reddyav1/unite",
+"ldkong1205/TranSVAE",
+"reddyav1/RoCoG-v2",
+"xing0047/TPS",
+"xiaobai1217/DomainAdaptation",
+"justchenpp/MA2L-TD",
+"vturrisi/CO2A",
+"CVIR/CoMix",
+"Dayan-Guan/DA-VSN",
+"cpf0079/UCDA",
+"Luoyadan/MM2020_ABG",
+"jonmun/MM-SADA-code",
+"cmhungsteve/SSTDA",
+"cmhungsteve/TA3N",
+"gsig/actor-observer",
+"xuyu0010/PATAN",
+"zhuoxiao-chen/Open-Set-Video-Domain-Adaptation",
+"giaczara/dallv",
+"wlin-at/ViTTA",
+"xuyu0010/ATCoN",
+"Newbeeyoung/Video-Corruption-Robustness",
+"ChenJinBIT/HPDA",
+"KunyuLin/XOV-Action",
+"jonmun/MM-SADA_Domain_Adaptation_Splits"
+]
+}

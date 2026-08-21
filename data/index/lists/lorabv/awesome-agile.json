@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Awesome List of resources on Agile Software Development.","defaultBranch":"master","topics":["awesome-list","awesome","agile","agile-development","agile-manifesto","agile-architecture","retrospectives","kanban","scrum","lean"],"readmeSha":"4fa1c8e63b7848fba46be0965c4124d04f2a43c4"},
+"members": [
+"sindresorhus/awesome"
+]
+}

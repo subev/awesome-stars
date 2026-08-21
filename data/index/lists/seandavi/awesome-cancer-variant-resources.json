@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.","defaultBranch":"master","topics":["awesome-list","cancer","cancer-variants","cancer-genomics","mutations","clinical-trials","bioinformatics","u24ca289073"],"readmeSha":"c9c8c99675baedf532d25923df08f2843d43682f"},
+"members": [
+"seandavi/awesome-cancer-variant-resources",
+"vanallenlab/moalmanac-db",
+"sigven/pcgr",
+"unmirihealth/unmiri-ngs-fhir-schema"
+]
+}

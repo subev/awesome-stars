@@ -1,0 +1,29 @@
+{
+"meta": {"description":"Curated list of awesome Template Literal Types examples","defaultBranch":"main","topics":["awesome","awesome-list","lists","resources"],"readmeSha":"be6dc87fec3d3ade3bbf4f1fc7549693f638a990"},
+"members": [
+"MichiganTypeScript/typescript-types-only-wasm-runtime",
+"garybernhardt/static-path",
+"jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use",
+"dotansimha/graphql-typed-ast",
+"codemix/ts-sql",
+"ricklove/rick-love-master",
+"trpc/trpc",
+"schummar/schummar-translate",
+"kysely-org/kysely",
+"zoontek/chicane",
+"anuraghazra/typelevel-parser",
+"anuraghazra/type-trident",
+"ronami/HypeScript",
+"Lionad-Morotar/Anysort",
+"jjenzz/pretty-cache-header",
+"nanostores/router",
+"nanostores/nanostores",
+"g-makarov/dot-path-value",
+"gvergnaud/hotscript",
+"g4rcez/brouther",
+"poteat/hkt-toolbelt",
+"gustavoguichard/string-ts",
+"ecyrbe/typeskell",
+"0no-co/gql.tada"
+]
+}

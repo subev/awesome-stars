@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of delightful and free automotive engineering resources, looking for contributors ❗","defaultBranch":"master","topics":["automotive","awesome-list","awesome","autosar","embedded","capl","can","flexray","engineering","vector-informatik"],"readmeSha":"167aadb26d10ed58a27f13103ae5efe68b1f6765"},
+"members": [
+"sindresorhus/awesome",
+"autoas/as",
+"myGiter/autosar-framework",
+"cogu/autosar",
+"Depthkernelcore/Arccore",
+"Chalandi/OSEK",
+"ev3osek/ev3osek",
+"ciaa/firmware_v1",
+"TrampolineRTOS/trampoline",
+"autonomousdrivingkr/Awesome-Autonomous-Driving",
+"manfreddiaz/awesome-autonomous-vehicles",
+"philbort/awesome-self-driving-cars",
+"COVESA/vsomeip",
+"wangdong412/Consen-SIS",
+"jaredthecoder/awesome-vehicle-security",
+"simonaronsson/awesome-software-architecture",
+"inputsh/awesome-c",
+"fffaraz/awesome-cpp",
+"nhivp/Awesome-Embedded",
+"mikecroucher/awesome-MATLAB",
+"ligurio/sqa-wiki",
+"google/googletest",
+"meekrosoft/fff",
+"naivesystems/analyze",
+"analysis-tools-dev/static-analysis"
+]
+}

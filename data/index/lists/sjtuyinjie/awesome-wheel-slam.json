@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated list of resources relevant to wheel-based SLAM","defaultBranch":"main","topics":[],"readmeSha":"642661ca3167de9939819f9601f628399874506e"},
+"members": [
+"sjtuyinjie/Ground-Fusion2",
+"sjtuyinjie/M3DGR",
+"SJTU-ViSYS/Ground-Fusion",
+"SJTU-ViSYS/M2DGR-plus",
+"ZikangYuan/liw_oam",
+"i2Nav-WHU/Wheel-SLAM",
+"i2Nav-WHU/Wheel-INS",
+"ydsf16/dre_slam",
+"image-amazing/Wheel_Encoder_aided_vo",
+"TouchDeeper/VIW-Fusion",
+"Wallong/VINS-GPS-Wheel",
+"leavesnight/VIEO_SLAM",
+"hu-minghao/VINS-Fusion-Vehicle",
+"KopanevPavel/runbot_custom_localization",
+"sjtuyinjie/awesome-LiDAR-Visual-SLAM",
+"sjtuyinjie/awesome-isaac-sim",
+"Deephome/Awesome-LiDAR-Camera-Calibration",
+"SilenceOverflow/Awesome-SLAM",
+"youngguncho/awesome-slam-datasets",
+"zubair-irshad/Awesome-Implicit-NeRF-Robotics",
+"jonyzhang2023/awesome-humanoid-learning",
+"robotlearning123/awesome-isaac-gym",
+"curieuxjy/Awesome_Quadrupedal_Robots",
+"robot-descriptions/awesome-robot-descriptions",
+"gaiyi7788/awesome-legged-locomotion-learning"
+]
+}

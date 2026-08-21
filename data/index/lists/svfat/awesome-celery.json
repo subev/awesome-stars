@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A curated list of awesome things related to Celery (distributed task queue)","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"90ee846bcadc6ccffbf079d9a3e3bf51223c48c8"},
+"members": [
+"celery/celery",
+"vintasoftware/celery-tasks-checklist",
+"danyi1212/celery-insights",
+"mher/flower",
+"kodless/leek",
+"celery/django-celery-beat",
+"czue/celery-progress",
+"celery/django-celery-results",
+"codingjoe/django-health-check",
+"rsalmei/clearly",
+"danihodovic/celery-exporter",
+"rq/rq",
+"wakatime/wakaq",
+"cr0hn/aiotasks",
+"closeio/tasktiger",
+"selinon/selinon",
+"ovh/celery-director",
+"cameronmaske/celery-once",
+"PolicyStat/jobtastic",
+"sibson/redbeat",
+"rusty-celery/rusty-celery",
+"gocelery/gocelery",
+"actumn/celery.node"
+]
+}

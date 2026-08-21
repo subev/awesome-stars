@@ -1,0 +1,16 @@
+{
+"meta": {"description":"👓 A curated list of awesome android learning resources for android app developers. ","defaultBranch":"main","topics":["android","kotlin","awesome","jetpack-android","learn-android","study-guide","learning-resources","awesome-list","android-kotlin","dagger"],"readmeSha":"91077ec4586d667419233f3e17f04e9943302b7c"},
+"members": [
+"androiddevnotes/awesome-jetpack-compose-learning-resources",
+"Zhuinden/guide-to-kotlin",
+"Kotlin/KEEP",
+"amitshekhariitbhu/from-java-to-kotlin",
+"huanglizhuo/kotlin-in-chinese",
+"androiddevnotes/awesome-jetpack-compose-learning-resources",
+"androiddevnotes/android-sitemap",
+"OWASP/mastg",
+"igorwojda/android-ecosystem-cheat-sheet",
+"mobile-roadmap/android-developer-roadmap",
+"androiddevnotes/awesome-android-kotlin-apps"
+]
+}

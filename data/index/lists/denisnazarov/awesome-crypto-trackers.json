@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of crypto project trackers and analytics dashboards.","defaultBranch":"master","topics":[],"readmeSha":"44a435133b1ad1ba531c515bc6a4b31135ec01ed"},
+"members": [
+"block-wallet/ethereum-gas-prices-browser-extension",
+"linda-xie/defi-oracles"
+]
+}

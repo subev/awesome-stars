@@ -1,0 +1,14 @@
+{
+"meta": {"description":"Resources to learn and implement authentication in your application","defaultBranch":"master","topics":["authentication","authentication-strategy","authentication-backend","jwt","oauth2","rfc-7519","digital-signature","learning","resources"],"readmeSha":"3ceb527d72928d7375c7aa8b167812ff9b472671"},
+"members": [
+"signalapp/libsignal-protocol-javascript",
+"shieldfy/API-Security-Checklist",
+"mikenicholson/passport-jwt",
+"mozilla/fxa",
+"jaredhanson/oauth2orize",
+"ory/hydra",
+"openid/AppAuth-JS",
+"apache/casbin-node-casbin",
+"gitcommitshow/auth-jwt"
+]
+}

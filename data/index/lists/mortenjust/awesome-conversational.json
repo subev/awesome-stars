@@ -1,0 +1,10 @@
+{
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"db755b1bfcd1c1503a7caf8bdd2bb2b770fb9ee5"},
+"members": [
+"microsoft/botframework-sdk",
+"howdyai/botkit",
+"Zephrys/monica",
+"acani/Chats",
+"relatedcode/Messenger"
+]
+}

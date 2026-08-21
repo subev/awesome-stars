@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)","defaultBranch":"main","topics":["ai-for-earth","ai-for-science","large-weather-models","nowcasting","weather","weather-forecast","meteorology","ocean-modelling","oceanography","foundation-model"],"readmeSha":"834c963cc088b33b3e37272e92c4b325e95fb4be"},
+"members": [
+"tpys/ai-models-fuxi",
+"openclimatefix/metnet",
+"NVlabs/FourCastNet",
+"198808xc/Pangu-Weather",
+"google-deepmind/weathernext",
+"microsoft/ClimaX",
+"OpenEarthLab/FengWu",
+"black-yt/ExtremeCast",
+"Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting",
+"OpenEarthLab/CasCast",
+"Aalto-QuML/ClimODE",
+"microsoft/aurora",
+"black-yt/WeatherGFT",
+"OpenEarthLab/ORCA-DL",
+"gcouairon/ArchesWeather",
+"YuanGao-YG/OneForecast",
+"csubich/graphcast",
+"pangeo-data/WeatherBench",
+"MIT-AI-Accelerator/neurips-2020-sevir",
+"google-research/weatherbench2",
+"taohan10200/CRA5",
+"brightbandtech/ExtremeWeatherBench",
+"ecmwf-lab/ai-models",
+"secondlaw-ai/skyrim",
+"NVIDIA/earth2mip",
+"darothen/ai-models-for-all"
+]
+}

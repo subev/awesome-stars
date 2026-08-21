@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Community Datasets added by users and made available for use at large","defaultBranch":"master","topics":["googleearthengine","community-datasets","catalog","awesome-list","earth-engine","geospatial","geospatial-data","gis","google-earth-engine","open-datasets"],"readmeSha":"3c49544267a15117fbab2731245dceb1a96f0945"},
+"members": [
+"sindresorhus/awesome"
+]
+}

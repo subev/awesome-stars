@@ -1,0 +1,28 @@
+{
+"meta": {"description":"an awesome list of decentralized services and technologies","defaultBranch":"master","topics":["decentralized-protocols","decentralized-applications","decentralized-web","decentralized"],"readmeSha":"fdabfde3b4fce541315a53fac84eb59e583dfbd5"},
+"members": [
+"sindresorhus/awesome",
+"bluesky-social/atproto",
+"forgefed/forgefed",
+"earthstar-project/earthstar",
+"holochain/holochain",
+"mozilla/libdweb",
+"clehner/git-ssb",
+"xandru582/balchat",
+"berty/berty",
+"blueprint-freespeech/ricochet-refresh",
+"orbitdb/orbitdb",
+"aviondb/aviondb",
+"guerrerocarlos/CacheP2P",
+"ethersphere/swarm",
+"Bit451/Bit451",
+"kewitz/dat-medium",
+"ssbc/patchwork",
+"TrsstProject/trsst",
+"magic-wormhole/magic-wormhole",
+"btrask/stronglink",
+"oduwsdl/ipwb",
+"yacy/yacy_search_server",
+"Decentralized-ID/decentralized-id.github.io"
+]
+}

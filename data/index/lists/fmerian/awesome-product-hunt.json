@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Awesome developer tools launched on Product Hunt.","defaultBranch":"main","topics":["dev-tools","developer-first","developer-marketing","developer-tools","product-hunt","startups","awesome","awesome-list"],"readmeSha":"431b96081048b9a707674fbcc9398305becf7650"},
+"members": [
+"agamm/awesome-developer-first",
+"ronakganatra/awesome-developer-marketing"
+]
+}

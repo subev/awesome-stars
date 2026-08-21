@@ -1,0 +1,8 @@
+{
+"meta": {"description":"An ever-growing/changing collection of tools, resources, tutorials, guidelines and examples. ","defaultBranch":"master","topics":[],"readmeSha":"93248802e0bdd784feaf5ae69e9fbef3a1170a38"},
+"members": [
+"dypsilon/frontend-dev-bookmarks",
+"bayandin/awesome-awesomeness",
+"sindresorhus/awesome"
+]
+}

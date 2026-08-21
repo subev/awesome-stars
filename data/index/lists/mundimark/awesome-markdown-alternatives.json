@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A collection of awesome light-weight markup markdown alternatives (incl. wikitext, org mode, typst, & more) -- note - for beyond markdown markups, see the awesome markdown & beyond repo ","defaultBranch":"master","topics":[],"readmeSha":"19e3a187159f0c83c2b8813400a82545c660549d"},
+"members": [
+"mundimark/awesome-markdown",
+"SenseLogic/PENDOWN",
+"typst/typst"
+]
+}

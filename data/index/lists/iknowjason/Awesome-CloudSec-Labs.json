@@ -1,0 +1,32 @@
+{
+"meta": {"description":"Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ","defaultBranch":"main","topics":[],"readmeSha":"cc8d522097135015bb5ff3ac47675c87271cc961"},
+"members": [
+"BishopFox/cloudfoxable",
+"doyensec/cloudsec-tidbits",
+"RhinoSecurityLabs/cloudgoat",
+"BishopFox/iam-vulnerable",
+"ine-labs/AWSGoat",
+"nccgroup/sadcloud",
+"m6a-UdS/dvca",
+"wickett/lambhack",
+"punitdarji/AWSCloudPentest",
+"Semperis/EntraGoat",
+"mvelazc0/BadZure",
+"bvcyber/brokenbydesign-azure",
+"mandiant/Azure_Workshop",
+"ine-labs/AzureGoat",
+"XMCyber/XMGoat",
+"Azure/CONVEX",
+"n0jam/gcp-ctf-workshop",
+"ine-labs/GCPGoat",
+"madhuakula/kubernetes-goat",
+"raesene/kube_security_lab",
+"genuinetools/contained.af",
+"bridgecrewio/terragoat",
+"Azure/SimuLand",
+"tenable/cnappgoat",
+"cider-security-research/cicd-goat",
+"step-security/github-actions-goat",
+"Coalfire-Research/paas-cloud-goat"
+]
+}

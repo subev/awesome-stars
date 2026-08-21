@@ -1,0 +1,8 @@
+{
+"meta": {"description":"☕️ Web App for Awesome CN Café","defaultBranch":"master","topics":["cafe","awesome-list","map","mapbox","vite","reactivue","shops"],"readmeSha":"403f396af9cd9bee1da8a206c8e6fb51be566bca"},
+"members": [
+"ElaWorkshop/awesome-cn-cafe",
+"vitejs/vite",
+"antfu/reactivue"
+]
+}

@@ -1,0 +1,11 @@
+{
+"meta": {"description":"An awesome-awesome list.","defaultBranch":"master","topics":[],"readmeSha":"5caad2295f88c4fca4671c6203263deef8145c14"},
+"members": [
+"sindresorhus/awesome",
+"bayandin/awesome-awesomeness",
+"oyvindrobertsen/awesome-awesome",
+"fleveque/awesome-awesomes",
+"erichs/awesome-awesome",
+"emijrp/awesome-awesome"
+]
+}

@@ -1,0 +1,28 @@
+{
+"meta": {"description":"An awesome list for collecting awesome lists related to AI.","defaultBranch":"main","topics":["awesome","awesome-list","chatgpt","prompt-engineering","learning-resources","resources","ai"],"readmeSha":"edab2384ee3e518496b6a6b0639d171a6e597793"},
+"members": [
+"x1xhlol/system-prompts-and-models-of-ai-tools",
+"VoltAgent/awesome-design-md",
+"PatrickJS/awesome-cursorrules",
+"jamesmurdza/awesome-ai-devtools",
+"benchflow-ai/awesome-evals",
+"deepseek-ai/awesome-deepseek-agent",
+"taskade/awesome-vibe-coding",
+"fhiltscher/awesome-ai-coding-sandboxes",
+"steven2358/awesome-generative-ai",
+"luban-agi/Awesome-AIGC-Tutorials",
+"alvinreal/awesome-opensource-ai",
+"runningcheese/Awesome-AI",
+"eugeneyan/open-llms",
+"humanloop/awesome-chatgpt",
+"elyase/awesome-gpt3",
+"dair-ai/Prompt-Engineering-Guide",
+"promptslab/Awesome-Prompt-Engineering",
+"thinkingjimmy/Learning-Prompt",
+"phodal/prompt-patterns",
+"f/prompts.chat",
+"PlexPt/awesome-chatgpt-prompts-zh",
+"YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+"mattnigh/ChatGPT-Free-Prompt-List"
+]
+}

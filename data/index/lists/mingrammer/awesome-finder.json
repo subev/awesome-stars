@@ -1,0 +1,6 @@
+{
+"meta": {"description":":sunglasses: Search the awesome curated list without browser","defaultBranch":"master","topics":["awesome-finder","awesome","finder","tui","cli"],"readmeSha":"ece5c5e9087da789f72d54e02e1ef4be8b65b31d"},
+"members": [
+"vinta/awesome-python"
+]
+}

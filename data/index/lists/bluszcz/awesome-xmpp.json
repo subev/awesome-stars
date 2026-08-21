@@ -1,0 +1,26 @@
+{
+"meta": {"description":"A curated list of delightful XMPP related resources.","defaultBranch":"master","topics":["awesome-list","awesome","awesome-xmpp","xmpp","hacktoberfest","hacktoberfest2019"],"readmeSha":"9469b7d8700b9e04f7edf9fb7f0bd3bf54854656"},
+"members": [
+"sindresorhus/awesome",
+"coyim/coyim",
+"dino/dino",
+"younix/sj",
+"redsolution/xabber-android",
+"redsolution/xabber-web",
+"esl/MongooseIM",
+"tigase/jaxmpp",
+"sco0ter/babbler",
+"Jajcus/pyxmpp",
+"fritzy/SleekXMPP",
+"tigase/Martin",
+"xmppjs/xmpp.js",
+"robbiehanson/XMPPFramework",
+"metajack/commitbot",
+"malexmave/issuebot",
+"wstrm/omemo-utils",
+"xmppo/xmppconsole",
+"movim/movim",
+"louiz/biboumi",
+"JabberSPAM/jabber-spam-fighting-manifesto"
+]
+}

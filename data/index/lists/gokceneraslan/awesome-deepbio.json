@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome deep learning applications in the field of computational biology","defaultBranch":"master","topics":[],"readmeSha":"7ab6dd940751d978d1b483c61a64aab09159f26e"},
+"members": [
+"davek44/Basset",
+"greenelab/adage",
+"uci-cbcl/DanQ"
+]
+}

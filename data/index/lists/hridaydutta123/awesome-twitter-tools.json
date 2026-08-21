@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome twitter tools","defaultBranch":"master","topics":["twitter","twitter-api","twitter-client","twitter-bot","twitter-streaming-api"],"readmeSha":"d60d02e9b6345838cce61271202eebed50685b14"},
+"members": [
+"tweepy/tweepy",
+"ryanmcgrath/twython",
+"geduldig/TwitterAPI",
+"bear/python-twitter",
+"sns-sdks/python-twitter",
+"inueni/birdy",
+"uditarora/ParallelTweepy",
+"crowdfavorite/wp-twitter-tools",
+"sferik/x-cli",
+"ConradIrwin/twitter-followers",
+"janezkranjc/twitter-tap",
+"jdevoo/twecoll",
+"lambtron/coopboost",
+"eldraco/twitter-stats",
+"DocNow/twarc",
+"twitter-archive/ospriet",
+"vaguileradiaz/tinfoleak",
+"fisadev/twistorpy",
+"twintproject/twint",
+"wslyvh/autodelete-me",
+"Xquik-dev/x-twitter-scraper",
+"Xquik-dev/tweetclaw",
+"othmarodev/filaxy-herald",
+"sergebulaev/x-skills",
+"Deviloxide/twitter-archive-viewer",
+"tmun5718/Twitter-Sentiment-Analysis",
+"getxapi/getxapi-mcp",
+"GenAIwithMS/twitter-mcp"
+]
+}

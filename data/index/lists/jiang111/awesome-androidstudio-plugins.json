@@ -1,0 +1,21 @@
+{
+"meta": {"description":"收集Android studio 常用的插件","defaultBranch":"master","topics":["android-studio"],"readmeSha":"9335947989b00a8a95a1cbc746f55e48c7a58b82"},
+"members": [
+"vsch/idea-multimarkdown",
+"laobie/FindViewByMe",
+"permissions-dispatcher/permissions-dispatcher-plugin",
+"Skykai521/ECTranslation",
+"kgmyshin/eventbus3-intellij-plugin",
+"wakatime/jetbrains-wakatime",
+"pedrovgs/AndroidWiFiADB",
+"kgmyshin/eventbus-intellij-plugin",
+"ligi/GradleDependenciesHelperPlugin",
+"zhonghanwen/AndroidProguardPlugin",
+"konifar/android-strings-search-plugin",
+"westlinkin/AndroidLocalizationer",
+"githubwing/MVPHelper",
+"nukc/ApkMultiChannelPlugin",
+"wuapnjie/LayoutMaster",
+"halirutan/IntelliJ-Key-Promoter-X"
+]
+}

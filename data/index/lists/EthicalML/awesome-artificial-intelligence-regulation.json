@@ -1,0 +1,20 @@
+{
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"2c16cb43407c09d15ccc32c04114a686a593cfa5"},
+"members": [
+"sindresorhus/awesome",
+"EthicalML/awesome-artificial-intelligence-regulation",
+"id-levi/eu-ai-act-ressourcen",
+"certian-register/ai-governance-manifest",
+"OpenEthicsAI/OETP",
+"IBM/ai-atlas-nexus",
+"airblackbox/air-blackbox-mcp",
+"SeldonIO/alibi",
+"EthicalML/awesome-production-machine-learning",
+"capeprivacy/cape-dataframes",
+"Myr-Aya/darr-deployer-ai-risk-register",
+"OpenEthicsAI/OEDP",
+"OpenEthicsAI/OEL",
+"OrchardHarmonics/orchard-kit",
+"nelsambrose/ISO-42001-Visual-Library"
+]
+}

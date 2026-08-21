@@ -1,0 +1,28 @@
+{
+"meta": {"description":"A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. ","defaultBranch":"master","topics":[],"readmeSha":"fda1427d33dcac7ae6080511b8c70f5e84a7dae9"},
+"members": [
+"sindresorhus/awesome",
+"ziadoz/awesome-php",
+"WordPress/WordPress",
+"Automattic/_s",
+"CherryFramework/CherryFramework",
+"gantry/gantry5",
+"heitorspedroso/wp-developer-theme",
+"gambitph/Titan-Framework",
+"devowlio/wp-react-starter",
+"ahmadawais/create-guten-block",
+"youknowriad/gcf",
+"WordPress/gutenberg-examples",
+"danielbachhuber/gutenberg-migration-guide",
+"zackify/gutenblock",
+"afragen/git-updater",
+"timber/timber",
+"picocodes/hubaga",
+"jjgrainger/wp-custom-post-type-class",
+"wp-bootstrap/wp-bootstrap-navwalker",
+"dropndot/awesome-wordpress",
+"Mte90/awesome-wordpress-developer-tips",
+"minthemiddle/powered-by-wordpress",
+"WordPress/library"
+]
+}

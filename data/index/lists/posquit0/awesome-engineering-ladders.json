@@ -1,0 +1,8 @@
+{
+"meta": {"description":":sunglasses: A curated list of awesome resources for Engineering Ladder","defaultBranch":"master","topics":["awesome","awesome-list","awesome-engineering","awesome-engineering-ladders","career","career-guide","ladder","engineering-ladder"],"readmeSha":"a4bcdb97cef5e7a2d19251f4b55fad69275556e1"},
+"members": [
+"ellerbrock/open-source-badges",
+"posquit0/awesome-engineer-onboarding",
+"posquit0/awesome-engineering-team-principles"
+]
+}

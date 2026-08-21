@@ -1,0 +1,30 @@
+{
+"meta": {"description":"A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome","defaultBranch":"master","topics":["awesome","awesome-list","awesomeness","graphql","react","react-native"],"readmeSha":"5a9ebfaa8a6ea94f5e55338c522d35e074b65449"},
+"members": [
+"sindresorhus/awesome",
+"facebook/relay",
+"awslabs/aws-mobile-appsync-sdk-js",
+"urql-graphql/urql",
+"apollographql/apollo-tooling",
+"dotansimha/graphql-code-generator",
+"apollographql/eslint-plugin-graphql",
+"graphql/graphql-playground",
+"ecerroni/apollo-cache-updater",
+"leebenson/reactql",
+"amazon-archives/aws-mobile-appsync-events-starter-react",
+"fortruce/relay-skeleton",
+"hasura/graphql-engine",
+"vercel/next.js",
+"WeLikeGraphQL/universal-react-apollo-example",
+"the-road-to-graphql/react-graphql-github-apollo",
+"the-road-to-graphql/react-graphql-github-vanilla",
+"the-road-to-graphql/react-graphql-client-library",
+"the-road-to-graphql/react-apollo-link-state-example",
+"the-road-to-graphql/react-apollo-client-mocking-example",
+"the-road-to-graphql/react-apollo-client-testing-example",
+"srtucker22/chatty",
+"learnapollo/pokedex-react-native",
+"amazon-archives/aws-mobile-appsync-events-starter-react-native",
+"graphql-boilerplates/react-fullstack-graphql"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Curated list of resources and tools for Elden Ring","defaultBranch":"main","topics":["awesome-list","elden-ring","fromsoftware"],"readmeSha":"deebf703efcea480bad985f12d8dc594a050bb4a"},
+"members": [
+"robrustdev/EldenForge",
+"EldenRingDatabase/erdb",
+"soulsmods/DSMapStudio",
+"soulsmods/Paramdex",
+"Atvaark/BinderTool",
+"JKAnderson/SoulsFormats",
+"JKAnderson/UXM",
+"JKAnderson/Yabber",
+"Nordgaren/Elden-Ring-Debug-Tool",
+"vawser/Yapped-Rune-Bear",
+"The-Grand-Archives/Elden-Ring-CT-TGA",
+"tremwil/SteamP2PInfo"
+]
+}

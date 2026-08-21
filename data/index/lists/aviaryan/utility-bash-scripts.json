@@ -1,0 +1,8 @@
+{
+"meta": {"description":"🤓 Useful bash scripts to do automatable tasks with a single command","defaultBranch":"master","topics":["bash","scripts","awesome-list"],"readmeSha":"0d39446b46acff0190d3985215e246908559eff9"},
+"members": [
+"ytdl-org/youtube-dl",
+"Miserlou/SoundScrape",
+"schacon/cowsay"
+]
+}

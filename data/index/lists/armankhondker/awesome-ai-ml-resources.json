@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Learn AI/ML for beginners with a roadmap and free resources. ","defaultBranch":"main","topics":["roadmap","artifical-intelligense","machine-learning"],"readmeSha":"5f64d159d41164acc388725ff4f5028151f7853c"},
+"members": [
+"khangich/machine-learning-interview",
+"openai/whisper"
+]
+}

@@ -1,0 +1,14 @@
+{
+"meta": {"description":"🇵🇹 Lista de repositórios de dados abertos em Portugal","defaultBranch":"trunk","topics":["awesome","dados-abertos","open-data","portugal"],"readmeSha":"2e36c2bd757f3f71a0211fc20fe9d17f2bce6a93"},
+"members": [
+"sindresorhus/awesome",
+"juliuste/comboios",
+"glima93/data_exams_06_18_PT",
+"codecadre/imt-school-addresses",
+"codecadre/imt-pass-rates",
+"InterruptorPt/dados",
+"ajcerejeira/base.gov.pt",
+"glima93/teacher_salaries_PT",
+"bit-of-a-shambles/dados"
+]
+}

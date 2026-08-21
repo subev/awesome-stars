@@ -1,0 +1,13 @@
+{
+"meta": {"description":"the awesome list of cross platform apps solutions(跨平台app方案合集)","defaultBranch":"master","topics":["cross-platform","hybrid-solution"],"readmeSha":"2c4d4c39c6360b8b7f8f241babab1358c7721be3"},
+"members": [
+"react/react-native",
+"9miao/CrossApp",
+"alibaba/weex",
+"flutter/flutter",
+"crosswalk-project/crosswalk",
+"tidev/titanium-cli",
+"ionic-team/ionic-framework",
+"ludei/cocoonjs-cli"
+]
+}

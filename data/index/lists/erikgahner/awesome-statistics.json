@@ -1,0 +1,25 @@
+{
+"meta": {"description":"A curated collection of links to statistics material","defaultBranch":"main","topics":["awesome","data-analysis","data-visualization","statistics"],"readmeSha":"3825358bd97b900ebb1e0f211de5feeb6d6aa351"},
+"members": [
+"sindresorhus/awesome",
+"causaltext/causal-text-papers",
+"kennethleungty/Failed-ML",
+"dataviza11y/resources",
+"Financial-Times/chart-doctor",
+"cxli233/FriendsDontLetFriends",
+"jtleek/datasharing",
+"Quartz/bad-data-guide",
+"ronikobrosly/awesome-data-leadership",
+"danhuss/awesome-sql",
+"erikgahner/PolData",
+"jalapic/engsoccerdata",
+"awesomedata/awesome-public-datasets",
+"SNStatComp/awesome-official-statistics-software",
+"iamericfletcher/awesome-r-learning-resources",
+"donnemartin/data-science-ipython-notebooks",
+"norvig/pytudes",
+"dabeaz-course/python-mastery",
+"EconometricsBySimulation/RStata",
+"BIDS/reproducibility-wg"
+]
+}

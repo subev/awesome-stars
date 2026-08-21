@@ -1,0 +1,7 @@
+{
+"meta": {"description":"an awesome list of internet services that don't require logins or registrations","defaultBranch":"master","topics":["awesome-list","awesome","account"],"readmeSha":"45e68bdfb77c8a1baf8ca1c905a55730bb9a5fbb"},
+"members": [
+"sindresorhus/awesome",
+"aviaryan/awesome-no-login-web-apps"
+]
+}

@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases","defaultBranch":"master","topics":["open-data","opendata","civic-tech","civic-hacking","goverment-data","italy","open","awesome","dataset","awesome-list"],"readmeSha":"28fe3ca1d901bb45ee09baf4775c160cff2fdf37"},
+"members": [
+"italia/covid19-opendata-vaccini",
+"emergenzeHack/terremotocentro"
+]
+}

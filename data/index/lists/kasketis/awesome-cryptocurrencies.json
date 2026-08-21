@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome cryptocurrencies 🎩","defaultBranch":"master","topics":["cryptocurrencies"],"readmeSha":"95b680e6e5eacaf6a5bad1709c448185ca5c0de0"},
+"members": [
+"sindresorhus/awesome",
+"aragon/whitepaper",
+"dashpay/dash",
+"EOSIO/Documentation",
+"FactomProject/FactomDocs",
+"maidsafe/Whitepapers",
+"enzymefinance/paper",
+"monero-project/research-lab",
+"neo-project/neo",
+"synereo/synereo.github.io",
+"vergecurrency/Verge-Blackpaper"
+]
+}

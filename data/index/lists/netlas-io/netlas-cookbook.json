@@ -1,0 +1,10 @@
+{
+"meta": {"description":"The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.","defaultBranch":"main","topics":["bugbounty","cybersecurity","osint","pentest","awesome","awesome-list"],"readmeSha":"54fbf8b1e06f1bf69e4c3f9120f9287fe9cfff60"},
+"members": [
+"elastic/elasticsearch",
+"netlas-io/netlas-python",
+"netlas-io/netlas-scripts",
+"franckferman/MetaDetective",
+"netlas-io/netlas-dorks"
+]
+}

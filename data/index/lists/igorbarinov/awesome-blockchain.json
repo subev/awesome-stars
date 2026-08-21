@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Curated list of the bitcoin blockchain services","defaultBranch":"master","topics":[],"readmeSha":"fbe568a0fc0af3ca8cb4e5ced38e1c04b3470046"},
+"members": [
+"blockai-unofficial/openpublish",
+"opentimestamps/opentimestamps-server",
+"ChristopherA/revocable-self-signed-tls-certificates-hack",
+"bitpay/bitauth",
+"lightning/bolts",
+"ACINQ/eclair",
+"ElementsProject/lightning",
+"blockchain/thunder",
+"mit-dci/lit",
+"lightningnetwork/lnd"
+]
+}

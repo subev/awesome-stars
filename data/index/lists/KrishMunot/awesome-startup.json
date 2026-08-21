@@ -1,0 +1,10 @@
+{
+"meta": {"description":":sunglasses: All the required resources to build your own startup","defaultBranch":"master","topics":["startup","entrepreneurs","engineering","advice","awesome","awesome-list","venture-capital","free-software","free","code"],"readmeSha":"21dcd2067856e606ca867ff541919d56c7a9db98"},
+"members": [
+"sindresorhus/awesome",
+"meta-llama/llama-models",
+"openai/evals",
+"pgvector/pgvector",
+"tldrsec/awesome-secure-defaults"
+]
+}

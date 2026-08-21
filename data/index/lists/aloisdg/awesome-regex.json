@@ -1,0 +1,24 @@
+{
+"meta": {"description":"A curated collection of awesome Regex libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"4c68e6d0f6b0083118448d196923aaf70ac9e7f0"},
+"members": [
+"quozd/awesome-dotnet",
+"markets/awesome-ruby",
+"bayandin/awesome-awesomeness",
+"devongovett/regexgen",
+"MaLeLabTs/RegexGenerator",
+"pemistahl/grex",
+"jkutner/saferegex",
+"alexflint/go-restructure",
+"benjamingr/js-restructure",
+"wyantb/js-regex",
+"francisrstokes/super-expressive",
+"google/re2",
+"intel/hyperscan",
+"callumacrae/regex-tuesday",
+"learnbyexample/py_regular_expressions",
+"mariomka/regex-benchmark",
+"rust-leipzig/regex-performance",
+"sindresorhus/awesome",
+"jnv/lists"
+]
+}

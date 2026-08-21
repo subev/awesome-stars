@@ -1,0 +1,7 @@
+{
+"meta": {"description":"User-friendly query builder for React","defaultBranch":"master","topics":["reactjs","react-component","react-components","query-builder","react","antd","antdesign","sql","mongo","typescript"],"readmeSha":"73e0d71343b836055f1a96dacc10dbcb62a95203"},
+"members": [
+"mui/material-ui",
+"fubhy/react-query-builder"
+]
+}

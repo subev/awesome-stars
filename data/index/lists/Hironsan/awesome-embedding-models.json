@@ -1,0 +1,16 @@
+{
+"meta": {"description":"A curated list of awesome embedding models tutorials, projects and communities.","defaultBranch":"master","topics":["embeddings","embedding-models","word2vec","machine-learning","natural-language-processing","awesome","papers"],"readmeSha":"f7cbc49511501502f07d915be883d0ec7fbc4172"},
+"members": [
+"sindresorhus/awesome",
+"epfml/sent2vec",
+"ncbi-nlp/BioSentVec",
+"chakki-works/chakin",
+"Kyubyong/wordvectors",
+"facebookresearch/fastText",
+"alexandres/lexvec",
+"bheinzerling/bpemb",
+"eyaler/word2vec-slim",
+"stanfordnlp/GloVe",
+"guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer"
+]
+}

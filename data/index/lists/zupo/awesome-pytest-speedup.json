@@ -1,0 +1,9 @@
+{
+"meta": {"description":"A collection of tips, tricks and links to help you speed up your pytest suite.","defaultBranch":"main","topics":[],"readmeSha":"3333c5599b1d4d2fe9800adba5529fc4f083977f"},
+"members": [
+"sharkdp/hyperfine",
+"pytest-dev/pyfakefs",
+"jerry-git/pytest-split-gh-actions-demo",
+"teamniteo/pyramid-realworld-example-app"
+]
+}

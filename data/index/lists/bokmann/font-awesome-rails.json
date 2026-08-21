@@ -1,0 +1,6 @@
+{
+"meta": {"description":"the font-awesome font bundled as an asset for the rails asset pipeline","defaultBranch":"master","topics":[],"readmeSha":"b688b86cdfa913ce8f4b9a75eb9b021e86e35463"},
+"members": [
+"FortAwesome/font-awesome-sass"
+]
+}

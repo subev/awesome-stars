@@ -1,0 +1,7 @@
+{
+"meta": {"description":"🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.","defaultBranch":"main","topics":["bookmarks","dev-resources","devdocs","awesome","awesome-list","list","tools","bookmarklets","browser-bookmarklets","regex"],"readmeSha":"fe5d92b039daf3ff90c66e2729ee5a2cd2f80720"},
+"members": [
+"sindresorhus/awesome",
+"svg/svgo"
+]
+}

@@ -1,0 +1,33 @@
+{
+"meta": {"description":"Curated list of blockchain, Awesome Awesomeness","defaultBranch":"master","topics":["blockchain","dex","crypto","awesome-list"],"readmeSha":"681eadf74818d7022828af8eef25574a83cac781"},
+"members": [
+"sindresorhus/awesome",
+"Zheaoli/awesome-coins",
+"openblockchains/awesome-blockchains",
+"machinomy/awesome-non-financial-blockchain",
+"Blockchain-DC/awesome-blockchain",
+"igorbarinov/awesome-blockchain",
+"coinpride/CryptoList",
+"Decentralized-ID/decentralized-id.github.io",
+"peacekeeper/blockchain-identity",
+"xpfio/awesome-blockchain-visualisation",
+"imbaniac/awesome-blockchain",
+"OffcierCia/DeFi-Developer-Road-Map",
+"chaozh/awesome-blockchain-cn",
+"bitmasterv/awesome-blockchain",
+"coderplex-org/awesome-blockchain",
+"hylinux1024/awesome-blockchain-articles",
+"yjjnls/awesome-blockchain",
+"ChihChengLiang/Ethereum_study_guide",
+"Phunk87/bitcoin_developer_guide",
+"decrypto-org/blockchain-papers",
+"bitcoinbook/bitcoinbook",
+"ethereumbook/ethereumbook",
+"bisq-network/bisq",
+"cosmos/cosmos",
+"w3c/blockchain",
+"bitpay/bitauth",
+"cazala/coin-hive",
+"Consensys/quorum"
+]
+}

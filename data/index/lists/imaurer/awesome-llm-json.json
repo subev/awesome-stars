@@ -1,0 +1,25 @@
+{
+"meta": {"description":"Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.","defaultBranch":"main","topics":["awesome-list","large-language-models","llm","function-calling","gpt-actions","structured-generation"],"readmeSha":"5d8ff0fb2bafee13076d860f16bbd4e2bbb39176"},
+"members": [
+"stanfordnlp/dspy",
+"pydantic/pydantic",
+"genomoncology/FuzzTypes",
+"guidance-ai/guidance",
+"567-labs/instructor",
+"langchain-ai/langchain",
+"BerriAI/litellm",
+"run-llama/llama_index",
+"PrefectHQ/marvin",
+"dottxt-ai/outlines",
+"pydantic/pydantic-ai",
+"sgl-project/sglang",
+"structuredllm/syncode",
+"Mirascope/mirascope",
+"jackmpcollins/magentic",
+"Dan-wanna-M/formatron",
+"epfl-dlab/transformers-CFG",
+"katanaml/sparrow",
+"abetlen/llama-cpp-python",
+"minimaxir/chatgpt-structured-data"
+]
+}

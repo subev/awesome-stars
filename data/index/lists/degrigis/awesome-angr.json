@@ -1,0 +1,21 @@
+{
+"meta": {"description":"A collection of resources/tools and analyses for the angr binary analysis framework.","defaultBranch":"main","topics":[],"readmeSha":"896da499812c292b6acb889343d1bfc504668083"},
+"members": [
+"sindresorhus/awesome",
+"ReversecLabs/z3_and_angr_binary_analysis_workshop",
+"angr/heaphopper",
+"fmagin/angr-cli",
+"ucsb-seclab/syml",
+"angr/angrop",
+"angr/angr-management",
+"ash09/angr-static-analysis-for-vuzzer64",
+"ucsb-seclab/monolithic-firmware-collection",
+"OSUSecLab/FirmXRay",
+"season-lab/memsight",
+"ucsb-seclab/karonte",
+"ucsb-seclab/BootStomp",
+"NSSL-SJTU/SaTC",
+"jkrshnmenon/arbiter",
+"ChrisTheCoolHut/bcheck"
+]
+}

@@ -1,0 +1,17 @@
+{
+"meta": {"description":"Listing (awesome) plain—Vanilla—Javascript resources","defaultBranch":"master","topics":[],"readmeSha":"8cfba0f4246d35e5377b9c181267ec61d4f23859"},
+"members": [
+"zoltantothcom/vanilla-js-accordion",
+"zoltantothcom/vanilla-js-carousel",
+"zoltantothcom/vanilla-js-dropdown",
+"cferdinandi/gumshoe",
+"ava-cassiopeia/simple-switch",
+"cferdinandi/tabby",
+"zoltantothcom/vanilla-js-tabs",
+"zoltantothcom/vanilla-js-tooltip",
+"Modernizr/Modernizr",
+"cferdinandi/buoy",
+"remy/min.js",
+"remy/bind.js"
+]
+}

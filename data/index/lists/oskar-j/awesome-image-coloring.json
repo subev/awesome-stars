@@ -1,0 +1,33 @@
+{
+"meta": {"description":"A curated list of awesome AI-powered image coloring frameworks, libraries and software.","defaultBranch":"master","topics":["awesome-list","deep-learning","image-colorization","deep-neural-networks"],"readmeSha":"c9e1f8890e775e8bb593099712824572d2d311b9"},
+"members": [
+"sindresorhus/awesome",
+"Armour/Automatic-Image-Colorization",
+"shekkizh/Colorization.tensorflow",
+"PrimozGodec/ImageColorization",
+"ameroyer/PIC",
+"AbdelrahmanRadwan/photo-coloring",
+"ImagingLab/Colorizing-with-GANs",
+"ArkaJU/Image-Colorization-CycleGAN",
+"emilwallner/Coloring-greyscale-images",
+"kgeorgiev42/Image-Colorization-of-Historical-Paintings",
+"aman-chauhan/Image-Coloring",
+"thevarunsharma/Image-Colorization",
+"jantic/DeOldify",
+"richzhang/colorization",
+"junyanz/interactive-deep-colorization",
+"richzhang/colorization-pytorch",
+"kainoj/colnet",
+"karoly-hars/GAN_image_colorizing",
+"Time0o/colorful-colorization",
+"done1892/Square-Images-Colorization",
+"saulo-p/Exemplar-Image-Colorization",
+"ColorfulSoft/StyleTransfer-Colorization-SuperResolution",
+"SketchyScene/SketchySceneColorization",
+"Alex13832/Colorizer-iOS",
+"MarkMoHR/Awesome-Image-Colorization",
+"josephmisiti/awesome-machine-learning",
+"ChristosChristofidis/awesome-deep-learning",
+"kjw0612/awesome-deep-vision"
+]
+}
