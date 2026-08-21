@@ -104,30 +104,46 @@ export function HydrateFallback({ params }: Route.HydrateFallbackProps) {
   return <ListSkeleton owner={params.owner} repo={params.repo} />;
 }
 
-const describeError = (error: unknown) => {
+type ErrorInfo = { status: number | null; message: string };
+
+const describeError = (error: unknown): ErrorInfo => {
   if (isRouteErrorResponse(error)) {
-    return { notFound: error.status === 404, message: String(error.data) };
+    return { status: error.status, message: String(error.data) };
   }
   if (error instanceof Error) {
     return {
-      notFound: (error as { status?: number }).status === 404,
+      status: (error as { status?: number }).status ?? null,
       message: error.message,
     };
   }
-  return { notFound: false, message: String(error) };
+  return { status: null, message: String(error) };
+};
+
+const errorTitle = (status: number | null) => {
+  if (status === 404) return "Not found";
+  if (status === 403 || status === 429) return "Rate limited";
+  return "Couldn't load this list";
+};
+
+const errorHint = (status: number | null) => {
+  if (status === 404) {
+    return "The repo may have been renamed or deleted, turned private, or it simply has no README file.";
+  }
+  if (status === 403 || status === 429) {
+    return "READMEs are read straight from GitHub's public API, which allows 60 requests per hour per IP address. It should clear within the hour.";
+  }
+  return "GitHub may be unreachable, or the link pointed somewhere this app can't render.";
 };
 
 function ListError({
   owner,
   repo,
-  notFound,
+  status,
   message,
 }: {
   owner: string;
   repo: string;
-  notFound: boolean;
-  message: string;
-}) {
+} & ErrorInfo) {
   return (
     <div className="mx-auto max-w-2xl p-8">
       <div className="mb-4 flex items-center justify-between gap-4">
@@ -138,9 +154,10 @@ function ListError({
       </div>
       <div className="border-down/30 bg-down/10 rounded-lg border p-6">
         <h2 className="text-down font-display mb-2 text-lg font-semibold">
-          {notFound ? "Not found" : "Error"}
+          {errorTitle(status)}
         </h2>
         <p className="text-down/90">{message}</p>
+        <p className="text-ink-dim mt-2 text-sm">{errorHint(status)}</p>
       </div>
     </div>
   );
