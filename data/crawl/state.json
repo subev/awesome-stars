@@ -348,7 +348,7 @@
 "SE-ML/awesome-seml":{"depth":1,"status":"done","via":"sindresorhus/awesome","stars":1367,"members":14,"readmeSha":"22598e354975c813814cb87b05b9c5c33df25f2d","crawledAt":"2026-08-20T13:22:15.517Z","attempts":0,"reason":null},
 "SHI-Yu-Zhe/awesome-agi-cocosci":{"depth":1,"status":"done","via":"sindresorhus/awesome","stars":394,"members":33,"readmeSha":"9b99f30f5c7aa7ad5ac7cb96ce431d10bf0d2501","crawledAt":"2026-08-20T13:27:55.009Z","attempts":0,"reason":null},
 "SNStatComp/awesome-official-statistics-software":{"depth":4,"status":"pending","via":"erikgahner/awesome-statistics","stars":351,"members":null,"readmeSha":null,"crawledAt":null,"attempts":0,"reason":null},
-"SWIMProjectUCB/SWIM":{"depth":1,"status":"error","via":"0xnr/awesome-bigdata","stars":128,"members":null,"readmeSha":null,"crawledAt":null,"attempts":2,"reason":"no-readme"},
+"SWIMProjectUCB/SWIM":{"depth":1,"status":"error","via":"0xnr/awesome-bigdata","stars":128,"members":null,"readmeSha":null,"crawledAt":null,"attempts":3,"reason":"no-readme"},
 "SaadAAkash/awesome-agile-essentials":{"depth":3,"status":"done","via":"jnv/lists","stars":89,"members":2,"readmeSha":"4284a7592a1925f7d8428d3fc9965f9be40a5934","crawledAt":"2026-08-21T02:43:44.540Z","attempts":0,"reason":null},
 "SaiGonSoftware/Awesome-CMS-Core":{"depth":2,"status":"done","via":"thangchung/awesome-dotnet-core","stars":427,"members":1,"readmeSha":"8801267d1e9e84d1b6567cfb4b22d6f18dfbb696","crawledAt":"2026-08-20T19:42:09.879Z","attempts":0,"reason":null},
 "SaintFenix/Awesome-BSD-Ports-Programs-And-Projects":{"depth":3,"status":"done","via":"bayandin/awesome-awesomeness","stars":59,"members":62,"readmeSha":"edcee4c6eee56ed4ad4567f0030eb5ef53171108","crawledAt":"2026-08-21T02:44:24.878Z","attempts":0,"reason":null},
