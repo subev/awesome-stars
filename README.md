@@ -28,6 +28,10 @@ growth badges are overlaid from a weekly crawl.
 Or **[search all 766 lists](https://subev.github.io/awesome-stars/)** from the
 Explore box on the homepage.
 
+Every list — in Explore, on your homepage, or while you are reading it — carries
+a ♥ to keep it on your homepage (stored in your browser) and a GitHub link to
+open the real repo, so you can star it there too.
+
 ### Search all 766 lists
 
 [![Searching the crawled lists](docs/screenshots/search.png)](https://subev.github.io/awesome-stars/)

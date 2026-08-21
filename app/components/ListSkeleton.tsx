@@ -9,7 +9,7 @@ const SECTIONS = [
 export function ListSkeleton({ owner, repo }: { owner: string; repo: string }) {
   return (
     <div className="prose prose-sm dark:prose-invert max-w-none p-5" aria-busy>
-      <ListHeader />
+      <ListHeader owner={owner} repo={repo} />
       <p className="text-ink-dim not-prose mb-6 text-sm">
         Loading {owner}/{repo}…
       </p>

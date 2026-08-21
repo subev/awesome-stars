@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link, data, useLoaderData } from "react-router";
+import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
 import { computeTrends, type RepoTrend, type Trends } from "~/lib/trends";
 import { trendsAssetUrl } from "~/lib/starsAsset";
 import type { Route } from "./+types/awesome.$owner.$repo.trends";
@@ -203,10 +204,14 @@ const VISIBLE_LIMIT = 100;
 function NotEnoughData({ owner, repo }: { owner: string; repo: string }) {
   return (
     <div className="mx-auto max-w-2xl p-8">
-      <div className="mb-4">
+      <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
         <Link to={`/awesome/${owner}/${repo}`} className="text-ink-dim hover:text-ink text-sm">
           &larr; {owner}/{repo}
         </Link>
+        <span className="flex items-center gap-3">
+          <FavoriteButton owner={owner} repo={repo} showLabel />
+          <GitHubLink owner={owner} repo={repo} showLabel />
+        </span>
       </div>
       <div className="border-edge bg-surface rounded-lg border p-6">
         <h2 className="font-display mb-2 text-lg font-semibold">
@@ -279,7 +284,7 @@ function TrendsView({
 
   return (
     <div className="mx-auto max-w-5xl p-8">
-      <div className="mb-4 flex items-center gap-4 text-sm">
+      <div className="mb-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
         <Link to="/" className="text-ink-dim hover:text-ink">
           &larr; All lists
         </Link>
@@ -289,6 +294,10 @@ function TrendsView({
         >
           View list
         </Link>
+        <span className="ml-auto flex items-center gap-3">
+          <FavoriteButton owner={owner} repo={repo} showLabel />
+          <GitHubLink owner={owner} repo={repo} showLabel />
+        </span>
       </div>
 
       <h1 className="font-display text-3xl font-bold tracking-tight">
