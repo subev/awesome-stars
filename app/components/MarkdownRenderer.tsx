@@ -152,11 +152,14 @@ export function ListHeader({
   onRefresh?: () => void;
 }) {
   return (
-    <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
-      <Link to="/" className="text-ink-dim hover:text-ink text-sm no-underline">
+    <div className="pointer-events-none sticky top-0 z-10 -mx-5 mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-2 px-5 py-3">
+      <Link
+        to="/"
+        className="border-edge bg-surface/90 text-ink-dim hover:text-ink pointer-events-auto rounded-full border px-3 py-1.5 text-sm no-underline backdrop-blur-sm"
+      >
         &larr; All lists
       </Link>
-      <div className="flex items-center gap-3">
+      <div className="border-edge bg-surface/90 pointer-events-auto flex items-center gap-3 rounded-full border px-3 py-1.5 backdrop-blur-sm">
         {owner && repo && (
           <>
             <FavoriteButton owner={owner} repo={repo} showLabel />
