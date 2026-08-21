@@ -11,6 +11,8 @@ import { MarkdownRenderer } from "~/components/MarkdownRenderer";
 import { GitHubLink } from "~/components/RepoActions";
 import { replaceMarkdownLinksWithStars } from "~/lib/starsMarkdown";
 import { starsAssetUrl, type StarsAsset } from "~/lib/starsAsset";
+import { listDisplayName } from "~/lib/favorites";
+import { siteMeta } from "~/lib/meta";
 import type { Route } from "./+types/awesome.$owner.$repo";
 
 const STATIC_BUILD = import.meta.env.VITE_STATIC_BUILD === "1";
@@ -79,6 +81,15 @@ const loadList = async (owner: string, repo: string) => {
 };
 
 type ListData = Awaited<ReturnType<typeof loadList>>;
+
+export function meta({ params }: Route.MetaArgs) {
+  const name = listDisplayName(params.owner, params.repo);
+  return siteMeta({
+    title: `${name} \u2014 live star counts and growth`,
+    description: `${params.owner}/${params.repo} rendered live from GitHub, with a star count and %/month growth badge on every entry.`,
+    path: `/awesome/${params.owner}/${params.repo}`,
+  });
+}
 
 export async function clientLoader({ params }: Route.ClientLoaderArgs) {
   const { owner, repo } = params;

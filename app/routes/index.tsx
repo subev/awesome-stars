@@ -3,6 +3,7 @@ import { NavLink } from "react-router";
 import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
 import { PINNED_LIST, useFavorites } from "~/lib/favorites";
 import { listDirectoryUrl, type ListDirectoryEntry } from "~/lib/starsAsset";
+import { siteMeta } from "~/lib/meta";
 
 
 function PendingSpinner({ className = "" }: { className?: string }) {
@@ -166,16 +167,24 @@ function ExploreLists() {
   );
 }
 
+export function meta() {
+  return siteMeta({
+    title: "Awesome Stars \u2014 awesome lists with live GitHub star counts",
+    description:
+      "Browse hundreds of awesome lists rendered live from GitHub, with star counts and monthly growth trends overlaid on every entry.",
+  });
+}
+
 export default function Index() {
   const { favorites, remove } = useFavorites();
 
   return (
     <div className="mx-auto max-w-2xl p-8">
       <h1 className="font-display mb-2 text-3xl font-bold tracking-tight">
-        Awesome Lists with Stars
+        Awesome Stars
       </h1>
       <p className="text-ink-dim mb-8">
-        Curated awesome lists enriched with GitHub star counts.
+        Awesome lists, rendered live with GitHub star counts and growth trends.
       </p>
       <ul className="space-y-4">
         <ListCard

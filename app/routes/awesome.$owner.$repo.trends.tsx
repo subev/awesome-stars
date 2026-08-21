@@ -3,10 +3,17 @@ import { Link, data, useLoaderData } from "react-router";
 import { FavoriteButton, GitHubLink } from "~/components/RepoActions";
 import { computeTrends, type RepoTrend, type Trends } from "~/lib/trends";
 import { trendsAssetUrl } from "~/lib/starsAsset";
+import { listDisplayName } from "~/lib/favorites";
+import { siteMeta } from "~/lib/meta";
 import type { Route } from "./+types/awesome.$owner.$repo.trends";
 
 export function meta({ params }: Route.MetaArgs) {
-  return [{ title: `Trends · ${params.owner}/${params.repo}` }];
+  const name = listDisplayName(params.owner, params.repo);
+  return siteMeta({
+    title: `${name} \u2014 fastest-growing repos`,
+    description: `Repos in ${params.owner}/${params.repo} ranked by star growth, with sparklines and a log of entries dropped from the list.`,
+    path: `/awesome/${params.owner}/${params.repo}/trends`,
+  });
 }
 
 export async function loader({ params }: Route.LoaderArgs) {

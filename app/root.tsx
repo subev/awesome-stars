@@ -8,6 +8,7 @@ import {
 } from "react-router";
 
 import { NavProgress } from "~/components/NavProgress";
+import { siteMeta } from "~/lib/meta";
 import type { Route } from "./+types/root";
 import "./app.css";
 
@@ -23,6 +24,13 @@ export const links: Route.LinksFunction = () => [
     href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@400..700&family=IBM+Plex+Mono:wght@400;500;600&display=swap",
   },
 ];
+
+export const meta: Route.MetaFunction = () =>
+  siteMeta({
+    title: "Awesome Stars \u2014 awesome lists with live GitHub star counts",
+    description:
+      "Browse awesome lists rendered live from GitHub, with star counts and monthly growth trends overlaid on every entry.",
+  });
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (

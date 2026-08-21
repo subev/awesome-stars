@@ -126,3 +126,10 @@ export function useFavorites() {
 
   return { favorites, isFavorite, add, remove, toggle };
 }
+
+export function listDisplayName(owner: string, repo: string) {
+  const curated = Object.values(AWESOME_LISTS).find(
+    (list) => list.owner === owner && list.repo === repo,
+  );
+  return curated?.name ?? repoDisplayName(repo);
+}
