@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "react-router build",
+    "predev": "npm run stars-assets",
     "dev": "dotenv -- node server.js",
     "start": "node server.js",
     "typecheck": "react-router typegen && tsc -b",
