@@ -8,7 +8,11 @@ import {
 } from "../app/lib/repoIndex.server.ts";
 import { loadHistory } from "../app/lib/history.server.ts";
 import type { ListDirectoryEntry } from "../app/lib/starsAsset.ts";
-import { LIST_MEMBER_THRESHOLD } from "../app/lib/listLookup.ts";
+import {
+  isReadableList,
+  LIST_MEMBER_THRESHOLD,
+  LIST_TOPICS,
+} from "../app/lib/listLookup.ts";
 
 const OUT_DIR = path.resolve("public/stars");
 
@@ -28,7 +32,7 @@ const run = async () => {
   );
 
   const directory: ListDirectoryEntry[] = [];
-  // Canonical names the reader may open internally. Built from the member count
+  // Canonical names the reader may open internally. Built from the crawl index
   // alone so an unrelated stars-asset gap can never drop a real list from it.
   const lookup: string[] = [];
   let withBadges = 0;
@@ -36,7 +40,7 @@ const run = async () => {
 
   for (const { owner, repo } of await listIndexedLists()) {
     const list = await readListIndex(owner, repo);
-    if (list && list.members.length >= LIST_MEMBER_THRESHOLD) {
+    if (list && isReadableList(list)) {
       lookup.push(`${owner}/${repo}`);
     }
 
@@ -71,7 +75,8 @@ const run = async () => {
     `✅ ${directory.length} lists — ${withBadges} with growth badges, ${withTrends} with trends`,
   );
   console.log(
-    `   ${lookup.length} open in the reader (>=${LIST_MEMBER_THRESHOLD} members)`,
+    `   ${lookup.length} open in the reader (>=${LIST_MEMBER_THRESHOLD} members,` +
+      ` or an ${LIST_TOPICS.join("/")} topic and at least one)`,
   );
 };
 
