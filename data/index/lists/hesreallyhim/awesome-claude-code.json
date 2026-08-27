@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"882ed39883d91cc0c344544d0bb2397d271a07a4"},
+"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"eb17c6b886494084621280efb674c60cbb210d95"},
 "members": [
 "anthropics/claude-code",
 "multica-ai/andrej-karpathy-skills",
@@ -108,6 +108,7 @@
 "roampal-ai/roampal-core",
 "masondelan/selvedge",
 "lookfree/cc-harness",
+"duqaXxX/seedeep",
 "minchenlee/c9watch",
 "stefanprodan/cctop",
 "hoangsonww/Claude-Code-Agent-Monitor",

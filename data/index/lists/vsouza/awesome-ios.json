@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ","defaultBranch":"master","topics":["awesome","swift-library","swift-extensions","swift-framework","ios-animation","ios","swift-language","apple-swift","swift-programming","objective-c"],"readmeSha":"1c476ce72b4da028619b71ca75e64273e9d15d9a"},
+"meta": {"description":"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ","defaultBranch":"master","topics":["awesome","swift-library","swift-extensions","swift-framework","ios-animation","ios","swift-language","apple-swift","swift-programming","objective-c"],"readmeSha":"851fde91bf33f14d747123fc969cfa86798d8841"},
 "members": [
 "matomo-org/matomo-sdk-ios",
 "segmentio/analytics-ios",
@@ -478,7 +478,7 @@
 "dollarshaveclub/ImageButter",
 "Feghal/ImageDetect",
 "hirohisa/ImageLoaderSwift",
-"lbrndnr/ImagePickerSheetController",
+"lerboe/ImagePickerSheetController",
 "kaishin/ImageScout",
 "zvonicek/ImageSlideshow",
 "Krisiacik/ImageViewer",
@@ -1645,5 +1645,8 @@
 "krzysztofzablocki/Swift-Macros",
 "venmo/synx",
 "haikieu/xcode-developer-disk-image-all-platforms"
+],
+"dropped": [
+["2026-08-27","lbrndnr/ImagePickerSheetController"]
 ]
 }

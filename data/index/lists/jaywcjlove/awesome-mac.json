@@ -1,5 +1,5 @@
 {
-"meta": {"description":" This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.","defaultBranch":"master","topics":["macos","software","mac","mac-osx","awesome","macosx","awesome-list","list","apple","awesome-lists"],"readmeSha":"ac199c6b361ea342041b2d5d8626a346fb3659fe"},
+"meta": {"description":" This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.","defaultBranch":"master","topics":["macos","software","mac","mac-osx","awesome","macosx","awesome-list","list","apple","awesome-lists"],"readmeSha":"0dcd9479f02a2b6989fa789f1bb7ed1f4c64ae9b"},
 "members": [
 "jaywcjlove/vidwall-hub",
 "sindresorhus/awesome",
@@ -89,6 +89,7 @@
 "viatsko/awesome-vscode",
 "VSCodium/vscodium",
 "cameroncooke/AXe",
+"farion1231/cc-switch",
 "Ender-Wang/Swifka",
 "iHongRen/configEditor",
 "isaced/CubicBezier",
@@ -118,6 +119,7 @@
 "responsively-org/responsively-app",
 "scmbreeze/scm_breeze",
 "Stmol/ssh-keys-manager-macos-app",
+"starcat-app/Starcat",
 "MarcoEidinger/SwiftPlantUML-Xcode-Extension",
 "oldj/SwitchHosts",
 "yefga/Switzy",
@@ -280,7 +282,9 @@
 "mediar-ai/fazm",
 "baahaus/flock",
 "FirenzeLor/gemini-collector",
+"dotcomjack/grux",
 "runtime-org/runtime",
+"shiquda/SpotAsk",
 "Priyans-hu/tokenmeter",
 "xiufengsun/TokenTracker",
 "Tura-AI/tura",
@@ -449,7 +453,7 @@
 "Clipy/Clipy",
 "hluk/CopyQ",
 "PasteBar/PasteBarApp",
-"mobrava/PasteClip",
+"mobrava/Clipbara",
 "sane-apps/SaneClip",
 "TermiT/Flycut",
 "p0deje/Maccy",
@@ -500,7 +504,8 @@
 "Mason363/Tactile",
 "ivoronin/TomatoBar",
 "alexpolonsky/TypeCue",
-"vorssaint/vorssaint-utils",
+"vorssaintapp/vorssaint-utils",
+"alexiosus/WandelBar",
 "teamniteo/work-hours-mac",
 "matryer/xbar",
 "kamjin3086/AppUninstaller",
@@ -585,6 +590,7 @@
 "jigish/slate",
 "pablopunk/SwiftShift",
 "lihaoyun6/Topit",
+"moonbai-studio/tungsten-edge",
 "asmvik/yabai",
 "keeweb/keeweb",
 "keepassxreboot/keepassxc",
@@ -646,5 +652,9 @@
 "milanvarady/Applite",
 "buresdv/Cork",
 "Homebrew/brew"
+],
+"dropped": [
+["2026-08-27","mobrava/PasteClip"],
+["2026-08-27","vorssaint/vorssaint-utils"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"abf4c16b982c95dbbe6ec4fe3910fb9446997f02"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"304c8b3c78ea1c5417a7a3546abccd2a519c08fb"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -22,6 +22,7 @@
 "tramhao/termusic",
 "peternaame-boop/ytm-player",
 "tsirysndr/tunein-cli",
+"bjarneo/cliamp",
 "ytdl-org/youtube-dl",
 "streamlink/streamlink",
 "mps-youtube/yewtube",

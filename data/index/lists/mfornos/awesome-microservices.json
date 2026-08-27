@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Microservice Architecture related principles and technologies.","defaultBranch":"master","topics":["awesome","microservices","microservices-architecture","cloud-native","cloud-computing"],"readmeSha":"9afef0835b5d34ce9fddac31221be016d9986dde"},
+"meta": {"description":"A curated list of Microservice Architecture related principles and technologies.","defaultBranch":"master","topics":["awesome","microservices","microservices-architecture","cloud-native","cloud-computing"],"readmeSha":"18f02d803d8bac7c43e18c506a1e18eb2d6f2e0c"},
 "members": [
 "sindresorhus/awesome",
 "1backend/1backend",
@@ -96,6 +96,7 @@
 "redpanda-data/redpanda",
 "apache/rocketmq",
 "YelpArchive/elastalert",
+"ArroyoSystems/arroyo",
 "akka/alpakka-kafka",
 "dastergon/awesome-chaos-engineering",
 "resilience4j/resilience4j",
@@ -115,12 +116,9 @@
 "protostuff/protostuff",
 "harrah/sbinary",
 "ibireme/yyjson",
-"Alluxio/alluxio",
-"palantir/atlasdb",
 "citusdata/citus",
 "influxdata/influxdb",
-"FeatureBaseDB/featurebase",
-"ssbc/docs",
+"timescale/timescaledb",
 "probelabs/goreplay",
 "restqa/restqa",
 "vcr/vcr",
@@ -135,5 +133,11 @@
 "FIXTradingCommunity/fix-simple-binary-encoding",
 "msgpack/msgpack",
 "binhnguyennus/awesome-scalability"
+],
+"dropped": [
+["2026-08-27","Alluxio/alluxio"],
+["2026-08-27","palantir/atlasdb"],
+["2026-08-27","FeatureBaseDB/featurebase"],
+["2026-08-27","ssbc/docs"]
 ]
 }

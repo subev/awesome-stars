@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"4ba673b7542b987c83091fa1a64a1daa79fa2438"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"97bf0476e7d42b3c22918ce7fe91b0adbb996de6"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",
@@ -30,6 +30,7 @@
 "dsplce-co/supabase-plus",
 "dutrevis/spark-resources-metrics-plugin",
 "EduardaSRBastos/my-essential-toolbox",
+"electrikhq/slate",
 "emalderson/ThePhish",
 "eylon-44/Buzz-OS",
 "feberts/python-game-server",

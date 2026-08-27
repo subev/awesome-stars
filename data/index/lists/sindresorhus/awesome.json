@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome lists about all kinds of interesting topics","defaultBranch":"main","topics":["awesome","awesome-list","unicorns","lists","resources"],"readmeSha":"0ccac04404583b354cce0a93846bb63c23a43a8f"},
+"meta": {"description":"😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]","defaultBranch":"main","topics":["awesome","awesome-list","unicorns","lists","resources"],"readmeSha":"cce1e022b2cae73751006485c54b9c6443c075fc"},
 "members": [
 "sindresorhus/awesome-nodejs",
 "bcoe/awesome-cross-platform-nodejs",

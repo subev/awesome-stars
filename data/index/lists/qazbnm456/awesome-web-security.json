@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"0c1237b30abec602f28606ad18f2cec3c3c6f06c"},
+"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"633f0a0151620e41905e3672650f27fa14acacfd"},
 "members": [
 "sindresorhus/awesome",
 "apsdehal/awesome-ctf",
@@ -54,6 +54,7 @@
 "Nekmo/dirhunt",
 "Bo0oM/fuzz.txt",
 "aleff-github/wayparam",
+"spidersuite/SpiderSuite",
 "drego85/JoomlaScan",
 "wpscanteam/wpscan",
 "projectdiscovery/nuclei",
@@ -98,6 +99,7 @@
 "WebDecoy/wordpress-plugin",
 "hamzaydia/verifyfetch",
 "mitmproxy/mitmproxy",
+"emanuele-em/proxelar",
 "lukechilds/reverse-shell",
 "WangYihang/Reverse-Shell-Manager",
 "tennc/webshell",

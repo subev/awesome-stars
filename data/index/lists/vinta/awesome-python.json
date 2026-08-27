@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","collections","python-frameworks","python-libraries","python-tools"],"readmeSha":"7528d49f53629aa6cff06255db6102055f27249e"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"5fbceaf7ab3509c89aa4a37bd4c6a118c5eaaeee"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "getsentry/skills",
@@ -15,6 +15,8 @@
 "567-labs/instructor",
 "run-llama/llama_index",
 "mem0ai/mem0",
+"volcengine/OpenViking",
+"semantica-agi/semantica",
 "huggingface/transformers",
 "sgl-project/sglang",
 "vllm-project/vllm",
@@ -114,6 +116,7 @@
 "encode/httpx",
 "aio-libs/aiohttp",
 "urllib3/urllib3",
+"pydantic/httpx2",
 "aio-libs/yarl",
 "browser-use/browser-use",
 "scrapy/scrapy",
@@ -154,6 +157,7 @@
 "msiemens/tinydb",
 "tkem/cachetools",
 "grantjenks/python-diskcache",
+"karpetrosyan/hishel",
 "sqlalchemy/dogpile.cache",
 "Suor/django-cacheops",
 "elastic/elasticsearch-py",
@@ -199,6 +203,7 @@
 "statsmodels/statsmodels",
 "biopython/biopython",
 "rdkit/rdkit",
+"hgrecco/pint",
 "astropy/astropy",
 "obspy/obspy",
 "pymc-devs/pymc",
@@ -217,6 +222,7 @@
 "TheAlgorithms/Python",
 "pytransitions/transitions",
 "faif/python-patterns",
+"fgmacedo/python-statemachine",
 "ipython/ipython",
 "jupyter/notebook",
 "markusschanta/awesome-jupyter",
@@ -227,6 +233,7 @@
 "jendrikseipp/vulture",
 "prospector-dev/prospector",
 "repowise-dev/repowise",
+"rohaquinlop/complexipy",
 "pre-commit/pre-commit",
 "astral-sh/ruff",
 "psf/black",
@@ -279,9 +286,9 @@
 "sphinx-doc/sphinx",
 "ygzgxyz/awesome-sphinxdoc",
 "squidfunk/mkdocs-material",
-"mkdocs/mkdocs",
 "mingrammer/diagrams",
 "mitmproxy/pdoc",
+"zensical/zensical",
 "boto/boto3",
 "aws/aws-cli",
 "Azure/azure-sdk-for-python",
@@ -477,5 +484,8 @@
 "winpython/winpython",
 "pallets-eco/blinker",
 "mahmoud/boltons"
+],
+"dropped": [
+["2026-08-27","mkdocs/mkdocs"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"854fb1955c6561188d9950c1db029394c0233367"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"1cab88b359cb4896c937e9fef20e2d88f603c598"},
 "members": [
 "sindresorhus/awesome",
 "graphql/graphql-spec",
@@ -296,7 +296,7 @@
 "Quramy/ts-graphql-plugin",
 "apollographql/apollo-tracing",
 "marmelab/json-graphql-server",
-"prisma/prisma",
+"prisma/orm",
 "twinlogix/typetta",
 "bradleyboy/tuql",
 "teambit/bit",
@@ -310,7 +310,11 @@
 "cube-js/cube",
 "weaviate/weaviate",
 "saleor/saleor",
+"unchainedshop/unchained",
 "Shopify/graphql-design-tutorial",
 "mugli/learning-graphql"
+],
+"dropped": [
+["2026-08-27","prisma/prisma"]
 ]
 }

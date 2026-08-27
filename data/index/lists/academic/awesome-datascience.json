@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"953a731e691a7a018ac8cca914c2e5b4f5ff709d"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"eb48cbd69452cc28417dde421a0c654d531d94da"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -39,6 +39,7 @@
 "scikit-image/scikit-image",
 "guofei9987/scikit-opt",
 "maximtrp/scikit-posthocs",
+"initial-d/me_fasttext",
 "pystruct/pystruct",
 "aksnzhy/xlearn",
 "NVIDIA/cuml",
@@ -106,6 +107,7 @@
 "vizzuhq/vizzu-lib",
 "microsoft/tensorwatch",
 "sachinhosmani/torchvista",
+"flex-analytics/flexviz",
 "dslp/dslp",
 "dslp/dslp-repo-template",
 "Diyago/Tabular-data-generation",

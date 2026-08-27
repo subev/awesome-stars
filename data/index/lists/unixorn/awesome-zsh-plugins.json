@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of ZSH frameworks, plugins, themes and tutorials.","defaultBranch":"main","topics":["collection","awesome-list","zsh-theme","zsh-completions","awesome","list","zsh-configuration","oh-my-zsh","zsh-plugin","hacktoberfest"],"readmeSha":"01043c25a656d0fa0d82aad7fe38569317750d96"},
+"meta": {"description":"A collection of ZSH frameworks, plugins, themes and tutorials.","defaultBranch":"main","topics":["collection","awesome-list","zsh-theme","zsh-completions","awesome","list","zsh-configuration","oh-my-zsh","zsh-plugin","hacktoberfest"],"readmeSha":"a8eb52f407bfa9b6fb1de8b029057089733e39e3"},
 "members": [
 "psyrendust/alf",
 "sorin-ionescu/prezto",
@@ -528,6 +528,7 @@
 "peterhurford/git-it-on.zsh",
 "nekofar/zsh-git-lfs",
 "marvinroman/oh-my-zsh-git-patch-plugin",
+"asifshirazi/zsh-git-persona",
 "kitt-digital/zsh-git-plugin",
 "rcruzper/zsh-git-plugin",
 "rhorno/oh-my-zsh-git-plugin-cheatsheet",
@@ -872,7 +873,6 @@
 "K021/pjfzf",
 "ptavares/zsh-pkenv",
 "iamhsa/pkenv",
-"wushenrong/zsh-plenv",
 "tokuhirom/plenv",
 "rgalite/zsh-plugin-ibtool",
 "paraqles/zsh-plugin-rails",
@@ -931,7 +931,6 @@
 "ttkalcevic/pwp",
 "alalik/pycalc",
 "peibozhao/pycalc",
-"wushenrong/zsh-pyenv",
 "xlshiz/pyenv-zsh-plugin",
 "pyenv/pyenv",
 "pyenv/pyenv-virtualenv",
@@ -1402,7 +1401,7 @@
 "nilsonholger/osx-zsh-completions",
 "NorthIsMirror/zsh-completions",
 "conda-incubator/conda-zsh-completion",
-"scaryrawr/copilot.zsh",
+"scaryrawr/copilot-completions",
 "MenkeTechnologies/zsh-cpan-completion",
 "Freed-Wu/zsh-completions-for-cross-compilers",
 "gantsign/zsh-plugins",
@@ -1571,7 +1570,6 @@
 "sago35/tinygo-autocmpl",
 "JBarberU/zsh-tio",
 "marknefedov/oh-my-zsh-tofu",
-"YossbVshok/ZshTsharkAutocomplete",
 "DimitriSteyaert/Zsh-tugboat",
 "petems/tugboat",
 "zlsun/umake",
@@ -1736,7 +1734,6 @@
 "apbarrero/bluelines",
 "varunpbardwaj/bluo",
 "caiogondim/bullet-train.zsh",
-"cubasepp/zsh-bogo-theme",
 "skylerlee/zeta-zsh-theme",
 "the0neWhoKnocks/zsh-theme-boom",
 "LeonardMH/born-in-the-purple",
@@ -1794,7 +1791,7 @@
 "dylanroman03/classyTouchName",
 "akz92/clean",
 "BrandonRoehl/zsh-clean",
-"Patr1ot/clean.zsh-theme",
+"nikviac/clean.zsh-theme",
 "diegoos/cleanzsh",
 "H00N24/clearance-theme-oh-my-zsh",
 "Robert-96/clipper",
@@ -1826,6 +1823,7 @@
 "dogrocker/oh-my-zsh-powerline-cute-theme",
 "MakeWorkSimple/cxzh.zsh-theme",
 "cybensis/cybensis-zsh-theme",
+"Nannigalaxy/cybergalaxy-zsh-theme",
 "ston1x/cypher-ruby",
 "Cellophan/czsh",
 "huytran-wq/zsh-daily-emoji-theme",
@@ -2717,5 +2715,13 @@
 "sindresorhus/awesome",
 "mostafa447/zsh-guide",
 "rothgar/mastering-zsh"
+],
+"dropped": [
+["2026-08-27","wushenrong/zsh-plenv"],
+["2026-08-27","wushenrong/zsh-pyenv"],
+["2026-08-27","scaryrawr/copilot.zsh"],
+["2026-08-27","YossbVshok/ZshTsharkAutocomplete"],
+["2026-08-27","cubasepp/zsh-bogo-theme"],
+["2026-08-27","Patr1ot/clean.zsh-theme"]
 ]
 }

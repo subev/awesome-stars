@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"5238b6f8e93079a6870a8b6b7d039b22f0735f81"},
+"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"8bb15b8ff5abb3d4afbdbd24f19be5f359b53849"},
 "members": [
 "maaaaz/androwarn",
 "sonyxperiadev/ApkAnalyser",
@@ -54,6 +54,7 @@
 "den4uk/andriller",
 "vwww-droid/Mira",
 "script-or-script/FlutterTap",
+"blackfoxxx/Mobix",
 "JesusFreke/smali",
 "strazzere/Emacs-Smali",
 "swdunlop/AndBug",

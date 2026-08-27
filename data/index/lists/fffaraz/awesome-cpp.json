@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"57c29bb994f128babe24f29afafbc24cae7917ff"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"d9458f13506af02ae5c608df75e7e27afe97bf0f"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",

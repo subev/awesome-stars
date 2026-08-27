@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources","defaultBranch":"master","topics":["awesome","awesome-list","list"],"readmeSha":"ed1962efc98b1ba8e5728461db81a6629ba27b75"},
+"meta": {"description":"A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources","defaultBranch":"master","topics":["awesome","awesome-list","list"],"readmeSha":"73ec2bd6e644881b1b76f7bb86b33545f56becce"},
 "members": [
 "sindresorhus/awesome",
 "dotnet-architecture/eShopOnWeb",

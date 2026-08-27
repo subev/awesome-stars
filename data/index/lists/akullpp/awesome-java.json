@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome frameworks, libraries and software for the Java programming language.","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"16fdee80b787117ae1b00439bd82c883c0900a8f"},
+"meta": {"description":"A curated list of awesome frameworks, libraries and software for the Java programming language.","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"2789826bd4e103fa0adea706bb2eae9a33dc2a82"},
 "members": [
 "TNG/ArchUnit",
 "xmolecules/jmolecules",
@@ -323,7 +323,7 @@
 "AsyncHttpClient/async-http-client",
 "OpenFeign/feign",
 "googleapis/google-http-java-client",
-"paohaijiao-jquick/jquick-curl",
+"dromara/jquick-curl",
 "mizosoft/methanol",
 "lysine-dev/okhttp",
 "lysine-dev/retrofit",
@@ -625,7 +625,7 @@
 "Password4j/password4j",
 "scribejava/scribejava",
 "tersesystems/securitybuilder",
-"spring-projects/spring-authorization-server",
+"spring-attic/spring-authorization-server",
 "cossacklabs/themis",
 "tink-crypto/tink-java",
 "aserto-dev/topaz",
@@ -785,5 +785,9 @@
 "javaevolved/javaevolved.github.io",
 "winterbe/java8-tutorial",
 "whichjdk/whichjdk.com"
+],
+"dropped": [
+["2026-08-27","paohaijiao-jquick/jquick-curl"],
+["2026-08-27","spring-projects/spring-authorization-server"]
 ]
 }

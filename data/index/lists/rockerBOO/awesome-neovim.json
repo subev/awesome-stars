@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"6df248e3127b06a0d06592bb7e734993879e30b7"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"b96268573a774e5a875624c791aeb589c990a063"},
 "members": [
 "lewis6991/pckr.nvim",
 "savq/paq-nvim",
@@ -147,7 +147,7 @@
 "CopilotC-Nvim/CopilotChat.nvim",
 "tzachar/cmp-ai",
 "milanglacier/minuet-ai.nvim",
-"yetone/avante.nvim",
+"avante-corp/avante.nvim",
 "Kurama622/llm.nvim",
 "3v0k4/exit.nvim",
 "k2589/LLuMinate.nvim",
@@ -1331,9 +1331,7 @@
 "VapourNvim/VapourNvim",
 "NvChad/NvChad",
 "cstsunfu/.sea.nvim",
-"Abstract-IDE/Abstract",
 "AstroNvim/AstroNvim",
-"nyoom-engineering/nyoom.nvim",
 "JryChn/ModuleVim",
 "imbacraft/dusk.nvim",
 "nvim-lua/kickstart.nvim",
@@ -1390,5 +1388,9 @@
 "akrawchyk/awesome-vim",
 "Weyaaron/nvim-training",
 "ChuYanLon/chad46"
+],
+"dropped": [
+["2026-08-27","yetone/avante.nvim"],
+["2026-08-27","nyoom-engineering/nyoom.nvim"]
 ]
 }

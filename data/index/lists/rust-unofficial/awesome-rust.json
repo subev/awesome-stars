@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Rust code and resources.","defaultBranch":"main","topics":["rust","awesome"],"readmeSha":"2f5d5225487492f73b2d151c474547753a0fa2f4"},
+"meta": {"description":"A curated list of Rust code and resources.","defaultBranch":"main","topics":["rust","awesome"],"readmeSha":"e40a2665700362fed744e18c2b019515d2164799"},
 "members": [
 "ad-si/Woxi",
 "alacritty/alacritty",
@@ -34,12 +34,13 @@
 "YangYuS8/lwe",
 "lzanini/mdbook-katex",
 "rust-lang/mdBook",
-"mayocream/koharu",
+"koharu-rs/koharu",
 "gitmono-dev/mega",
 "Michael-F-Bryan/mdbook-linkcheck",
 "metalbear-co/mirrord",
 "mmalmi/nostr-vpn",
 "nicohman/eidolon",
+"openma-ai/Martty",
 "AnalyseDeCircuit/oxideterm",
 "provrb/obdium",
 "chelunfu/qiluo_admin",
@@ -520,6 +521,7 @@
 "whitfin/bytelines",
 "whitfin/runiq",
 "localfirstapp/1History",
+"aravpanwar/decayfmt",
 "artob/edky",
 "bloznelis/kbt",
 "brycx/checkpwn",
@@ -543,6 +545,7 @@
 "yaa110/nomino",
 "raftario/licensor",
 "restsend/rustpbx",
+"rleeon/hoard",
 "aaronriekenberg/rust-parallel",
 "rustdesk/rustdesk",
 "rustic-rs/rustic",
@@ -1217,6 +1220,7 @@
 "d-e-s-o/apca",
 "kand-ta/kand",
 "rust-dd/stochastic-rs",
+"wickra-lib/wickra",
 "JasonShin/fp-core.rs",
 "myrrlyn/tap",
 "SiegeLord/RustAllegro",
@@ -1439,6 +1443,7 @@
 "rhaiscript/rhai",
 "rune-rs/rune",
 "trynova/nova",
+"rsasaki0109/rust_robotics",
 "FedericoBruzzone/tdlib-rs",
 "ardaku/whoami",
 "GuillaumeGomez/sysinfo",
@@ -1579,5 +1584,8 @@
 "yevh/rust-security-handbook",
 "sger/RustBooks",
 "rustviz/rustviz"
+],
+"dropped": [
+["2026-08-27","mayocream/koharu"]
 ]
 }

@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome things related to FastAPI","defaultBranch":"main","topics":["fastapi","awesome","awesome-list","starlette"],"readmeSha":"f7db1ef22c85108913ae003606347c343d57e96d"},
+"meta": {"description":"A curated list of awesome things related to FastAPI","defaultBranch":"main","topics":["fastapi","awesome","awesome-list","starlette"],"readmeSha":"595838154ddfdea3d8a85dcae44042e44348ea1e"},
 "members": [
 "sindresorhus/awesome",
+"vsdudakov/fastadmin",
 "fastapi-admin/fastapi-admin",
 "amisadmin/fastapi-amis-admin",
 "piccolo-orm/piccolo_admin",
@@ -120,6 +121,7 @@
 "mirzadelic/fastapi-starter-project",
 "mongodb-labs/full-stack-fastapi-mongodb",
 "max-pfeiffer/uvicorn-poetry-fastapi-project-template",
+"Mr-DooSun/fastapi-agent-blueprint",
 "br3ndonland/inboard",
 "tiangolo/uvicorn-gunicorn-fastapi-docker",
 "max-pfeiffer/uvicorn-gunicorn-poetry",

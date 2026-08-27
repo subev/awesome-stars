@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡️ A collection of tips to help take your CSS skills pro 🦾","defaultBranch":"master","topics":["css","css3","protip","css-tricks","tips","tips-and-tricks","awesome","awesome-list","useful","learning-resources"],"readmeSha":"c7c4e9ce4660b729cf3b7ecf2312e07929d66c95"},
+"meta": {"description":"A collection of tips to help take your CSS skills pro. 🕹 ","defaultBranch":"master","topics":["css","css3","css-tricks","awesome-list","flexbox","accessibility","best-practices","cheatsheet","css-tips","frontend"],"readmeSha":"0ed5f87b5ac6cd74b320dad51d35c90398e08a1f"},
 "members": [
 "sindresorhus/awesome"
 ]
