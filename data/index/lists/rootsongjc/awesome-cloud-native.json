@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"ada3dda44759d407bcd97287f6b27d140e43f695"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"faf819a6cfaea3e9fbc548c423b501ddd66e9114"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -201,6 +201,7 @@
 "canonical/microk8s",
 "kubernetes/minikube",
 "labring/sealos",
+"mulgadc/spinifex",
 "siderolabs/talos",
 "coreos/tectonic-installer",
 "virtual-kubelet/tensile-kube",

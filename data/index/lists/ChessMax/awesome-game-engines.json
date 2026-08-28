@@ -1,13 +1,15 @@
 {
-"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"ab7c4273de912ea990a290ecbac4a6c00ad4b306"},
+"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"9f182d5fd5b05d1a9ce9f527cd3e56701541ba43"},
 "members": [
 "godlikepanos/anki-3d-engine",
 "scallyw4g/bonsai",
 "castle-engine/castle-engine",
+"codenameone/CodenameOne",
 "anjo76/angelscript",
 "crownengine/crown",
 "RandyGaul/cute_framework",
 "gecko0307/dagon",
+"GaijinEntertainment/DagorEngine",
 "sergcpp/DummyEngine",
 "zet23t/dusk-engine",
 "hajimehoshi/ebiten",

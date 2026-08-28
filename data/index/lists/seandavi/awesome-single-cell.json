@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"18fedb234b44ab1a632ba7e568902adaf7412403"},
+"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"f25b7519edc6715de62de66e716d1da2e747af18"},
 "members": [
 "COMBINE-lab/alevin-fry",
 "YeoLab/anchor",
@@ -74,6 +74,7 @@
 "hmatsu1226/SCOUP",
 "SuntreeLi/SCRL",
 "mcgilldinglab/scSemiProfiler",
+"asif7adil/scSPARKL",
 "klarman-cell-observatory/scSVA",
 "ElementoLab/scTCRseq",
 "satijalab/seurat",

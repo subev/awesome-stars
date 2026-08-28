@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A ready-to-use curated list of Spectral Indices for Remote Sensing applications.","defaultBranch":"main","topics":["python","gis","raster","remote-sensing","satellite-imagery","google-earth-engine","earth-engine","geographic-information-systems","javascript","awesome"],"readmeSha":"93f95b61c8d19a9a31209438b087b3a18d084d9f"},
+"meta": {"description":"A ready-to-use curated list of Spectral Indices for Remote Sensing applications.","defaultBranch":"main","topics":["python","gis","raster","remote-sensing","satellite-imagery","google-earth-engine","earth-engine","geographic-information-systems","javascript","awesome"],"readmeSha":"cbe6ab3e2244835f2afadc5b5ef7274dab8e5fba"},
 "members": [
 "sindresorhus/awesome",
 "psf/black",
@@ -9,9 +9,10 @@
 "awesome-spectral-indices/spectral",
 "r-earthengine/rgeeExtra",
 "awesome-spectral-indices/SpectralIndices.jl",
-"r-earthengine/ee_extra",
-"awesome-spectral-indices/espectro",
 "pydantic/pydantic",
 "r-spatial/rgee"
+],
+"dropped": [
+["2026-08-28","r-earthengine/ee_extra"]
 ]
 }

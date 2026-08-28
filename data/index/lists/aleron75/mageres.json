@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of useful Magento technical resources","defaultBranch":"master","topics":["magento","magento2","awesome-list"],"readmeSha":"2164ccb5108f4a664329ffef19c800b2ee3b2df2"},
+"meta": {"description":"A list of useful Magento technical resources","defaultBranch":"master","topics":["magento","magento2","awesome-list"],"readmeSha":"425430c99ee8506e40565b6d776c85f1185f16de"},
 "members": [
 "magento/magento2",
 "magento-l10n/i18n",
@@ -424,6 +424,7 @@
 "northamericanmedia/module-simple-cart-geolocation",
 "Siteation/magento2-pagespeed",
 "Siteation/magento2-storeinfo-menus",
+"Siteation/magento2-debugbar",
 "Smile-SA/magento2-module-store-locator",
 "element119/module-store-entity-creator",
 "outeredge/magento-structured-data-module",

@@ -1,6 +1,7 @@
 {
-"meta": {"description":"chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ","defaultBranch":"main","topics":["data-science","database","embedded-database","olap","python","sql","chdb","clickhouse","clickhouse-database","clickhouse-server"],"readmeSha":"7d826cf6cbd6b25d8e50dd84762d503146432fc4"},
+"meta": {"description":"chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ","defaultBranch":"main","topics":["data-science","database","embedded-database","olap","python","sql","chdb","clickhouse","clickhouse-database","clickhouse-server"],"readmeSha":"25073bc3eeee817ee617ace0d41411541327143e"},
 "members": [
+"chdb-io/chdb-wasm",
 "chdb-io/llama-index-tools-chdb",
 "chdb-io/pydantic-ai-chdb",
 "ClickHouse/mcp-clickhouse",

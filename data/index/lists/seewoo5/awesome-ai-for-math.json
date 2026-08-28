@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome works that use AI for mathematical discoveries.","defaultBranch":"main","topics":[],"readmeSha":"3af3b22a74d98c2b21ce7d90ebb21e0e39c0444e"},
+"meta": {"description":"List of awesome works that use AI for mathematical discoveries.","defaultBranch":"main","topics":[],"readmeSha":"aa91f170fe886052678be06052395e1f20e79989"},
 "members": [
 "cayleypy/cayleypy",
 "xand-stapleton/nirenberg-neural-network",
@@ -7,6 +7,7 @@
 "AxiomMath/ramanujan-tau-misses-primes",
 "google-deepmind/mathematics_conjectures",
 "google-deepmind/alphaproof-nexus-results",
+"aadharna/aifw",
 "google-deepmind/superhuman",
 "AxiomMath/HJOa3Small",
 "CLAIRE-Labo/EvoTune",
@@ -68,6 +69,7 @@
 "google-deepmind/alphaevolve_repository_of_problems",
 "AxiomMath/RR_a3",
 "trishullab/grothendieck-bounds",
+"Math-AI-Caltech/hadamard-maxdet",
 "AxiomMath/lattice-triangle",
 "ashvin-swaminathan/quartic-invariant",
 "Woett/Lean-files",

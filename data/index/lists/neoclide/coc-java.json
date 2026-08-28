@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Java extension for coc.nvim","defaultBranch":"master","topics":["java","neovim","vim","vscode"],"readmeSha":"c378a87e76f7fba5aa8defe24d5869f595d8501e"},
+"meta": {"description":"Java extension for coc.nvim","defaultBranch":"master","topics":["java","neovim","vim","vscode"],"readmeSha":"dee9a6652162a9f90a2b7f76fd872248da7cb46c"},
 "members": [
 "redhat-developer/vscode-java",
 "neoclide/coc.nvim",

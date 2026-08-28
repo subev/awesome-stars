@@ -1,9 +1,11 @@
 {
-"meta": {"description":"Make datasets like FFRI Dataset","defaultBranch":"master","topics":[],"readmeSha":"d58c14fae253f06ba2831623cc8293b479b49328"},
+"meta": {"description":"Make datasets like FFRI Dataset","defaultBranch":"master","topics":[],"readmeSha":"302c5da7be91c2cc3a8102390222e82a857454ac"},
 "members": [
 "horsicq/DIE-engine",
 "JPCERTCC/impfuzzy",
 "JusticeRage/Manalyze",
+"JusticeRage/hash-library",
+"JusticeRage/yara",
 "lief-project/LIEF",
 "trendmicro/tlsh",
 "erocarrera/pefile",

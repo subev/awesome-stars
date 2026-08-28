@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","european-union","open-source","eu","gdpr","open-data","eidas","digital-services-act"],"readmeSha":"1293c0ac507893699feb3e62c9fc4ffe4b7bdfcd"},
+"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","european-union","open-source","eu","gdpr","open-data","eidas","digital-services-act"],"readmeSha":"4ec8303ab7fd263e25b39c586ecbf0133591b035"},
 "members": [
 "act-rules/act-rules.github.io",
 "Siteimprove/alfa",
@@ -90,6 +90,7 @@
 "digital-services-act/transparency-database",
 "SonnyLabs/EU_AI_ACT_MCP",
 "Hiepler/EuConform",
+"Principled-Evolution/gopal",
 "aai-institute/practical-ai-act",
 "CheckFirstHQ/RADAR",
 "aloosley/techops",
@@ -107,7 +108,6 @@
 "HumanBrainProject/ebrains-storage",
 "GEANT/CAT",
 "elixir-europe/rdmkit",
-"emmo-repo/EMMO",
 "alexfikl/erc-stg",
 "gmazzamuto/europasscv",
 "europass/europasscv-parser-js",
@@ -172,11 +172,12 @@
 "ConnectingEurope/eInvoicing-EN16931",
 "phax/en16931-cii2ubl",
 "akretion/factur-x",
+"StackForge-EU/factur-x",
 "ZUGFeRD/mustangproject",
 "jcthiele/OpenXRechnungToolbox",
 "OxalisCommunity/oxalis",
 "OxalisCommunity/oxalis-ng",
-"OpenPEPPOL/peppol-bis-invoice-3",
+"OpenPeppol/peppol-bis-invoice-3",
 "phax/peppol-commons",
 "phax/peppol-reporting",
 "phax/ph-schematron",
@@ -362,6 +363,7 @@
 "eclipse-edc/DataDashboard",
 "eclipse-edc/Samples",
 "felleslosninger/efm-asic",
+"emmo-repo/EMMO",
 "ec-europa/europa-component-library",
 "europeana/corelib",
 "europeana/portal.js",
@@ -542,5 +544,8 @@
 "ibericode/vat-rates",
 "DragonBe/vies",
 "zapadi/vies-dotnet"
+],
+"dropped": [
+["2026-08-28","OpenPEPPOL/peppol-bis-invoice-3"]
 ]
 }

@@ -1,6 +1,9 @@
 {
-"meta": {"description":"Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.","defaultBranch":"master","topics":["autocompletion","language-client","lsp","vim-plugin","neovim-plugin","nvim","vim"],"readmeSha":"f0e33c3ba43a4a85dcd6ccdc624cf6ecd1e6cfa6"},
+"meta": {"description":"Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.","defaultBranch":"master","topics":["autocompletion","language-client","lsp","vim-plugin","neovim-plugin","nvim","vim"],"readmeSha":"81ba51beb1e2afd2f2a4b46ec172d0bc42fa3afd"},
 "members": [
-"junegunn/vim-plug"
+
+],
+"dropped": [
+["2026-08-28","junegunn/vim-plug"]
 ]
 }

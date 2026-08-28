@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"f6e11ce22196d3a31a1cc7c0f3e06e1a485f84af"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"b04d9357b8418796199d29c1c575a58c400a8847"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -706,6 +706,7 @@
 "nextflow-io/nf-co2footprint",
 "we3lab/eeco",
 "kleis-technology/cloud-assess",
+"gwittebolle/claude-carbon",
 "FarmBot/Farmbot-Web-App",
 "lukasValentin/OBIA4RTM",
 "DSSAT/dssat-csm-os",
@@ -996,7 +997,6 @@
 "maRce10/warbleR",
 "DBD-research-group/BirdSet",
 "birdnet-team/birdnetR",
-"rfcx/arbimon",
 "acoupi/acoupi",
 "macaodha/batdetect2",
 "tphakala/birdnet-go",
@@ -2150,7 +2150,7 @@
 "bc3LC/medusa",
 "IAMconsortium/nomenclature",
 "rffscghg/MimiGIVE.jl",
-"pavldevis/JUSTICE",
+"pollockDeVis/JUSTICE",
 "AeroMAPS/AeroMAPS",
 "iiasa/ixmp",
 "iiasa/message-ix-models",
@@ -2552,5 +2552,9 @@
 "samuelrince/awesome-green-ai",
 "open-energy-transition/Awesome-Electrical-Grid-Mapping",
 "eleanorlutz/earth_atlas_of_space"
+],
+"dropped": [
+["2026-08-28","rfcx/arbimon"],
+["2026-08-28","pavldevis/JUSTICE"]
 ]
 }

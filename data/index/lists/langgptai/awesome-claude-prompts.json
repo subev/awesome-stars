@@ -1,10 +1,12 @@
 {
-"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"9452c7686cbe5f869572c5353f3ca7f58f44c01d"},
+"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"d723c994962b16aac16de64479bfe80b72b6826e"},
 "members": [
 "EmbraceAGI/awesome-chatgpt-zh",
 "langgptai/awesome-claude-prompts",
 "anthropics/prompt-eng-interactive-tutorial",
 "wunderlabs-dev/claudebin.com",
+"yzfly/awesome-skills-zh",
+"EmbraceAGI/awesome-chatgpt-zh",
 "Aider-AI/aider",
 "anthropics/claude-code",
 "langgptai/LangGPT",

@@ -1,7 +1,8 @@
 {
-"meta": {"description":"","defaultBranch":"main","topics":["green-software","sustainable-software","sustainability","awesome-list","green-ai","sustainable-ai","climate","green-computing","hacktoberfest","awesome"],"readmeSha":"33bf580105da806b0a0fea76cfcc3867387155e9"},
+"meta": {"description":"","defaultBranch":"main","topics":["green-software","sustainable-software","sustainability","awesome-list","green-ai","sustainable-ai","climate","green-computing","hacktoberfest","awesome"],"readmeSha":"f19ca737f7ef1abef593fa462511b63c59a9b9ff"},
 "members": [
 "axiomaxllc/esg-carbon-shield",
+"gwittebolle/claude-carbon",
 "Vitalini/ebb-ai",
 "Breakend/experiment-impact-tracker",
 "saintslab/carbontracker",
@@ -22,6 +23,7 @@
 "bluehands/Carbon-Aware-Computing",
 "bluehands/Hangfire.Community.CarbonAwareExecution",
 "Green-Software-Foundation/carbon-aware-sdk",
+"elevated-systems/compute-gardener-scheduler",
 "carbonintensityio/green-scheduler",
 "cloudyspells/PSElectricityMaps",
 "cloudyspells/PSWattTime",

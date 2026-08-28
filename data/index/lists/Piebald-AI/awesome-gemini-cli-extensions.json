@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"55f7e3393f1d64ff306219f228a11a9e5a55c267"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"e4368220b73c4bfe8dded202cb43dc7acaf1d886"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -50,6 +50,7 @@
 "agentage/find-mcp",
 "Lians-ai/Lians",
 "armoriq/armorGemini",
+"vshulcz/deja-vu",
 "gemini-cli-extensions/gcloud",
 "gemini-cli-extensions/genkit",
 "gemini-cli-extensions/mcp-toolbox",

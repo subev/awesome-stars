@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"cad2f244f22bf8b30f736f4691c61e541003b9ae"},
+"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"7b2b9595c123b49446c246ba5846d35eeeedb999"},
 "members": [
 "sindresorhus/awesome",
 "R-CoderDotCom/calendR",
@@ -95,6 +95,7 @@
 "HughParsonage/waterfalls",
 "pdwaggoner/amerika",
 "bbc/bbplot",
+"lobsterbush/colorr",
 "cols4all/cols4all-R",
 "R-CoderDotCom/cyberpunk",
 "xvzftube/darknerdthemes",

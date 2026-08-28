@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A community driven list of useful Emacs packages, libraries and other items.","defaultBranch":"master","topics":["emacs","awesome-list"],"readmeSha":"8ef8bc2c9bcdd19107083ad5ced5bbc90e4f446a"},
+"meta": {"description":"A community driven list of useful Emacs packages, libraries and other items.","defaultBranch":"master","topics":["emacs","awesome-list"],"readmeSha":"2ed49c7e8d7ef9c776961fae33cd315f934971d5"},
 "members": [
 "sindresorhus/awesome",
 "melpa/melpa",
@@ -561,6 +561,7 @@
 "ianyepan/tron-legacy-emacs-theme",
 "rougier/nano-theme",
 "protesilaos/ef-themes",
+"mrcnski/nimbus-theme",
 "LionyxML/auto-dark-emacs",
 "dbrock/bongo",
 "nlamirault/dionysos",

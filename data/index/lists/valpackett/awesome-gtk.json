@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"115a7a1186a07b3634756ae6b13d5f78ed52e60e"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"40d47bb91650cde5b2bda9a981c51ed8337c9866"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -303,6 +303,7 @@
 "philippkosarev/bmi",
 "diegopvlk/Dosage",
 "charles-m-knox/powercycle-js",
+"yioannides/throwdown",
 "elementary/maps",
 "leolost2605/emergency-alerts",
 "danirabbit/nimbus",

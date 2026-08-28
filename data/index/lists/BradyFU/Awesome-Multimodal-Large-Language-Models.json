@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"8297f75326951e046a6306f667fbefe55441b136"},
+"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"db62769c59046dfa917c34768fe20d73157ab474"},
 "members": [
 "VITA-MLLM/VITA",
 "VITA-MLLM/VITA-Audio",

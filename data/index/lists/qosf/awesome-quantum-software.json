@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of open-source quantum software projects.","defaultBranch":"master","topics":["quantum-computing","quantum-algorithms","quantum-chemistry","quantum-computer-simulator","quantum-annealing","quantum-programming-language","compilers","quantum-compiler","quantum-computer","quantum-circuits"],"readmeSha":"556b34f12909112c496551bd94ce6fdd6f0d937f"},
+"meta": {"description":"Curated list of open-source quantum software projects.","defaultBranch":"master","topics":["quantum-computing","quantum-algorithms","quantum-chemistry","quantum-computer-simulator","quantum-annealing","quantum-programming-language","compilers","quantum-compiler","quantum-computer","quantum-circuits"],"readmeSha":"042c09f431e7f5708598e29f03b06eb8e640221b"},
 "members": [
 "desireevl/awesome-quantum-computing",
 "avalon-lang/avaloni",

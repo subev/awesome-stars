@@ -1,5 +1,5 @@
 {
-"meta": {"description":"JuiceFS is a distributed POSIX file system built on top of Redis and S3.","defaultBranch":"main","topics":["filesystem","cloud-native","golang","redis","distributed-systems","storage","object-storage","posix","hdfs","s3"],"readmeSha":"7a796ce7eda919613b601d43dacb37e8b1a83475"},
+"meta": {"description":"JuiceFS is a distributed POSIX file system built on top of Redis and S3.","defaultBranch":"main","topics":["filesystem","cloud-native","golang","redis","distributed-systems","storage","object-storage","posix","hdfs","s3"],"readmeSha":"551ee6a29d3b24113852d2d2a6718b5c87a498c6"},
 "members": [
 "pjd/pjdfstest",
 "s3fs-fuse/s3fs-fuse",

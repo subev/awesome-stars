@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"01b2c56f6a6d51e6544b302f10279586b6b2851b"},
+"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"3e2b3b1561a5f58399621d8e56c28f132dbc6a10"},
 "members": [
 "RemRemRemRe/RemAbilityUtility",
 "OversizedSunCoreDev/ArtilleryEco",
@@ -89,6 +89,7 @@
 "getnamo/TensorFlow-Unreal",
 "Allysony/tensorflow2-ue4-ar",
 "mika314/UELlama",
+"Agosillo/MiaIA",
 "gameDNAstudio/MobileUtils",
 "gtreshchev/AndroidNative",
 "atenfyr/UAssetAPI",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A selection of state-of-the-art research materials on trajectory prediction","defaultBranch":"master","topics":["trajectory-prediction","trajectory-generation","social-interactions","behavior-prediction","computer-vision","machine-learning","artificial-intelligence","deep-learning","autonomous-driving","autonomous-vehicles"],"readmeSha":"9388d7bff183489275573b13ddd478f6a317579f"},
+"meta": {"description":"A selection of state-of-the-art research materials on trajectory prediction","defaultBranch":"master","topics":["trajectory-prediction","trajectory-generation","social-interactions","behavior-prediction","computer-vision","machine-learning","artificial-intelligence","deep-learning","autonomous-driving","autonomous-vehicles"],"readmeSha":"1e98c5ae0a8112294a0408f467d0e6ee961f196e"},
 "members": [
 "jiachenli94/Awesome-Decision-Making-Reinforcement-Learning",
 "udacity/self-driving-car",

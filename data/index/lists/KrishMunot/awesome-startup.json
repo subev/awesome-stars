@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sunglasses: All the required resources to build your own startup","defaultBranch":"master","topics":["startup","entrepreneurs","engineering","advice","awesome","awesome-list","venture-capital","free-software","free","code"],"readmeSha":"21dcd2067856e606ca867ff541919d56c7a9db98"},
+"meta": {"description":":sunglasses: All the required resources to build your own startup","defaultBranch":"master","topics":["startup","entrepreneurs","engineering","awesome","awesome-list","venture-capital","free-software","code","startup-services","hacktober"],"readmeSha":"777b45e6cfab00937c63476f14eb496bd88002d0"},
 "members": [
 "sindresorhus/awesome",
 "meta-llama/llama-models",

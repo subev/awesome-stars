@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"ed8c0b6849b0735ecfef0e1cf9644ed49515bcd7"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"bf733bc72d71d184986ddb4b32799d03996484d6"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -87,6 +87,7 @@
 "kenn-io/msgvault",
 "uwegeercken/datagenerator2",
 "xtrustinfo/overture-places-ua",
+"Ddscully/dlt-dbt-duckdb-evidence",
 "duckdb/dbt-duckdb",
 "turbolytics/sql-flow",
 "nextflow-io/nf-sqldb",
