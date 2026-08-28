@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"c6cdf4b502060b4360cbcfcead458ba7b2ab9117"},
+"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"f281650bc9df4ab6c8fea0bcd888a63d546281c1"},
 "members": [
 "crisbez/atlas4d-base",
 "ahuarte47/duckdb-raster",
@@ -129,6 +129,7 @@
 "aazuspan/sankee",
 "awesome-spectral-indices/spectral",
 "aazuspan/wxee",
+"TerraLabAI/QGIS_AI-Segmentation",
 "microsoft/aerial_wildlife_detection",
 "mathildor/TF-SegNet",
 "geospaitial-lab/aviary",
@@ -319,6 +320,7 @@
 "dpmcmlxxvi/pouchdb-geospatial",
 "felixpalmer/procedural-gl-js",
 "proj4js/proj4js",
+"a-r-d/PureJsImage",
 "mourner/rbush",
 "PaulLeCam/react-leaflet",
 "visgl/react-map-gl",
@@ -560,7 +562,7 @@
 "jmikola/geojson",
 "php-geospatial/geospatial",
 "ralphschindler/laragis",
-"eleven-lab/laravel-geo",
+"moveaxlab/laravel-geo",
 "nateabele/li3_geo",
 "geocoder-php/azure-maps-provider",
 "garrettrayj/php7-mapnik",
@@ -932,5 +934,8 @@
 "tmcw/awesome-geojson",
 "satellite-image-deep-learning/techniques",
 "mapbox/awesome-vector-tiles"
+],
+"dropped": [
+["2026-08-28","eleven-lab/laravel-geo"]
 ]
 }

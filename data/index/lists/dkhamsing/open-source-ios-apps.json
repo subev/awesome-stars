@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"62d6425d4ce37750ac644e709a11f733b4e809ef"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"f73784262fe1db44c9e73da6e2274bd1524430ff"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -83,7 +83,6 @@
 "aheze/SwiftUICraft",
 "alfianlosari/KanbanDragDropiOS",
 "VamshiIITBHU14/YouTubeClone",
-"aslanyanhaik/youtube-iOS",
 "automat-berlin/afone",
 "PallavAg/Apple-Intelligence-Chat",
 "ISBX/apprtc-ios",
@@ -336,7 +335,7 @@
 "openhab/openhab-ios",
 "sobri909/ArcMini",
 "filipealva/Cepp",
-"Root-Down-Digital/DragonSync-iOS",
+"lukeswitz/DragonSync-iOS",
 "e-mission/e-mission-phone",
 "da3x/GeoLicious",
 "frostland/GPS-Stone",
@@ -421,13 +420,11 @@
 "mizadi/iOSImageGenerator",
 "kxvn-lx/Kontax-Cam",
 "Ckitakishi/MetaX",
-"jogendra/phimpme-iOS",
 "Yalantis/PixPic",
 "crspybits/SharedImages",
 "256Arts/Sprite-Catalog",
 "256Arts/Sprite-Cutter",
 "256Arts/Sprite-Pencil",
-"Stmol/vkphotos",
 "SherlockQi/HeavenMemoirs",
 "b5i/Atwy",
 "MrAdamBoyd/DownTube",
@@ -609,13 +606,11 @@
 "BurntCaramel/CollectedApp",
 "Thomvis/Construct",
 "shameemreza/critterclan",
-"fatih-gursoy/Cuisiner",
 "jpsim/DeckRocket",
 "emoncms/emoncms-ios",
 "meggsila/EmployeeCheckin",
 "manolosavi/xFonts",
 "mitchtabian/Food2Fork-KMM",
-"FlexMonkey/ForceSketch",
 "FreeRDP/FreeRDP",
 "Sophiestication/Groceries",
 "hackfoldr/hackfoldr-iOS",
@@ -819,5 +814,13 @@
 "pcqpcq/open-source-android-apps",
 "vsouza/awesome-ios",
 "matteocrippa/awesome-swift"
+],
+"dropped": [
+["2026-08-28","aslanyanhaik/youtube-iOS"],
+["2026-08-28","Root-Down-Digital/DragonSync-iOS"],
+["2026-08-28","jogendra/phimpme-iOS"],
+["2026-08-28","Stmol/vkphotos"],
+["2026-08-28","fatih-gursoy/Cuisiner"],
+["2026-08-28","FlexMonkey/ForceSketch"]
 ]
 }

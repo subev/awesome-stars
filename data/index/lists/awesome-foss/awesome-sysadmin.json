@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"f334ee4c1d45a0b494f481c842ef8b0885dfebaa"},
+"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"66bfadd7066880c8f8545a2451681461bd0ccf24"},
 "members": [
 "sindresorhus/awesome",
 "awesome-foss/awesome-sysadmin-data",

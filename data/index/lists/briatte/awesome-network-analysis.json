@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome network analysis resources.","defaultBranch":"master","topics":["network-analysis","network-visualization","complex-networks","political-networks","semantic-networks","graph-theory","disease-networks","network-science","social-networks","social-network-analysis"],"readmeSha":"2aaed21e78f4fef685f01ec57833543c1533f55a"},
+"meta": {"description":"A curated list of awesome network analysis resources.","defaultBranch":"master","topics":["network-analysis","network-visualization","complex-networks","political-networks","semantic-networks","graph-theory","disease-networks","network-science","social-networks","social-network-analysis"],"readmeSha":"e2fe6fc655bebae1c714efb399d2caa548b2699f"},
 "members": [
 "sindresorhus/awesome",
 "ChristosChristofidis/awesome-deep-learning",
@@ -67,6 +67,7 @@
 "benedekrozemberczki/karateclub",
 "rafguns/linkpred",
 "benedekrozemberczki/littleballoffur",
+"livus/gdMetriX",
 "ericmjl/nxviz",
 "ike002jp/npartite",
 "rraadd88/parag",

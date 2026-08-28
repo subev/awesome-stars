@@ -1,5 +1,5 @@
 {
-"meta": {"description":"👻 A curated list of awesome FFmpeg resources.","defaultBranch":"master","topics":["ffmpeg","fluent-ffmpeg","awesome","awesome-list"],"readmeSha":"02b93aacf99013fe87dc94141ba5b3d611586c9e"},
+"meta": {"description":"👻 A curated list of awesome FFmpeg resources.","defaultBranch":"master","topics":["ffmpeg","fluent-ffmpeg","awesome","awesome-list"],"readmeSha":"a33f5d134a47e772c36c332271eb11963a3374a2"},
 "members": [
 "transitive-bullshit/ffmpeg-cli-flags",
 "fluent-ffmpeg/node-fluent-ffmpeg",

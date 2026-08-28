@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Master CSS - A Virtual CSS language with enhanced syntax.","defaultBranch":"main","topics":["awesome","css","awesome-list","master-css"],"readmeSha":"bd16a044f6ce95842278fdacd74d6d902700354c"},
+"members": [
+"sindresorhus/awesome",
+"master-co/css",
+"serkodev/master-styles-css-converter",
+"master-co/styled"
+]
+}

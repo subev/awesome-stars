@@ -1,0 +1,7 @@
+{
+"meta": {"description":"A curated list of #rstats books","defaultBranch":"master","topics":[],"readmeSha":"e4a9fba853c316ba977a0057c938fa93e2842df8"},
+"members": [
+"sindresorhus/awesome",
+"romantseg/rbooks"
+]
+}

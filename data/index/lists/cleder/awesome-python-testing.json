@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"9331c969a87f0b3f070e4600c934cc6b4496bc8c"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"76b45569badc9d83adcd52603fcbbad2eba61140"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -16,6 +16,7 @@
 "coveragepy/coveragepy",
 "wemake-services/coverage-conditional-plugin",
 "Bachmann1234/diff_cover",
+"plasma-umass/slipcover",
 "life4/deal",
 "Parquery/icontract",
 "pact-foundation/pact-python",
@@ -92,6 +93,8 @@
 "microsoft/restler-fuzzer",
 "taverntesting/tavern",
 "okken/pytest-check",
+"plasma-umass/pytest-cleanslate",
+"mgaitan/pytest-leak-finder",
 "pytest-dev/pytest-rerunfailures",
 "str0zzapreti/pytest-retry",
 "approvals/ApprovalTests.Python",
@@ -100,8 +103,6 @@
 "syrupy-project/syrupy",
 "kevin1024/vcrpy",
 "smattymatty/Django-Mercury-Performance-Testing",
-"man-group/partialtesting",
-"pytest-dev/pytest-incremental",
 "deltatest-org/pytest-deltatest",
 "anapaulagomes/pytest-picked",
 "tarpas/pytest-testmon",
@@ -153,6 +154,7 @@
 "golikovichev/secure-log2test",
 "isidentical/teyit",
 "Mormolykos/ttsproof",
+"vostride/agent-qa",
 "t-strings/aria-testing",
 "ctripcorp/flybirds",
 "golemhq/golem",
@@ -173,5 +175,9 @@
 "atinfo/awesome-test-automation",
 "commit-check/commit-check",
 "MathiasPaulenko/awesome-behave"
+],
+"dropped": [
+["2026-08-28","man-group/partialtesting"],
+["2026-08-28","pytest-dev/pytest-incremental"]
 ]
 }

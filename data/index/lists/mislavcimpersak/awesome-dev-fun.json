@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.","defaultBranch":"master","topics":["awesome","jokes","fun"],"readmeSha":"e66d55b6f4803f0a78463739b05ec1d10a94f399"},
+"meta": {"description":"A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.","defaultBranch":"master","topics":["awesome","jokes","fun"],"readmeSha":"8a8f51f96d8f811bb0d52213e53e9c16ef3fc9d2"},
 "members": [
 "sindresorhus/awesome",
 "terriblehackskeyboard/keyboard",
@@ -9,6 +9,7 @@
 "wojtekmach/oop",
 "GeertJohan/gomatrix",
 "rafael-santiago/codeometer",
+"TevvvB/termagitchi",
 "fgaz/hackertyper",
 "ao5357/retina-spacer-gif",
 "EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",

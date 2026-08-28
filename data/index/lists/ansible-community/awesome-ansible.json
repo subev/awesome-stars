@@ -1,13 +1,13 @@
 {
-"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"261a9c2ee08408f47d38cb82c32cde342fb30770"},
+"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"60bed9543b762a537cafb6830406ac43cd135e96"},
 "members": [
 "leucos/ansible-tuto",
 "geerlingguy/ansible-for-devops",
 "ansible/awx",
 "ansible/ansible-lint",
+"arhuman/ansible-static-lint",
 "thegeeklab/ansible-doctor",
 "foundata/ansible-docsmith",
-"fboender/ansible-cmdb",
 "ansible-community/ara",
 "willthames/ansible-inventory-grapher",
 "KeyboardInterrupt/ansible_xlsx_inventory",
@@ -39,5 +39,8 @@
 "paradoxxxzero/jinja2-mode",
 "magit/magit",
 "jamescherti/flymake-ansible-lint.el"
+],
+"dropped": [
+["2026-08-28","fboender/ansible-cmdb"]
 ]
 }

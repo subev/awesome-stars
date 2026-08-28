@@ -1,0 +1,23 @@
+{
+"meta": {"description":"Curated list of awesome Mastodon-related stuff!","defaultBranch":"main","topics":["awesome","awesome-list","mastodon"],"readmeSha":"58d3d3017380432fa1f4049ca15909494ea17f7b"},
+"members": [
+"mastodon/mastodon",
+"nathanlesage/academics-on-mastodon",
+"masrly/mastodon-link",
+"bramus/mastodon-redirector",
+"muesli/mastotool",
+"splitbrain/mastodon-widget",
+"elk-zone/elk",
+"cheeaun/phanpy",
+"mastodon/mastodon-android",
+"ihabunek/toot",
+"Dimillian/IceCubesApp",
+"neet/masto.js",
+"mattn/go-mastodon",
+"hometown-fork/hometown",
+"magicstone-dev/ecko",
+"doersino/aerialbot",
+"pbzweihander/rust-trending",
+"yogthos/mastodon-bot"
+]
+}

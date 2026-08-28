@@ -1,0 +1,29 @@
+{
+"meta": {"description":"A curated list of awesome Slim framework packages and resources.","defaultBranch":"main","topics":["awesome","awesome-list","slim-framework","slim","php","hacktoberfest","hacktoberfest2021","slim4","slim-4","slim3"],"readmeSha":"803946632ef3657d9ea1ba78fb3097b581bc2a2a"},
+"members": [
+"semhoun/slim-skeleton-mvc",
+"adriansuter/Slim4-Skeleton",
+"odan/slim4-skeleton",
+"slimphp/Slim-Skeleton",
+"nbayramberdiyev/slim-4-starter",
+"tuupola/slim-basic-auth",
+"slimphp/Slim-Csrf",
+"slimphp/Slim-HttpCache",
+"tuupola/slim-jwt-auth",
+"christianklisch/slim-minify",
+"bryanjhv/slim-session",
+"zeuxisoo/php-slim-whoops",
+"slimphp/Twig-View",
+"projek-xyz/slim-plates",
+"slimphp/PHP-View",
+"nekofar/pest-plugin-slim",
+"nekofar/slim-test",
+"selective-php/basepath",
+"PHP-DI/Slim-Bridge",
+"DavidePastore/Slim-Config",
+"slimphp/Slim-Console",
+"slimphp/Slim-Flash",
+"entomb/slim-json-api",
+"DavidePastore/Slim-Validation"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"bd96ee490e1ad8c77528f50afc97be99a415d972"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"0c4fd7b34fc6a1379673b1a8f413d0638dfec570"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -170,6 +170,7 @@
 "bentoml/BentoML",
 "maximhq/bifrost",
 "dataelement/bisheng",
+"cosmo-wander-ai/cosmo-edge",
 "jolibrain/deepdetect",
 "ai-dynamo/dynamo",
 "exo-explore/exo",

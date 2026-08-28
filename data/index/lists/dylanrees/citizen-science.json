@@ -1,0 +1,12 @@
+{
+"meta": {"description":"🔬 A repository of resources related to citizen, community-based and/or non-institutional science","defaultBranch":"master","topics":["citizen-science","science","lab-equipment","scientific","activism"],"readmeSha":"eb1c240f308f1bf5bda99c5a5abcaee1a76a9194"},
+"members": [
+"drewrwilson/toolsforactivism",
+"sindresorhus/awesome",
+"Desbordante/desbordante-core",
+"nasa/isle",
+"rapidpro/rapidpro",
+"s5-cloud/GIS-Tools",
+"dylanrees/citizen-science"
+]
+}

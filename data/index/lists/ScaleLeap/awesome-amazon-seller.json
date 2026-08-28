@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"56a18ae74f61fd18a8245e665a4948ba75036a4e"},
+"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"e805f545b73d4adc7a2f78d4efceef1003ddf9d9"},
 "members": [
 "BuyWhere/buywhere-mcp",
+"assassinationss/awesome-china-sourcing",
 "launotice-lang/chdh-tools-dataset"
 ]
 }

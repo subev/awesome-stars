@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"160d232d851df9b5fe8c4f34d2546be56df279e9"},
+"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"69531cea830ba3a2387a8ee49687ba3d207b088c"},
 "members": [
 "sindresorhus/awesome",
 "wezterm/wezterm",
@@ -16,6 +16,7 @@
 "selectnull/pinned-tabs.wezterm",
 "abidibo/wezterm-cmdpicker",
 "annie444/sync-panes.wez",
+"KawaiiSelbst/nu_utf8_hack.wez",
 "KawaiiSelbst/keys_bypass.wez",
 "xarvex/presentation.wez",
 "mrjones2014/smart-splits.nvim",

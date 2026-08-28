@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"9165ce2c7f3cff7c9e2f672a6ff94feb820ef3d5"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"aec297ff30beb6827f5a7b80fa2a12c402ea86c1"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -48,9 +48,11 @@
 "Nikita-Filonov/load-testing-hub-panel",
 "foundry-rs/foundry",
 "jg8481/Robot-Framework-Solidity-Testing-Toolkit",
+"bats-core/bats-core",
 "jumpstarter-dev/jumpstarter",
 "aiqualitylab/ai-natural-language-tests",
 "kznr02/OpenTester",
+"mozarkai/optics-framework",
 "MathewSachin/Captura",
 "rrweb-io/rrweb",
 "karlhorky/learn-to-program",

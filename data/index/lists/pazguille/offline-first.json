@@ -1,0 +1,21 @@
+{
+"meta": {"description":":electric_plug: Everything you need to know to create offline-first web apps.","defaultBranch":"master","topics":["offline-first","service-worker","offline-data","appcache","indexeddb","offline","serviceworkers"],"readmeSha":"a3d8200b117ff79fc6074a80fded8f828bd75059"},
+"members": [
+"sindresorhus/awesome",
+"homam/service-workers-example",
+"GoogleChrome/samples",
+"NekR/offline-plugin",
+"zackargyle/service-workers",
+"bahmutov/bottle-service",
+"react-boilerplate/react-boilerplate",
+"omnia-salud/haywire",
+"GoogleChromeLabs/sw-toolbox",
+"jakearchibald/simple-serviceworker-tutorial",
+"mozilla/makedrive",
+"localForage/localForage",
+"gr2m/appcache-nanny",
+"vitalets/bro-fs",
+"GoogleChrome/workbox",
+"pubkey/rxdb"
+]
+}

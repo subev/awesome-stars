@@ -1,0 +1,7 @@
+{
+"meta": {"description":"This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students","defaultBranch":"master","topics":[],"readmeSha":"e1707150b45f26ef9557c6ee86e7942c642461db"},
+"members": [
+"sindresorhus/awesome",
+"ripienaar/free-for-dev"
+]
+}

@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curation of WebAssembly (Wasm) resources, projects, and communities.","defaultBranch":"main","topics":["awesome","awesome-list","wasm","webassembly","awesome-wasm","awesome-webassembly","awesome-lists","resources"],"readmeSha":"850a2b4fa9b72673a643d2631adf71f45a7a1675"},
+"members": [
+"WebAssembly/spec",
+"WebAssembly/binaryen",
+"WasmEdge/WasmEdge",
+"WAVM/WAVM",
+"wasm3/wasm3",
+"wasm-bindgen/wasm-bindgen",
+"wasmerio/wasmer-js",
+"wasm-bindgen/wasm-pack",
+"WebAssembly/wabt",
+"WebAssembly/WASI",
+"arthiqlabs/vedaksha",
+"leptos-rs/leptos",
+"thisisisa/awesome-webassembly"
+]
+}

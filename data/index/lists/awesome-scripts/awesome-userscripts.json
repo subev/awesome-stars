@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"2077299926da346a18c8b6bd4f6287d6c20917cb"},
+"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"48f417ebe152a97d23190dc8b145b7d3f65da994"},
 "members": [
 "sindresorhus/awesome",
 "fork-maintainers/iceraven-browser",
@@ -29,6 +29,7 @@
 "sinazadeh/userscripts",
 "immersive-translate/immersive-translate",
 "DREwX-code/Ultimate-Text-Selection-Translator",
+"Life-Experimentalist/Youtube-Keystrokes-Blocker",
 "Black0S/Youtube-Loop-UserScript",
 "RobertWesner/YouTube-Play-All",
 "lisonge/vite-plugin-monkey"

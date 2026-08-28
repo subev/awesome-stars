@@ -1,11 +1,16 @@
 {
-"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"a372eccd3fe4eebea2bc485b0f3df4929b25b1a7"},
+"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"37d41bad5f0526d70125d8b80f20f76d7f6c278f"},
 "members": [
 "nasa-jpl/open-source-rover",
 "GeiserX/PiSpot-Show",
 "GeiserX/PiSpot-Watch",
+"cheyao/icepi-zero",
+"sasodoma/nrf52840-promicro",
 "openmv/openmv",
 "kelu124/pic0rick",
+"greatscottgadgets/hackrf-pro",
+"greatscottgadgets/hackrf",
+"jankae/LibreVNA",
 "OpenGammaProject/Open-Gamma-Detector",
 "openUC2/UC2-GIT",
 "ElmerCSC/elmerfem",

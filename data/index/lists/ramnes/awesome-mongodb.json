@@ -1,5 +1,5 @@
 {
-"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"b17854a3115012dbb0ff558765765bb48c0889c6"},
+"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"7a6c497061a90707d25a21ac01719d12c76707af"},
 "members": [
 "sindresorhus/awesome",
 "mongodb-developer/the-little-mongodb-book",
@@ -131,6 +131,7 @@
 "NodeBB/NodeBB",
 "reactioncommerce/reaction",
 "async-labs/saas",
+"unchainedshop/unchained",
 "fzaninotto/uptime",
 "zone-eu/wildduck"
 ]

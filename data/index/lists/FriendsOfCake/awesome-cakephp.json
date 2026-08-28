@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"98812c8097c1852e1bc1e5c8d9adedf03d4ff235"},
+"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"fbf71523851024110acff71a7794319c8c3e3f2d"},
 "members": [
 "ziadoz/awesome-php",
 "bayandin/awesome-awesomeness",
@@ -42,6 +42,7 @@
 "dereuromark/executionorder",
 "LordSimal/cakephp-sentry",
 "dereuromark/cakephp-setup",
+"josbeir/cakephp-symfony-mailer",
 "dereuromark/cakephp-queue",
 "sprintcube/cakephp-sendgrid",
 "dereuromark/cakephp-file-storage",
@@ -69,6 +70,7 @@
 "zunnu/cake-htmx",
 "dereuromark/cakephp-calendar",
 "mirko-pagliai/cakephp-database-backup",
+"orca-services/cakephp-feature-flags",
 "dereuromark/cakephp-feedback",
 "dereuromark/cakephp-flash",
 "CakeDC/cakephp-inertia",

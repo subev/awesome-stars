@@ -1,0 +1,21 @@
+{
+"meta": {"description":"Exploring, organizing, and analysing neuroimages (MR focus)","defaultBranch":"main","topics":["awesome","awesome-list","neuroimaging","neuroimaging-analysis"],"readmeSha":"fd082b2e9fa5a71dcc433c0c27f251aceb26ff96"},
+"members": [
+"VUIIS/dax",
+"Open-Minds-Lab/mrQA",
+"bids-standard/bids-validator",
+"HALFpipe/HALFpipe",
+"LabNeuroCogDevel/fmri_processing_scripts",
+"rordenlab/dcm2niix",
+"nipy/heudiconv",
+"lncd/lncdtools",
+"FNNDSC/med2image",
+"datalad/datalad",
+"schorschinho/LCModel",
+"schorschinho/osprey",
+"elifesciences-publications/ei_hurst",
+"bjw34032/oro.nifti",
+"tanguyduval/imtool3D_td",
+"Remi-Gau/online_neuroimaging_resources"
+]
+}

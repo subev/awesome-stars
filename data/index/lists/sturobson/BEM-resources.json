@@ -1,0 +1,12 @@
+{
+"meta": {"description":"Just a repo full of BEM resources","defaultBranch":"master","topics":[],"readmeSha":"f2b01a9c1068cc4d1a726b356cf3b9f6cbbbe4e3"},
+"members": [
+"sindresorhus/awesome",
+"postcss/postcss-bem-linter",
+"danielguillan/bem-constructor",
+"roryashfordbentley/Wordpress-Bem-Menu",
+"awinogradov/sharps",
+"dnomak/flexiblegs-bem",
+"maykinmedia/bem.js"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)","defaultBranch":"main","topics":["finance","financial-data","stock-data","awesome","awesome-list","quantitative-finance","quant","quantitative-trading","yahoo-finance","finance-api"],"readmeSha":"a2467ac31de6c3ae0bdd9b9210a5d00e807c8aba"},
+"meta": {"description":"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)","defaultBranch":"main","topics":["finance","financial-data","stock-data","awesome","awesome-list","quantitative-finance","quant","quantitative-trading","yahoo-finance","finance-api"],"readmeSha":"9cfed523491cd95033ebcd10fe75a393d529c650"},
 "members": [
 "numpy/numpy",
 "scipy/scipy",
@@ -112,6 +112,7 @@
 "Mattbusel/fin-primitives",
 "wickra-lib/wickra",
 "psyb0t/docker-wickworks",
+"intrepidkarthi/orderbook",
 "Javier-Garzo/ern-wo-options-backtester",
 "w2ur/midas-core",
 "manifoldbt/manifoldbt",
@@ -541,9 +542,11 @@
 "trustless-ai/agent-contracts-examples",
 "thebrierfox/the-stall",
 "alphaassay/mcp",
+"celineycn/quantdata-plugin",
 "gveshk/atlasyield-score-history",
 "amitesh-m/wealthville-integrations",
 "shingou-io/shingou-integrations",
+"WiseekAI/wiseek-datasets",
 "vibeyclaw/awesome-sec-filings"
 ]
 }

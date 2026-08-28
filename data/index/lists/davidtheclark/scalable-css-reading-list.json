@@ -1,0 +1,9 @@
+{
+"meta": {"description":"Collected dispatches from The Quest for Scalable CSS","defaultBranch":"master","topics":[],"readmeSha":"27a1497109c1177cec23418de0e5a8210eebd49f"},
+"members": [
+"sindresorhus/awesome",
+"jareware/css-architecture",
+"suitcss/suit",
+"stubbornella/oocss"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"5137591467e1766d559dccecd24a373a9bacdbb2"},
+"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"b3e36cc4e1271e60907dbc9a3d1d36a1e1f99cb0"},
 "members": [
 "sindresorhus/awesome",
 "vleerapp/vleer",
@@ -52,6 +52,7 @@
 "unchihugo/FluentFlyout",
 "rainmeter/rainmeter",
 "Taiizor/Sucrose",
+"Talkdedsec1/tlk-visual",
 "TranslucentTB/TranslucentTB",
 "ramensoftware/windhawk",
 "amnweb/yasb",
@@ -131,6 +132,7 @@
 "aelassas/servy",
 "syncthing/syncthing",
 "xanderfrangos/twinkle-tray",
+"k1gs/Gpu-Shark",
 "alacritty/alacritty",
 "cmderdev/cmder",
 "ConEmu/ConEmu",

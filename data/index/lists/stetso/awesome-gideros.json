@@ -1,0 +1,17 @@
+{
+"meta": {"description":"A curated list of awesome Gideros resources, classes and tips.","defaultBranch":"master","topics":["lua","gamedev","mobile-game","mobile-development","game-engine","awesome","awesome-list","gideros","game-development"],"readmeSha":"040b27786c1448eb73830e4055a84a734dbbf146"},
+"members": [
+"sindresorhus/awesome",
+"stetso/GidSwipe",
+"nascode/gideros_animsheet",
+"Nlcke/layout",
+"mertkurum/GiderosStoreReview",
+"rxi/lume",
+"kikito/inspect.lua",
+"kikito/bump.lua",
+"rm-code/bresenham",
+"LewisJEllis/awesome-lua",
+"love2d-community/awesome-love2d",
+"mbrukman/awesome-gamedev"
+]
+}

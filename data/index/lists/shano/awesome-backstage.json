@@ -1,12 +1,15 @@
 {
-"meta": {"description":"📋 A curated list of awesome Backstage resources!","defaultBranch":"main","topics":["backstage","developer-portal","developer-tools","idp","awesome","awesome-list"],"readmeSha":"013ff3138e4e1a6b496bf33e20833f8cfb2cd945"},
+"meta": {"description":"📋 A curated list of awesome Backstage resources!","defaultBranch":"main","topics":["backstage","developer-portal","developer-tools","idp","awesome","awesome-list"],"readmeSha":"aea0b3d0f22f590cc13b82f09d98d2a68c61f76e"},
 "members": [
 "backstage/backstage",
 "backstage/community-plugins",
+"drodil/backstage-plugin-qeta",
 "purple-technology/backstage-aws-cloudformation-plugin",
+"drodil/backstage-plugin-toolbox",
 "wiz-sec-public/backstage-plugin-wiz",
 "backstage/charts",
 "backstage/community",
-"GoogleChrome/lighthouse-ci"
+"GoogleChrome/lighthouse-ci",
+"kubestellar/console"
 ]
 }

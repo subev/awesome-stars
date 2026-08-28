@@ -1,0 +1,23 @@
+{
+"meta": {"description":"growing list of digital tools for activism things","defaultBranch":"master","topics":[],"readmeSha":"0cbac9933fc1b39512d363d138a350627a7b81a5"},
+"members": [
+"sindresorhus/awesome",
+"fightforthefuture/call-congress",
+"mozilla/call-congress",
+"EFForg/call-congress",
+"Twilio-org/rapid-response-kit",
+"therules/CrowdRing",
+"apigy/selfstarter",
+"controlshift/prague-server",
+"drewrwilson/countdown",
+"Elizabeth-Warren/Spoke",
+"loomio/loomio",
+"sinak/democracy.io",
+"TheTorProject/gettorbrowser",
+"brave/brave-browser",
+"the-learning-collective/whereat-macroid",
+"drewrwilson/stencilvalidator",
+"handsupwalkout/handsupwalkout.github.io",
+"securityfirst/Umbrella_android"
+]
+}

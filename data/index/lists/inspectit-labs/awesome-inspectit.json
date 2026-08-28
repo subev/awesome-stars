@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A curated list of awesome inspectIT documentations and resources. ","defaultBranch":"master","topics":["inspectit","awesome","awesome-list"],"readmeSha":"5067d4ab1350e349307ec248cb73021c618679d8"},
+"members": [
+"sindresorhus/awesome",
+"inspectIT/inspectIT",
+"inspectit-labs/workshop",
+"ghedwards/cfml-inspectIT",
+"inspectit-labs/spring-petclinic-microservices",
+"inspectit-labs/dashboards"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of free software and free culture resources for making amazing games. (mirror)","defaultBranch":"master","topics":["game","game-development","awesome","game-programming","awesome-list"],"readmeSha":"25cf286ec9bbf4bba91512ce469c73e9587d9c3e"},
+"meta": {"description":"A collection of free software and free culture resources for making amazing games. (mirror)","defaultBranch":"master","topics":["game","game-development","awesome","game-programming","awesome-list"],"readmeSha":"dbc511f6c7ecbbc73cfc3e11448e7f961edf550f"},
 "members": [
 "phisko/kengine",
 "phisko/putils",

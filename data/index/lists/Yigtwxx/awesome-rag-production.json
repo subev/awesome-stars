@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"e9a75bff3a69b4ba97cf3f5d2f4a4ecd6442fd40"},
+"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"977939210039547677a6c22bfd5227107b0bc7fc"},
 "members": [
 "sindresorhus/awesome",
 "steven2358/awesome-generative-ai",
@@ -21,6 +21,7 @@
 "firecrawl/firecrawl",
 "run-llama/llama_cloud_services",
 "datalab-to/marker",
+"mdgate/converters",
 "adithya-s-k/omniparse",
 "opendataloader-project/opendataloader-pdf",
 "PaddlePaddle/PaddleOCR",
@@ -50,7 +51,10 @@
 "Intelligent-Internet/psql_bm25s",
 "microsoft/graphrag",
 "gusye1234/nano-graphrag",
+"HKUDS/LightRAG",
 "neo4j-labs/llm-graph-builder",
+"headroomlabs-ai/headroom",
+"microsoft/LLMLingua",
 "aurelio-labs/semantic-router",
 "microsoft/autogen",
 "crewAIInc/crewAI",
@@ -66,6 +70,7 @@
 "Canner/WrenAI",
 "confident-ai/deepeval",
 "xmpuspus/kb-arena",
+"promptfoo/promptfoo",
 "vibrantlabsai/ragas",
 "truera/trulens",
 "tonydzi/verbatim-citation-gate",

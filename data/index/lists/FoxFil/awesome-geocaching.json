@@ -1,0 +1,8 @@
+{
+"meta": {"description":"🌍 Websites, applications, and other resources for Geocaching","defaultBranch":"main","topics":["awesome","awesome-list","geocaching","lists","outdoors","recources"],"readmeSha":"738af2c8dba44e6375b380bb7c06f0e977bce297"},
+"members": [
+"sindresorhus/awesome",
+"rfsbraz/Geocaching.com-Friends-Logs",
+"2Abendsegler/GClh"
+]
+}

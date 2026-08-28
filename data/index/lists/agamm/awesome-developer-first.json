@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"169b5d151b7486dd5f6a3f3aee9c80791724262f"},
+"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"0848e7d7130adc266730ff5907e797f263c9ef60"},
 "members": [
 "Aider-AI/aider",
 "cline/cline",
@@ -42,6 +42,7 @@
 "highlight/highlight",
 "lmnr-ai/lmnr",
 "langfuse/langfuse",
+"MapleTechLabs/maple",
 "comet-ml/opik",
 "QuivrHQ/quivr",
 "browserless/browserless",

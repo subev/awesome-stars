@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome LÖVE libraries, resources and shiny things.","defaultBranch":"master","topics":["lua","love2d","awesome-list","game-development","awesome"],"readmeSha":"a70b8432a33f1c53f80743af87a14d275a18cc51"},
+"meta": {"description":"A curated list of amazingly awesome LÖVE libraries, resources and shiny things.","defaultBranch":"master","topics":["lua","love2d","awesome-list","game-development","awesome"],"readmeSha":"f513fb88a4e10972de28fd85ec6c133f7b8bacea"},
 "members": [
 "sindresorhus/awesome",
 "3dreamengine/3DreamEngine",
@@ -54,6 +54,7 @@
 "FloatingBanana/Grove",
 "ReFreezed/HotParticles",
 "hsluv/hsluv-lua",
+"nasso/lovector",
 "adekto/maid64",
 "Ulydev/push",
 "meric/renderplanet",
@@ -179,6 +180,7 @@
 "qeffects/helium",
 "Keyslam/Inky",
 "nekromoff/layouter",
+"LRDPRDX/LikeliHUD",
 "darkmetalic/ListBox",
 "slages/love-imgui",
 "keharriso/love-nuklear",

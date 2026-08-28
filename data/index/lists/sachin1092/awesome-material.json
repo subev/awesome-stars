@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Google's material design libraries for different frameworks.","defaultBranch":"master","topics":[],"readmeSha":"f7d3ecb5fcbf85886f2d9b5821f60ddd5a9d9416"},
+"meta": {"description":"A curated list of Google's material design libraries for different frameworks.","defaultBranch":"master","topics":[],"readmeSha":"6ab8a231dde93678f128d447e8b3f7ebf459b236"},
 "members": [
 "sindresorhus/awesome",
 "google/material-design-icons",
@@ -10,7 +10,7 @@
 "minusfive/sass-material-colors",
 "Seb-L/Google-Material-Design-Font-Icon",
 "fians/Waves",
-"chrisdwheatley/material-design-hamburger",
+"cdwmyk/material-design-hamburger",
 "aaronlumsden/Material-Preloader",
 "alexk111/SVG-Morpheus",
 "fraina/Material-Design-ColorPicker",
@@ -42,6 +42,10 @@
 "1sters/material_design_zh",
 "willsoto/material-color-scheme",
 "Framaterial/framaterial",
+"danielcoons/tsc-material-theme",
 "bayandin/awesome-awesomeness"
+],
+"dropped": [
+["2026-08-28","chrisdwheatley/material-design-hamburger"]
 ]
 }

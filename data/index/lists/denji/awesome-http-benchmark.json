@@ -1,5 +1,5 @@
 {
-"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"b9cc1567114dc92dd13a508aa010fc2ff36e67ed"},
+"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"c4a6fe0ea9960fbe95456143b58c2ba73a6a8dd3"},
 "members": [
 "nakabonne/ali",
 "apigee/apib",
@@ -38,6 +38,7 @@
 "bengadbois/pewpew",
 "six-ddc/plow",
 "fredrikwidlund/pounce",
+"kurok/pywrkr",
 "lnx-search/rewrk",
 "utkusen/reqstress",
 "tarekziade/salvo",
@@ -54,6 +55,8 @@
 "giltene/wrk2",
 "yandex/yandex-tank",
 "yandex-load/phantom",
+"zoxy-io/zrk",
+"vostride/agent-qa",
 "astaxie/bat",
 "curl/curl",
 "curlconverter/curlconverter",

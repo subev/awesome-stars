@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⭐️ A curated list of awesome forensic analysis tools and resources","defaultBranch":"main","topics":["computer-forensics","digital-forensics","forensic-analysis","dfir","open-source","free"],"readmeSha":"2da1106681f3066d7631e37c9271df7c02854c4d"},
+"meta": {"description":"⭐️ A curated list of awesome forensic analysis tools and resources","defaultBranch":"main","topics":["computer-forensics","digital-forensics","forensic-analysis","dfir","open-source","free"],"readmeSha":"32d73a9be91cd2c5e5f7946f0e944504fa2fc129"},
 "members": [
 "ForensicArtifacts/artifacts",
 "vitaly-kamluk/bitscout",

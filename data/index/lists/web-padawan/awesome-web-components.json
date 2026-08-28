@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"1d908973b0ec00b340cedeeb79eecd36c447dc4f"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"f5b41f08b80c0f3e6bab16aed7f576efbe79d056"},
 "members": [
 "shawnbot/custom-elements",
 "web-platform-tests/wpt",
@@ -12,6 +12,7 @@
 "mdn/web-components-examples",
 "OvidijusParsiunas/active-table",
 "open-wc/api-viewer-element",
+"aura-ui/router",
 "justinfagnani/chessboard-element",
 "css-doodle/css-doodle",
 "GoogleChromeLabs/dark-mode-toggle",

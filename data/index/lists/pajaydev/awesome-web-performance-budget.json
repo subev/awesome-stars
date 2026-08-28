@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)","defaultBranch":"master","topics":["web-performance","readings","awesome-list","performance-budget","web-performance-budget","tools","videos","awesome","awesome-web","performance-budgeting"],"readmeSha":"34ba04b35bde7ad676142973febbfcd0492011f2"},
+"meta": {"description":"⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)","defaultBranch":"master","topics":["web-performance","readings","awesome-list","performance-budget","web-performance-budget","tools","videos","awesome","awesome-web","performance-budgeting"],"readmeSha":"cc7c35a65dececba8690e94acf993cac665ed74f"},
 "members": [
 "theodo/falco",
 "siddharthkp/bundlesize",

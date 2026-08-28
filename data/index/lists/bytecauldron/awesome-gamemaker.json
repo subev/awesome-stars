@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"340064f22563db865ee8f1f31e731c37f218dfa2"},
+"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"d71dc138cea8100161183b0806d3652f098a7212"},
 "members": [
 "aseprite/aseprite",
 "Mtax-Development/GML-OOP",
@@ -189,6 +189,7 @@
 "gmclan-org/FSM-AI-module",
 "albert-dang/A-Star-Pathing",
 "gmclan-org/dijkstra-graph",
+"erkan612/GMNav",
 "Grisgram/gml-animated-flag",
 "OmegaX1000/DanmakuProject",
 "TrianglyRU/OrbinautFramework",

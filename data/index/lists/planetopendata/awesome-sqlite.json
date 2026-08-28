@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome sqlite tools, scripts, books, etc","defaultBranch":"master","topics":["sqlite","sql","database"],"readmeSha":"76c60afae48114067d0458793d8f8d69de0b52d6"},
+"meta": {"description":"A collection of awesome sqlite tools, scripts, books, etc","defaultBranch":"master","topics":["sqlite","sql","database"],"readmeSha":"390d50d451b985c555d161f0d4df29552742e04c"},
 "members": [
 "planetopendata/awesome-world",
 "openfootball/awesome-football",
@@ -21,6 +21,7 @@
 "libredb/libredb-studio",
 "sqlitebrowser/sqlitebrowser",
 "multiprocessio/datastation",
+"achi777/db-tool",
 "bittorrent/sqltorrent",
 "pixelartexchange/artbase.server",
 "harelba/q",
@@ -33,6 +34,7 @@
 "benbjohnson/litestream",
 "litesql/ha",
 "sravan27/silentdrop",
+"OrbitalKeyAi/sqliteproof",
 "schemadoc/schemadoc",
 "inukshuk/sqleton",
 "openfootball/schema.sql",

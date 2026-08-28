@@ -1,0 +1,15 @@
+{
+"meta": {"description":"Tools of The Trade, from Hacker News.","defaultBranch":"master","topics":[],"readmeSha":"86a0cb270bad45515b0d396128220e212e42f269"},
+"members": [
+"sindresorhus/awesome",
+"samg/timetrap",
+"arp242/goatcounter",
+"apache/logging-flume",
+"statsd/statsd",
+"newsapps/beeswithmachineguns",
+"gamell/markpress",
+"hakimel/reveal.js",
+"impress/impress.js",
+"styfle/awesome-online-ide"
+]
+}

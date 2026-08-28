@@ -1,0 +1,14 @@
+{
+"meta": {"description":"List of useful Quick Look plugins for developers","defaultBranch":"main","topics":[],"readmeSha":"cc7c8a06b35b6dc30f4ab763d29fdc83578a5295"},
+"members": [
+"whomwah/qlstephen",
+"sbarex/QLMarkdown",
+"Marginal/QuickLookVideo",
+"xykong/flux-markdown",
+"ealeksandrov/ProvisionQL",
+"dchest/webp-quicklook",
+"sbarex/SourceCodeSyntaxHighlight",
+"SergeiNikolenko/Burrete",
+"cavoco/Preview3MF"
+]
+}

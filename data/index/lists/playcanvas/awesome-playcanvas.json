@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"daae50a6911c7f3fa2f48eb385af478f695e8e2a"},
+"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"e0594f7b0ede5f39d5430205f950cece320a7dcc"},
 "members": [
 "playcanvas/engine",
 "playcanvas/react",
@@ -16,6 +16,7 @@
 "isobolewski/playcanvas-vue",
 "recastnavigation/recastnavigation",
 "tweenjs/tween.js",
-"playcanvas/sublime-completions"
+"playcanvas/sublime-completions",
+"willeastcott/playcanvas-quake"
 ]
 }

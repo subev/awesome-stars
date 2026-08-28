@@ -1,0 +1,8 @@
+{
+"meta": {"description":"This is about useful JS tips!","defaultBranch":"master","topics":["javascript","javascript-tips","jstips","hacks"],"readmeSha":"274346f00482d6dfb2390d2193b420c22dd17bd0"},
+"members": [
+"sindresorhus/awesome",
+"dggriffin/hubot-jstips",
+"radibit/js-tips-slack-bot"
+]
+}

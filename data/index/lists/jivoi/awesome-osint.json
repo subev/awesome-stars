@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"897e2757c9c523695c25384cdf9fe1f4efcb628b"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"4b019e5fd52d4f426f4b12b99bfaf4e12d3043d0"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -53,6 +53,7 @@
 "sundowndev/phoneinfoga",
 "Turner-Levey/section-16-deadline-calculator",
 "spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed",
+"WhiteBite/Domain-Hunter",
 "atenreiro/opensquat",
 "JMarchiori13/osint-recon",
 "david3107/squatm3gator",

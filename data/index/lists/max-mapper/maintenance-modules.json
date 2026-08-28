@@ -1,0 +1,24 @@
+{
+"meta": {"description":"a list of modules that are useful for maintaining or developing modules","defaultBranch":"master","topics":[],"readmeSha":"f359e706d86271f6e106271c84aa09f488f967e0"},
+"members": [
+"sindresorhus/awesome",
+"HenrikJoreteg/fixpack",
+"standard/standard",
+"dependency-check-team/dependency-check",
+"finnp/create-module",
+"finnp/node-travisjs",
+"meandavejustice/gh-pages-deploy",
+"tgvashworth/npm-release",
+"raineorshine/npm-check-updates",
+"zeke/npe",
+"zeke/package-json-to-readme",
+"zeke/npmwd",
+"twolfson/foundry",
+"semantic-release/semantic-release",
+"max-mapper/collaborator",
+"ungoldman/module-init",
+"ungoldman/gh-release",
+"xojs/xo",
+"sindresorhus/np"
+]
+}

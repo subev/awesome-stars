@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"da4d572e67b69b0323365c7e8e2c015ecd6716b6"},
+"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"9de721727d6d6a40130b5b70a0068a4122923c4c"},
 "members": [
 "rust-embedded/wg",
 "rust-embedded/rust-raspberrypi-OS-tutorials",
@@ -33,6 +33,7 @@
 "akavel/rumbac",
 "dysonltd/commitment-issues",
 "matheuswhite/scope-rs",
+"tomrford/mint",
 "hashmismatch/freertos.rs",
 "lobaro/FreeRTOS-rust",
 "oxidecomputer/hubris",
@@ -59,6 +60,7 @@
 "xmc-rs/xmc4700",
 "xmc-rs/xmc4800",
 "us-irs/zynq7000-rs",
+"us-irs/vorago-rs",
 "ra-rs/ra",
 "Rahix/avr-hal",
 "riscv-rust/e310x-hal",
@@ -103,6 +105,7 @@
 "trembel/aem10900",
 "fmckeogh/aht20",
 "AnyLeaf/anyleaf-rust",
+"melastmohican/rust-rpico2-discovery",
 "trembel/fh101rf",
 "leonidv/is31fl3728-rs",
 "rust-embedded-community/usbd-serial",
@@ -201,6 +204,7 @@
 "rust-embedded/cortex-m",
 "rust-embedded/panic-semihosting",
 "rmk-rs/rmk",
+"ref42/YBLINK",
 "ah-/anne-key",
 "dotcypress/ula",
 "jonlamb-gh/air-gradient-pro-rs",
