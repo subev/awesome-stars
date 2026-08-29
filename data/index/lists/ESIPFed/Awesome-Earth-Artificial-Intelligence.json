@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.","defaultBranch":"main","topics":["machine-learning","earth-science","deep-learning","land-cover-classification","datasets","earthquakes","snow","glacier","dust","air-quality"],"readmeSha":"3fd51f0bf90d9e9d296f71af7d49cfbf5224982d"},
+"meta": {"description":"A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.","defaultBranch":"main","topics":["machine-learning","earth-science","deep-learning","land-cover-classification","datasets","earthquakes","snow","glacier","dust","air-quality"],"readmeSha":"77b58fd504e5526d9a030ecbee633e22c41c145e"},
 "members": [
 "giswqs/GeoAI-Book",
 "ageron/handson-ml",
@@ -8,6 +8,7 @@
 "radiantearth/ml4eo-bootcamp-2021",
 "NASA-IMPACT/workshop_notebooks",
 "JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review",
+"TerraLabAI/QGIS_AI-Segmentation",
 "ecmwf-lab/ai-models",
 "aditya-grover/climate-learn",
 "holoviz-topics/EarthML",

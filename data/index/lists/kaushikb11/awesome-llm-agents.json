@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"adac5b9576108d56bb208ceb65cdf22b32c2fa1f"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"505ba6dc71bfd7633cdfde240380137e6763b2d4"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -10,8 +10,8 @@
 "google/adk-python",
 "pydantic/pydantic-ai",
 "tambo-ai/tambo",
-"accomplish-ai/coworker",
 "aden-hive/hive",
+"accomplish-ai/coworker",
 "Upsonic/Upsonic",
 "Eigenwise/atomic-agents",
 "the-open-agent/openagent",
@@ -19,16 +19,16 @@
 "Josh-XT/AGiXT",
 "trpc-group/trpc-agent-go",
 "openonion/connectonion",
-"wanxingai/LightAgent",
 "razzant/ouroboros",
+"wanxingai/LightAgent",
 "agentlas-ai/Agentlas-OS",
-"kreneskyp/ix",
 "rlaope/oh-my-hermes",
+"kreneskyp/ix",
 "promptise-com/Foundry",
 "aeonfun/aeon",
 "ahmadvh/octochains",
-"axar-ai/axar",
 "Fzkuji/OpenProgram",
+"axar-ai/axar",
 "juspay/neurolink",
 "Muvon/octomind",
 "nMaroulis/protolink",
@@ -95,7 +95,7 @@
 "shmlkv/dna-claude-analysis",
 "futuresearch/futuresearch-python",
 "mirror29/inalpha",
-"EvoAgentX/EvoAgentX",
+"ANative-Lab/EvoAgentX",
 "lupantech/AgentFlow",
 "thu-nics/C2C",
 "tsinghua-fib-lab/AgentSquare",
@@ -111,5 +111,8 @@
 "xlang-ai/OpenAgents",
 "agi-inc/agent-protocol",
 "eumemic/ai-legion"
+],
+"dropped": [
+["2026-08-29","EvoAgentX/EvoAgentX"]
 ]
 }

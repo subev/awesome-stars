@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources for coastal engineers and scientists","defaultBranch":"master","topics":["awesome","coastal","beaches","coastal-modelling","coastal-engineering"],"readmeSha":"d7272ef3b9b518c5095606d2049f0414dab8216a"},
+"meta": {"description":"A curated list of awesome resources for coastal engineers and scientists","defaultBranch":"master","topics":["awesome","coastal","beaches","coastal-modelling","coastal-engineering"],"readmeSha":"6224d31ba353f6f3024a4890f97bdfd01f60844e"},
 "members": [
 "TomasBeuzen/pybeach",
 "TomasBeuzen/PH12_Dune_Erosion_Model",
@@ -36,6 +36,7 @@
 "fitnr/buoyant",
 "wavespectra/wavespectra",
 "GeoscienceAustralia/dea-coastlines",
+"Vessarey/tidewindow",
 "UNCG-DAISY/psi-collect",
 "RoboDonut/awesome-spatial",
 "softwareunderground/awesome-open-geoscience",

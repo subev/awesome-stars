@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"f8656c7d6c812d7d144f003e816ee062f028fa48"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"fd6146c00cca01945c10b9d6d2f35b132b8563fb"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -38,8 +38,8 @@
 "paynebc/tunefish",
 "reales/OB-Xd",
 "FigBug/Wavetable",
-"dan-german/blocks",
 "Chowdhury-DSP/ChowKick",
+"dan-german/blocks",
 "Archie3d/aeolus_plugin",
 "gregrecco67/AudiblePlanets",
 "psemiletov/drumlabooh",
@@ -96,8 +96,8 @@
 "calgoheen/cStop",
 "tobanteAudio/modEQ",
 "Chowdhury-DSP/CHOW",
-"stekyne/PhaseVocoder",
 "hqrrr/PerceptoMap",
+"stekyne/PhaseVocoder",
 "gvne/vstSpleeter",
 "QVbDev/quantumVerb",
 "spensbot/crispy",

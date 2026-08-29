@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of open resources that make our lives as (eco-)hydrologists easier or just more awesome","defaultBranch":"master","topics":[],"readmeSha":"ebe0ebff8a505f0296093a0130aa6186176c4239"},
+"meta": {"description":"Curated list of open resources that make our lives as (eco-)hydrologists easier or just more awesome","defaultBranch":"master","topics":[],"readmeSha":"4af2ab8cb75e828221376252b846d72dd56b9c30"},
 "members": [
 "sindresorhus/awesome",
 "chrisleaman/awesome-coastal",
@@ -9,6 +9,7 @@
 "raoulcollenteur/Python-Hydrology-Tools",
 "csdms/bmi",
 "environmentalscience/essm",
+"dominicm2023/groundwatercast-uk",
 "landlab/landlab",
 "csdms/pymt",
 "holoviz/colorcet",
@@ -18,6 +19,7 @@
 "pyvista/pyvista",
 "ringmesh/RINGMesh",
 "panodata/dwdweather2",
-"hyriver/pygeohydro"
+"hyriver/pygeohydro",
+"artakulov/us-water-quality-data"
 ]
 }

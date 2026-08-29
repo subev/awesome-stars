@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"62300bde722cb5d71329226765a93a336670e381"},
+"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"f05294470c7be7cb9fd4dd849a30709107c19d69"},
 "members": [
 "opengeos/Awesome-GEE",
 "google/earthengine-api",
@@ -40,6 +40,7 @@
 "JesJehle/earthEngineGrabR",
 "gee-community/qgis-earthengine-plugin",
 "giswqs/qgis-earthengine-examples",
+"TerraLabAI/QGIS_AI-Segmentation",
 "samapriya/awesome-gee-community-datasets"
 ]
 }

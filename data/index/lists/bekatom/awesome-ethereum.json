@@ -1,12 +1,15 @@
 {
-"meta": {"description":":zap: Awesome Ethereum Resources","defaultBranch":"master","topics":["ethereum","decentralized","blockchain","p2p","dapp","defi","solidity"],"readmeSha":"d62fd75a8aac54f5a9dd05a93c0866ef3ff84643"},
+"meta": {"description":":zap: Awesome Ethereum Resources","defaultBranch":"master","topics":["ethereum","decentralized","blockchain","p2p","dapp","defi","solidity"],"readmeSha":"a346760f3c4d9984d8703c239e63a174d1d37366"},
 "members": [
+"tokamak-network/py-ethclient",
 "cosmo-project/meteor-dapp-cosmo",
 "chriseth/browser-solidity",
 "wslyvh/nexth",
 "random-bits-studio/use-siwe",
 "petrosDemetrakopoulos/ethairballoons",
 "dbpunk-labs/db3",
+"drpcorg/drpc-agent-skills",
+"cryptuon/zig-evm",
 "miguelmota/solidity-idiosyncrasies",
 "ethereumbook/ethereumbook",
 "Token-Economy-Book/2ndEdition-EnglishOriginal",

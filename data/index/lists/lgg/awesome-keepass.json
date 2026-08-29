@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of KeePass-related projects","defaultBranch":"main","topics":["keepass","awesome","awesome-list","keepass-related","keepassx","keepassxc","keepasshttp","keepass-database","keepass-plugin","keepass2android"],"readmeSha":"7dcd8cd177b29e51a7014e611aa064f29d0cf86a"},
+"meta": {"description":"Curated list of KeePass-related projects","defaultBranch":"main","topics":["keepass","awesome","awesome-list","keepass-related","keepassx","keepassxc","keepasshttp","keepass-database","keepass-plugin","keepass2android"],"readmeSha":"85796707eb279ff7e27631bfdcfdf6074ccabc30"},
 "members": [
 "dlech/KeePass2.x",
 "keepassxreboot/keepassxc",
@@ -43,6 +43,7 @@
 "dlech/KeeAgent",
 "kee-org/keepassrpc",
 "KeeTrayTOTP/KeeTrayTOTP",
+"Rookiestyle/KeePassOTP",
 "aalbng/AdvancedConnectPlugin",
 "Alezy80/SIC2KeePass",
 "cristianst85/QuickConnectPlugin",

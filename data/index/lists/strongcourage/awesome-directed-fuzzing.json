@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome directed fuzzing research papers","defaultBranch":"master","topics":["awesome","awesome-list","fuzzing","fuzz-testing","paper-list","research-paper","testing"],"readmeSha":"a029748cc2e923cc1df0c2493f669639d998e0d0"},
+"meta": {"description":"A curated list of awesome directed fuzzing research papers","defaultBranch":"master","topics":["awesome","awesome-list","fuzzing","fuzz-testing","paper-list","research-paper","testing"],"readmeSha":"bfbc4d153897a0b105fb8e738df88658be3b0d4a"},
 "members": [
 "sindresorhus/awesome",
 "zongpy/FuzzGuard",

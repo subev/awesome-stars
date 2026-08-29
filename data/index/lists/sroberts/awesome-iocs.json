@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of sources of indicators of compromise.","defaultBranch":"master","topics":["awesome","awesome-list","ioc","signature","yara-rules"],"readmeSha":"5dfc30a975b41e79ca0c4e4c2bbe9ff5458cf406"},
+"meta": {"description":"A collection of sources of indicators of compromise.","defaultBranch":"master","topics":["awesome","awesome-list","ioc","signature","yara-rules"],"readmeSha":"e58350d8c76059db8f9b7e6d3daa6228ec8b19c7"},
 "members": [
 "sindresorhus/awesome",
 "0x27/linux.mirai",

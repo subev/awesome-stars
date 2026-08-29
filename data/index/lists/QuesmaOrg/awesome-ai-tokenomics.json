@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get wasted, and how to cut the bill.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","codex","cost-optimization","llm","token-economics","tokenomics"],"readmeSha":"f0af74487ede6f43f3b82641f6eb567c3d5438c7"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"4b0f410dbadcf335cd5a108bb40d16119c077eed"},
 "members": [
 "ccusage/ccusage",
 "Maciek-roboblog/Claude-Code-Usage-Monitor",

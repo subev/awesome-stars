@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of awesome YNAB projects. A lot of these projects use the YNAB API, and can be used to improve your YNAB experience.","defaultBranch":"main","topics":[],"readmeSha":"802009281749f0575e273ebe940f9199971606e3"},
+"meta": {"description":"A list of awesome YNAB projects. A lot of these projects use the YNAB API, and can be used to improve your YNAB experience.","defaultBranch":"main","topics":[],"readmeSha":"d9f430b3beecf35e8a40545cc2992b5e34c9f9b8"},
 "members": [
 "samdenty/ynab-amazon-gappscript-sync",
 "GraysonCAdams/amazon-ynab-sync",
@@ -9,6 +9,7 @@
 "plmrph/budget-helper",
 "syncforynab/fintech-to-ynab",
 "NikolaInvernizzi/GoCardlessToYnabSync",
+"hs737/mcp-server-for-ynab",
 "krachtstefan/moneymoney2ynab",
 "ivallesp/N26-to-YNAB",
 "RelicCornhusk/partner-split-for-ynab",

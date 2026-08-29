@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of framework component libraries for UI styles/toolkit","defaultBranch":"master","topics":["components","library","component-library","toolkit","ui-components","ui-kit","ui-toolkit","awesome","awesome-list","framework"],"readmeSha":"be1f493938899bfb920fd0be345551dd9b28684a"},
+"meta": {"description":"Curated list of framework component libraries for UI styles/toolkit","defaultBranch":"master","topics":["components","library","component-library","toolkit","ui-components","ui-kit","ui-toolkit","awesome","awesome-list","framework"],"readmeSha":"90c88b9f80850801b2ce89e31fb64645da1d3e78"},
 "members": [
 "anubhavsrivastava/awesome-ux-design-styles",
 "arwes/arwes",
@@ -50,7 +50,7 @@
 "Shopify/polaris-react-archive",
 "primefaces/primereact",
 "quran/common-components",
-"Radian-os/radianui",
+"Radian-OS/radianui",
 "dfee/rbx",
 "ariakit/ariakit",
 "reach/reach-ui",
@@ -250,5 +250,8 @@
 "AgnosticUI/svelte-a11y-dialog",
 "AgnosticUI/a11y-tabs",
 "scottaohara/accessible_components"
+],
+"dropped": [
+["2026-08-29","Radian-os/radianui"]
 ]
 }

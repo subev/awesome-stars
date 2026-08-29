@@ -1,6 +1,12 @@
 {
-"meta": {"description":":cyclone: Awesome Growth Hacking resources","defaultBranch":"master","topics":["growth-hacking"],"readmeSha":"b4387ae0f6d619b780be829279916de36da4e855"},
+"meta": {"description":":cyclone: Awesome Growth Hacking resources","defaultBranch":"master","topics":["growth-hacking"],"readmeSha":"b76f6566725e59fb532dacada5f62d21e80e9124"},
 "members": [
+"nowork-studio/notfair-plugin",
+"Xquik-dev/x-twitter-scraper",
+"henu-wang/awesome-geo",
+"sortlist/overloop-cli",
+"sortlist/max-cli",
+"getbeton/inspector",
 "squareboat/growth-hacking-guide"
 ]
 }

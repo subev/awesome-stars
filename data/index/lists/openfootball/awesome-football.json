@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets","defaultBranch":"master","topics":[],"readmeSha":"e64a77ad12d456ab3f26c624ef814eec58b41e3f"},
+"meta": {"description":"A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets","defaultBranch":"master","topics":[],"readmeSha":"782f34fa64ff5e7bd6f3f53994de1feeb63f3168"},
 "members": [
 "planetopendata/awesome-world",
 "openfootball/awesome-football",
@@ -46,6 +46,7 @@
 "chrenkot/Austrian-Bundesliga",
 "rodmoioliveira/football-graphs",
 "nurgasemetey/compare-last-season",
+"teemula35/punditbench",
 "openfootball/help"
 ]
 }

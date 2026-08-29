@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated dataset of global electrical grid maps, datasets and resources.","defaultBranch":"main","topics":["electrical-grid","gridmap","openstreetmap","powergrid","awesome","renewable-energy"],"readmeSha":"9132f7d0d1c628b61804f6750493d67fd0cee28f"},
+"meta": {"description":"A curated dataset of global electrical grid maps, datasets and resources.","defaultBranch":"main","topics":["electrical-grid","gridmap","openstreetmap","powergrid","awesome","renewable-energy"],"readmeSha":"a6366c54d40fb9c87560e28a6b122bb1dd60cbd4"},
 "members": [
 "openinframap/openinframap",
 "carderne/gridfinder",
