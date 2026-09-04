@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]","defaultBranch":"main","topics":["awesome","awesome-list","unicorns","lists","resources"],"readmeSha":"cce1e022b2cae73751006485c54b9c6443c075fc"},
+"meta": {"description":"😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]","defaultBranch":"main","topics":["awesome","awesome-list","unicorns","lists","resources"],"readmeSha":"f82e1b070b9589126fb8e584c47e8301a8f12163"},
 "members": [
 "sindresorhus/awesome-nodejs",
 "bcoe/awesome-cross-platform-nodejs",
@@ -324,7 +324,7 @@
 "viatsko/awesome-vscode",
 "ellisonleao/magictools",
 "hzoo/awesome-gametalks",
-"godotengine/awesome-godot",
+"Calinou/awesome-godot",
 "michelpereira/awesome-open-source-games",
 "hkirat/awesome-chess",
 "love2d-community/awesome-love2d",
@@ -673,5 +673,8 @@
 "Code-and-Sorts/awesome-copilot-agents",
 "basharovV/StumbleUponAwesome",
 "umutphp/awesome-cli"
+],
+"dropped": [
+["2026-09-04","godotengine/awesome-godot"]
 ]
 }

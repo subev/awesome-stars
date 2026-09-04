@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"5fbceaf7ab3509c89aa4a37bd4c6a118c5eaaeee"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"bcae6acdedf62b5a0c7e5c6d5c9ade5875b9b3c5"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "getsentry/skills",
@@ -24,6 +24,7 @@
 "BerriAI/litellm",
 "huggingface/diffusers",
 "unslothai/unsloth",
+"axolotl-ai-cloud/axolotl",
 "openai/whisper",
 "modelscope/FunASR",
 "microsoft/VibeVoice",

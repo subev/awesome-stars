@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"eb17c6b886494084621280efb674c60cbb210d95"},
+"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"1bc03580002b7fe2cf7262e7e7b57e1cf1df556d"},
 "members": [
 "anthropics/claude-code",
 "multica-ai/andrej-karpathy-skills",
@@ -37,7 +37,7 @@
 "SFKislev/Flue",
 "ypollak2/llm-router",
 "imoonkey/openweb",
-"zyx77550/sparda",
+"zakariagharzouli/sparda",
 "DevinoSolutions/anotifier-for-claude-codex-cursor",
 "anneschuth/claude-threads",
 "vimalk78/dictate",
@@ -54,6 +54,8 @@
 "kumamaki/Claude-Code-Personalities",
 "leeguooooo/claude-code-usage-bar",
 "arturogarrido/claudinho",
+"TevvvB/termagitchi",
+"LiveNL/tmux-claude-status-tabs",
 "SawyerHood/dev-browser",
 "cathrynlavery/diagram-design",
 "rixinhahaha/snip",
@@ -92,6 +94,7 @@
 "tony/claude-code-riper-5",
 "frankbria/ralph-claude-code",
 "mikeyobrien/ralph-orchestrator",
+"zircote/workflows-plugin",
 "JuliusBrussee/caveman",
 "diet103/claude-code-infrastructure-showcase",
 "mrtooher/fable-mode",
@@ -102,6 +105,7 @@
 "lukaszraczylo/claude-mnemonic",
 "egorfedorov/claude-context-optimizer",
 "grooverLab/fable",
+"Wolfe-Jam/faf-cli",
 "activeloopai/hivemind",
 "jungjaehoon-lifegamez/MAMA",
 "sara-star-quant/presence",
@@ -137,5 +141,8 @@
 "ctxlint/Ctxlint",
 "Zandereins/schliff",
 "wei18/Upkeep"
+],
+"dropped": [
+["2026-09-04","zyx77550/sparda"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"b96268573a774e5a875624c791aeb589c990a063"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"088098eb928dcdf9ba9b672c348b35fbc55a6b3e"},
 "members": [
 "lewis6991/pckr.nvim",
 "savq/paq-nvim",
@@ -120,6 +120,7 @@
 "zbirenbaum/copilot.lua",
 "github/copilot.vim",
 "brianaung/compl.nvim",
+"raymondware/herdr.nvim",
 "saya-ashen/agent-workbench.nvim",
 "nwiizo/signalbox.nvim",
 "cursortab/cursortab.nvim",
@@ -168,6 +169,7 @@
 "alsi-lawr/agent-term.nvim",
 "ishiooon/codex.nvim",
 "nickjvandyke/opencode.nvim",
+"overflow/fs-review.nvim",
 "taigrr/neocrush.nvim",
 "zgs225/pi2.nvim",
 "alessio-vivaldelli/java-creator-nvim",
@@ -914,7 +916,7 @@
 "pewpewnor/pilot.nvim",
 "ok97465/ipybridge.nvim",
 "wsdjeg/code-runner.nvim",
-"mikeboiko/nvim-flow",
+"bytehound-labs/nvim-flow",
 "negativo/nx-nvim",
 "lewistg/pesto.nvim",
 "wsdjeg/tasks.nvim",
@@ -963,6 +965,7 @@
 "JesperLundberg/projektgunnar.nvim",
 "cosmicbuffalo/gem_install.nvim",
 "taigrr/glaze.nvim",
+"jpease/hex-outdated.nvim",
 "Darkskittlz/GitCompanion",
 "YouSame2/inlinediff-nvim",
 "mrloop/telescope-git-branch.nvim",
@@ -1391,6 +1394,7 @@
 ],
 "dropped": [
 ["2026-08-27","yetone/avante.nvim"],
-["2026-08-27","nyoom-engineering/nyoom.nvim"]
+["2026-08-27","nyoom-engineering/nyoom.nvim"],
+["2026-09-04","mikeboiko/nvim-flow"]
 ]
 }

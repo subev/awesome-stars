@@ -1,5 +1,5 @@
 {
-"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"c9f3e58d381ac37e7eb869928efc2182ad704d82"},
+"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"687e9536650f661a2b9fa9dd110357e1c2484bfb"},
 "members": [
 "sindresorhus/awesome",
 "vercel/next.js",
@@ -85,6 +85,7 @@
 "nicepkg/shotog",
 "frontman-ai/frontman",
 "farming-labs/docs",
+"Vette1123/movies-streaming-platform",
 "armor229-ux/File-Flex",
 "Saad-web-spec/DevScratchPad",
 "a827681306/devtoolkit",

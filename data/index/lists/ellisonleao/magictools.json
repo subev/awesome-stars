@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"7ad2d80ff67d4e11106e07719c632be5f25d694f"},
+"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"20bb7cf0fb8e7acc0e511debec44f1eeb368ab10"},
 "members": [
 "sindresorhus/awesome",
 "nidorx/matcaps",
@@ -14,6 +14,7 @@
 "Pixen/Pixen",
 "Hugo-Dz/spritefusion-pixel-snapper",
 "VGBijpuria/Canvascript",
+"Daniele-Cangi/worldloop-technical-showcase",
 "guillaumechereau/goxel",
 "Velfi/Voxelle-Desktop",
 "AsaiYusuke/6502_test_executor",
@@ -42,6 +43,7 @@
 "flame-engine/flame",
 "papercraftgames/folded-paper-engine",
 "FosterFramework/Foster",
+"GameFrameX/GameFrameX",
 "cocoatoucher/Glide",
 "Planimeter/game-engine-2d",
 "sbiermanlytle/iioEngine",

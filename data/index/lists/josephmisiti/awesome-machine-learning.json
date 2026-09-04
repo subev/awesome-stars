@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"f09d597ba79822a6d9f1c5d91f600d7178e0a71e"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"2db9ab190d76fcffea625bfab96fc41dce39b20f"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -697,6 +697,10 @@
 "shobrook/sequitur",
 "abkmystery/ANEE",
 "junaidaliop/zij",
+"dliptak001/HypercubeESN",
+"dliptak001/HypercubeWTF",
+"dliptak001/HypercubeCascade",
+"dliptak001/HypercubeHopfield",
 "synsense/rockpool",
 "synsense/sinabs",
 "neuromorphs/tonic",

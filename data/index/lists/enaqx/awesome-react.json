@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things regarding React ecosystem","defaultBranch":"master","topics":["react","react-native","tutorial","samples","awesome-list","react-tutorial","react-apps","awesome","javascript","typescript"],"readmeSha":"91a0aa81df648b40bcb3df5f26e3fccc7f08e80c"},
+"meta": {"description":"A collection of awesome things regarding React ecosystem","defaultBranch":"master","topics":["react","react-native","tutorial","samples","awesome-list","react-tutorial","react-apps","awesome","javascript","typescript"],"readmeSha":"87ab50889f5db33a044d61c9ea4069615b5fe8ed"},
 "members": [
 "sindresorhus/awesome",
 "react/react",
@@ -26,6 +26,7 @@
 "TheOrcDev/8bitcn-ui",
 "tailwindlabs/headlessui",
 "ruixenui/ruixen.com",
+"dodopayments/billingsdk",
 "reduxjs/redux",
 "mobxjs/mobx",
 "pmndrs/zustand",
@@ -62,6 +63,7 @@
 "rpldy/react-uploady",
 "downshift-js/downshift",
 "bvaughn/react-error-boundary",
+"childrentime/reactuse",
 "jestjs/jest",
 "testing-library/react-testing-library",
 "cypress-io/cypress",
@@ -89,6 +91,7 @@
 "rjsf-team/react-jsonschema-form",
 "alibaba/formily",
 "TanStack/form",
+"open-circle/formisch",
 "react-grid-layout/react-grid-layout",
 "TanStack/table",
 "Comcast/react-data-grid",
@@ -106,6 +109,7 @@
 "diegomura/react-pdf",
 "react-figma/react-figma",
 "quantizor/markdown-to-jsx",
+"Simon-He95/markstream-vue",
 "formatjs/formatjs",
 "i18next/react-i18next",
 "aymericzip/intlayer",
@@ -117,6 +121,7 @@
 "geosigno/simpleParallax.js",
 "rescript-lang/rescript",
 "fulcrologic/fulcro",
+"excalidraw/excalidraw",
 "mattermost/mattermost",
 "elastic/kibana",
 "captbaritone/webamp",
@@ -125,12 +130,14 @@
 "readest/readest",
 "aelassas/bookcars",
 "Notifuse/notifuse",
+"0-AI-UG/cate",
 "react/react-native",
 "react-navigation/react-navigation",
 "oblador/react-native-vector-icons",
 "FaridSafi/react-native-gifted-chat",
 "realm/realm-js",
 "react-native-device-info/react-native-device-info",
-"react-native-maps/react-native-maps"
+"react-native-maps/react-native-maps",
+"mercuretechnologies/xprem"
 ]
 }

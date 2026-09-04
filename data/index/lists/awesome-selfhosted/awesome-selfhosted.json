@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"bf5baecbf438cfaf20a0039891493be712d753f6"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"60542f685fa9cbe7ca87baef30490f218302ead1"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -175,7 +175,6 @@
 "corecode/dma",
 "haraka/Haraka",
 "OpenSMTPD/OpenSMTPD",
-"HaschekSolutions/opentrashmail",
 "pentacent/keila",
 "knadh/listmonk",
 "mautic/mautic",
@@ -302,7 +301,6 @@
 "DjangoCRM/django-crm",
 "espocrm/espocrm",
 "krayin/laravel-crm",
-"monicahq/monica",
 "SuiteCRM/SuiteCRM",
 "twentyhq/twenty",
 "vrana/adminer",
@@ -456,7 +454,6 @@
 "oupala/apaxy",
 "9001/copyparty",
 "DirectoryLister/DirectoryLister",
-"filebrowser/filebrowser",
 "filegator/filegator",
 "error311/FileRise",
 "mickael-kerjean/filestash",
@@ -604,6 +601,7 @@
 "TheWicklowWolf/ChannelTube",
 "rfsbraz/deleterr",
 "henriquesebastiao/downtify",
+"neosy/elengrab",
 "Lidarr/Lidarr",
 "TheWicklowWolf/LidaTube",
 "TheWicklowWolf/Lidify",
@@ -935,7 +933,8 @@
 "asciimoo/hister",
 "manticoresoftware/manticoresearch",
 "meilisearch/meilisearch",
-"neonwatty/meme-search",
+"meme-search/meme-search",
+"meme-search/meme-search",
 "opensearch-project/OpenSearch",
 "searxng/searxng",
 "typesense/typesense",
@@ -1100,7 +1099,6 @@
 "documize/community",
 "dokuwiki/dokuwiki",
 "jgm/gitit",
-"gollum/gollum",
 "perber/leafwiki",
 "bouncepaw/mycorrhiza",
 "redimp/otterwiki",
@@ -1122,6 +1120,11 @@
 ["2026-08-27","monetr/monetr"],
 ["2026-08-27","saimn/sigal"],
 ["2026-08-27","zincsearch/zincsearch"],
-["2026-08-27","zincsearch/zincsearch"]
+["2026-08-27","zincsearch/zincsearch"],
+["2026-09-04","HaschekSolutions/opentrashmail"],
+["2026-09-04","monicahq/monica"],
+["2026-09-04","filebrowser/filebrowser"],
+["2026-09-04","neonwatty/meme-search"],
+["2026-09-04","gollum/gollum"]
 ]
 }

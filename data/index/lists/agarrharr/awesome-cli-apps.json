@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"304c8b3c78ea1c5417a7a3546abccd2a519c08fb"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"a6a4116866f9966ad7ff52f9c7be49552f86cc5d"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -268,6 +268,7 @@
 "ddddddO/gtree",
 "marph91/jimmy",
 "harehare/mq",
+"Skardyy/mcat",
 "gopasspw/gopass",
 "ivanilves/xiringuito",
 "sindresorhus/hasha-cli",
@@ -283,6 +284,7 @@
 "schachmat/wego",
 "riyadhalnur/weather-cli",
 "Veirt/weathr",
+"ashuttl/linecast",
 "zquestz/s",
 "bevacqua/hget",
 "rastapasta/mapscii",
@@ -490,6 +492,7 @@
 "1ay1/agentty",
 "yetidevworks/bosun",
 "mochow13/keen-code",
+"raysonmeng/agent-bridge",
 "acrotron/aye-chat",
 "BrodaNoel/cmd-ai",
 "tobocop2/lilbee",

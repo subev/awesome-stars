@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"eb48cbd69452cc28417dde421a0c654d531d94da"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"b22ce386387a42e95cb9a908d518ed0b4987d398"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -184,6 +184,8 @@
 "future-agi/future-agi",
 "jtleek/datasharing",
 "thomasthinks/college-roi-data",
+"rrh1441/pokemon-card-centering-measurements",
+"rrh1441/pokemon-card-sold-price-reference",
 "MarvinBregiosa/vision-zero-fars",
 "datasciencemasters/data",
 "src-d/datasets",

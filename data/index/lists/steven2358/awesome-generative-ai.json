@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"d25a4912d2eda7f30cd196032d8a23749bf0ff6b"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"e846db3e3d97175ba0dd36813ef96b0fa9f0621e"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
@@ -8,7 +8,7 @@
 "danny-avila/LibreChat",
 "mckaywrigley/chatbot-ui",
 "zylon-ai/private-gpt",
-"QuivrHQ/quivr",
+"The-Vibe-Company/quivr",
 "lynote-ai/humanize-text",
 "TiesdeKok/chat-gpt-jupyter-extension",
 "lfnovo/open-notebook",
@@ -57,6 +57,7 @@
 "simonw/llm",
 "av/harbor",
 "off-grid-ai/OGAM",
+"raullenchai/Rapid-MLX",
 "Significant-Gravitas/AutoGPT",
 "yoheinakajima/babyagi",
 "reworkd/AgentGPT",
@@ -107,5 +108,8 @@
 "f/prompts.chat",
 "travistangvh/ChatGPT-Data-Science-Prompts",
 "sindresorhus/awesome-chatgpt"
+],
+"dropped": [
+["2026-09-04","QuivrHQ/quivr"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"d9458f13506af02ae5c608df75e7e27afe97bf0f"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"6958e0ae619d46463d637f19843559870dbbef9e"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",
@@ -387,6 +387,7 @@
 "TorqueGameEngines/Torque2D",
 "TorqueGameEngines/Torque3D",
 "hugoam/toy",
+"JeanPhilippeKernel/RendererEngine",
 "ezEngine/ezEngine",
 "ZigRazor/CXXGraph",
 "bobluppes/graaf",
@@ -999,7 +1000,7 @@
 "cpp-best-practices/cppbestpractices",
 "isocpp/CppCoreGuidelines",
 "google/styleguide",
-"eoan-ermine/cpp-conferences",
+"cppmoscow/cpp-conferences",
 "vittorioromeo/cppcon2014",
 "ldionne/cppnow-2015-hana",
 "sftrabbit/CppPatterns-Patterns",
@@ -1026,5 +1027,8 @@
 "karan/Projects",
 "DopplerHQ/awesome-interview-questions",
 "r-lyeh/single_file_libs"
+],
+"dropped": [
+["2026-09-04","eoan-ermine/cpp-conferences"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"cdbc8d30c2ed19e2b20a485fa0792af2c84be61c"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"668637250f634b36f1011a64ca6a2335f00e0053"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -49,6 +49,7 @@
 "thlorenz/proxyquire",
 "forwardemail/supertest",
 "tianchangNorth/pocket-mocker",
+"Goldziher/interface-forge",
 "gotwarlost/istanbul",
 "alex-seville/blanket",
 "tntim96/JSCover",
@@ -639,7 +640,7 @@
 "olivernn/lunr.js",
 "nextapps-de/flexsearch",
 "weixsong/elasticlunr.js",
-"prisma/prisma",
+"prisma/orm",
 "sequelize/sequelize",
 "Automattic/mongoose",
 "typeorm/typeorm",
@@ -651,6 +652,7 @@
 "socketio/socket.io",
 "websockets/ws",
 "kaiban-ai/KaibanJS",
+"xberg-io/liter-llm",
 "toddmotto/echo",
 "scottjehl/picturefill",
 "bestiejs/platform.js",
@@ -703,5 +705,8 @@
 "DopplerHQ/awesome-interview-questions",
 "denolib/awesome-deno",
 "oven-sh/awesome-bun"
+],
+"dropped": [
+["2026-09-04","prisma/prisma"]
 ]
 }

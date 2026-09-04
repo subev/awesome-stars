@@ -1,5 +1,5 @@
 {
-"meta": {"description":":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]","defaultBranch":"main","topics":["awesome","awesome-list","nodejs","javascript","list","node"],"readmeSha":"ecce4676d17ce3842494afe0c5c5a8666f28ff2b"},
+"meta": {"description":":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]","defaultBranch":"main","topics":["awesome","awesome-list","nodejs","javascript","list","node"],"readmeSha":"6b6e11011cb632cc4d628ef45bea90dacd3059da"},
 "members": [
 "nodejs/node",
 "webtorrent/webtorrent",
@@ -335,7 +335,7 @@
 "sindresorhus/get-port",
 "sindresorhus/ipify",
 "bevry/getmac",
-"infusion/node-dhcp",
+"rawify/dhcp.js",
 "roccomuso/netcat",
 "brianc/node-postgres",
 "redis/ioredis",
@@ -355,7 +355,7 @@
 "Vincit/objection.js",
 "typeorm/typeorm",
 "mikro-orm/mikro-orm",
-"prisma/prisma",
+"prisma/orm",
 "drizzle-team/drizzle-orm",
 "knex/knex",
 "louischatriot/nedb",
@@ -429,7 +429,7 @@
 "tj/n",
 "isaacs/nave",
 "ekalinin/nodeenv",
-"coreybutler/nvm-windows",
+"nvm-windows/nvm",
 "nodenv/nodenv",
 "Schniz/fnm",
 "napi-rs/napi-rs",
@@ -527,5 +527,10 @@
 "thlorenz/v8-perf",
 "sindresorhus/awesome-npm",
 "bcoe/awesome-cross-platform-nodejs"
+],
+"dropped": [
+["2026-09-04","infusion/node-dhcp"],
+["2026-09-04","prisma/prisma"],
+["2026-09-04","coreybutler/nvm-windows"]
 ]
 }
