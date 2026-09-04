@@ -193,7 +193,7 @@
 "csitte/mailwarden":[0,28923079,"A reliable, native Gmail MCP server with full mailbox control — including snooze."],
 "cursey/x64-virtualizer-rs":[121,5798459,"x86-64 virtualizing obfuscator written in Rust"],
 "dain/leveldb":[1556,58298,"Port of LevelDB to Java"],
-"dair-ai/ML-Papers-Explained":[8596,30384625,"Explanation to key concepts in ML"],
+"dair-ai/ML-Papers-Explained":[8598,30384625,"Explanation to key concepts in ML"],
 "dalerank/Akhenaten":[491,918081,"Pharaoh (1999, open source engine)"],
 "danieleteti/delphi-orm":[175,1428644,"DORM, the \"Delphi ORM\" (not actively mantained). Use DMVCFramework and TMVCActiveRecord."],
 "datapane/datapane":[1399,55440415,"Build and share data reports in 100% Python"],

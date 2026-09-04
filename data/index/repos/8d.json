@@ -383,7 +383,7 @@
 "overflow/fs-review.nvim":[3,100742,"Filesystem and OpenCode review panel for Neovim."],
 "overmindstudios/BlenderUpdater":[137,17535043,"Small crossplatform Python 3 application to update Blender to the latest buildbot version"],
 "ownstyledu/Translate-to-Recognize-Networks":[91,8643856,"CVPR 2019 Translate-to-Recognize Networks for RGB-D Scene Recognition"],
-"oxnr/awesome-bigdata":[14610,1712926,"A curated list of awesome big data frameworks, ressources and other awesomeness."],
+"oxnr/awesome-bigdata":[14611,1712926,"A curated list of awesome big data frameworks, ressources and other awesomeness."],
 "ozancanozdemir/ggsegmentedtotalbar":[7,33122288,""],
 "paradigmxyz/artemis":[2959,97369466,"A simple, modular, and fast framework for writing MEV bots in Rust."],
 "parrt/random-forest-importances":[624,178777,"Code to compute permutation and drop-column importances in Python scikit-learn models"],

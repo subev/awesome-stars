@@ -289,7 +289,7 @@
 "jazzband/django-silk":[4995,15129049,"Silky smooth profiling for Django"],
 "jbockle/aurelia-json-schema-form":[13,6231457,"Create Aurelia forms based on your JSON schema!"],
 "jcuda/jcuda":[268,13698062,"JCuda - Java bindings for CUDA"],
-"jd/tenacity":[8767,2644,"Retrying library for Python"],
+"jd/tenacity":[8772,2644,"Retrying library for Python"],
 "jdrgoms/awesome-postcss":[437,15023006,"A curate list about PostCSS"],
 "jethrokuan/z":[1532,1667473,"Pure-fish z directory jumping"],
 "jfbilodeau/yew_form":[97,5893654,"Components to simplify handling forms with Yew"],

@@ -260,7 +260,7 @@
 "larryTheSlap/dumpy":[86,54227402,"kubectl plugin that performs tpcdump network captures on resources inside kubernetes cluster"],
 "latenitecali/spaceRL":[0,1631578,"Space roguelike for mobile. Made with luxe engine"],
 "lautenberger/elmfire":[69,119713163,"Eulerian Level set Model of FIRE spread"],
-"lbenthins/ecu-simulator":[140,27413414,"Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols."],
+"lbenthins/ecu-simulator":[141,27413414,"Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols."],
 "le0pard/pgtune":[2736,98444,"Pgtune - tuning PostgreSQL config by your hardware"],
 "leeguooooo/claude-code-usage-bar":[361,9278645,"Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode"],
 "leetcode-mafia/cheetah":[4256,106342593,"Mac app for crushing tech interviews with AI"],

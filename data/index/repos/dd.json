@@ -37,7 +37,7 @@
 "EmpireProject/Empire":[7860,25492515,"Empire is a PowerShell and Python post-exploitation agent."],
 "Erick194/DoomBuilderPSX":[17,41172072,"Doom builder modified to create maps for PsxDoom"],
 "FairwindsOps/reckoner":[354,8583528,"Declaratively install and manage multiple Helm chart releases"],
-"Farama-Foundation/Gymnasium":[12463,62961550,"A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)"],
+"Farama-Foundation/Gymnasium":[12462,62961550,"A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)"],
 "Fizzadar/Luapress":[201,1026154,":newspaper: Static site/blog generator written in Lua."],
 "FortySevenEffects/arduino_midi_library":[1804,1766006,"MIDI for Arduino"],
 "GarrettLab/HabitatConnectivity":[6,42421810,"geohabnet R package"],

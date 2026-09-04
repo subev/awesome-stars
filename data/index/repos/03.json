@@ -56,7 +56,7 @@
 "LibrePhotos/librephotos":[8061,75512318,"A self-hosted open source photo management service. "],
 "MQuy/mos":[393,1636026,"A hobby operating system developed from scratch"],
 "MR-TABATA/MrEditor":[22,4058728,"86,420,337 lines — a 10 GB log — open in 80 ms, and 0 bytes of it live in memory. A Mac-native viewer and editor for the files that break everything else: edit in place, save with atomic writes, diff and merge side by side."],
-"MagnusThome/esp32_obd2":[72,32169384,"An Arduino library for reading OBD-II data from your car over CAN bus"],
+"MagnusThome/esp32_obd2":[73,32169384,"An Arduino library for reading OBD-II data from your car over CAN bus"],
 "MarijnStevens/yagna-binaries":[7,67616852,""],
 "MarvinJanssen/executor-dao":[52,5727806,"The one DAO to rule them all. A modular DAO written in Clarity for the Stacks blockchain."],
 "MeiguangJin/NBD":[18,39173894,""],

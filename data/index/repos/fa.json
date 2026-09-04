@@ -324,7 +324,7 @@
 "miit-daga/quick-seed":[27,129889853,"A powerful, database-agnostic seeding tool for generating realistic development data."],
 "mikovskii/obscure.nvim":[81,78868798,"A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins."],
 "mission202/Stringly.Typed":[48,3481520,"Making it easier to convert strings to/from .NET types."],
-"mithi/robotics-coursework":[5177,1670421,"🤖 Places where you can learn robotics (and stuff like that) online 🤖"],
+"mithi/robotics-coursework":[5196,1670421,"🤖 Places where you can learn robotics (and stuff like that) online 🤖"],
 "mmontone/cl-forms":[47,436110,"Web forms handling library for Common lisp"],
 "mmontone/slime-doc-contribs":[26,436110,"Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)"],
 "mobxjs/mobx":[28205,17475736,"Simple, scalable state management."],

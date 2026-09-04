@@ -355,7 +355,7 @@
 "pyexcel-webwares/pyramid-excel":[8,31726281,"A pyramid extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm"],
 "quantumlib/Stim":[816,31279789,"A fast stabilizer circuit library."],
 "rails-engine/action-store":[407,18108597,"Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association."],
-"rakyll/hey":[20254,108380,"HTTP load generator, ApacheBench (ab) replacement"],
+"rakyll/hey":[20255,108380,"HTTP load generator, ApacheBench (ab) replacement"],
 "rapi-doc/RapiDoc":[1898,104180085,"RapiDoc -WebComponent for OpenAPI Spec"],
 "rax-maas/blueflood":[598,91992644,"A distributed system designed to ingest and process time series data"],
 "reZach/secure-electron-template":[1711,4740370,"The best way to build Electron apps with security in mind."],

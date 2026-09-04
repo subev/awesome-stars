@@ -112,7 +112,7 @@
 "WeigangLu/AdaGMLP-KDD24":[7,82763310,"This is a PyTorch implementation of \"AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation\" (KDD 2024)"],
 "XusinboyBekchanov/VisualFBEditor":[231,32607344,"IDE for FreeBasic"],
 "Yethal/nu_plugin_hcl":[13,26117918,"A Hashicorp Configuration Language plugin for nushell"],
-"YuriSizov/boscaceoil-blue":[813,11782833,"A beginner-friendly music making app."],
+"YuriSizov/boscaceoil-blue":[822,11782833,"A beginner-friendly music making app."],
 "Zal0/Super-Princess-2092-Exodus":[30,7701938,"Our entry for the gbjam 2016"],
 "ab25cq/neo-c":[110,3233635,"neo-c is C + GC transpiler. It has reffrence count GC with memory leak detector. self-hosted with zero memory leaks.  It can output the code depends on standard C libraries only."],
 "abdullahselek/HerePy":[84,5083377,"A library that provides a Python interface to the HERE location APIs."],

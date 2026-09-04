@@ -305,7 +305,7 @@
 "kubernetes/ingress-nginx":[19474,13629408,"Ingress NGINX Controller for Kubernetes"],
 "lawrencewoodman/roveralls":[22,238718,"A Go recursive coverage testing tool"],
 "leeao/carsraceorama":[4,15622541,"Cars Mater-National Model  Modding"],
-"leggedrobotics/ocs2":[1506,20533298,"Optimal Control for Switched Systems"],
+"leggedrobotics/ocs2":[1508,20533298,"Optimal Control for Switched Systems"],
 "levanvn/PE_Packer":[16,39437600,"Simple Packer PE File "],
 "liketiger/lightweight-grid-layout":[1,50165633,""],
 "lloyd/orderly":[226,39411,"The reference implementation of orderly: a schema language for JSON."],

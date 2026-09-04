@@ -1,5 +1,5 @@
 {
-"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"c4a6fe0ea9960fbe95456143b58c2ba73a6a8dd3"},
+"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"d2e69652c67ddd6370f7cd6d167cf9caa9e47cae"},
 "members": [
 "nakabonne/ali",
 "apigee/apib",
@@ -60,12 +60,14 @@
 "astaxie/bat",
 "curl/curl",
 "curlconverter/curlconverter",
+"hougesen/hitt",
 "hoppscotch/hoppscotch",
 "xnbox/DeepfakeHTTP",
 "httpie/cli",
 "ducaale/xh",
 "reorx/httpstat",
 "Orange-OpenSource/hurl",
+"brancogao/redirect-checker",
 "rs/jaggr",
 "rs/jplot",
 "jqlang/jq",

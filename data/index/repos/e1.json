@@ -183,7 +183,7 @@
 "cuttalo/depscope":[1,277556278,"DepScope — Package Intelligence for AI Agents. 22 MCP tools, 19 ecosystems, free, no auth. https://depscope.dev"],
 "cypherglassdotcom/glass":[4,38167544,"Cypherglass Glass"],
 "d2iq-archive/kubernetes-mesos":[633,184508684,"A Kubernetes Framework for Apache Mesos"],
-"dair-ai/Prompt-Engineering-Guide":[78007,30384625,"🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."],
+"dair-ai/Prompt-Engineering-Guide":[78020,30384625,"🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."],
 "danielkrupinski/VAC-Bypass-Loader":[514,34515229,"Loader for VAC Bypass written in C."],
 "dasguptar/treelstm.pytorch":[551,1309728,"Tree LSTM implementation in PyTorch"],
 "davidraviv/gh-clean-branches":[189,3273705,"Safely deletes local branches with no upstream and no un-pushed commits"],

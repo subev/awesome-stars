@@ -156,7 +156,7 @@
 "cropinghigh/sdrpp-tetra-demodulator":[162,38228168,"Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)"],
 "cryptpad/cryptpad":[7880,76949612,"Collaborative office suite, end-to-end encrypted and open-source."],
 "custom-components/nordpool":[576,40870121,"This component allows you to pull in the energy prices into Home-Assistant."],
-"d-li14/mobilenetv3.pytorch":[598,25176159,"74.3% MobileNetV3-Large and 67.2% MobileNetV3-Small model on ImageNet"],
+"d-li14/mobilenetv3.pytorch":[597,25176159,"74.3% MobileNetV3-Large and 67.2% MobileNetV3-Small model on ImageNet"],
 "danbooru/danbooru":[2798,57931572,"A taggable image board written in Rails."],
 "darothen/ai-models-for-all":[118,4992424,"Run AI NWP forecasts hassle-free, serverless in the cloud!"],
 "dart-archive/markdown":[475,25019405,"A Dart markdown library"],

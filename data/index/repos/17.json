@@ -310,7 +310,7 @@
 "mightyaleksey/skeleton":[3,5006221,"A simple project-stub to show the basic ideas. Also serves you as a quick start for your project"],
 "mikechambers/as3corelib":[1505,37918," An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs."],
 "mikesmithgh/git-prompt-string-lualine.nvim":[27,10135646,"📍Add git-prompt-string to your Neovim statusline!"],
-"mindee/doctr":[6323,68231970,"docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k."],
+"mindee/doctr":[6337,68231970,"docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k."],
 "mmurray/cvdn":[75,142318,"Cooperative Vision-and-Dialog Navigation"],
 "mochi/mochiweb":[1891,284270,"MochiWeb is an Erlang library for building lightweight HTTP servers."],
 "mohuangx/SAVER":[115,26659687,"Single-cell RNA-seq Gene Expression Recovery"],

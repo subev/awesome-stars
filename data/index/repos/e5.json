@@ -340,7 +340,7 @@
 "momentarylapse/kaba":[2,6715031,"compiler for the kaba language"],
 "moovweb/gvm":[11681,78455,"Go Version Manager"],
 "moshafiei/system-design-master-plan":[477,32033772,":1st_place_medal: Roadmap to become a system design and architecture master"],
-"mozilla/BrowserQuest":[9374,131524,"DEPRECATED - A HTML5/JavaScript multiplayer game experiment"],
+"mozilla/BrowserQuest":[9375,131524,"DEPRECATED - A HTML5/JavaScript multiplayer game experiment"],
 "mozilla/mozilla-django-oidc":[556,131524,"A django OpenID Connect library"],
 "mrusme/journalist":[366,151967,"Journalist. An RSS aggregator."],
 "mvmaasakkers/go-problemdetails":[18,197477,"Problem json implementation (https://tools.ietf.org/html/rfc7807) package for go"],

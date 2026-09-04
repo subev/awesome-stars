@@ -281,7 +281,7 @@
 "keemobile/kotpass":[33,111196025,"The library offers reading and writing support for KeePass (KDBX) files in Kotlin"],
 "keijiro/WavTexture":[114,343936,"A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader."],
 "ken0225/RIS-Codes-Collection":[1502,61583324,"RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches."],
-"keon/awesome-physical-ai":[403,10793962,"A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models."],
+"keon/awesome-physical-ai":[408,10793962,"A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models."],
 "kieranrcampbell/phenopath":[12,2039489,"Genomic trajectories (pseudotimes) in the presence of heterogenous environmental and genetic backgrounds"],
 "kitbagjs/router":[253,150735291,"A type safe router for vuejs"],
 "kiurchv/asdf.plugin.zsh":[14,576520,"Zsh integration and completions for asdf"],

@@ -195,7 +195,7 @@
 "cinit/TMoe":[1427,40174090,"An Xposed module for Telegram clients"],
 "cirrax/openstack-nagios-plugins":[22,4255927,"nagios/icinga plugins to monitor an openstack installation"],
 "cirrus-actions/branch-guard":[6,45739616,"Action to guard branches from merges when any of the latest check suites or commit statuses is failing."],
-"cockroachdb/cockroach":[32433,6748139,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."],
+"cockroachdb/cockroach":[32434,6748139,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."],
 "codeengn/codeengn-conference":[109,210727,"All Presentations at CodeEngn Conference"],
 "coleifer/walrus":[1205,119974,"Lightweight Python utilities for working with Redis"],
 "containers-ai/alameda":[11,43647279,""],

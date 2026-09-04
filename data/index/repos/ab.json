@@ -358,7 +358,7 @@
 "online-judge-tools/oj":[1169,64643724,"Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it."],
 "open-obfuscator/o-mvll":[1125,110005755,":electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS)."],
 "openMF/mcp-mifosx":[25,3473607,"Model Context Protocol - MCP for Mifos X"],
-"openairinterface/openairinterface5g":[210,30077440,"This is a read-only mirror of https://github.com/duranta-project/openairinterface5g"],
+"openairinterface/openairinterface5g":[211,30077440,"This is a read-only mirror of https://github.com/duranta-project/openairinterface5g"],
 "openflagr/flagr":[2606,49816112,"Flagr is a feature flagging, A/B testing and dynamic configuration microservice"],
 "opensource-spraakherkenning-nl/Kaldi_NL":[69,18610616,"Code related to the Dutch instance and user groups of the KALDI speech recognition toolkit "],
 "openwall/john":[13592,1579552,"John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs"],

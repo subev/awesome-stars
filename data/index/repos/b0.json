@@ -433,7 +433,7 @@
 "sindresorhus/p-limit":[2920,170270,"Run multiple promise-returning & async functions with limited concurrency"],
 "sirthias/borer":[242,135347,"Efficient CBOR and JSON (de)serialization in Scala"],
 "skkallayath/photofilters":[431,8578130,"photofilters library for flutter"],
-"skywind3000/kcp":[16894,3035071,":zap: KCP - A Fast and Reliable ARQ Protocol"],
+"skywind3000/kcp":[16895,3035071,":zap: KCP - A Fast and Reliable ARQ Protocol"],
 "sleventyeleven/linuxprivchecker":[1834,4623931,"linuxprivchecker.py -- a Linux Privilege Escalation Check Script"],
 "smithy-lang/smithy-gradle-plugin":[33,133827778,"Smithy plugin for Gradle"],
 "spatie/laravel-blade-javascript":[619,7535935,"A Blade directive to export variables to JavaScript"],

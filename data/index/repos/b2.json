@@ -230,7 +230,7 @@
 "easyw/kicadStepUpMod":[686,3032347,"kicadStepUp: ECAD to MCAD FreeCAD WorkBench"],
 "eclipse-edc/Connector":[422,87998832,"EDC core services including data plane and control plane"],
 "egen/safe":[421,26616909,"A Vault CLI"],
-"elixir-plug/plug":[3014,30179070,"Compose web applications with functions"],
+"elixir-plug/plug":[3015,30179070,"Compose web applications with functions"],
 "elixirscript/elixir-estree":[104,25870092,"The ESTree Nodes and JavaScript AST to JavaScript Code Generator in Elixir"],
 "ema2159/centaur-tabs":[863,17773218,"Emacs plugin aiming to become an aesthetic, modern looking tabs plugin"],
 "endgameinc/eqllib":[169,1102250,""],

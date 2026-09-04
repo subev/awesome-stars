@@ -384,7 +384,7 @@
 "padamson/playwright-rust":[143,5460406,"Rust language bindings for Microsoft Playwright"],
 "pantharshit00/prisma-docs-generator":[625,22195362,"Prisma generator for automatically generating documentation reference from the Prisma schema."],
 "paocela/AFLplusplus-AndroidPatches":[12,80063284,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!"],
-"pathwaycom/llm-app":[58939,25750857,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."],
+"pathwaycom/llm-app":[58936,25750857,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."],
 "patrickjane/hss-server":[5,1404715,"Hermes Skill Server for MQTT based voice assistants"],
 "pauldotknopf/JavaScriptViewEngine":[72,523150,"An ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering."],
 "pdollar/toolbox":[860,699682,"Piotr's Image & Video Matlab Toolbox"],

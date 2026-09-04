@@ -328,7 +328,7 @@
 "microsoft/Focal-Transformer":[559,6154722,"[NeurIPS 2021 Spotlight] Official code for \"Focal Self-attention for Local-Global Interactions in Vision Transformers\""],
 "microsoft/Web-Dev-For-Beginners":[96490,6154722,"24 Lessons, 12 Weeks, Get Started as a Web Developer"],
 "microsoft/esvit":[412,6154722,"EsViT: Efficient self-supervised Vision Transformers"],
-"microsoft/markitdown":[178035,6154722,"Python tool for converting files and office documents to Markdown."],
+"microsoft/markitdown":[178154,6154722,"Python tool for converting files and office documents to Markdown."],
 "miguelraulb/spamhat":[27,982292,"Spam Honeypot Tool"],
 "mikoskinen/Blazor.EventAggregator":[122,143570,"Lightweight Event Aggregator for Blazor (Razor Components). "],
 "mobydeck/rufl":[3,43487231,"RunFlow (rufl) is a command line tool that allows executing other commands either in parallel or sequentially."],

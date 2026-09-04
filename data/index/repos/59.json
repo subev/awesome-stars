@@ -221,7 +221,7 @@
 "gmh5225/Rainbow-6-Siege-Cheat":[0,13917777,"A R6S Cheat include Spoofer UD for now"],
 "gmh5225/Steam-Hook-Render-PoC":[1,13917777,""],
 "gmh5225/veh-printf-hook":[1,13917777,"Hooking printf using a VEH hook. (Vectored Exception Handler Hook)"],
-"gofiber/fiber":[40125,59947262,"⚡️ Express inspired web framework written in Go"],
+"gofiber/fiber":[40124,59947262,"⚡️ Express inspired web framework written in Go"],
 "google-deepmind/bbeh":[127,8596759,""],
 "google/BIG-bench":[3246,1342004,"Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models"],
 "google/docsy-example":[558,1342004,"An example documentation site using the Docsy Hugo theme"],

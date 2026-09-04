@@ -423,7 +423,7 @@
 "simonjwright/xia":[4,1824512,"An Ada implementation of XPath 1.0."],
 "sindresorhus/p-map-series":[51,170270,"Map over promises serially"],
 "sitz/ama":[0,356043,"Ask @SITZ anything!"],
-"six-ddc/plow":[4518,10087571,"A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display"],
+"six-ddc/plow":[4517,10087571,"A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display"],
 "skydoves/sandwich":[1770,24237865,"🥪  Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform."],
 "smancke/guble":[161,4291379,"websocket based messaging server written in golang"],
 "solidi/hl-mods":[19,729372,"Modifications for Half-Life on GoldSrc. Includes active development of Cold Ice Remastered."],

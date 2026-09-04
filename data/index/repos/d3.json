@@ -376,7 +376,7 @@
 "qsly09/MFmask":[13,22184904,"Automated cloud and cloud shadow detection for Landsats 4-8 images"],
 "ralluri/yawn":[2,903749,"Yahoo Weather for Awesome WM"],
 "rancher-sandbox/rancher-desktop":[7310,78982867,"Container Management and Kubernetes on the Desktop"],
-"rasbt/LLMs-from-scratch":[103957,5618407,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"],
+"rasbt/LLMs-from-scratch":[104345,5618407,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"],
 "raunaks13/Detectron-SIGNet":[0,32986603,"Code to generate instance masks for SIGNet, adapted for the CARLA simulator"],
 "reduxjs/react-redux":[23443,13142323,"Official React bindings for Redux"],
 "remote-es/remotes":[2834,60470116,"This is a repository listing companies which offer full-time remote jobs with Spanish contracts"],

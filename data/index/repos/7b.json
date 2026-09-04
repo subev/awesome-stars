@@ -432,7 +432,7 @@
 "smith-and-web/obsidian-mcp-server":[18,17660416,"MCP server for Obsidian vault management - enables Claude and other AI assistants to read, write, search, and organize your notes"],
 "sparkfun/SparkFun-Eagle-Libraries":[1800,142880,"SparkFun's Public Eagle PCB Footprints"],
 "spatialmodel/inmap":[73,18638369,"InMAP reduced-form air quality model for fine particulate matter (PM2.5)"],
-"sphair/ClanLib":[368,139314,"ClanLib is a cross platform C++ toolkit library."],
+"sphair/ClanLib":[370,139314,"ClanLib is a cross platform C++ toolkit library."],
 "stas00/ipyexperiments":[236,10676103,"Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers"],
 "stellar/slingshot":[423,7386716," A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety"],
 "strongswan/strongswan":[2963,457671,"strongSwan - IPsec-based VPN"],

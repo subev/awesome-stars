@@ -381,7 +381,7 @@
 "pulp-platform/snitch":[229,14332106,"⛔ DEPRECATED ⛔ Lean but mean RISC-V system!"],
 "r1sc/OpenSith":[41,629669,"Jedi Knight Dark Forces II engine reimplementation"],
 "radi-cho/create-tf-app":[5,12954909,"Set up and maintain a machine learning project in Tensorflow with a single script."],
-"rbei-etas/busmaster":[1074,987899,"BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN. BUSMASTER was conceptualized, designed and implemented by Robert Bosch Engineering and Business Solutions (RBEI). Presently it is a joint project of RBEI and ETAS GmbH. "],
+"rbei-etas/busmaster":[1076,987899,"BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN. BUSMASTER was conceptualized, designed and implemented by Robert Bosch Engineering and Business Solutions (RBEI). Presently it is a joint project of RBEI and ETAS GmbH. "],
 "rcqed/docsify-markmap.js":[6,40952828,"🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify"],
 "realtradam/tojam2024":[2,11139432,""],
 "redis/lettuce":[5778,1529926,"Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs."],

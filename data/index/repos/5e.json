@@ -223,7 +223,7 @@
 "gmh5225/AcDrv":[2,13917777,"anti cheat drv open source"],
 "gmh5225/EAC-Runtime-Extractor":[0,13917777,"Extracts eac's driver at runtime without it touching the disk."],
 "gmh5225/win32k_file_collection":[1,13917777,"Collect various versions of win32k files"],
-"google-research/vision_transformer":[12699,43830688,""],
+"google-research/vision_transformer":[12700,43830688,""],
 "gorhill/uBlock":[67564,585534,"uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."],
 "gotidy/copy":[51,40390686,"Package for fast copying structs of different types"],
 "grammarly/ua-gec":[273,352781,"UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language"],
@@ -336,7 +336,7 @@
 "onqtam/ucm":[213,4648169,"Useful cmake macros that help with: compiler/linker flags, collecting sources, PCHs, Unity builds and other stuff."],
 "open-LIN/open-LIN-c":[91,35819867,"Implementation of Local interconnect network in c"],
 "open-forest-observatory/tree-detection-framework":[41,98983419,""],
-"open-mmlab/mmaction2":[5145,10245193,"OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark"],
+"open-mmlab/mmaction2":[5150,10245193,"OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark"],
 "open-policy-agent/gatekeeper":[4269,16468693,"🐊 Policy Controller for Kubernetes"],
 "opendilab/DI-engine":[3643,86840398,"OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Learning Framework B.P."],
 "oracle/solaris-ips":[76,4430336,"Solaris IPS: Image Packaging System"],
@@ -464,6 +464,6 @@
 "zendev-sh/zenflow":[49,261401316,"Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider."],
 "zhaodice/qemu-anti-detection":[1629,63996691,"A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden"],
 "zimfw/git-info":[13,22506548,"Exposes git repository status information to prompts."],
-"zou-group/textgrad":[3708,30398052,"TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. Published in Nature."],
+"zou-group/textgrad":[3715,30398052,"TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. Published in Nature."],
 "zuplo/mockbin":[144,85497839,"Mockbin by Zuplo. Mock, Test, and View HTTP Requests and Responses"]
 }
