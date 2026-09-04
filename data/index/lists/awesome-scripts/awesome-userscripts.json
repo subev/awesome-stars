@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"48f417ebe152a97d23190dc8b145b7d3f65da994"},
+"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"cfbda69751ff1f92103e403c2d629ce927c51fc6"},
 "members": [
 "sindresorhus/awesome",
 "fork-maintainers/iceraven-browser",

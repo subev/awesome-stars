@@ -1,7 +1,7 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"d3b1d44020dc73d4d8031c7eed8716d0c72a9152"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"a443100f222e2072416e9dd1accfc736ccd0731a"},
 "members": [
-"basecamp/omarchy",
+"omacom/omarchy",
 "nilszeilon/armarchy",
 "aorumbayev/deckarchy",
 "hinriksnaer/fedpunk",
@@ -36,7 +36,9 @@
 "AlexZeitler/omalibre",
 "huacnlee/omamail",
 "fross100/omaplug",
+"onlyVishesh/omarchy-power-manager",
 "stappmus/Omarchy-Spotify",
+"zzwong/omarchy-stage",
 "bjarneo/omarchy-shell-plugins",
 "jkoestinger/omarchy-vpn",
 "husamemadH/omarchy-quattro-prayer-times",
@@ -61,10 +63,12 @@
 "blank-query/lazyVPN-for-Omarchy",
 "daurydicaprio/live-wallpaper-for-omarchy-linux",
 "HectorBjernersjo/Neovim-theme-switcher",
+"x3me/omacal",
 "rhemvi/omaclip",
 "tahayvr/omarchist",
 "tomycostantino/omarchpods",
 "mitkox/omarchy-ai",
+"AccursedGalaxy/omarchy-auto-theme",
 "dylanbr/omarchy-box",
 "aloisdeniel/omarchy_calculator",
 "acrogenesis/omarchy-cheat-sheet",
@@ -104,7 +108,7 @@
 "omacom/omarchy-site",
 "pixincreate/configs",
 "sheikhlimon/dotfiles",
-"HANCORE-linux/omarchy-plugin-marketplace",
+"omacom/omarchy-plugin-marketplace",
 "Wheel-Smith/awesome-omarchy",
 "JJDizz1L/aetheria",
 "dracula/omarchy",
@@ -239,6 +243,8 @@
 ["2026-08-28","marcelohmdias/dotfiles"],
 ["2026-08-28","jehrhardt/dotfiles"],
 ["2026-08-28","gmunix/dotfiles"],
-["2026-08-28","Alexx2/omarchy-themes"]
+["2026-08-28","Alexx2/omarchy-themes"],
+["2026-09-04","basecamp/omarchy"],
+["2026-09-04","HANCORE-linux/omarchy-plugin-marketplace"]
 ]
 }

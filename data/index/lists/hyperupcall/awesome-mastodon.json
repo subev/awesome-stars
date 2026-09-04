@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Mastodon-related stuff!","defaultBranch":"main","topics":["awesome","awesome-list","mastodon"],"readmeSha":"58d3d3017380432fa1f4049ca15909494ea17f7b"},
+"meta": {"description":"Curated list of awesome Mastodon-related stuff!","defaultBranch":"main","topics":["awesome","awesome-list","mastodon"],"readmeSha":"4b1f797f26e0b7386825cea6eb0a5b1b62446bc5"},
 "members": [
 "mastodon/mastodon",
 "nathanlesage/academics-on-mastodon",
@@ -9,8 +9,8 @@
 "splitbrain/mastodon-widget",
 "elk-zone/elk",
 "cheeaun/phanpy",
-"mastodon/mastodon-android",
 "ihabunek/toot",
+"mastodon/mastodon-android",
 "Dimillian/IceCubesApp",
 "neet/masto.js",
 "mattn/go-mastodon",

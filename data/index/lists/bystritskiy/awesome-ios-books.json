@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📚 Directory of iOS books","defaultBranch":"master","topics":["awesome","awesome-list","ios-book","swift-book","learning","books","ios","swift"],"readmeSha":"6bc7e5b0c9950fca884833e19a14fafef8a94dbc"},
+"meta": {"description":"📚 Directory of iOS books","defaultBranch":"master","topics":["awesome","awesome-list","ios-book","swift-book","learning","books","ios","swift"],"readmeSha":"6c930e9c7e099e6b12c08ca2524b384b341dfc18"},
 "members": [
 "sindresorhus/awesome",
 "vsouza/awesome-ios",

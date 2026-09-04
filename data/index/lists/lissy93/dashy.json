@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!","defaultBranch":"master","topics":["dashboard","self-hosted","vue","docker","startpage","homepage","homelab","nodejs","awesome","mit"],"readmeSha":"759e8594803c649fae9bf24aae8465a567bbcabe"},
+"meta": {"description":"🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!","defaultBranch":"master","topics":["dashboard","self-hosted","vue","docker","startpage","homepage","homelab","nodejs","awesome","mit"],"readmeSha":"9f1506348b43db425d483fe81227f38b8c77c2d9"},
 "members": [
 "Templarian/MaterialDesign",
 "homarr-labs/dashboard-icons",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"76b45569badc9d83adcd52603fcbbad2eba61140"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"5ae71d0a4a4daa643e0eddbfb8184291415bf6ad"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -154,6 +154,7 @@
 "golikovichev/secure-log2test",
 "isidentical/teyit",
 "Mormolykos/ttsproof",
+"Quality-Max/9lives",
 "vostride/agent-qa",
 "t-strings/aria-testing",
 "ctripcorp/flybirds",

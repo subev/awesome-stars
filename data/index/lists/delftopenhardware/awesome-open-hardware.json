@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"37d41bad5f0526d70125d8b80f20f76d7f6c278f"},
+"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"2bb5d91a3ca3ddd3e3fc25efc6a63afc3395ab07"},
 "members": [
 "nasa-jpl/open-source-rover",
 "GeiserX/PiSpot-Show",
@@ -14,6 +14,7 @@
 "OpenGammaProject/Open-Gamma-Detector",
 "openUC2/UC2-GIT",
 "ElmerCSC/elmerfem",
+"jumpstarter-dev/jumpstarter",
 "easyw/kicadStepUpMod",
 "google/skywater-pdk",
 "ajaymnk/open-electronics",

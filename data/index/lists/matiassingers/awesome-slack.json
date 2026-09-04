@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome Slack related things","defaultBranch":"main","topics":["awesome-list","awesome","list","slack"],"readmeSha":"1334f2b6681466c2b8be1f79755f343816ac2c82"},
+"meta": {"description":"A curated list of awesome Slack related things","defaultBranch":"main","topics":["awesome-list","awesome","list","slack"],"readmeSha":"c310ac6de13217abf98b6ae7b1cc069b0eab3dda"},
 "members": [
 "sindresorhus/awesome",
+"ballerina-platform/module-ballerinax-slack",
 "jammerware/margiebot",
 "mrb0nj/Slack.Webhooks",
 "Inumedia/SlackAPI",
@@ -9,6 +10,7 @@
 "adnanh/webhook",
 "slackapi/java-slack-sdk",
 "Itiviti/simple-slack-api",
+"yannisalexiou/appstore-webhook-proxy",
 "slackapi/bolt-js",
 "yhatt/jsx-slack",
 "slackapi/node-slack-sdk",
@@ -46,6 +48,7 @@
 "slack-samples/bolt-ts-definition-app",
 "slackapi/slack-github-action",
 "slack-samples/bolt-ts-reporting-tool",
+"htilly/SlackONOS",
 "heikkipora/tesla-slack",
 "infojunkie/MantisBT-Slack",
 "Seldaek/monolog",
@@ -54,6 +57,7 @@
 "dblock/slack-gamebot",
 "gesteves/snarkov",
 "barryf/tickbot",
-"gesteves/trebekbot"
+"gesteves/trebekbot",
+"ZhgChgLi/ZReviewTender"
 ]
 }

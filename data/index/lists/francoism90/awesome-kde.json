@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"a3e9edf80d5290b00ec8100c1b8011b145de8031"},
+"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"c062bbe83663e21219a45a01a1a791e16e0ab51f"},
 "members": [
 "Agundur-KDE/KCast",
+"TimInTech/blitztext-linux",
 "rcspam/dictee",
 "Maldela/fancontrol-gui",
 "tildearrow/kwin-lowlatency",
@@ -18,6 +19,11 @@
 "peterfajdiga/karousel",
 "lubdhak7414/KDoit",
 "ruizhi-lab/latte-dock-ng",
+"Agundur-KDE/EZMonitor",
+"Agundur-KDE/KClaude",
+"Agundur-KDE/kfritz",
+"Agundur-KDE/KPictureFrame",
+"Agundur-KDE/OSBMonitor",
 "dos1/kded_rotation",
 "PapirusDevelopmentTeam/adapta-kde",
 "PapirusDevelopmentTeam/arc-kde",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"GeoJSON utilities that will make your life easier.","defaultBranch":"main","topics":["awesome-list","awesome","list","geojson"],"readmeSha":"00362ebadfa4c70eba4eba4dbc5f583c37ab8b43"},
+"meta": {"description":"GeoJSON utilities that will make your life easier.","defaultBranch":"main","topics":["awesome-list","awesome","list","geojson"],"readmeSha":"c340794cb790b69c6c1242d4cffbb58fdfbef0d1"},
 "members": [
 "sindresorhus/awesome",
 "funkeinteraktiv/cogran",
@@ -36,6 +36,7 @@
 "M-Scott-Lassiter/jest-geojson",
 "gadomski/antimeridian",
 "developmentseed/geojson-pydantic",
+"vancebw/eudr-geojson-fixtures",
 "mapbox/geojsonio-cli",
 "mapbox/geojsonio-extension",
 "koopjs/FeatureServer",

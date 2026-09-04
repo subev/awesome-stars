@@ -1,8 +1,9 @@
 {
-"meta": {"description":" A curated list of awesome infosec courses and training resources.","defaultBranch":"master","topics":["infosec","pentest","courses","penetration-testing","security-professionals","lab","awesome","security"],"readmeSha":"e1fdda1c8bcb1da107f5c0b07e4972c993401858"},
+"meta": {"description":" A curated list of awesome infosec courses and training resources.","defaultBranch":"master","topics":["infosec","pentest","courses","penetration-testing","security-professionals","lab","awesome","security"],"readmeSha":"b1b71fe0a110ee1b10a59a62441fb312ff898a6c"},
 "members": [
 "sindresorhus/awesome",
 "Strategic-Automation/violin",
+"ASCIT31/Dark-Moon",
 "osirislab/Hack-Night",
 "RPISEC/Malware",
 "RPISEC/MBE",

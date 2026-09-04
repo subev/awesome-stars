@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"3190038aae613edd179296bb7568124ad4a28a78"},
+"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"9aa7cd89d8cfd076f6b027ddbc4ab0ad26089fc7"},
 "members": [
 "sindresorhus/awesome",
 "run-as-root/awesome-magento2",

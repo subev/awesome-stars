@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦉 A curated collection of regex tools, tutorials, libraries, etc.","defaultBranch":"main","topics":["awesome","awesome-list","regex","regular-expression","regexp"],"readmeSha":"e9a6a66128460c02e3022f1369447a9f00490d3b"},
+"meta": {"description":"🦉 A curated collection of regex tools, tutorials, libraries, etc.","defaultBranch":"main","topics":["awesome","awesome-list","regex","regular-expression","regexp"],"readmeSha":"07f9f547f6133345f233992035d4450dc0c665ec"},
 "members": [
 "slevithan/regex",
 "gskinner/regexr",

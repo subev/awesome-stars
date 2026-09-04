@@ -1,5 +1,5 @@
 {
-"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"b9930038426b81eb8b2925fb73e48f6084e97f83"},
+"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"2bebf2b0efe78498706cdc74aaa80c9594f0e276"},
 "members": [
 "halo-dev/halo",
 "halo-dev/theme-starter",
@@ -221,6 +221,7 @@
 "Frost-leafleaf/global-private",
 "atangccc/Astrahub",
 "Akvicor/plugin-shortcode",
+"SwaggyMacro/plugin-lottie",
 "halo-sigs/attachment-upload-cli",
 "halo-sigs/vscode-extension-halo",
 "halo-sigs/obsidian-halo",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of computational biology.","defaultBranch":"main","topics":["computational-biology","machine-learning","drug-discovery","drug-repurposing","awesome","awesome-list"],"readmeSha":"689fe73a8133982a381cc2bb12812c13a4518c39"},
+"meta": {"description":"Awesome list of computational biology.","defaultBranch":"main","topics":["computational-biology","machine-learning","drug-discovery","drug-repurposing","awesome","awesome-list"],"readmeSha":"3eb3aad6410cb0fcd8b4184b0aece7ea6627fab2"},
 "members": [
 "SuLab/DrugMechDB",
 "gnn4dr/DRKG",
@@ -71,6 +71,7 @@
 "arneschneuing/DiffSBDD",
 "isayev/ReLeaSE",
 "PaccMann/paccmann_generator",
+"FairuzShadmaniShishir/NbBayesLM",
 "microsoft/BioGPT",
 "ncbi/GeneGPT",
 "yiqunchen/GenePT",

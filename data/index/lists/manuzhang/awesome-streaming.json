@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"c7dd2d76758201e7609851ff4e5d6aaeca3b7736"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"5b13dafecf818c9cbf1f211d9f4155333525551c"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -49,6 +49,7 @@
 "sensorbee/sensorbee",
 "siddhi-io/siddhi",
 "ottogroup/SPQR",
+"turbolytics/sql-flow",
 "epfldata/squall",
 "Zhiqiang-He/StreamCQL",
 "edwardcapriolo/teknek-core",

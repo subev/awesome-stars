@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"aa134ad7a27a8a343f94e2a2daeb84a3e8b79895"},
+"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"12dfe559d9b26c320a2cedf83c5c07eb51848731"},
 "members": [
 "kellyethridge/VBCorLib",
 "RelaxTools/Hidennotare",
@@ -9,6 +9,7 @@
 "cristianbuse/VBA-FastJSON",
 "ws-garcia/VBA-CSV-interface",
 "VBA-tools/VBA-XML",
+"wqweto/ZipArchive",
 "cristianbuse/Excel-ZipTools",
 "KallunWillock/vbaSquash",
 "PerditionC/vbaPDF",
@@ -37,6 +38,7 @@
 "Greedquest/vbInvoke",
 "cristianbuse/VBA-StateLossCallback",
 "Ariche2/VBAStack",
+"wqweto/SHA256",
 "sihlfall/vba-regex",
 "wqweto/VbPeg",
 "Excel-lent/ClooWrapperVBA",
@@ -55,6 +57,7 @@
 "KallunWillock/vbaXray",
 "KallunWillock/EZPZMouseController",
 "joey-melo/vba-syntax-highlight",
+"joyfullservice/msaccess-vcs-addin",
 "DylanTallchiefGit/xlStudio",
 "rubberduck-vba/Battleship",
 "raspberrypioneer/ExcelCommodroid",
@@ -65,6 +68,7 @@
 "DecimalTurn/VBA-Build",
 "Beakerboy/MS-OVBA",
 "Beakerboy/Excel-Addin-Generator",
+"john-tvh/VBE_Colours",
 "Planet-Source-Code/PSCIndex",
 "tannerhelland/vbAccelerator-Archive",
 "jeffpar/kbarchive"

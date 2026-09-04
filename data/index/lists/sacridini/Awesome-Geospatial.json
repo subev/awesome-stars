@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"f281650bc9df4ab6c8fea0bcd888a63d546281c1"},
+"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"e417496807fb2e2f84c3bc6584292f5cab2ecda3"},
 "members": [
 "crisbez/atlas4d-base",
 "ahuarte47/duckdb-raster",
@@ -80,7 +80,6 @@
 "r-lidar/lidR",
 "verma/plasio",
 "potree/potree",
-"EduinHSERNA/pyGEDI",
 "carlos-alberto-silva/rGEDI",
 "carlos-alberto-silva/weblidar-treetop",
 "arthurRuf/3dcitybuilder",
@@ -902,6 +901,7 @@
 "microsoft/RoadDetections",
 "topojson/world-atlas",
 "artakulov/us-water-quality-data",
+"Fink692/canadian-rental-data-sources",
 "copcio/copcio.github.io",
 "opengeospatial/geoparquet",
 "urschrei/Geopython",
@@ -936,6 +936,7 @@
 "mapbox/awesome-vector-tiles"
 ],
 "dropped": [
-["2026-08-28","eleven-lab/laravel-geo"]
+["2026-08-28","eleven-lab/laravel-geo"],
+["2026-09-04","EduinHSERNA/pyGEDI"]
 ]
 }

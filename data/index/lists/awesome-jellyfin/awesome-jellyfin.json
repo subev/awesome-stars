@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"d29e19e2458bce5ca0da4201f75ef41fd130d560"},
+"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"8023ccda81c5f085aa54651e7f747c2e8f96dca0"},
 "members": [
 "ZL154/AchievementBadges_for_Jellyfin",
 "Fovty/HoverTrailer",
@@ -41,7 +41,7 @@
 "jon4hz/jellyfin-plugin-discontinue-watching",
 "jon4hz/jellyfin-plugin-jellysleep",
 "JellyboxAD/Jellyfin.Plugin.StreamLimit",
-"voc0der/jellyfin-transcode-nag",
+"voc0der/jellyfin-plugin-transcode-guard",
 "TheIntroDB/jellyfin-plugin",
 "lostb1t/Gelato",
 "vosmiic/jellyfin-ani-sync",
@@ -87,7 +87,7 @@
 "GeiserX/quality-gate",
 "GeiserX/smart-covers",
 "GeiserX/whisper-subs",
-"voc0der/jellyfin-imdb-rating-updater",
+"voc0der/jellyfin-plugin-imdb-ratings",
 "FizzyMUC/jellyfin-oscars-plugin",
 "webbster64/jellyfin-plugin-AnimeMultiSource",
 "lyarenei/jellyfin-plugin-applemusic",
@@ -174,6 +174,7 @@
 "LSchallot/JellyRoller",
 "LLukas22/Jellyswarrm",
 "Apps2Samsung/Apps2Samsung",
+"connorgallopo/Tracearr",
 "0belous/Jellyfin-Universal-Plugin-Repo",
 "nodiscc/xsrv",
 "TechSquidTV/Cliparr",
@@ -205,5 +206,9 @@
 "joshuaboniface/rffmpeg",
 "itschasa/speedrr",
 "Threadfin/Threadfin"
+],
+"dropped": [
+["2026-09-04","voc0der/jellyfin-transcode-nag"],
+["2026-09-04","voc0der/jellyfin-imdb-rating-updater"]
 ]
 }

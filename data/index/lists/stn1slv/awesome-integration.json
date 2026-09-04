@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"6180b2b9bbbb4d2406943bb55b3dd2a3103e6a80"},
+"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"7ff39dbdf15ccbf77bc52cab4905762b575089de"},
 "members": [
 "agentgateway/agentgateway",
 "maximhq/bifrost",

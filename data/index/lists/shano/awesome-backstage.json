@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📋 A curated list of awesome Backstage resources!","defaultBranch":"main","topics":["backstage","developer-portal","developer-tools","idp","awesome","awesome-list"],"readmeSha":"aea0b3d0f22f590cc13b82f09d98d2a68c61f76e"},
+"meta": {"description":"📋 A curated list of awesome Backstage resources!","defaultBranch":"main","topics":["backstage","developer-portal","developer-tools","idp","awesome","awesome-list"],"readmeSha":"df60597326de294bad84885d5f15e4ff21884a39"},
 "members": [
 "backstage/backstage",
 "backstage/community-plugins",

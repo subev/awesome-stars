@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"91d901969d7356fc85bedb51792a13538b80183d"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"2bdc0e7a051f85347bba1030345bc7822a0cbc9a"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -42,7 +42,6 @@
 "discourse/discourse",
 "docusealco/docuseal",
 "ekylibre/ekylibre",
-"encrypt-to/encrypt.to",
 "EOL/deprecated_eol",
 "expertiza/expertiza",
 "fairmondo/fairmondo",
@@ -231,6 +230,7 @@
 "nativeapptemplate/nativeapptemplateapi",
 "ramlaxmanyadav/prism_demo",
 "zauberware/rails-devise-graphql",
+"PositiveControl/rails-rocket-sheep",
 "mattbrictson/rails-template",
 "TristanToye/rails-template",
 "ackama/rails-template",
@@ -248,5 +248,8 @@
 "RailsApps/rails-composer",
 "y-takey/rails-dashboard",
 "opticdev/optic"
+],
+"dropped": [
+["2026-09-04","encrypt-to/encrypt.to"]
 ]
 }

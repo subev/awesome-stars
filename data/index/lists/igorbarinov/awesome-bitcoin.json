@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"657c2da6eb90362b0c94e3730cda3c4884a234f2"},
+"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"a6648a9baaf3bc2b6a717d6cb23152c281b8bfcc"},
 "members": [
 "sindresorhus/awesome",
 "vulpemventures/nigiri",
@@ -62,6 +62,7 @@
 "mcdee/blockparser",
 "bitcoin-abe/bitcoin-abe",
 "bitauth/chaingraph",
+"amenano/nodsig",
 "btcsuite/btcd",
 "mhanne/bitcoin-ruby-node",
 "moneybutton/yours-bitcoin",

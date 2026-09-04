@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"f3fa95667a7ee6ba86b5cf4c554b986530a103f0"},
+"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"abd6116f6b7f1d5a92e5d9c10a83e173d6b060a3"},
 "members": [
 "microsoft/playwright",
 "artilleryio/artillery",
@@ -34,11 +34,13 @@
 "vitalets/playwright-network-cache",
 "Mattwmaster58/playwright-python-language-injection",
 "testdino-hq/playwright-skill",
+"denodell/playwright-soak-test",
 "anishkny/playwright-test-coverage",
 "DetachHead/playwright-ui5",
 "DetachHead/playwright-xpath",
 "DyHex/POMWright",
 "alcounit/selenosis",
+"antibrow/antibrow",
 "browserless/browserless",
 "techinz/browsers-benchmark",
 "jo-inc/camofox-browser",
@@ -47,6 +49,7 @@
 "feder-cr/invisible_playwright",
 "techinz/playwright-captcha",
 "microsoft/playwright-mcp",
+"agentrhq/webcmd",
 "allure-framework/allure-js",
 "mrasu/echoed",
 "kinora-dev/kinora",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"f73784262fe1db44c9e73da6e2274bd1524430ff"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"c2ebfe86514862780204127a03c50b00b037f736"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -26,7 +26,6 @@
 "belm/BaiduFM-Swift",
 "bither/bither-ios",
 "JohnWong/bus-today",
-"BalestraPatrick/AppleWatchCalculator",
 "chanify/chanify-ios",
 "vinhnx/Clendar",
 "open-trackers/Gym-Routine-Tracker-Watch-App",
@@ -434,7 +433,6 @@
 "superarcswift/SwiftCommunity",
 "yattee/yattee",
 "awkward/beam",
-"MengTo/DesignerNewsApp",
 "DominatorVbN/DevSpotlight",
 "jeffreybergier/Hipstapaper",
 "TheCodeMonks/NYTimes-iOS",
@@ -474,6 +472,7 @@
 "wordpress-mobile/WordPress-iOS",
 "writingmate/aidictation",
 "rileytestut/Clip",
+"GigaDuckAI/conduck",
 "awaseem/foqos",
 "amikhaylin/pompaddo",
 "hooosberg/Rushi",
@@ -549,6 +548,7 @@
 "pointspy/shlist",
 "woocommerce/woocommerce-ios",
 "criticalmaps/criticalmaps-ios",
+"mlemgroup/mlem",
 "ThasianX/SpotifyRadar",
 "IanKeen/TweetleDumb",
 "jeroensmeets/11t",
@@ -821,6 +821,8 @@
 ["2026-08-28","jogendra/phimpme-iOS"],
 ["2026-08-28","Stmol/vkphotos"],
 ["2026-08-28","fatih-gursoy/Cuisiner"],
-["2026-08-28","FlexMonkey/ForceSketch"]
+["2026-08-28","FlexMonkey/ForceSketch"],
+["2026-09-04","BalestraPatrick/AppleWatchCalculator"],
+["2026-09-04","MengTo/DesignerNewsApp"]
 ]
 }

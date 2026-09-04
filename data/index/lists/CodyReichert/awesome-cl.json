@@ -1,9 +1,10 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"e89ca37ce5d1dbbfb5c4b54a5bbb64ee1ccb9f60"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"af41f670c1a72df27d3fc7959ce24e375779aad5"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
 "azzamsa/awesome-lisp-companies",
+"lambda-symbolics/autolith",
 "openai/openai-openapi",
 "atgreen/cl-completions",
 "atgreen/cl-embeddings",
@@ -14,7 +15,7 @@
 "cl-ai-project/cl-mcp",
 "40ants/mcp",
 "jsulmont/mcp-lisp",
-"gornskew/lisply-mcp",
+"gornskew/cyborg-whisperer",
 "Alba-Intelligence/cl-tron-mcp",
 "melisgl/mgl",
 "melisgl/higgsml",
@@ -363,6 +364,7 @@
 "ultralisp/ultralisp",
 "lct23/krasnodar",
 "interactive-ssr/issr-server",
+"parenworks/Fluxion",
 "rotatef/cl-html5-parser",
 "atgreen/cl-sanitize-html",
 "ruricolist/spinneret",
@@ -680,5 +682,8 @@
 "hraban/lift",
 "triclops200/quickapp",
 "google/lisp-koans"
+],
+"dropped": [
+["2026-09-04","gornskew/lisply-mcp"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"e0594f7b0ede5f39d5430205f950cece320a7dcc"},
+"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"2a14d0e43e6a44e3f43a6c8a9161cca3b972fac0"},
 "members": [
 "playcanvas/engine",
 "playcanvas/react",
@@ -10,6 +10,7 @@
 "playcanvas/playcanvas-ar",
 "yushimatenjin/playcanvas-node",
 "playcanvas/playcanvas-p2.js",
+"JonasPfi/PlayCanvasReactColyseus",
 "playcanvas/playcanvas-rest-api-tools",
 "playcanvas/playcanvas-spine",
 "playcanvas/playcanvas-tween",

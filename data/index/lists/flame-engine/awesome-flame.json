@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.","defaultBranch":"main","topics":["flame","flutter","awesome","game","game-development","awesome-list","lists","resources"],"readmeSha":"2888fd6b7f109df455287cdb919180d3c303b333"},
+"meta": {"description":"An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.","defaultBranch":"main","topics":["flame","flutter","awesome","game","game-development","awesome-list","lists","resources"],"readmeSha":"658f3b2056b947351611c01c6e88879daa92cbe6"},
 "members": [
 "sindresorhus/awesome",
 "Dannark/FlameExamples",

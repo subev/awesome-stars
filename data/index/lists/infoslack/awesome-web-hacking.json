@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of web application security","defaultBranch":"master","topics":["penetration-testing","web-hacking","vulnerabilities","scanner","hacking","hacking-tools","metasploit","web-security","appsec","owasp"],"readmeSha":"6f1e50fcd9c647d079ddb181e721957484d64419"},
+"meta": {"description":"A list of web application security","defaultBranch":"master","topics":["penetration-testing","web-hacking","vulnerabilities","scanner","hacking","hacking-tools","metasploit","web-security","appsec","owasp"],"readmeSha":"c05fa3330e64417a3592b4559c9a6f3ce17eb82d"},
 "members": [
 "bad-antics/nullsec-linux",
 "bad-antics/nullsec-webfuzz",
@@ -8,6 +8,7 @@
 "BlessedRebuS/Krawl",
 "bjeborn/basic-auth-pot",
 "ASCIT31/Dark-Moon",
+"BugTraceAI/BugTraceAI",
 "ANVEAI/anve-offsec",
 "sullo/nikto",
 "nccgroup/Scout2",

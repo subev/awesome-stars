@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Consistent hashing with bounded loads in Golang","defaultBranch":"master","topics":["consistent-hashing","golang","load-balancing","consistent-hashing-library","consistenthash","awesome-go","awesome"],"readmeSha":"e19cbfea3b975d64a5c2c799ac79e46a5c724e57"},
+"meta": {"description":"Consistent hashing with bounded loads in Golang","defaultBranch":"master","topics":["consistent-hashing","golang","load-balancing","consistent-hashing-library","consistenthash","awesome-go","awesome"],"readmeSha":"f1182369fc4f1695b2cfc580b5bf480b87d03eb7"},
 "members": [
 "avelino/awesome-go",
 "olric-data/olric",

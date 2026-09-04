@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.","defaultBranch":"main","topics":["ai","github-copilot","prompt-engineering","hacktoberfest","agent-skills","agents","awesome","custom-agents"],"readmeSha":"6fedf8e93459ed3bc5292fdc1389749af6ff4298"},
+"meta": {"description":"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.","defaultBranch":"main","topics":["ai","github-copilot","prompt-engineering","hacktoberfest","agent-skills","agents","awesome","custom-agents"],"readmeSha":"e4226f120add5059d7ebc9d6cca356a240391365"},
 "members": [
 "all-contributors/allcontributors.org"
 ]

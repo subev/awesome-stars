@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.","defaultBranch":"main","topics":["biology","imaging","microscopy","segmentation","imagej","cellprofiler","image-analysis","awesome","awesome-list","bioimage-analysis"],"readmeSha":"484b7b6e372f96c8a43b7fd87ced93dbcb14cb79"},
+"meta": {"description":"A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.","defaultBranch":"main","topics":["biology","imaging","microscopy","segmentation","imagej","cellprofiler","image-analysis","awesome","awesome-list","bioimage-analysis"],"readmeSha":"e82da63eddeef04e385c7613fd50ae94cf0449c8"},
 "members": [
 "Slicer/Slicer",
 "SchmollerLab/Cell_ACDC",
@@ -65,7 +65,7 @@
 "Abe404/root_painter",
 "fish-quant/big-fish",
 "cbib/dypfish",
-"PreibischLab/RS-FISH",
+"JaneliaSciComp/RS-FISH",
 "weigertlab/spotiflow",
 "emx77/ASI_MTF",
 "volume-em/empanada",
@@ -117,5 +117,8 @@
 "lens-biophotonics/ZetaStitcher",
 "cytodata/awesome-cytodata",
 "HohlbeinLab/OpenMicroscopy"
+],
+"dropped": [
+["2026-09-04","PreibischLab/RS-FISH"]
 ]
 }
