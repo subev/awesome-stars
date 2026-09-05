@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"1fef1a04ad78d7b06ea4deadb29a5dbb9f40e34e"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"b51fc7b3269e9f84c7d641ecf02727437ed27c18"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -7,6 +7,7 @@
 "maplibre/maplibre-rs",
 "maplibre/maplibre-plugins-android",
 "maplibre/maplibre-style-spec",
+"falseinput/expressive",
 "maplibre/maputnik",
 "lhapaipai/maplibre-theme",
 "Kanahiro/maplibre-vscode-extension",

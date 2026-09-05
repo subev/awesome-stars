@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"ec51e20b595ccb5760266dde9ea4b2108c136c5a"},
+"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"79cf4bc528bd6fd37bcd33c64d4825748219d150"},
 "members": [
 "uxlfoundation/scikit-learn-intelex",
 "Data-Centric-AI-Community/fg-data-profiling",
@@ -157,6 +157,7 @@
 "HarrisQ/linearsdr",
 "KrishnaswamyLab/PHATE",
 "TutteInstitute/datamapplot",
+"dhdegroot/Bonsai-data-representation",
 "janpipek/physt",
 "astrofrog/fast-histogram",
 "konstantint/matplotlib-venn",

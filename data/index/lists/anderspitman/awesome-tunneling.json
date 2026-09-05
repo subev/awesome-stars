@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.","defaultBranch":"master","topics":["ngrok","tunneling","self-hosted","ngrok-alternative","ssh","tunnel-proxy","nebula","tailscale","zerotier","tailscale-alternative"],"readmeSha":"1b03388fcae4a4c93c0181c4c7f8cc84dfecedb9"},
+"meta": {"description":"List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.","defaultBranch":"master","topics":["ngrok","tunneling","self-hosted","ngrok-alternative","ssh","tunnel-proxy","nebula","tailscale","zerotier","tailscale-alternative"],"readmeSha":"a25f84228e585ef4b815f41be892362ffa0aac0a"},
 "members": [
 "fosrl/pangolin",
 "fatedier/frp",
@@ -105,10 +105,13 @@
 "mycoria/mycoria",
 "narrowlink/narrowlink",
 "yggdrasil-network/yggdrasil-go",
-"apernet/hysteria",
+"HyNetworks/hysteria",
 "EasyTier/EasyTier",
 "upvpn/upvpn-app",
 "yarrick/iodine",
 "abhinavsingh/proxy.py"
+],
+"dropped": [
+["2026-09-05","apernet/hysteria"]
 ]
 }

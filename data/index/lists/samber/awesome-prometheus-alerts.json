@@ -1,6 +1,8 @@
 {
-"meta": {"description":"🚨 Collection of Prometheus alerting rules","defaultBranch":"master","topics":["prometheus","alertmanager","alert","rule","collection","awesome","monitoring","alerting","query","promql"],"readmeSha":"5487fd4540c2d98704b5e58f88e10f6904430bfb"},
+"meta": {"description":"🚨 Collection of Prometheus alerting rules","defaultBranch":"master","topics":["prometheus","alertmanager","alert","rule","collection","awesome","monitoring","alerting","query","promql"],"readmeSha":"9f6e6eaab2b5f55b7aa35be6d7ee2a3e34ddd31b"},
 "members": [
-
+"samber/awesome-ai-native",
+"samber/awesome-olap",
+"samber/awesome-user-research"
 ]
 }

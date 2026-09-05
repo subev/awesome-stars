@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.","defaultBranch":"main","topics":["ai","awesome","awesome-list","generative-ai","music-generation"],"readmeSha":"d1cf0b02f30095974a1427bad6eb309cfdd2dbed"},
+"meta": {"description":"A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.","defaultBranch":"main","topics":["ai","awesome","awesome-list","generative-ai","music-generation"],"readmeSha":"bd57dc3eb45be715c2fb1ebc70333bd83d44a827"},
 "members": [
 "magenta/magenta",
 "facebookresearch/audiocraft",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"b04d9357b8418796199d29c1c575a58c400a8847"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"5d81ab085ae8d29a965f63be8333f9acfc7dc878"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -372,7 +372,6 @@
 "centre-for-ai-and-climate/weave",
 "openclimatefix-archives/Elexonpy",
 "open-energy-transition/Awesome-Electricity-Demand",
-"energyaccessexplorer/eae-website",
 "USEPA/egrid",
 "microsoft/global-renewables-watch",
 "rewiringamerica/api.rewiringamerica.org",
@@ -467,6 +466,7 @@
 "SPF-OST/optihood",
 "NatLabRockies/HOPP",
 "Breakthrough-Energy/REISE.jl",
+"powergama/powergama",
 "NatLabRockies/reV",
 "tum-ens/pyGRETA",
 "FZJ-IEK3-VSA/RESKit",
@@ -2198,7 +2198,7 @@
 "lanl-ansi/WaterModels.jl",
 "NOAA-OWP/t-route",
 "NOAA-OWP/ngen",
-"DOI-USGS/nhdplusTools",
+"DOI-USGS/hydrogeofetch",
 "codeforboston/safe-water",
 "mroberge/hydrofunctions",
 "AquaticEcoDynamics/GLM",
@@ -2235,7 +2235,7 @@
 "jnsebgosselin/gwhat",
 "smwesten-usgs/swb",
 "bcgov/groundwater-levels-indicator",
-"usgs/pestpp",
+"pestpp/pestpp",
 "bcgov/canwqdata",
 "DOI-USGS/HASP",
 "CSHS-CWRA/CSHShydRology",
@@ -2555,6 +2555,9 @@
 ],
 "dropped": [
 ["2026-08-28","rfcx/arbimon"],
-["2026-08-28","pavldevis/JUSTICE"]
+["2026-08-28","pavldevis/JUSTICE"],
+["2026-09-05","energyaccessexplorer/eae-website"],
+["2026-09-05","DOI-USGS/nhdplusTools"],
+["2026-09-05","usgs/pestpp"]
 ]
 }

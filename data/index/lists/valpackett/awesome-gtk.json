@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"40d47bb91650cde5b2bda9a981c51ed8337c9866"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"4acdc6e7248f6510b9ad1406cceebda8ef101eec"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -147,6 +147,7 @@
 "tesseract-ocr/tesseract",
 "pdfarranger/pdfarranger",
 "pikepdf/pikepdf",
+"word-sys/word-sys-pdf-editor",
 "Cimbali/pympress",
 "Philip-Scott/Spice-up",
 "Nokse22/teleprompter",

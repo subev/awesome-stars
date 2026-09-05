@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome JSON Schema resources, tutorials, tools, and more","defaultBranch":"master","topics":["awesome","awesome-list","json","json-schema","jsonschema","openapi","openapi3","asyncapi","schema-registry","jsonapi"],"readmeSha":"d81615cbd2b219c6b95ea609da7e33cb73a27694"},
+"meta": {"description":"A curated list of awesome JSON Schema resources, tutorials, tools, and more","defaultBranch":"master","topics":["awesome","awesome-list","json","json-schema","jsonschema","openapi","openapi3","asyncapi","schema-registry","jsonapi"],"readmeSha":"f190de3a4ee15750fe7a7798b8a4782447ce0ce8"},
 "members": [
 "sindresorhus/awesome",
 "sourcemeta/jsonschema",
 "sravan27/schema-gateway",
 "sourcemeta/studio",
+"tamerkalla/schema-envoy",
 "dataunitylab/jsonoid-discovery"
 ]
 }

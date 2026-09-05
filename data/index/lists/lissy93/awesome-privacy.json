@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"175b198bcc2b1d094fcf00b0f7a23aab3831fcfb"},
+"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"ff65750f7494eeb3658e81906eead2d4b9df4433"},
 "members": [
 "lissy93/personal-security-checklist",
 "dani-garcia/vaultwarden",
@@ -40,6 +40,7 @@
 "pel/pel",
 "martijnvanbrummelen/nwipe",
 "netblue30/firejail",
+"duggytuxy/syswarden",
 "crazy-max/WindowsSpyBlocker",
 "hardentools/hardentools",
 "PaulSec/awesome-windows-domain-hardening",

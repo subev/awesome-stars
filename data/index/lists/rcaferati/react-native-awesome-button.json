@@ -1,6 +1,8 @@
 {
-"meta": {"description":"React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱 ","defaultBranch":"master","topics":["button","component","react","react-native","progress","social","share","animated"],"readmeSha":"620eea2b6398f86c5a16e7e0a2e84fc66e181ad4"},
+"meta": {"description":"React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱 ","defaultBranch":"master","topics":["button","component","react","react-native","progress","social","share","animated"],"readmeSha":"f041035d8cabd5f4000992edfa83bf18d0ba0127"},
 "members": [
-
+"rcaferati/flutter_awesome_button",
+"rcaferati/kotlin-awesome-button",
+"rcaferati/swift-awesome-button"
 ]
 }

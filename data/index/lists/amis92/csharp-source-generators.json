@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.","defaultBranch":"main","topics":["csharp-sourcegenerator","csharp","list","awesome-list","roslyn","dotnet"],"readmeSha":"f8f18c1872e379868024a19acaf15b7a56dc70ab"},
+"meta": {"description":"A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.","defaultBranch":"main","topics":["csharp-sourcegenerator","csharp","list","awesome-list","roslyn","dotnet"],"readmeSha":"fe18295b9801834b6fee03544a87ea7cc7efdbcf"},
 "members": [
 "dotnet/roslyn",
 "dotnet/roslyn-sdk",
@@ -98,6 +98,7 @@
 "ImmediatePlatform/Immediate.Handlers",
 "ImmediatePlatform/Immediate.Validations",
 "Hookyns/validly",
+"ipjohnson/ValidationModules",
 "kl1mm/localize",
 "Yeah69/MrMeeseeks.ResXToViewModelGenerator",
 "ycanardeau/ResXGenerator",

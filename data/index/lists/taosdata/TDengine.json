@@ -1,5 +1,5 @@
 {
-"meta": {"description":"High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios","defaultBranch":"main","topics":["iot","bigdata","time-series","database","industrial-iot","connected-vehicles","monitoring","tsdb","tdengine","sql"],"readmeSha":"1676943ca6fae42184e1e840bb704e499229e747"},
+"meta": {"description":"High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios","defaultBranch":"main","topics":["iot","bigdata","time-series","database","industrial-iot","connected-vehicles","monitoring","tsdb","tdengine","sql"],"readmeSha":"8c353260094d22cf3c873f3800b03f10390f2b96"},
 "members": [
 
 ]

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome resources related to the yearly Advent of Code challenge.","defaultBranch":"master","topics":["advent-of-code","advent-of-code-2018","advent-of-code-2019","advent-of-code-2020","advent-of-code-2021","adventofcode","awesome","advent-of-code-2022","advent-of-code-2023"],"readmeSha":"481d2ac35e5c2804fd24326e0c66ca34bd21de70"},
+"meta": {"description":"A collection of awesome resources related to the yearly Advent of Code challenge.","defaultBranch":"master","topics":["advent-of-code","advent-of-code-2018","advent-of-code-2019","advent-of-code-2020","advent-of-code-2021","adventofcode","awesome","advent-of-code-2022","advent-of-code-2023"],"readmeSha":"48b1c3a18afac54d249b4622501476f7b6b3aa6f"},
 "members": [
 "2wndrhs/aoc-2024-typescript-template",
 "AlexeSimon/adventofcode",

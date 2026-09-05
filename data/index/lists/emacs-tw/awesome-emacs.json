@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A community driven list of useful Emacs packages, libraries and other items.","defaultBranch":"master","topics":["emacs","awesome-list"],"readmeSha":"2ed49c7e8d7ef9c776961fae33cd315f934971d5"},
+"meta": {"description":"A community driven list of useful Emacs packages, libraries and other items.","defaultBranch":"master","topics":["emacs","awesome-list"],"readmeSha":"fa75725be4e8ea600f236e924c6b328334c329ee"},
 "members": [
 "sindresorhus/awesome",
 "melpa/melpa",
@@ -121,6 +121,7 @@
 "alvarogonzalezsotillo/region-occurrences-highlighter",
 "purcell/whitespace-cleanup-mode",
 "lewang/ws-butler",
+"saulotoledo/trailing-newline-indicator",
 "soutaro/hungry-delete.el",
 "hrehfeld/emacs-smart-hungry-delete",
 "mrkkrp/zzz-to-char",
@@ -295,6 +296,7 @@
 "emacs-php/psysh.el",
 "emacs-eclim/emacs-eclim",
 "emacs-lsp/lsp-java",
+"saulotoledo/java-agent-loader",
 "dominikh/go-mode.el",
 "dougm/goflymake",
 "nsf/gocode",
@@ -573,6 +575,7 @@
 "lujun9972/podcaster",
 "ledger/ledger-mode",
 "narendraj9/hledger-mode",
+"Boruch-Baum/emacs-crossword",
 "TeMPOraL/nyan-mode",
 "vibhavp/emacs-xkcd",
 "emacsmirror/gnugo",

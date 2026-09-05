@@ -1,15 +1,21 @@
 {
-"meta": {"description":"Awesome 11ty / Build Awesome list 🎈🕶️","defaultBranch":"master","topics":["awesome-list","11ty","buildawesome","eleventy","blades-css","buildawesome-kit"],"readmeSha":"2f3eb42ae4502e08f77bec3a13a329aa33600b58"},
+"meta": {"description":"Awesome 11ty / Build Awesome 🕶️","defaultBranch":"main","topics":["awesome-list","11ty","buildawesome","eleventy","buildawesome-one","awesome"],"readmeSha":"82e24bf455a733dfe95300640be0a2d68441c3a4"},
 "members": [
 "11ty/buildawesome",
 "11ty/buildawesome",
-"11ty/awesome-base-blog",
+"buildawesome-one/starter",
+"adamdjbrett/11ty-wisp",
 "GoogleChrome/starter-extended-blog",
-"oleeskild/digitalgarden",
 "KonnorRogers/11ty-webawesome-ssr",
+"buildawesome-one/examples",
+"11ty/awesome-base-blog",
+"oleeskild/digitalgarden",
 "buildawesome-one/kit",
-"uncenter/eleventy-plugin-toc",
 "podop29/eleventy-plugin-shotpipe",
-"buildawesome-one/awesome"
+"uncenter/eleventy-plugin-toc",
+"subev/awesome-stars"
+],
+"dropped": [
+["2026-09-05","buildawesome-one/awesome"]
 ]
 }

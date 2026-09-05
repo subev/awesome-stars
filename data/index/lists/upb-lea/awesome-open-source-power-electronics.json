@@ -1,11 +1,12 @@
 {
-"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"d8818339c9bba9bed84332a4c0ad05b173862316"},
+"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"c1aa3028b6f6ce65a29eab70a46af4f768488d15"},
 "members": [
 "FOSSEE/eSim",
 "geckocircuits/GeckoCIRCUITS",
 "Aalto-Electric-Drives/motulator",
 "upb-lea/pygeckocircuits2",
 "upb-lea/transistordatabase",
+"AJEngineering/circuit-calcs",
 "circuitikz/circuitikz",
 "Circuit2TikZ/CircuiTikZ-Designer",
 "medwatt/circuitikz_symbols",

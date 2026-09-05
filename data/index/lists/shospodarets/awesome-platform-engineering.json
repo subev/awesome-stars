@@ -1,8 +1,9 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"b5ab236455f9bc74b1fbf627be990ebea0768c0f"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"3b3d0f298d37f678830779eb33d6529e9876db7d"},
 "members": [
 "sindresorhus/awesome",
 "ota-run/ota",
+"sandbaseai/sandbase-harness",
 "ant-design/ant-design",
 "tj/commander.js",
 "ionic-team/capacitor",

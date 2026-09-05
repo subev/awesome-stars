@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"db62769c59046dfa917c34768fe20d73157ab474"},
+"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"c749c49cf5a3975a2e4d848c6ab7f65c7b20bec3"},
 "members": [
 "VITA-MLLM/VITA",
 "VITA-MLLM/VITA-Audio",
@@ -324,6 +324,7 @@
 "ncsoft/cap2qa",
 "OpenM3D/M3DBench",
 "OpenGVLab/InternVideo",
+"shreshthsaini/Beyond8Bits",
 "LightChen233/M3CoT",
 "alenai97/MiCEval",
 "katha-ai/VELOCITI",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"e47d736a467da339f6b389892c45201bb381d936"},
+"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"0fa893f5238a50fe723adf68fb961e72edbc562e"},
 "members": [
 "Smashing/smashing",
 "Freeboard/freeboard",
@@ -18,6 +18,7 @@
 "inetsoft-technology/stylebi",
 "shmlkv/dna-claude-analysis",
 "marcimastro98/Xenon",
+"Shashank-VK/nexus-dashboard-template",
 "obfuscurity/descartes",
 "obfuscurity/dusk",
 "ripienaar/gdash",

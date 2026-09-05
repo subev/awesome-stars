@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"e7d4c270e9d899fe66ddbabeaeb4e4e31d463a80"},
+"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"e508639aea4a2e78b44e6fdb666f135cfb620e53"},
 "members": [
 "sindresorhus/awesome",
 "ddvk/remarkable2-framebuffer",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.","defaultBranch":"main","topics":["ai-testing","awesome","awesome-list","llm-testing","qa","test-automation","ai-test-automation","mcp-testing","software-testing","test-generation"],"readmeSha":"a33f70801bedff3eee30661851d3414ebae04037"},
+"meta": {"description":"A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.","defaultBranch":"main","topics":["ai-testing","awesome","awesome-list","llm-testing","qa","test-automation","ai-test-automation","mcp-testing","software-testing","test-generation"],"readmeSha":"69c8797545d822284dc18acf3b89a711c734a73b"},
 "members": [
 "qodo-ai/qodo-cover",
 "WebFuzzing/EvoMaster",
@@ -80,11 +80,13 @@
 "Kaliiiiiiiiii-Vinyzu/patchright",
 "lightpanda-io/browser",
 "tinyfish-io/agentql",
+"nottelabs/notte",
 "Agnuxo1/benchclaw",
 "TIGER-AI-Lab/StructEval",
 "stanford-crfm/helm",
 "SWE-bench/SWE-bench",
 "openai/human-eval",
+"LiveCodeBench/LiveCodeBench",
 "web-arena-x/webarena",
 "xlang-ai/OSWorld",
 "sierra-research/tau-bench",

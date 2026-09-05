@@ -1,6 +1,7 @@
 {
-"meta": {"description":"A curated list of awesome music programming languages, libraries, frameworks and tools.","defaultBranch":"main","topics":["awesome","awesome-list","music","music-composition","music-generation","music-programming"],"readmeSha":"a898f3f43893aa656b6877c41164396e5a7412b1"},
+"meta": {"description":"A curated list of awesome music programming languages, libraries, frameworks and tools.","defaultBranch":"main","topics":["awesome","awesome-list","music","music-composition","music-generation","music-programming"],"readmeSha":"bb7a21e3fb7f6fe47aa7a97187f2deeb3c321f56"},
 "members": [
+"hydrogen-music/hydrogen",
 "spotify/pedalboard",
 "belangeo/pyo",
 "facebookresearch/audiocraft",
