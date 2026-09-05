@@ -464,7 +464,7 @@
 "salesforce/aws-allowlister":[224,453694,"Automatically compile an AWS Service Control Policy that ONLY allows AWS services that are compliant with your preferred compliance frameworks."],
 "sancarn/awesome-vba":[620,7938900,"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources"],
 "sandialabs/snl-quest":[159,4993680,"An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories."],
-"scala-native/scala-native":[4686,17545605,"Your favorite language gets closer to bare metal."],
+"scala-native/scala-native":[4688,17545605,"Your favorite language gets closer to bare metal."],
 "scola/Qart":[1084,1131287,"Qart merge picture and QR code, based on https://github.com/chinuno-usami/CuteR"],
 "sebcglbailey/framer-DesignComponents":[31,10141374,"A module for converting your designs in design mode into full scalable classes in code, without a single line of code!"],
 "seilc/incredibles":[23,32021834,"Decompilation project for The Incredibles (GameCube)"],

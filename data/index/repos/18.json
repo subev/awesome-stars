@@ -161,7 +161,7 @@
 "cristianpb/analytics-google":[16,18708179,"Google analytics from cristianpb.github.io"],
 "cronokirby/haze":[107,22821947,"A bittorrent client, for learning purposes"],
 "cropinghigh/sdrpp-tetra-demodulator":[165,38228168,"Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)"],
-"cryptpad/cryptpad":[7883,76949612,"Collaborative office suite, end-to-end encrypted and open-source."],
+"cryptpad/cryptpad":[7885,76949612,"Collaborative office suite, end-to-end encrypted and open-source."],
 "custom-components/nordpool":[577,40870121,"This component allows you to pull in the energy prices into Home-Assistant."],
 "d-li14/mobilenetv3.pytorch":[597,25176159,"74.3% MobileNetV3-Large and 67.2% MobileNetV3-Small model on ImageNet"],
 "danbooru/danbooru":[2797,57931572,"A taggable image board written in Rails."],

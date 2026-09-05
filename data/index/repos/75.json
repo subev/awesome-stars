@@ -413,7 +413,7 @@
 "peterhinch/micropython-monitor":[41,8437477,"Display the behaviour of a realtime program with a scope or logic analyser."],
 "phillc73/pinhooker":[2,815126,"An R Package to compile data sets of historic results from thoroughbred sales"],
 "phongphuhanam/ssh-git-operations":[0,18023194,"A secure Oh My Zsh plugin for authenticated git push/pull/fetch operations over SSH with GitHub token authentication"],
-"plausible/analytics":[28880,54802774,"Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud."],
+"plausible/analytics":[28889,54802774,"Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud."],
 "pnnl/ConStrain":[8,10872965,"Control Strainer (ConStrain) is a data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended."],
 "pragdave/work_queue":[40,10648,"Simple implementation of the hungry-consumer model in Elixir"],
 "praydog/Source2Gen":[142,2909949,"Source 2 SDK Generator"],
@@ -520,6 +520,6 @@
 "zjstraus/AES67-WebMeter":[12,32636865,"Server that receives an AES67 audio stream and presents a webpage with meters"],
 "zkavtaskin/Domain-Driven-Design-Example":[1877,2659868,"Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense. "],
 "zorab47/active_admin-sortable_tree":[161,25094,"Show ActiveAdmin index as a nested tree with drag'n'drop"],
-"zulip/zulip":[25842,4921959,"Zulip server and web application. Open-source team chat that helps teams stay productive and focused."],
+"zulip/zulip":[25841,4921959,"Zulip server and web application. Open-source team chat that helps teams stay productive and focused."],
 "zziz/pwc":[15312,2147644,"This repository is no longer maintained."]
 }

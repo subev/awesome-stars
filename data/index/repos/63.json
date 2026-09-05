@@ -436,7 +436,7 @@
 "starryexpanse/Reference-Browser":[9,3956220,""],
 "strager/supermetroid":[155,48666,"Super Metroid SNES game, disassembled"],
 "strat0sphere/spark-euca":[1,1472186,"Scripts to setup Apache Mesos, Spark, Hadoop, Storm, Kafka and Hama on Eucalyptus and Amazon AWS. Spark can also be deployed as a standalone cluster."],
-"supabase/supabase":[108856,54469796,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."],
+"supabase/supabase":[108870,54469796,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."],
 "svjan5/GNNs-for-NLP":[787,6361575,"Tutorial: Graph Neural Networks for Natural Language Processing at EMNLP 2019 and CODS-COMAD 2020"],
 "switch-model/switch":[156,11792892,"A Modern Platform for Planning High-Renewable Power Systems"],
 "syntaqx/env":[8,6037730,"An environment variable utility package"],

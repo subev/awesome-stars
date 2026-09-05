@@ -224,7 +224,7 @@
 "flutter-form-builder-ecosystem/flutter_form_builder":[1606,108230903,"Simple form maker for Flutter Framework"],
 "fogfish/dynamo":[24,716093,"Generic Golang Key/Value trait for AWS storage services"],
 "forest6511/secretctl":[10,20209757,"The simplest AI-ready secrets manager. Local-first, single-binary CLI & Desktop app with MCP integration. Never expose secrets to AI agents."],
-"freescout-help-desk/freescout":[4523,152988407,"FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox"],
+"freescout-help-desk/freescout":[4525,152988407,"FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox"],
 "fregante/webext-storage-cache":[83,1402241,"Cache values in your Web Extension and clear them on expiration. Also includes a memoize-like API to cache any function results automatically"],
 "gabrielelana/byte-units":[168,50211,"Library to parse, format and convert byte units"],
 "github/ghterm":[52,9919,"github terminal"],

@@ -109,7 +109,7 @@
 "agavra/tuicr":[3020,3172405,"a code review TUI with vim keybindings"],
 "ahgamut/janet":[5,41098605,"A dynamic language and bytecode vm"],
 "ai-forever/giga_agent":[197,103576137,"GigaAgent — это универсальный агент-оркестратор для решения широкого круга задач (ReAct + REPL)"],
-"aio-libs/aiodns":[593,7049303,"Simple DNS resolver for asyncio"],
+"aio-libs/aiodns":[592,7049303,"Simple DNS resolver for asyncio"],
 "aldonunez/FinFan":[20,17934836,"A remake of Final Fantasy"],
 "alecthomas/kong":[3172,41767,"Kong is a command-line parser for Go"],
 "algolia/scout-extended":[420,2034458,"Scout Extended: The Full Power of Algolia in Laravel"],

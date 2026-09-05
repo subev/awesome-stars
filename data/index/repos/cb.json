@@ -230,7 +230,7 @@
 "ecmwf/eccodes-python":[137,6368067,"Python interface to the ecCodes GRIB/BUFR decoder/encoder"],
 "eduardofuncao/squix":[268,45571086,"A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea"],
 "efimandreev0/BBSonicDSTool":[1,120276090,"This tool to work with Sonic archive-files (.bb) DS"],
-"egoist/docute":[3809,8784712,"📚 Effortless documentation, done right."],
+"egoist/docute":[3807,8784712,"📚 Effortless documentation, done right."],
 "ejcho623/agent-breadcrumbs":[4,5448470,"Cross-platform agent logging and observability"],
 "elixir-broadway/broadway":[2680,288036854,"Concurrent and multi-stage data ingestion and data processing with Elixir"],
 "elm-explorations/test":[244,26491321,"Write unit and fuzz tests for Elm code."],

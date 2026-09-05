@@ -355,7 +355,7 @@
 "ndmitchell/ghcid":[1198,1651197,"Very low feature GHCi based IDE"],
 "newbit1/rootAVD":[1820,37043777,"Script to root AVDs running with QEMU Emulator from Android Studio"],
 "nextmn/RLS-wireshark-dissector":[23,136093746,"Wireshark Dissector for Radio Link Simulation Protocol from UERANSIM"],
-"nf-core/chipseq":[243,35520196,"ChIP-seq peak-calling, QC and differential analysis pipeline."],
+"nf-core/chipseq":[242,35520196,"ChIP-seq peak-calling, QC and differential analysis pipeline."],
 "nfl/graphql-rxjava":[55,1261928,"GraphQL RxJava"],
 "nickdeis/eslint-plugin-notice":[28,4594128,"An eslint rule that checks the top of files and --fix them too!"],
 "noDRM/DeDRM_tools":[10302,94350027,"DeDRM tools for ebooks"],

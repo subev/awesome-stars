@@ -192,7 +192,7 @@
 "devanlai/dapboot":[382,1348448,"DFU Bootloader for STM32 chips"],
 "dewberryants/asciiMol":[418,63843135,"Curses based ASCII molecule viewer for terminals."],
 "dext0r/yandex_smart_home":[1076,3103856,"Управление устройствами из Home Assistant через Алису (Умный дом Яндекса) или Марусю"],
-"digego/extempore":[1462,554921,"A cyber-physical programming environment"],
+"digego/extempore":[1464,554921,"A cyber-physical programming environment"],
 "djetelina/tofuref":[28,6594163,"TUI for OpenTofu/Terraform provider registry"],
 "dkreider/ngx-loading-buttons":[17,11043868,"A lightweight Angular library to add a loading spinner to your Angular Material buttons. 🙊"],
 "dwaynebradley/k3d-oh-my-zsh-plugin":[7,14277962,""],

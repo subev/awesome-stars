@@ -423,7 +423,7 @@
 "puzzlepaint/camera_calibration":[823,4228497,"Accurate geometric camera calibration with generic camera models"],
 "r-spatial/rgee":[777,25086656,"Google Earth Engine for R"],
 "react-grid-layout/react-draggable":[9290,79858588,"React draggable component"],
-"remko/age-plugin-se":[242,12300,"Age plugin for Apple's Secure Enclave"],
+"remko/age-plugin-se":[245,12300,"Age plugin for Apple's Secure Enclave"],
 "reujab/bronze":[51,23725670,"A cross-shell customizable powerline-like prompt with icons"],
 "richor1042/IDAFuncOutline":[28,53560819,"Resume  FuncOutline by idapython"],
 "ringsaturn/tzf-rs":[108,13536789,"Get timezone via longitude&latitude in Rust in a fast way"],

@@ -459,7 +459,7 @@
 "shompoe/sn-orange":[2,54352351,""],
 "shopsavvy/deno-deploy-shopsavvy":[0,24196,"Deno Deploy template for ShopSavvy Data API - product search and price comparison with Hono router"],
 "simonw/datasette-jq":[17,9599,"Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values"],
-"sindresorhus/awesome":[503149,170270,"😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]"],
+"sindresorhus/awesome":[503225,170270,"😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]"],
 "sindresorhus/move-file":[208,170270,"Move a file, directory, or symlink - Even works across devices"],
 "singpolyma/ripple-haskell":[2,12770,"Implementation of Ripple client protocol in Haskell"],
 "smartystreets/goconvey":[8406,969237,"Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go."],

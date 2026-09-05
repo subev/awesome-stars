@@ -242,7 +242,7 @@
 "dsyer/spring-todo-mvc":[23,124075,""],
 "dybarsky/spots-dialog":[1071,1060123,"Android AlertDialog with moving dots progress indicator"],
 "ebassi/graphene":[436,1665,"A thin layer of graphic data types"],
-"edmundmiller/nextflow-mode":[25,20095261,"Emacs major mode for Nextflow"],
+"edmundmiller/nextflow-mode":[26,20095261,"Emacs major mode for Nextflow"],
 "edoger/zkits-logger":[28,13347928,"A powerful zero-dependency json logger."],
 "ekmett/linear":[220,304657,"Low-dimensional linear algebra primitives for Haskell."],
 "elazarl/goproxy":[6753,260258,"An HTTP proxy library for Go"],

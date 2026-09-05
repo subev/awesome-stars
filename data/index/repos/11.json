@@ -343,7 +343,7 @@
 "m4b/bingrep":[1780,1920204,"like ~~grep~~ UBER, but for binaries"],
 "machine-learning-apps/actions-argo":[39,49846054,"GitHub Action That Submits Argo Workflows From GitHub"],
 "magento/baler":[176,168457,"AMD module bundler and preloader for Magento 2 stores."],
-"magnologan/awesome-k8s-security":[2009,1558043,"A curated list for Awesome Kubernetes Security resources"],
+"magnologan/awesome-k8s-security":[2010,1558043,"A curated list for Awesome Kubernetes Security resources"],
 "maiph123/VerticalGNN":[8,63433350,""],
 "mantissa-/SuperPoke":[36,8888881,"Iterative poking tool for Blender"],
 "maplibre/maplibre-gl-directions":[166,75709127,"A plugin to show routing directions on a MapLibre GL JS map"],

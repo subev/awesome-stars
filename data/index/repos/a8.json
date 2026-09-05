@@ -11,7 +11,7 @@
 "Automattic/expect.js":[2096,887802,"Minimalistic BDD-style assertions for Node.JS and the browser."],
 "AwesomeRubyist/awesome_reading_list":[102,16137093,""],
 "AxeldeRomblay/MLBox":[1536,12816066,"MLBox is a powerful Automated Machine Learning python library. "],
-"CDCgov/mycosnp-nf":[94,12104975,"MycoSNP: Whole Genome Sequencing Analysis of Fungal Isolates"],
+"CDCgov/mycosnp-nf":[95,12104975,"MycoSNP: Whole Genome Sequencing Analysis of Fungal Isolates"],
 "CadeEvs/FrostyToolsuite":[758,13504192,""],
 "CausalML/MultipleLoggers":[15,40028381,"Code for the paper \"Optimal Off-Policy Evaluation from Multiple Logging Policies\""],
 "Chimera-Protocol/csl-core":[16,260294298,"Deterministic policy language for AI agents. Z3 + TLA+ dual-engine formal verification. Runtime enforcement <1ms."],

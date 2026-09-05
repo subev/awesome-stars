@@ -348,7 +348,7 @@
 "martgnz/es-atlas":[67,1236790,"Pre-built TopoJSON from the Spanish National Geographic Institute."],
 "masonc15/wsl-notify-zsh":[2,7069521,"Zsh plugin that uses wsl-notify-send to notify you when a command takes longer than 15 seconds to run."],
 "matanolabs/matano":[1695,108618919,"Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS"],
-"matplotlib/matplotlib":[23147,215947,"matplotlib: plotting with Python"],
+"matplotlib/matplotlib":[23151,215947,"matplotlib: plotting with Python"],
 "matthewwithanm/django-imagekit":[2349,126263,"Automated image processing for Django. Currently v6.0"],
 "max-sixty/worktrunk":[6833,5635139,"Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"],
 "maxandron/goplements.nvim":[90,668146,"Visualize Go struct and interface implementations"],

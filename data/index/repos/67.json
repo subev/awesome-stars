@@ -270,7 +270,7 @@
 "gmh5225/tim_apple":[16,13917777,"Simple CS2 external cheat"],
 "google-research/pix2seq":[945,43830688,"Pix2Seq codebase: multi-tasks with generative modeling (autoregressive and diffusion)"],
 "googleprojectzero/bochspwn":[346,42936221,"A Bochs-based instrumentation project designed to log kernel memory references, to identify \"double fetches\" and other OS vulnerabilities"],
-"graphql-java/graphql-java":[6222,14289921,"GraphQL Java implementation"],
+"graphql-java/graphql-java":[6221,14289921,"GraphQL Java implementation"],
 "gregsexton/origami.el":[531,150883,"A folding minor mode for Emacs"],
 "greymass/ual-anchor":[23,22582162,"Identity and session through ESR using EOSIO/universal-authenticator-library"],
 "grofit/aurelia-chart":[46,927201,"A chart element for aurelia which is powered by chart js using html5 canvas."],

@@ -316,7 +316,7 @@
 "mantl/mesos-consul":[337,17570004,"Mesos to Consul bridge for service discovery"],
 "marcobiedermann/html-style-guide":[41,5244986,"😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML."],
 "marcotcr/anchor":[816,698010,"Code for \"High-Precision Model-Agnostic Explanations\" paper"],
-"mautic/mautic":[10436,5257677,"Mautic: Open Source Marketing Automation Software."],
+"mautic/mautic":[10444,5257677,"Mautic: Open Source Marketing Automation Software."],
 "max-ramas/rms-memory-mcp":[37,51298084,"Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency"],
 "maxisimonazzi/Azukar-FPGA":[85,53944652,"Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments."],
 "mazharenko/FluentAssertions.Eventual":[5,5635071,"The extension allows to wait for an assertion to pass"],

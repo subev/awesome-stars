@@ -382,7 +382,7 @@
 "nWidart/laravel-modules":[6204,882397,"Module Management In Laravel"],
 "nager/Nager.Date":[1402,60408767,"Easily access public holidays for 200+ countries via .NET, REST API, Docker, or NuGet for online and offline use."],
 "nanostores/nanostores":[7596,85066968,"A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"],
-"nf-core/modules":[426,35520196,"Repository to host tool-specific module files for the Nextflow DSL2 community!"],
+"nf-core/modules":[427,35520196,"Repository to host tool-specific module files for the Nextflow DSL2 community!"],
 "ng-log/ng-log":[116,190182134,"C++ library for application-level logging"],
 "nicohlr/ipychart":[133,25349465," The power of Chart.js with Python"],
 "nikhilsaraf/go-tools":[17,1028334,"A collection of tools for Golang"],

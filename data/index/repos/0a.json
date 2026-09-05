@@ -479,7 +479,7 @@
 "unitreerobotics/unitree_sim_isaaclab":[547,44998897,"The Unitree simulation environment built based on Isaac Lab"],
 "unoplatform/calculator":[415,52228309,"Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows"],
 "uptrace/uptrace":[4279,64948717,"Open source APM: OpenTelemetry traces, metrics, and logs"],
-"usefathom/fathom":[8017,38684088,"Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact."],
+"usefathom/fathom":[8018,38684088,"Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact."],
 "useflashpunk/FlashPunk":[395,7152401,"A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game. "],
 "vaadin/vaadin":[570,1171922,""],
 "valhalla/valhalla":[6162,10232331,"Open Source Routing Engine for OpenStreetMap"],

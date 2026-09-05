@@ -63,7 +63,7 @@
 "LiveHelperChat/livehelperchat":[2242,6755310,"Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot."],
 "LoopPerfect/conduit":[149,19186854,"High Performance Streams Based on Coroutine TS ⚡"],
 "MISP/misp-rfc":[55,4134875,"Specifications used in the MISP project including MISP core format"],
-"MagicStack/asyncpg":[8079,14324950,"A fast PostgreSQL Database Client Library for Python/asyncio."],
+"MagicStack/asyncpg":[8080,14324950,"A fast PostgreSQL Database Client Library for Python/asyncio."],
 "MagicStack/uvloop":[11897,14324950,"Ultra fast asyncio event loop."],
 "MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp":[5,69011077,"Decompiling Ultimate Mortal Kombat 3 (iOS, EA Mobile 2011) into readable C, targeting a native Windows/Linux port. The retail binary kept its STABS table: 4,342 named functions across 135 source files. Hand-written C ships only after differential testing against a static ARM-to-C recompiler. No game assets - bring your own copy."],
 "Molina-Valero/FORTLS":[32,52129566,"Automatic Processing of Terrestrial-Based Technologies Point Cloud Data for Forestry Purposes"],

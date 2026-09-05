@@ -339,7 +339,7 @@
 "open5gs/open5gs":[2707,44808635,"Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)"],
 "opencomputeproject/Project-Zipline":[294,16659405,"Defines a lossless compressed data format that is independent of CPU type, operating system, file system, and character set, and is suitable for compression using the XP10 algorithm."],
 "openplantpathology/OpenPlantPathology":[21,27719812,"Open Plant Pathology website"],
-"opf/openproject":[16027,1756674,"OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub"],
+"opf/openproject":[16030,1756674,"OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub"],
 "opinkerfi/nagios-plugins":[58,2111097,"Small army of nagios-plugins either made or maintained by opinkerfi"],
 "ory/oathkeeper":[3596,25334553,"A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."],
 "pandastrike/jsck":[159,3219228,"JSON Schema Compiled checK"],

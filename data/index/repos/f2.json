@@ -363,7 +363,7 @@
 "niclashedam/ebpf-kill-example":[23,770169,"An example of an eBPF program hooking into the kill tracepoint"],
 "noeticpenguin/ngForce":[143,376367,"Force.com && Angular.js integration framework."],
 "nyoom-engineering/oxocarbon.nvim":[1632,120229920,"A dark and light Neovim theme written in fennel, inspired by IBM Carbon."],
-"olastor/age-plugin-fido2-hmac":[100,7479641,"Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials."],
+"olastor/age-plugin-fido2-hmac":[101,7479641,"Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials."],
 "openBrushograph/openBrushograph_hardware":[24,246364497,"A simple, open source and 3D-printable DIY x-y gantry and z-mechanism for making a brush painting robot"],
 "openMF/mcp-mifosx-self-service":[9,3473607,"MCP Server for Mifos X - Self Service"],
 "openclimatefix-archives/Elexonpy":[23,237017945,"Python package wrapper around Elexon api"],

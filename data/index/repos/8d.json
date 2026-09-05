@@ -424,7 +424,7 @@
 "ruotianluo/self-critical.pytorch":[999,16023153,"Unofficial pytorch implementation for Self-critical Sequence Training for Image Captioning. and others."],
 "rvben/rumdl":[1479,5196381,"Fast Markdown linter and formatter written in Rust"],
 "sagarverma/transformer-lipschitz":[6,2713531,""],
-"sagishahar/lpeworkshop":[2126,56685627,"Windows / Linux Local Privilege Escalation Workshop"],
+"sagishahar/lpeworkshop":[2128,56685627,"Windows / Linux Local Privilege Escalation Workshop"],
 "samber/slog-multi":[636,2951285,"🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing..."],
 "samccone/engine-deps":[20,883126,"install dependencies based on node version "],
 "sassy-or-clement/d3dmesh-to-gltf":[10,78814070,"Converts mesh, texture and skeleton files from The Walking Dead: The Telltale Definitive Series into glTF 2.0 data."],

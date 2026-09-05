@@ -335,7 +335,7 @@
 "kukapay/crypto-rss-mcp":[17,201164822,"An MCP server that aggregates real-time cryptocurrency news from multiple RSS feeds."],
 "lainsce/quilter":[296,4886639,"Focus on your writing."],
 "lasa01/Plumber":[501,3680681,"A Blender addon for importing Source 1 engine maps, models, materials and textures.  This addon makes it possible to import full CS:GO, TF2, CS:S or other Source 1 game maps into Blender."],
-"laurent22/joplin":[56241,1285584,"Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS."],
+"laurent22/joplin":[56245,1285584,"Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS."],
 "lavarinimoreira/omarchy-vice-city-theme":[4,89891764,"Omarchy Theme"],
 "lcashdol/WAPot":[21,1929595,"A honeypot that can be used to observe traffic directed at home routers."],
 "ldaniels528/trifecta":[217,4667301,"Trifecta is a web-based and CLI tool that simplifies inspecting Kafka messages and Zookeeper data. Additionally, the CLI tool provides the capability to import/export data to/from ElasticSearch and MongoDB."],

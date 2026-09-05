@@ -45,7 +45,7 @@
 "Ezike/Baking-App-Kotlin":[457,17779130,"Android architecture sample with dynamic feature modularisation, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, kotlin coroutines with StateFlow and Exo player."],
 "Farama-Foundation/HighwayEnv":[3303,62961550,"A collection of environments for autonomous driving and tactical decision-making tasks"],
 "File-New-Project/EarTrumpet":[11343,13286252,"EarTrumpet - Volume Control for Windows"],
-"FiloSottile/typage":[471,1225294,"A TypeScript implementation of the age file encryption format, available as an npm package or as a bundled .js file."],
+"FiloSottile/typage":[475,1225294,"A TypeScript implementation of the age file encryption format, available as an npm package or as a bundled .js file."],
 "ForestHubAI/edge-agents":[101,236801704,"The 30 MB open-source edge AI agent runtime. Run AI agents offline on Linux (Raspberry Pi, Jetson). GPIO, UART, MQTT as first-class nodes. Industrial protocols (OPC-UA, Modbus) on the roadmap."],
 "FreeRTOS/FreeRTOS-Cellular-Interface":[101,54647343,"FreeRTOS Cellular Interface implementation of the 3GPP TS v27.007 standard."],
 "FrozenSand/UrbanTerror4":[77,1122216,"Official bug tracker for the game Urban Terror 4.x - www.urbanterror.info"],

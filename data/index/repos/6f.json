@@ -423,7 +423,7 @@
 "sqshq/sampler":[14795,6069066,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."],
 "stefanpenner/ember-state-services":[223,1377,""],
 "steve-m/kalibrate-rtl":[540,522310,"fork of http://thre.at/kalibrate/ for use with rtl-sdr devices"],
-"supercollider/supercollider":[6711,1706741,"An audio server, programming language, and IDE for sound synthesis and algorithmic composition."],
+"supercollider/supercollider":[6713,1706741,"An audio server, programming language, and IDE for sound synthesis and algorithmic composition."],
 "swiftyapp/swifty":[942,54043452,"🔑   Free Offline-first Password Manager "],
 "swoosh/swoosh":[1524,17713874,"Compose, deliver and test your emails easily in Elixir"],
 "tailsmails/gatevay":[1,253711812,"A lightweight, multi-gateway SOCKS5 proxy tool"],

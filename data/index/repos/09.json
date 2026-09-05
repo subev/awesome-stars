@@ -370,7 +370,7 @@
 "mshegolev/gitlab-ci-mcp":[2,9267159,"MCP server for GitLab CI/CD — pipelines, schedules, MRs, files. Works with any GitLab (SaaS or self-hosted)."],
 "mutable-state-inc/autoresearch-at-home":[496,247182713,"AI agents running research on single-GPU nanochat training automatically"],
 "muteb/Hoarder":[216,5000589,"This script is made to collect the most valiable artifacts for foreniscs or incident reponse investigation rather than imaging the whole har drive. "],
-"mwaskom/seaborn":[14011,315810,"Statistical data visualization in Python"],
+"mwaskom/seaborn":[14012,315810,"Statistical data visualization in Python"],
 "n8willis/kernall":[47,2192132,"Kerning and letterspacing research"],
 "nandorojo/zeego":[2253,13172299,"Menus for React (Native) done right."],
 "naoki-00-ito/vite-ts-bulma-sass-template":[5,117070296,"Vite based development templates with simple configuration for TypeScript, Sass, Bulma, etc."],

@@ -244,7 +244,7 @@
 "google/python-fire":[28213,1342004,"Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object."],
 "gotson/komga":[6628,2139133,"Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support"],
 "graphql-python/graphene":[8239,15002022,"GraphQL framework for Python"],
-"graphql/dataloader":[13385,12972006,"DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."],
+"graphql/dataloader":[13389,12972006,"DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."],
 "graphql/swapi-graphql":[1063,12972006,"A GraphQL schema and server wrapping SWAPI."],
 "griddb/griddb-kafka-connect":[1,16422208,"GridDB Kafka Connector"],
 "guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks":[529,11862328,"Growing the code out of your notebooks - the right way. "],

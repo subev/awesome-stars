@@ -462,7 +462,7 @@
 "sinhashubham95/go-actuator":[3,31492148,"Golang production-ready features"],
 "sitaramc/gitolite":[8591,43316,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features."],
 "skarllot/EnumUtilities":[18,122178,"A source generator for C# that uses Roslyn to create extensions and parsers for enumerations"],
-"slimm609/checksec":[2374,2703141,"Checksec"],
+"slimm609/checksec":[2375,2703141,"Checksec"],
 "smattymatty/Django-Mercury-Performance-Testing":[27,109621208,"Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Performance Practices for Django Models, Views, and Serializers."],
 "smicyk/groovy-jmeter":[14,14974939,"A Groovy-based DSL for building and running JMeter test plans from command line and more."],
 "smiley/steamapi":[460,354181,"An unofficial object-oriented Python library for accessing the Steam Web API."],

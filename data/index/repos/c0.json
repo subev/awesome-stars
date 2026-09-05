@@ -385,7 +385,7 @@
 "pycroscopy/atomai":[230,19730394,"Deep and Machine Learning for Microscopy"],
 "qaptoR-nvim/chocolatier.nvim":[22,174133329,"Espresso-, Kimbie-, Grivbox- inspired Neovim Colorscheme"],
 "qfish/XActivatePowerMode":[699,679824,"An Xcode plug-in makes POWER MODE happen in your Xcode."],
-"questdb/questdb":[17301,52297642,"QuestDB is a high performance, open-source, time-series database"],
+"questdb/questdb":[17303,52297642,"QuestDB is a high performance, open-source, time-series database"],
 "rahulsarchive/4AxisFoamCutter":[102,32607702,"An open-source DIY 4 Axis Foam cutter using Ramps + Arduino for cutting RC Wing Cores."],
 "rbalet/ngx-back-button":[8,44493964,"Angular back button"],
 "rcarriga/nvim-notify":[3570,24252670,"A fancy, configurable, notification manager for NeoVim"],

@@ -207,7 +207,7 @@
 "ezyang/compact":[82,13564,"Compact regions library for Haskell"],
 "f-pisani/dat-creator":[0,42639605,"Qt/C++ file archiver with GUI to bundle multiple files into a single DAT container. Includes API for loading/extracting files. Useful for game asset packaging or file distribution."],
 "fabacab/awesome-malware":[279,18677,":computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools."],
-"facebook/infer":[15701,69631,"A static analyzer for Java, C, C++, and Objective-C"],
+"facebook/infer":[15702,69631,"A static analyzer for Java, C, C++, and Objective-C"],
 "facebook/relay":[18963,69631,"Relay is a JavaScript framework for building data-driven React applications."],
 "fastlorisstudios/UE4_EOS_Plugin":[163,2463732,"A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK"],
 "federicotdn/verb":[765,6868935,"HTTP client for Emacs"],

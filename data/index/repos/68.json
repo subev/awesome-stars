@@ -457,7 +457,7 @@
 "serprex/Befunge":[21,159546,"lang befunge 93 fast"],
 "sffjunkie/astral":[288,685802,"Python calculations for the position of the sun and moon."],
 "shadowsocksr-backup/shadowsocksr-csharp":[4493,30499442,""],
-"sharkdp/bat":[60373,4209276,"A cat(1) clone with wings."],
+"sharkdp/bat":[60372,4209276,"A cat(1) clone with wings."],
 "sheepduke/clop":[25,11610662,"Clop - Common Lisp tOml Parser"],
 "sindresorhus/p-all":[345,170270,"Run promise-returning & async functions concurrently with optional limited concurrency"],
 "sirthias/parboiled":[1318,135347,"Elegant parsing in Java and Scala - lightweight, easy-to-use, powerful."],

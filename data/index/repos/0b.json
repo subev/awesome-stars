@@ -355,7 +355,7 @@
 "open-guides/og-aws":[36450,17152571,"📙 Amazon Web Services — a practical guide"],
 "openai/evals":[19384,14957082,"Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks."],
 "openai/point-e":[6895,14957082,"Point cloud diffusion for 3D model synthesis"],
-"openforecast-org/smooth":[102,305433332,"The set of functions used for time series analysis and in forecasting."],
+"openforecast-org/smooth":[103,305433332,"The set of functions used for time series analysis and in forecasting."],
 "openhwgroup/cvw":[613,51096416,"CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals."],
 "opgginc/opgg-mcp":[102,29659061,""],
 "ouspg/cloudfuzzer":[23,718867,""],

@@ -176,7 +176,7 @@
 "chipweinberger/flutter_blue_plus":[1004,1863934,"Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows."],
 "chrisb2/micropython-fingerprint":[21,3087703,"MicroPython library for reading Grow and ZhianTec finger print sensors."],
 "ciaa/firmware_v1":[129,6998305,"Firmware de la CIAA"],
-"cistools/collocate":[21,13347679,"Collocate xarray trajectories in arbitrary physical dimensions"],
+"cistools/collocate":[20,13347679,"Collocate xarray trajectories in arbitrary physical dimensions"],
 "civctp2/civctp2":[111,44042738,"Call to Power II: Apolyton Edition source code project. Call to Power II (CTP2) is a civilization computer game, whose source code was released."],
 "clauswilke/relayer":[74,4210929,"Rethinking layers in ggplot2"],
 "clibs/clib":[5141,5657447,"Package manager for the C programming language."],

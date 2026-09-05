@@ -293,7 +293,7 @@
 "legendary-gl/legendary":[5289,64734668,"Legendary - A free and open-source replacement for the Epic Games Launcher"],
 "leozhang2018/alfred-httpstat":[18,6907296,"httpstat in alfred workflow"],
 "libretro/glsl-shaders":[1235,1812827,"This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script."],
-"lightningnetwork/lnd":[8185,13424735,"Lightning Network Daemon ⚡️"],
+"lightningnetwork/lnd":[8187,13424735,"Lightning Network Daemon ⚡️"],
 "linera-io/linera-protocol":[32144,107513858,"Main repository for the Linera protocol"],
 "lisa-groundhog/GroundHog":[614,8491637,"Library for implementing RNNs with Theano"],
 "livekit/livekit":[20706,69438833,"End-to-end realtime stack for connecting humans and AI"],

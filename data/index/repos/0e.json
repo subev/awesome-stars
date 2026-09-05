@@ -165,7 +165,7 @@
 "cubasepp/zsh-bogo-theme":[0,4363766,"My theme for oh-my-zsh"],
 "curatedmess/TidyTuesday":[20,95034813,"#TidyTuesday"],
 "cursey/sdkgenny":[135,5798459,"A library for generating C++ compatible SDKs"],
-"cvjena/libmaxdiv":[62,1272801,"Implementation of the Maximally Divergent Intervals algorithm for Anomaly Detection in multivariate spatio-temporal time-series."],
+"cvjena/libmaxdiv":[61,1272801,"Implementation of the Maximally Divergent Intervals algorithm for Anomaly Detection in multivariate spatio-temporal time-series."],
 "cwilso/Audio-Input-Effects":[562,507001,"Live input Web Audio effects"],
 "daattali/shinyscreenshot":[72,952340,"📷 Capture screenshots of entire pages or parts of pages in Shiny apps"],
 "danakt/web-hlmv":[123,1110075,"WebGL implementation of the Half-Life Model Viewer "],

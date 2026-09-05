@@ -237,7 +237,7 @@
 "dgnest/zsh-gvm-plugin":[6,6139624,"gvm (Go version manager) plugin for zsh"],
 "dheerajkotwani/GithubVisualizer":[121,44086235,"📲  Android Application to track any user activity on Github built using the Github Developers API. Used Retrofit to fetch data and MVVM Architecture."],
 "dimforge/nalgebra":[4783,43279238,"Linear algebra library for Rust."],
-"discourse/discourse":[47791,3220138,"A platform for community discussion. Free, open, simple."],
+"discourse/discourse":[47792,3220138,"A platform for community discussion. Free, open, simple."],
 "django-haystack/pysolr":[702,10821528,"Pysolr — Python Solr client"],
 "dojo-sim/Dojo.jl":[394,96157689,"A differentiable physics engine for robotics"],
 "doldecomp/sadx":[48,67697691,"Sonic Adventure DX"],

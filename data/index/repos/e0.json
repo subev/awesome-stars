@@ -431,7 +431,7 @@
 "sapdragon/hint-break":[127,74473217,"Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”"],
 "saulotoledo/trailing-newline-indicator":[12,5031156,"Emacs package for showing an indicator for the trailing newline in the end of the file"],
 "sayo-hs/heftia":[193,142978970," A theory‑backed, type‑safe algebraic effects"],
-"scrapy/scrapy":[64204,733635,"Scrapy, a fast high-level web crawling & scraping framework for Python."],
+"scrapy/scrapy":[64207,733635,"Scrapy, a fast high-level web crawling & scraping framework for Python."],
 "sdras/vue-vscode-snippets":[1336,2281088,"These snippets were built to supercharge my workflow in the most seamless manner possible."],
 "seanmavley/ionic2-sidemenu-tabs":[46,5289083,"Ionic2 Side menu + Tabs"],
 "seed-rs/awesome-seed-rs":[231,57684960,"A curated list of awesome things related to Seed"],

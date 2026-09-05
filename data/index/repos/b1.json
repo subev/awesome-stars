@@ -394,7 +394,7 @@
 "r-dbi/DBI":[323,5695665,"A database interface (DBI) definition for communication between R and RDBMSs"],
 "rabdulsal/appstore-release-mcp":[0,2054819,"App Store release pilot MCP server — version bump, archive + TestFlight upload, metadata, review submission. The MCP server that actually ships your binary."],
 "raizam/gamedev_libraries":[1767,2153610,"A collection of open source c/c++ libraries for gamedev"],
-"rasta-mouse/Watson":[1679,7346521,"Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities"],
+"rasta-mouse/Watson":[1678,7346521,"Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities"],
 "rauchg/blog":[1424,13041,""],
 "ravindu644/VirtualAP":[76,126038496,"Turn your rooted Android phone into a real router - hostapd-powered hotspot with VPN tunneling, Wi-Fi repeater mode, and a static gateway, all from a 7MB APK"],
 "rcaferati/react-awesome-slider":[2976,8358797,"A performant, lightweight React slider/carousel for media and content transitions, featuring 60fps animations, modular styling, optional HOCs, and fullpage navigation utilities. 🖥️📱"],

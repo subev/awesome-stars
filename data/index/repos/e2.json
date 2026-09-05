@@ -100,7 +100,7 @@
 "RemoteSensingTools/vSmartMOM.jl":[58,83097293,"A full end-to-end modular software suite for radiative transfer and related atmospheric analysis"],
 "RoanFourie/STM32F4-DISCO-EMBITZ-Blinky":[2,8992592,"Getting started with the STM32F4-Discovery board using the EmBitz IDE. Blinking the 4 LEDs."],
 "RyanNielson/awesome-unity":[7099,794694,"A curated list of awesome Unity assets, resources, and more."],
-"S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet":[6720,30439198,"A cheat sheet that contains common enumeration and attack methods for Windows Active Directory."],
+"S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet":[6725,30439198,"A cheat sheet that contains common enumeration and attack methods for Windows Active Directory."],
 "SAMA-Communications/sama-server":[158,113907036,"SAMA - Simple but Advanced Messaging Alternative chat server, powered by uWebsockets.js"],
 "Sanqui/2048-gb":[118,289437,"Game Boy and Master System port of 2048"],
 "SantanderMetGroup/climate4R":[143,5774630,"An R Framework for Climate Data Access and Post-processing"],

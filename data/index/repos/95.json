@@ -388,7 +388,7 @@
 "piaohao/godis":[112,2724549,"redis client implement by golang, inspired by jedis."],
 "pinterest/pinball":[1046,541152,"Pinball is a scalable workflow manager"],
 "plasma-disassembler/plasma":[3071,24658830,"Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax."],
-"plotly/plotly.py":[18761,5997976,"The interactive graphing library for Python :sparkles:"],
+"plotly/plotly.py":[18764,5997976,"The interactive graphing library for Python :sparkles:"],
 "postgres-haskell/postgres-wire":[65,24867254,"A native Haskell driver for PostgreSQL"],
 "princeton-vl/infinigen":[7249,29677746,"Infinite Photorealistic Worlds using Procedural Generation"],
 "projectatomic/adb-vagrant-registration":[52,6852258,"A plugin to add \"register\" and \"unregister\" capabilities to Vagrant guests."],

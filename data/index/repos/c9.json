@@ -136,7 +136,7 @@
 "antoine77340/MIL-NCE_HowTo100M":[221,12498846,"PyTorch GPU distributed training code for MIL-NCE HowTo100M"],
 "antznin/zsh-bitbake":[8,37036499,"Zsh completion for bitbake"],
 "apache/dubbo":[41565,47359,"The java implementation of Apache Dubbo. An RPC and microservice framework."],
-"apache/echarts":[67244,47359,"Apache ECharts is a powerful, interactive charting and data visualization library for browser"],
+"apache/echarts":[67246,47359,"Apache ECharts is a powerful, interactive charting and data visualization library for browser"],
 "apache/groovy-geb":[1173,47359,"Apache Geb: Very Groovy Browser Automation"],
 "artemchuikin/youtube-mcp":[0,131875063,"Hosted MCP server that lets AI agents read YouTube: transcripts in 5 formats, search, channels, playlists and 4,000-video batch jobs. 14 tools, free tier."],
 "artemeff/eql":[117,769964,"Erlang with SQL or not"],

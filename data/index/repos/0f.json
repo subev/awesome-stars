@@ -220,7 +220,7 @@
 "etsd-tech/mcp-pointer":[596,229919398,"MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see."],
 "eventflow/EventFlow":[2566,16108117,"Async/await first CQRS+ES and DDD framework for .NET"],
 "evie-calico/evscript":[16,14899090,"An extensible bytecode-based scripting engine for the Game Boy"],
-"exceptionfactory/jagged":[42,20425862,"Java implementation of age encryption"],
+"exceptionfactory/jagged":[43,20425862,"Java implementation of age encryption"],
 "facebookresearch/LAWT":[79,16943930,"Code for papers Linear Algebra with Transformers (TMLR) and What is my Math Transformer Doing? (AI for Maths Workshop, Neurips 2022)"],
 "fawazahmed0/currency-api":[92,20347013,"Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits"],
 "feddelegrand7/savonliquide":[18,28841210,"🧼🧼🧼 Provides a toolbox that allows the user to implement accessibility-related concepts. "],

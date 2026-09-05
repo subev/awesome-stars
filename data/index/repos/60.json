@@ -278,7 +278,7 @@
 "hongtaocai/googlefinance":[831,2100019,"Python module to get real-time stock data from Google Finance API"],
 "hotstreams/limitless-engine":[640,37740577,"OpenGL C++ Graphics Engine"],
 "hustvl/TeViT":[241,45582505,"Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022, Oral"],
-"hyperledger-solang/solang":[1381,182683077,"Solidity Compiler for Solana, Polkadot and Stellar"],
+"hyperledger-solang/solang":[1382,182683077,"Solidity Compiler for Solana, Polkadot and Stellar"],
 "ibhavikmakwana/Fluttery-Filmy":[198,22465800,"🎥 Movie app which is developed using flutter and powered by tmdb."],
 "icholy/ttygif":[4011,943597,"Convert terminal recordings to animated gifs"],
 "idank/explainshell":[14229,1277636,"match command-line arguments to their help text"],

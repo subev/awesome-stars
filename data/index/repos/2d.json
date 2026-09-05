@@ -375,7 +375,7 @@
 "mosra/toolchains":[97,344828,"Toolchains for crosscompiling with CMake."],
 "mpollmeier/gremlin-scala":[477,506752,"[unmaintained] Scala wrapper for Apache TinkerPop 3 Graph DSL"],
 "mrozbarry/hyperapp-router":[21,566486,"A modern router for hyperapp"],
-"mstorsjo/llvm-mingw":[2936,69727,"An LLVM/Clang/LLD based mingw-w64 toolchain"],
+"mstorsjo/llvm-mingw":[2944,69727,"An LLVM/Clang/LLD based mingw-w64 toolchain"],
 "mtouzot/GameBEye":[7,15474304,"A small Python Library to process Game Boy Camera images"],
 "mtully/gitsome":[54,129630,"gitsome is a super simple oh-my-zsh theme, with _some_ git"],
 "n0shake/Public-APIs":[23838,8280282,"📚 A public list of APIs from round the web."],

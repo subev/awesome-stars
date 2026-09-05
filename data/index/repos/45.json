@@ -423,7 +423,7 @@
 "recotana/ArdOSC":[109,61606,"Open Sound Control(OSC) Library for Arduino (tested Arduino 1.0-rc1 & Arduino Ethernet)"],
 "retep998/winapi-rs":[1931,666308,"Rust bindings to Windows API"],
 "reveny/Zygisk-ImGui-Mod-Menu":[71,113244907,"Magisk Module that Injects a ImGui Mod Menu into any game"],
-"rewanthtammana/Damn-Vulnerable-Bank":[756,22347290,"Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills."],
+"rewanthtammana/Damn-Vulnerable-Bank":[757,22347290,"Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills."],
 "rheit/zdoom":[371,4649210,"Highly moddable Doom engine with support for all Doom engine games"],
 "rnelson0/awesome-puppet":[70,1898351,"A curated list of amazingly awesome puppet resources inspired by @bayandin's awesome-awesomeness."],
 "rrroyal/Harbour":[761,23171377,"Docker/Portainer management app for iOS, iPadOS and macOS."],

@@ -241,7 +241,7 @@
 "hatching/vmcloak":[521,42249966,"Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox."],
 "hcs64/neon64v2":[109,857753,"NES Emulation On the N64, 2.0 WIP"],
 "hediet/vscode-debug-visualizer":[8167,2931520,"An extension for VS Code that visualizes data during debugging."],
-"highcharts/highcharts":[12482,15981345,"Highcharts JS, the JavaScript charting framework"],
+"highcharts/highcharts":[12487,15981345,"Highcharts JS, the JavaScript charting framework"],
 "hipeta/arrow-macros":[141,11186311,"Arrow-macros provides Clojure-like arrow macros in Common Lisp"],
 "hitz-zentroa/latxa":[36,129982783,"Latxa: An Open Language Model and Evaluation Suite for Basque"],
 "hoangvvo/nextjs-mongodb-app":[1561,40987398,"A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind."],

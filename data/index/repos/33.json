@@ -381,7 +381,7 @@
 "mwunsch/termscope":[18,30387,"Headless terminal emulator CLI powered by libghostty-vt"],
 "mzohaibqc/antd-amplify-react":[59,13637803,"Ant Design components for Aws Amplify Auth flow. "],
 "neomacs-project/neomacs":[284,126539968,"Structural Lisp IDE/browser/computing environment"],
-"nextcloud/server":[36718,19211038,"☁️ Nextcloud server, a safe home for all your data"],
+"nextcloud/server":[36723,19211038,"☁️ Nextcloud server, a safe home for all your data"],
 "nicokosi/gh-collab-scanner":[7,3862051,"🔎 A GitHub CLI extension that displays collaboration-related information about a GitHub repository."],
 "nijikokun/file-size":[232,198276,"📂 Lightweight filesize to human-readable / proportions w/o dependencies for node.js & browsers."],
 "nilesr/jscl-react":[20,1323220,"A web framework for writing react components in common lisp using jscl"],

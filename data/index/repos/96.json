@@ -416,7 +416,7 @@
 "useago/ago-sdk":[5,178999310,"Create agents that helps your customers right into your apps"],
 "usnistgov/oscal-deep-diff":[44,5330158,"Open Security Controls Assessment Language (OSCAL) Deep Differencing Tool"],
 "uzysjung/UzysCircularProgressPullToRefresh":[340,1260081,"Give Pinterest Like PullToRefresh to any UIScrollView with just simple code"],
-"vega/altair":[10464,11796929,"Declarative visualization library for Python"],
+"vega/altair":[10466,11796929,"Declarative visualization library for Python"],
 "vicious-widgets/vicious":[393,44032253,"Vicious is a modular widget library for the \"awesome\" window manager."],
 "vmagamedov/grpclib":[988,179213,"Pure-Python gRPC implementation for asyncio"],
 "voila-dashboards/voila-gridstack":[239,55792893,"Dashboard template for Voilà based on GridStackJS"],

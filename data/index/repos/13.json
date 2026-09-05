@@ -417,7 +417,7 @@
 "schacon/objective-git":[88,70,"Git Implementation in Objective-C"],
 "scramjetorg/transform-hub":[71,78532992,"Scramjet Platform is a distributed runtime supervisor that can run data processing programs called Sequences and manage local resources on any Linux server, Docker on small edge servers, and even large-scale Kubernetes clusters in the cloud or datacenters without exposing network ports to the public internet."],
 "scrapy/scrapy-lint":[22,733635,"A linter for Scrapy projects."],
-"seahorn/crab":[250,11098044,"A library for building abstract interpretation-based analyses. "],
+"seahorn/crab":[252,11098044,"A library for building abstract interpretation-based analyses. "],
 "seanpowell/Email-Boilerplate":[3791,434700,"The email boilerplate for sending out nicely formatted messages."],
 "sevaho/Powerzeesh":[0,10941956,"Powerline based zsh theme"],
 "shahaf-arica/CuVLER":[16,94783072,"Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers"],

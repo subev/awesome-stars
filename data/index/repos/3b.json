@@ -64,7 +64,7 @@
 "Little-Podi/AiATrack":[128,96873712,"[ECCV'22] The official PyTorch implementation of our ECCV 2022 paper: \"AiATrack: Attention in Attention for Transformer Visual Tracking\"."],
 "LukeFZ/XblContainerReader":[48,17146677,"Library and CLI tool to extract and modify UWP / Xbox Game Pass (containers.index) game saves."],
 "Manu098vm/Tera-Finder":[231,52102823,"PKHeX.Core based program that allows users to view, edit, and calculate Raids and Mass Outbreaks for Pokémon Scarlet & Violet. It is the spiritual successor to SVXoroCalc."],
-"MarinX/agewasm":[116,3714132,"A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm"],
+"MarinX/agewasm":[117,3714132,"A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm"],
 "MaskedRPGFan/Profile-Assistant":[2,112493515,"Mod Organizer 2 plugin that automatically selects a profile and enables/disables mods based on the user's VRAM, system language and screen aspect ratio."],
 "Matan/AssetLoader":[117,184429,"Multi file/asset loader for AS3 built on AS3Signals."],
 "Memnarch/Mundus":[37,1398184,"SoftwareRenderer written in Delphi"],

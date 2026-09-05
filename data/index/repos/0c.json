@@ -37,7 +37,7 @@
 "GaloisInc/haskell-tor":[274,1584774,"A Haskell implementation of the Tor protocol."],
 "GeekLaunch/slides":[2,20895235,"Various slides from various videos"],
 "GoaLitiuM/bindbc-bgfx":[21,4064397,"Dynamic and static D bindings for bgfx"],
-"GrrrDog/Java-Deserialization-Cheat-Sheet":[3182,3898942,"The cheat sheet about Java Deserialization vulnerabilities"],
+"GrrrDog/Java-Deserialization-Cheat-Sheet":[3183,3898942,"The cheat sheet about Java Deserialization vulnerabilities"],
 "GwenLegate/GuidingLastLayerFLPretrain":[9,46829100,"Code for our paper \"Guiding The Last Layer in Federated Learning with Pre-Trained Models\""],
 "H2xDev/GodotVMF":[411,7879594,"Run Valve Hammer (VMF) maps in Godot Engine"],
 "HandsOnLLM/Hands-On-Large-Language-Models":[28906,174106807,"Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""],

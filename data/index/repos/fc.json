@@ -180,7 +180,7 @@
 "bitpay/bitcore-payment-protocol":[36,2554930,"Payment Protocol (BIP70) for Bitcore"],
 "bjarnel/arkit-smb-homage":[258,143145,"An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit."],
 "bolivian-peru/os-moda":[116,22889870,"An operating system built for AI agents — talk to your NixOS server instead of SSH-ing in. Typed, audited tool access with atomic rollback on every change. Research-grade; run it on a disposable box, not production."],
-"bolt/bolt":[4134,3869752,"Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL."],
+"bolt/bolt":[4133,3869752,"Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL."],
 "borzacchiello/seninja":[356,22977771,"symbolic execution plugin for binary ninja"],
 "boussadjra/frontend-toolkit":[83,11801238,"responsive sidebar using vue.js with ability to change theme"],
 "bradarnold/e-tron_OBD2ABRP":[1,6722831,"Rough (around the edges) python script to connect a 2019 Audi e-tron to APRP"],

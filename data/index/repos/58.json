@@ -229,7 +229,7 @@
 "hitchhikr/x68k2amiga":[8,11488317,"An Amiga program made to help convert Sharp X68000 executable files to Amiga executable files for subsequent reversing (also supports various data file formats)"],
 "ialpert/vorpal-as-default":[5,224518,"Plugin for Vorpal that run defined command if no commands where specified previously"],
 "ibrahim-dogan/vita-screen-test":[1,41920662,"vita screen test for oled and lcd screens"],
-"idurar/idurar-erp-crm":[8758,50052356,"Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React"],
+"idurar/idurar-erp-crm":[8760,50052356,"Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React"],
 "igfuw/UWLCM":[11,7115054,"University of Warsaw Lagrangian Cloud Model"],
 "igorseabra4/ShadowCollisionTool":[1,24985289,"BSP collision importer/exporter for Shadow the Hedehog. Importer does not work properly. Deprecated in favor of Heroes Power Plant."],
 "infusion/node-dhcp":[305,197742,"A DHCP server and client written in pure JavaScript"],

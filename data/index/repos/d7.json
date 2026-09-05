@@ -350,7 +350,7 @@
 "notwa/lips":[19,1459466,"MIPS R4300i assembler in Lua"],
 "openiddict/openiddict-core":[5239,13908567,"Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET"],
 "openstack/automaton":[62,324574,"Friendly state machines for python. Mirror of code maintained at opendev.org."],
-"osTicket/osTicket":[3902,371413,"The osTicket open source ticketing system official project repository, for versions 1.8 and later"],
+"osTicket/osTicket":[3905,371413,"The osTicket open source ticketing system official project repository, for versions 1.8 and later"],
 "osmcode/osmcoastline":[124,5110770,"Extracts coastline data from OpenStreetMap planet file."],
 "osrf/gazebo_models":[1308,3999730,"Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org"],
 "ozontech/testo":[150,95622872,"Modular, zero-dependency testing framework for Go. Featuring plugins, suites, parallel tests and much more!"],

@@ -10,7 +10,7 @@
 "AnjieCheng/MnasNet-PyTorch":[275,17675640,"A PyTorch implementation of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile."],
 "Ascend-Huawei/Ascend-Canada":[49,60717767,""],
 "AtomCrafty/yukatool":[37,4553050,"A collection of tools for the \"Yuka System\" visual novel engine"],
-"B3nac/InjuredAndroid":[763,7663357,"A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style."],
+"B3nac/InjuredAndroid":[762,7663357,"A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style."],
 "BatsResearch/nplm":[16,25124856,"A weak supervision framework for (partial) labeling functions"],
 "BindBC/bindbc-opengl":[43,37145119,"Dynamic D bindings to OpenGL, compatible with BetterC, @nogc, and nothrow."],
 "BottlecapDave/HomeAssistant-OctopusEnergy":[999,14993950,"Unofficial Home Assistant integration for interacting with Octopus Energy"],

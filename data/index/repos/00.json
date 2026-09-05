@@ -379,7 +379,7 @@
 "patwhatev/rzh":[2,8410248,"Custom ZSH profile. Git states indicated by emojis "],
 "paul007pl/PointAtrousGraph":[29,6849822,"Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points"],
 "paulyehtw/Lane-Keeping-Assist-on-CARLA":[130,42556900,"Implementing Lane Keeping Assist (LKA) on CARLA simulator"],
-"peass-ng/PEASS-ng":[20438,166005567,"PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)"],
+"peass-ng/PEASS-ng":[20444,166005567,"PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)"],
 "perl5-dbi/DBD-mysql":[67,4020603,"MySQL driver for the Perl5 Database Interface (DBI)"],
 "pic-standard/pic-standard":[31,295964434,"Open standard for Provenance & Intent Contracts (PIC) in AI agents. Verify intent, provenance, and evidence before high-impact tool calls."],
 "piersolenski/skifree.nvim":[18,1285419,"A Neovim plugin inspired by the classic Windows 3.1 game SkiFree"],
