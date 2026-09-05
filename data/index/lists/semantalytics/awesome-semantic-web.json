@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"df1cd7e63447e76f60c04ed02cb00190cc167bb6"},
+"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"4cdf7659171744bb57705481bb33949d6ae07ea9"},
 "members": [
 "rollxx/manchester-syntax-owl2",
 "ontola/hextuples",
@@ -327,6 +327,7 @@
 "field33/owlish",
 "johnstonskj/rust-rdftk",
 "KonradHoeffner/hdt",
+"Blackcat-Informatics/purrdf",
 "banana-rdf/banana-rdf",
 "cosminbasca/jvmrdftools",
 "SANSA-Stack/SANSA-Stack",

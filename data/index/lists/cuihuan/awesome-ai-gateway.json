@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"f5f42dd42ef373af7403b810c34113c9a04d6c9a"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"e1ca5a23b90bae359c4723004913ab1cefe709f3"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -52,6 +52,7 @@
 "geeks-accelerator/ollama-herd",
 "NeuralTrust/TrustGate",
 "Ghost011118/company-ai-hub",
+"siva010928/agnos-proxy-oss",
 "bricks-cloud/BricksLLM",
 "EinStack/glide",
 "Kong/kong",
@@ -61,6 +62,7 @@
 "TheLunarCompany/lunar",
 "krakend/krakend-ce",
 "emissary-ingress/emissary",
+"GetSHIM/shim",
 "songquanpeng/one-api",
 "higress-group/higress",
 "MartialBE/one-hub",
@@ -97,14 +99,14 @@
 "Nexus-Router/nexus",
 "pomerium/pomerium",
 "oomol-lab/open-connector",
-"tsouth89/toolport",
+"btsouth/toolport",
 "OpenRouterTeam/ai-sdk-provider",
 "langchain-ai/langchain",
 "lm-sys/RouteLLM",
 "musistudio/claude-code-router",
 "lidge-jun/opencodex",
 "BlockRunAI/ClawRouter",
-"workweave/router",
+"weave-os/router",
 "CommonstackAI/UncommonRoute",
 "RouteWorks/RouterArena",
 "vllm-project/semantic-router",
@@ -130,12 +132,15 @@
 "MoonshotAI/K2-Vendor-Verifier",
 "toby-bridges/api-relay-audit",
 "cuihuan/modelprobe",
-"smg-project/smg",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",
 "punkpeye/awesome-mcp-servers",
 "mnfst/awesome-free-llm-apis",
 "Runix-lab/ai4s-for-programmers"
+],
+"dropped": [
+["2026-09-05","tsouth89/toolport"],
+["2026-09-05","workweave/router"]
 ]
 }

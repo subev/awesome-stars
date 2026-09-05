@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⛩️ A curated, multilingual, and actively maintained index of the Touhou ecosystem ☯️","defaultBranch":"main","topics":["awesome","awesome-list","bullet-hell","community","curated-list","danmaku","decompilation","fangame","game-modding","game-preservation"],"readmeSha":"0e933a0a68123735cf1854920c0f907809ed7a4f"},
+"meta": {"description":"⛩️ A curated, multilingual, and actively maintained index of the Touhou ecosystem ☯️","defaultBranch":"main","topics":["awesome","awesome-list","bullet-hell","community","curated-list","danmaku","decompilation","fangame","game-modding","game-preservation"],"readmeSha":"54f7521706df7493fe2b66218fca6cae78d0e470"},
 "members": [
 "wearrrrr/9Launcher",
 "spacebanana420/tanuki",
@@ -35,7 +35,8 @@
 "GensokyoClub/th06",
 "some100/th07",
 "N0zoM1z0/th08",
-"GensokyoClub/th08",
+"N0zoM1z0/th08-web",
+"N0zoM1z0/th095",
 "Sharp-X-Team/LuaSTG-Editor-Sharp-X",
 "Legacy-LuaSTG-Engine/LuaSTG-Sub",
 "Sparen/Sparen-DNH-APM",
@@ -65,5 +66,8 @@
 "TartaricAcid/TouhouLittleMaid",
 "N0zoM1z0/touhou-osu-index",
 "execfera/charasort"
+],
+"dropped": [
+["2026-09-05","GensokyoClub/th08"]
 ]
 }

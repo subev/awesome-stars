@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"fd6146c00cca01945c10b9d6d2f35b132b8563fb"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"76d203897d36ccbd1b51e2744ff6ce21ab1f4342"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -191,8 +191,8 @@
 "surge-synthesizer/sst-filters",
 "kmatheussen/mammut",
 "getdunne/juce-MultiStepEnvelopeGenerator",
-"jthorborg/ape",
 "surge-synthesizer/sst-waveshapers",
+"jthorborg/ape",
 "Stenzel/SimpleVocoder",
 "DanielRudrich/OverlappingFFTProcessor",
 "AndrewJJ/ob_HIIR",
@@ -246,8 +246,8 @@
 "kunitoki/popsicle",
 "peersuasive/luce",
 "audiooffler/JucyFluttering",
-"ianacaburian/AbletonLink_JuceSampler",
 "llloret/osmid",
+"ianacaburian/AbletonLink_JuceSampler",
 "tomduncalf/tomduncalf_juce_web_ui",
 "tomduncalf/WebUISynth",
 "DBraun/TD-JUCE",

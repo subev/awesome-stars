@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"4b0f410dbadcf335cd5a108bb40d16119c077eed"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"91f643cc437c72a042432b305331684c1b941841"},
 "members": [
 "ccusage/ccusage",
 "Maciek-roboblog/Claude-Code-Usage-Monitor",
@@ -35,6 +35,7 @@
 "yamadashy/repomix",
 "NVIDIA/RULER",
 "oraios/serena",
+"nikolai-vysotskyi/trace-mcp",
 "anthropics/claude-code",
 "maximhq/bifrost",
 "BerriAI/litellm",
@@ -60,7 +61,7 @@
 "katanemo/plano",
 "ruvnet/ruflo",
 "vllm-project/semantic-router",
-"workweave/router",
+"weave-os/router",
 "firecrawl/firecrawl",
 "valyuAI/valyu-benchmarks",
 "sgl-project/sglang",
@@ -75,7 +76,7 @@
 "Aider-AI/aider",
 "cline/cline",
 "OpenHands/OpenHands",
-"opensquilla/claw-swe-bench",
+"TokenRhythm/claw-swe-bench",
 "xiaowu0162/LongMemEval",
 "supermemoryai/memorybench",
 "promptfoo/promptfoo",
@@ -92,5 +93,9 @@
 "tensorchord/Awesome-LLMOps",
 "punkpeye/awesome-mcp-servers",
 "EthicalML/awesome-production-machine-learning"
+],
+"dropped": [
+["2026-09-05","workweave/router"],
+["2026-09-05","opensquilla/claw-swe-bench"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"095f842abddeec6cfae97d980c9d124aec51f796"},
+"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"440984baeda627c5166b7fd2078fd28abfd4ca07"},
 "members": [
 "YelpArchive/osxcollector",
 "jipegit/OSXAuditor",
@@ -26,6 +26,7 @@
 "dmayer/idb",
 "S3Jensen/iRET",
 "prateek147/DVIA-v2",
+"jankesec/evilcorp-ios",
 "libimobiledevice/libimobiledevice",
 "sensepost/objection",
 "Siguza/imobax",

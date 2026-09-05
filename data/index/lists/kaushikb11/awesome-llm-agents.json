@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"505ba6dc71bfd7633cdfde240380137e6763b2d4"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"5587d653469afb5edfa6908411a712af8b817689"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -19,10 +19,10 @@
 "Josh-XT/AGiXT",
 "trpc-group/trpc-agent-go",
 "openonion/connectonion",
+"rlaope/oh-my-hermes",
 "razzant/ouroboros",
 "wanxingai/LightAgent",
 "agentlas-ai/Agentlas-OS",
-"rlaope/oh-my-hermes",
 "kreneskyp/ix",
 "promptise-com/Foundry",
 "aeonfun/aeon",

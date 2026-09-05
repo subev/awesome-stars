@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides","defaultBranch":"main","topics":["android","android-app","kernelsu","lsposed","magisk","root","apatch","magisk-manager","magisk-module","android-root"],"readmeSha":"1e79306d77f230d64d82c5f0782d1cf098378080"},
+"meta": {"description":"Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides","defaultBranch":"main","topics":["android","android-app","kernelsu","lsposed","magisk","root","apatch","magisk-manager","magisk-module","android-root"],"readmeSha":"27119547927f654365c31b27a2b9f6f84b6d606e"},
 "members": [
 "Droid-ify/client",
 "topjohnwu/Magisk",
@@ -36,10 +36,11 @@
 "Dr-TSNG/ZygiskNext",
 "JingMatrix/NeoZygisk",
 "PerformanC/ReZygisk",
+"sidex15/susfs4ksu-module",
 "rrr333nnn333/BRENE",
+"ahmed-alnassif/ReSuSFS",
 "frknkrc44/HMA-OSS",
 "JingMatrix/TEESimulator",
-"sidex15/susfs4ksu-module",
 "LSPosed/LSPosed.github.io",
 "evoker0/AlwaysStrong",
 "flipphoneguy/DirtySepolicy_Bypass",
@@ -267,7 +268,7 @@
 "oasisfeng/island",
 "Rev4N1/GPhotosUnlimited",
 "hxreborn/amznkiller",
-"Xposed-Modules-Repo/com.niki914.nexus.agentic",
+"Xposed-Modules-Repo/com.niki914.zafiro",
 "lllucccian/Deekseep",
 "Crazyphil/digitales-amt-liberator",
 "dumbasPL/EDS-NG-crack",
@@ -320,6 +321,7 @@
 "libingtong/WePadBridge",
 "Xposed-Modules-Repo/com.skyhand.sinahelper",
 "Dev4Mod/WaEnhancer",
+"Xposed-Modules-Repo/com.waenhancer",
 "RevealedSoulEven/WAPlusXposed",
 "ayane-04/wathemer",
 "crimera/piko",
@@ -505,6 +507,7 @@
 "Xposed-Modules-Repo/com.strawing.duckdevicepolicy",
 "backslashxx/ksu_toolkit",
 "Mrakorez/py2droid",
+"mzggr0914/SideWire-KernelSU",
 "evdenis/selinux_permissive",
 "HmnDev-Tech/shevery",
 "RikkaApps/Shizuku",
@@ -542,6 +545,7 @@
 "dropped": [
 ["2026-08-29","servant1228/XposedFluidCloud"],
 ["2026-08-29","niki914/agentic-nexus"],
-["2026-08-29","mubashardev/WaEnhancer"]
+["2026-08-29","mubashardev/WaEnhancer"],
+["2026-09-05","Xposed-Modules-Repo/com.niki914.nexus.agentic"]
 ]
 }

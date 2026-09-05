@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"bf733bc72d71d184986ddb4b32799d03996484d6"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"a2b8f6de1c79ea4ec37236ffdd9639b3e8390906"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -67,6 +67,8 @@
 "TraberSoftware/Unleasharp.DB.DuckDB",
 "nnnkkk7/snowflake-emulator",
 "skuirrels/DuckDB.EFCoreProvider",
+"mattf96s/QuackDB",
+"caioricciuti/duck-ui",
 "StructuredLabs/preswald",
 "medama-io/medama",
 "joinery-labs/joinery",
@@ -77,6 +79,7 @@
 "achristmascarl/rainfrog",
 "DSandovalFlavio/AmoxSQL",
 "denisotree/tuitab",
+"libredb/libredb-studio",
 "matsonj/nba-monte-carlo",
 "datonic/datadex",
 "dcaribou/transfermarkt-datasets",

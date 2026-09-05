@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"875fcae3ede6402cb46560617ab5d24a8bde381a"},
+"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"5a50437225371c3121121dd3b2267c7f6ac6bcda"},
 "members": [
 "planetjekyll/awesome-jekyll",
 "planetjekyll/awesome-jekyll-themes",
@@ -105,6 +105,7 @@
 "ahalbert/jekyll-series-links",
 "jchance/jekyll-callout",
 "jchance/jekyll-timeline",
+"jchance/jekyll-color-copy-tag",
 "skatkov/jekyll-news-sitemap",
 "jekyll/jekyll-seo-tag",
 "jekyll/jekyll-sitemap",
@@ -118,6 +119,7 @@
 "hendrikschneider/jekyll-analytics",
 "FastComments/fastcomments-jekyll",
 "jchance/jekyll-webmentions-static",
+"webmilmind1/jekyll-deskcrew",
 "yihangho/emoji-for-jekyll",
 "ivantsepp/jekyll-autolink_email",
 "ivantsepp/jekyll-git_metadata",

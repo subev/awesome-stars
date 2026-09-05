@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome projects and resources related to Argo (a CNCF graduated project)","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","argocd","argo-workflows","argo-events","argo-rollouts","machine-learning","workflow-engine","workflow-management"],"readmeSha":"c105f3f8cebca7dd1ff0390dbb9584100b501526"},
+"meta": {"description":"A curated list of awesome projects and resources related to Argo (a CNCF graduated project)","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","argocd","argo-workflows","argo-events","argo-rollouts","machine-learning","workflow-engine","workflow-management"],"readmeSha":"3d298bbad75280f32b542dba6224fde07b066d26"},
 "members": [
 "argoproj-labs/argocd-agent",
 "argoproj-labs/argocd-autopilot",
@@ -23,6 +23,7 @@
 "adinhodovic/argo-cd-mixin",
 "shini4i/argo-watcher",
 "int128/argocd-commenter",
+"drumandbytes/argocd-gitops-updater-action",
 "crumbhole/argocd-lovely-plugin",
 "jannfis/argocd-nutshell",
 "mziyabo/argocd-trivy-extension",

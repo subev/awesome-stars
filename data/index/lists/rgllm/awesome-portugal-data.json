@@ -1,8 +1,9 @@
 {
-"meta": {"description":"🇵🇹 Lista de repositórios de dados abertos em Portugal","defaultBranch":"trunk","topics":["awesome","dados-abertos","open-data","portugal"],"readmeSha":"2e36c2bd757f3f71a0211fc20fe9d17f2bce6a93"},
+"meta": {"description":"🇵🇹 Lista de repositórios de dados abertos em Portugal","defaultBranch":"trunk","topics":["awesome","dados-abertos","open-data","portugal"],"readmeSha":"25911b80a313c72ffcc35735f7795daaf011ebd5"},
 "members": [
 "sindresorhus/awesome",
 "juliuste/comboios",
+"iotechpis/geoapi.pt",
 "glima93/data_exams_06_18_PT",
 "codecadre/imt-school-addresses",
 "codecadre/imt-pass-rates",

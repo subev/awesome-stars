@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"1492b4ad94ae2133db0c4114d9512eae79a976a3"},
+"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"a9f94ba548873cbe33f766c84a22ae026044bd65"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "EthicalML/awesome-production-machine-learning",
@@ -45,7 +45,7 @@
 "SWE-agent/SWE-agent",
 "langchain-ai/langchain",
 "openinterpreter/openinterpreter",
-"QuivrHQ/quivr",
+"The-Vibe-Company/quivr",
 "microsoft/graphrag",
 "run-llama/llama_index",
 "infiniflow/ragflow",
@@ -76,5 +76,8 @@
 "assistant-ui/assistant-ui",
 "open-webui/open-webui",
 "vercel/ai"
+],
+"dropped": [
+["2026-09-05","QuivrHQ/quivr"]
 ]
 }

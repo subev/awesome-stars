@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Mutation testing resources: how to make better code by introducing bugs","defaultBranch":"main","topics":["mutation-testing","mutation-analysis","awesome","awesome-list"],"readmeSha":"05b6f136a7751940b524b575f6f36a414445b0ff"},
+"meta": {"description":"Mutation testing resources: how to make better code by introducing bugs","defaultBranch":"main","topics":["mutation-testing","mutation-analysis","awesome","awesome-list"],"readmeSha":"0fe14e8bb9b11e99690932fead86ee73617a4a46"},
 "members": [
 "kaiyuanw/MuAlloy",
 "gpetiot/Frama-C-Mutation",

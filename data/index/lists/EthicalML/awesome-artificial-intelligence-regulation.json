@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"18dbfbd7ba143de885f50eb69dd1d35f9082de02"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"ae6139e1ae46945e1d3ca6dddb7fab70ab6f11fb"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",

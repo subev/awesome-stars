@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome directed fuzzing research papers","defaultBranch":"master","topics":["awesome","awesome-list","fuzzing","fuzz-testing","paper-list","research-paper","testing"],"readmeSha":"bfbc4d153897a0b105fb8e738df88658be3b0d4a"},
+"meta": {"description":"A curated list of awesome directed fuzzing research papers","defaultBranch":"master","topics":["awesome","awesome-list","fuzzing","fuzz-testing","paper-list","research-paper","testing"],"readmeSha":"643056da1e11c62cbab3b42041ecc35c844c0e3d"},
 "members": [
 "sindresorhus/awesome",
 "zongpy/FuzzGuard",
@@ -23,8 +23,8 @@
 "shioya-lab-public/surgefuzz",
 "NESA-Lab/WAFLGo",
 "prosyslab/evaluating-directed-fuzzing-artifact",
-"Siyuan-Li201/TransferFuzz",
 "wsbrg/crashminer",
+"Siyuan-Li201/TransferFuzz",
 "xiaobaozidi/Lysofuzzing",
 "vul337/IDFuzz",
 "vusec/libaflgo",

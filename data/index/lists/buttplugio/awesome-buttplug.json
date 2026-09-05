@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of awesome projects that use the Buttplug Sex Toy Control Library","defaultBranch":"buttplugs","topics":[],"readmeSha":"ae1389f8cbbd74cd32efd92b6dc7433251ffceb9"},
+"meta": {"description":"A list of awesome projects that use the Buttplug Sex Toy Control Library","defaultBranch":"buttplugs","topics":[],"readmeSha":"ce75b52d82cf1275d931361d5b31fd819cbb7bb0"},
 "members": [
 "intiface/intiface-central",
 "intiface/buttplug-playground",
@@ -103,6 +103,7 @@
 "buttplugio/buttplug-unity",
 "RemotelyChaotic/JOIPEngine",
 "Das-L1/Buttplug-Says",
+"ashy0019/HapticScape",
 "SuhEugene/plug13",
 "Grinless/StealthWank",
 "SaekoM/Fap-Hero-Journey",
@@ -121,7 +122,6 @@
 "NoGRo/FallenAngelHandy",
 "RonSijm/ButtFish",
 "FrostyX/crooked-rook",
-"MinLL/GameInterfaceForToys",
 "bananasov/LethalVibrations",
 "qdot/CultOfTheButtplug",
 "fionafibration/team-frotress-2",
@@ -296,5 +296,8 @@
 "EnyoFembycat/ButtGrep",
 "jupytergirl/Lewdbot",
 "nekowinston/intiface-nix"
+],
+"dropped": [
+["2026-09-05","MinLL/GameInterfaceForToys"]
 ]
 }
