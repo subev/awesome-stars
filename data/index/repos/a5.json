@@ -248,7 +248,7 @@
 "forest-lang/forest-compiler":[626,33147843,"A multi-syntax functional programming language that compiles to WebAssembly."],
 "fox-it/cobaltstrike-beacon-data":[135,468621,"Open Dataset of Cobalt Strike Beacon metadata (2018-2022)"],
 "fredlangva/WGPU-Tut":[0,3058600,"WGPU tutorial code"],
-"fundamentalvision/Deformable-DETR":[4018,73570755,"Deformable DETR: Deformable Transformers for End-to-End Object Detection."],
+"fundamentalvision/Deformable-DETR":[4021,73570755,"Deformable DETR: Deformable Transformers for End-to-End Object Detection."],
 "fungtion/DANN":[949,10267392,"pytorch implementation of Domain-Adversarial Training of Neural Networks"],
 "gaelforget/ClimateModels.jl":[47,20276764,"Julia interface to climate models + tracked workflow framework"],
 "garywill/BigSearch":[272,32130780,"Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往"],

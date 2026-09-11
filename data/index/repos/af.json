@@ -178,7 +178,7 @@
 "datagym-ai/datagym-core":[51,58731790,"Open source annotation and labeling tool for image and video assets"],
 "decoderesearch/SAELens":[1523,171188773,"Training Sparse Autoencoders on Language Models"],
 "decompfrontier/client":[11,131216654,"Decompilation of Brave Frontier client"],
-"deep-floyd/IF":[7801,101987939,""],
+"deep-floyd/IF":[7799,101987939,""],
 "dennybiasiolli/react-vuex":[69,11649463,"React bindings for Vuex, react-redux style"],
 "dennykim123/claude-codex-battery":[103,169384631,"macOS menu bar widget showing Claude Code & Codex usage limits as battery icons 🔋"],
 "dereuromark/cakephp-geo":[51,39854,"A CakePHP plugin around geocoding tools and helpers."],

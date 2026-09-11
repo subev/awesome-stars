@@ -344,7 +344,7 @@
 "microsoft/react-native-code-push":[9126,6154722,"React Native module for CodePush"],
 "mirumee/ariadne":[2342,170574,"Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee"],
 "mit-dci/lit":[550,14434738,"Lightning Network node software"],
-"modelcontextprotocol/inspector":[10829,182288589,"Visual testing tool for MCP servers"],
+"modelcontextprotocol/inspector":[10863,182288589,"Visual testing tool for MCP servers"],
 "moyiz/command-and-cursor.nvim":[24,8603313,"Highlight cursor and visual selections in current buffer when entering command mode."],
 "moyiz/git-dev.nvim":[114,8603313,"Open remote git repositories in the comfort of Neovim."],
 "moyu6027/pytest-ui-automatic":[18,20128427,"两种模式playwright与selenium结合的基于pytest的web ui测试框架, 支持page object与screen play双测试模型, BDD最佳实践的测试实现"],

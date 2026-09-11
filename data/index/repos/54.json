@@ -127,7 +127,7 @@
 "Turbo87/flat-projection-rs":[20,141300,"Fast geodesic distance approximations via flat surface projection"],
 "VincentNLOBJ/Ninja_Extractor":[8,71412899,"Extract .nj / .njm / .njl / .njd files"],
 "YifanXu74/Evo-ViT":[73,41295724,"Official implement of Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer"],
-"YingfanWang/PaCMAP":[1019,56569519,"PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure"],
+"YingfanWang/PaCMAP":[1020,56569519,"PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure"],
 "ZerBea/hcxtools":[2438,17742243,"A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. "],
 "a2lix/TranslationFormBundle":[337,1886843,"Ease translations with some dedicated Symfony form types"],
 "aave/aip":[102,47617460,"Aave Improvement Proposals"],
@@ -381,7 +381,7 @@
 "nativeapptemplate/nativeapptemplateapi":[14,183958881,"Rails 8.1 API backend for NativeAppTemplate iOS/Android mobile applications"],
 "nazipov/ip2location-elixir":[17,4143936,"An Elixir library for the IP2Location database"],
 "ndmitchell/hlint":[1610,1651197,"Haskell source code suggestions"],
-"neovim/neovim":[102270,6471485,"Vim-fork focused on extensibility and usability"],
+"neovim/neovim":[102277,6471485,"Vim-fork focused on extensibility and usability"],
 "niston/TextureScan":[5,9382181,"Scans folders for DDS textures with abnormal dimensions"],
 "niuiic/typst-preview.nvim":[49,63799565,"Neovim plugin to preview typst document."],
 "nix-community/comma":[1759,33221035,"Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]"],
@@ -503,7 +503,7 @@
 "xyncro/aether":[182,457142,"Optics for F#"],
 "yoheimuta/protolint":[699,1223268,"A pluggable linter and fixer to enforce Protocol Buffer style and conventions. "],
 "yt-dlp/yt-dlp":[190445,79589310,"A feature-rich command-line audio/video downloader"],
-"yugabyte/yugabyte-db":[10528,17074854,"YugabyteDB - the cloud native distributed SQL database for mission-critical applications."],
+"yugabyte/yugabyte-db":[10529,17074854,"YugabyteDB - the cloud native distributed SQL database for mission-critical applications."],
 "zakariaGatter/markedit":[7,14163846,"very simple BASH ; ZSH Plugin to mark Files and Edit them"],
 "zalando/tailor":[1736,1564818,"A streaming layout service for front-end microservices"],
 "zeas2/Kirikiroid2":[2929,5348007,""],
@@ -512,5 +512,5 @@
 "zhihongz/INFWIDE":[24,55449576,"INFWIDE: Image and Feature Space Deep Wiener Deconvolution for Non-blind Image Deblurring in Low-Light Conditions"],
 "zhuzilin/whisper-openvino":[185,10428324,"openvino version of openai/whisper"],
 "ziofil/QuantumGraphs":[20,8944955,"A python package for growing random graphs using quantum random walks"],
-"zombieCraig/ICSim":[977,569845,"Instrument Cluster Simulator"]
+"zombieCraig/ICSim":[979,569845,"Instrument Cluster Simulator"]
 }

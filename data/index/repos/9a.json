@@ -326,7 +326,7 @@
 "mlr-org/mlr":[1686,12941794,"Machine Learning in R "],
 "mmontone/slime-star":[62,436110,"SLIME configuration with some extensions pre-installed."],
 "mohirio/jupyterlab-horizon-theme":[97,29782314,"VSCode Horizon Theme port for JupyterLab"],
-"moonglow/pcan_cantact":[437,1655387,":robot: XCAN firmware for CANtact ( CANable ) or any other similar boards."],
+"moonglow/pcan_cantact":[438,1655387,":robot: XCAN firmware for CANtact ( CANable ) or any other similar boards."],
 "moosefs/moosefs":[2001,1445914,"MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage"],
 "mortzdk/Websocket":[204,2938444,"WSServer is a fast, configurable, and extendable WebSocket Server for UNIX systems written in C (C11)."],
 "mozilla/unicode-slugify":[325,131524,"A slugifier that works in unicode"],

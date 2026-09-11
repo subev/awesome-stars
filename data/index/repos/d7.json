@@ -360,7 +360,7 @@
 "patractlabs/europa":[76,69208166,"A sandbox to run and debug smart contracts for FRAME Contracts pallet and also a sandbox framework for Substrate runtime."],
 "pete001/eos-bp-failover":[32,410428,"EOS Block Producer Failover Scripts"],
 "piffd0s/Defcon-Dreamcast-Planetweb-Research":[1,7329476,"exploit chains and code for my defcon video game hacking village planetweb research"],
-"pingcap/tidb":[40512,11855343,"TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling."],
+"pingcap/tidb":[40514,11855343,"TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling."],
 "pinguinjkeke/vue-local-storage":[669,10704892,"Vue.js localStorage plugin with types support"],
 "pion/srtp":[141,38192892,"A Go implementation of SRTP"],
 "plori-ai/plori":[0,299701989,"plori (plori.ai): a cloud AI agent with its own persistent environment - durable disk, real CLI tools, and memory. Connect any MCP client."],

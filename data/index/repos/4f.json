@@ -261,7 +261,7 @@
 "google-research/generative_transfer":[25,43830688,""],
 "googleapis/google-api-ruby-client":[2898,16785467,"REST client for Google APIs"],
 "grantbuster/buster_zsh_theme":[3,12700356,"A custom zsh theme."],
-"graspnet/anygrasp_sdk":[987,66550349,""],
+"graspnet/anygrasp_sdk":[993,66550349,""],
 "gruhn/regex-utils":[34,26570572,"TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching."],
 "hasib32/rest-api-with-lumen":[483,4269203,"Rest API boilerplate for Lumen micro-framework."],
 "hasura/eff":[560,13966722,"🚧 a work in progress effect system for Haskell 🚧"],

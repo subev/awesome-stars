@@ -135,7 +135,7 @@
 "apache/tomcat":[8248,47359,"Apache Tomcat"],
 "apolukhin/magic_get":[216,1700098,"std::tuple like methods for user defined types without any macro or boilerplate code"],
 "appbrewery/Xylophone-iOS13":[115,21276601,"Learn Autolayout by Building a Musical Instrument - The Complete iOS Development Bootcamp"],
-"archinetai/audio-diffusion-pytorch":[2096,103902994,"Audio generation using diffusion models, in PyTorch."],
+"archinetai/audio-diffusion-pytorch":[2095,103902994,"Audio generation using diffusion models, in PyTorch."],
 "arogozhnikov/einops":[9593,6318811,"Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)"],
 "arslanbilal/git-cheat-sheet":[7447,5616595,":octocat: git and git flow cheat sheet"],
 "arteymix/numeric-glib":[8,1318477,"Numeric data types for GLib via GCC extensions"],

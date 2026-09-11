@@ -310,7 +310,7 @@
 "joomcode/errorx":[1270,7813520,"A comprehensive error handling library for Go"],
 "josephjunker/static-land-recursion-schemes":[22,1519098,"Javascript recursion schemes compatible with flow-static-land"],
 "joshaber/SwiftBox":[805,13760,"Flexbox in Swift, using Facebook's css-layout."],
-"jqlang/jq":[35583,104800540,"Command-line JSON processor"],
+"jqlang/jq":[35584,104800540,"Command-line JSON processor"],
 "jsar-project/runtime":[86,186536938,"JSAR: browser engine library designed for the Spatial Web. You can use it to mix-render different modern Web 2D and 3D contents together."],
 "jsdom/jsdom":[21678,9271229,"A JavaScript implementation of various web standards, for use with Node.js"],
 "jserv/mini-arm-os":[1254,478921,"Build a minimal multi-tasking OS kernel for ARM from scratch"],

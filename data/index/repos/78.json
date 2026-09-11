@@ -237,7 +237,7 @@
 "facebookresearch/ConvNeXt":[6414,16943930,"Code release for ConvNeXt model"],
 "facundoolano/app-store-scraper":[1420,1040941,"scrape data from the itunes app store"],
 "fafalios/sparql-ld":[18,7680464,"SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data"],
-"firecow/gitlab-ci-local":[4077,973602,"Tired of pushing to test your .gitlab-ci.yml?"],
+"firecow/gitlab-ci-local":[4085,973602,"Tired of pushing to test your .gitlab-ci.yml?"],
 "fisxoj/json-schema":[18,1530842,"JSON Schema validation"],
 "flanglet/kanzi-cpp":[228,1210759,"Fast lossless data compression in C++"],
 "florimondmanca/asgi-htmx":[69,15911462,"HTMX integration for ASGI applications"],

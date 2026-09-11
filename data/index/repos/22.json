@@ -45,7 +45,7 @@
 "HendrixString/Hendrix-HttP-AiR":[12,10164134,"a lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp"],
 "Homebrew/homebrew-cask":[22195,1503512,"🍻 Default casks (upstream binary packages) for the package manager for everywhere"],
 "Hoyotoon/Hoyo2VRC":[109,186229891,"A Blender addon to convert Hoyoverse models to VRChat"],
-"HuCaoFighting/Swin-Unet":[2418,37317664,"[ECCVW 2022] The codes for the work \"Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation\""],
+"HuCaoFighting/Swin-Unet":[2419,37317664,"[ECCVW 2022] The codes for the work \"Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation\""],
 "IBM/MAX-Audio-Embedding-Generator":[58,1459110,"Generate embedding vectors from audio files"],
 "IBM/plex":[11638,1459110,"The package of IBM’s typeface, IBM Plex."],
 "Icelain/jokeapi":[27,50962640,"Official golang wrapper for Sv443's jokeapi."],

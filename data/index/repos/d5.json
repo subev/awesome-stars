@@ -331,7 +331,7 @@
 "mahmoudimus/ida-sigmaker":[217,40820,"sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard operand patterns, nibbles, and signature generation just by right clicking."],
 "mailgun/talon":[1342,447686,""],
 "mapbox/mapbox-gl-language":[204,600935,"Switch language of your Mapbox GL JS style"],
-"martinblech/xmltodict":[5754,78768,"Python module that makes working with XML feel like you are working with JSON"],
+"martinblech/xmltodict":[5755,78768,"Python module that makes working with XML feel like you are working with JSON"],
 "martinus/nanobench":[1737,14386,"Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20"],
 "martuscellifaria/ahoicpp.nvim":[6,50642851,"Ahoi Labs C++ Project Scaffolding plugin for Neovim"],
 "mathis2001/Cert4Recon":[25,40497633,"Simple passive Python Recon tool for subdomains enumeration with crt.sh"],

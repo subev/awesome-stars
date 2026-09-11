@@ -128,7 +128,7 @@
 "asheshgoplani/agent-deck":[870,36273585,"Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more."],
 "awakesecurity/spectacle":[182,9668725,"Embedded specification language & model checker in Haskell"],
 "awslabs/amazon-kinesis-client-net":[62,3299148,"This package provides an interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon for the .NET Framework."],
-"ayonga/frost-dev":[169,2321166,"Fast Robot Optimization and Simulation Toolkit (FROST)"],
+"ayonga/frost-dev":[170,2321166,"Fast Robot Optimization and Simulation Toolkit (FROST)"],
 "azmenak/material-ui-nested-menu-item":[76,859321,"Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover"],
 "bangumi/scripts":[327,7521082,"Userscripts for Bangumi / 用于 Bangumi 的用户脚本"],
 "beeradmoore/dlss-swapper":[7122,904737,""],

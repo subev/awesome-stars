@@ -213,7 +213,7 @@
 "encounter/dtk-template":[75,549122,"Project template for decomp-toolkit"],
 "ermig1979/Simd":[2268,11633100,"C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON, SVE for ARM, HVX for Hexagon"],
 "es-shims/Array.prototype.some":[2,6288429,"Array.prototype.some spec-compliant polyfill"],
-"evergreen-ci/evergreen":[450,10089490,"A Distributed Continuous Integration System from MongoDB"],
+"evergreen-ci/evergreen":[449,10089490,"A Distributed Continuous Integration System from MongoDB"],
 "excid3/madmin":[760,67093,"A robust Admin Interface for Ruby on Rails apps"],
 "f4ww4z/mcp-mysql-server":[168,21199242,"A Model Context Protocol server for MySQL database operations"],
 "facebookresearch/MetaCLIP":[1853,16943930,"NeurIPS 2025 Spotlight; ICLR2024 Spotlight; CVPR 2024; EMNLP 2024"],

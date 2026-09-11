@@ -407,7 +407,7 @@
 "open-contracting-extensions/european-union":[10,37728062,"OCDS for the European Union"],
 "opendatalab-de/geojson-jackson":[276,4950847,"GeoJson POJOs for Jackson - serialize and deserialize objects with ease"],
 "openpbs/openpbs":[805,60656675,"An HPC workload manager and job scheduler for desktops, clusters, and clouds."],
-"openxc/isotp-c":[360,1095941,"An implementation of the ISO-TP (ISO15765-2) CAN protocol in C"],
+"openxc/isotp-c":[361,1095941,"An implementation of the ISO-TP (ISO15765-2) CAN protocol in C"],
 "ostrost/ostent":[178,8535739,"Ostent is a server tool to collect, display and report system metrics."],
 "oxigraph/oxigraph":[1876,64649343,"SPARQL graph database"],
 "pajaydev/lasso-analyzer":[4,21375014," 📊 Analyzing bundles created by Lasso js."],

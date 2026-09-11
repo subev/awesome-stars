@@ -377,7 +377,7 @@
 "necraidan/ngx-lightbox":[0,1424833,""],
 "nelmio/NelmioApiDocBundle":[2368,460596,"Generates documentation for your REST API from attributes"],
 "nemke82/magento2gitpod":[55,22136088,"Magento 2 optimized setup for ona.com (former GitPod) workspace -- Nginx, MySQL, PHP, PHP-FPM, and a lot more..."],
-"neoclide/coc.nvim":[25167,23586922,"Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers."],
+"neoclide/coc.nvim":[25162,23586922,"Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers."],
 "netarchivesuite/jwat":[4,1866332,"Java Web Archive Toolkit"],
 "nf-core/viralrecon":[165,35520196,"Assembly and intrahost/low-frequency variant calling for viral samples"],
 "nfc-tools/mfoc":[1427,6201210,"Mifare Classic Offline Cracker"],

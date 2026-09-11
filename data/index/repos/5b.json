@@ -356,7 +356,7 @@
 "matbor/arduinoTemps2mqtt":[14,1978503,"Arduino, grab Onewire Temperature's and publish to a mqtt broker."],
 "maynetee/codeselect":[236,182379803,"A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT. Analyzes file relationships and generates context-rich output."],
 "mchong6/JoJoGAN":[1438,20831135,"Official PyTorch repo for JoJoGAN: One Shot Face Stylization"],
-"mdeff/cnn_graph":[1366,6806065,"Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering"],
+"mdeff/cnn_graph":[1367,6806065,"Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering"],
 "melusina-org/make-common-lisp-program":[5,83398368,"GitHub action to make an executable Common Lisp program"],
 "metachris/pdfx":[1076,116939,"Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs."],
 "microsoft/language-server-protocol":[13006,6154722,"Defines a common protocol for language servers."],

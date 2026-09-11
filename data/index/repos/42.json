@@ -352,7 +352,7 @@
 "mbostock/rollup-plugin-ascii":[12,230541,"Rewrite JavaScript to escape any non-ASCII characters in string literals."],
 "mchakravarty/BigPixel":[140,709989,"Pixel art for games"],
 "meerasndr/sample-golang-app":[0,38532591,"Sample Golang app to demonstrace OpenTelemetry instrumentation"],
-"megvii-research/NAFNet":[3153,55734206,"The state-of-the-art image restoration model without nonlinear activation functions."],
+"megvii-research/NAFNet":[3160,55734206,"The state-of-the-art image restoration model without nonlinear activation functions."],
 "meh2481/SKDecompress":[3,812119,"Rips images from Yacht Club .anb animation files"],
 "memononen/nanovg":[5703,5249992,"Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations."],
 "mewwts/addict":[2544,1848670,"The Python Dict that's better than heroin."],

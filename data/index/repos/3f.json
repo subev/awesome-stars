@@ -433,7 +433,7 @@
 "stripe/stripe-php":[4020,856813,"PHP library for the Stripe API.    "],
 "sullo/nikto":[10722,1474884,"Nikto web server scanner"],
 "swisskyrepo/HardwareAllTheThings":[945,12152583,"Hardware/IOT Pentesting Wiki"],
-"systemd/systemd":[16677,1918868,"The systemd System and Service Manager "],
+"systemd/systemd":[16678,1918868,"The systemd System and Service Manager "],
 "szegedai/hun-appointment-chatbot":[7,77381646,"A simple chatbot to schedule an appointment in Hungarian."],
 "teflon07/memkeeper":[2,261611586,"Local-first, deterministic memory store for AI agents: SQLite-backed BM25 with optional local ONNX semantic search and cross-encoder rerank, graph projection, and an MCP adapter. No required network or LLM."],
 "teodly/inferno":[327,25904090,"[MIRROR] unofficial implementation of Dante protocol (Audio over IP)"],

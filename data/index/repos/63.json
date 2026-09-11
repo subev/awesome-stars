@@ -47,7 +47,7 @@
 "HenryCilence/Broker-Modality-Crowd-Counting":[18,84912638,"Official Implement of ECCV 2024 paper \"Multi-modal Crowd Counting via a Broker Modality\""],
 "Hintay/PS-HuneX_Tools":[31,1146488,"Incomplete set of tools for MRG/MZX based engine"],
 "HoplaGeiss/ngx-dialog-forge":[1,5755785,"Declarative, signals-native Angular dialog library built on the native <dialog> element — zero dependencies, CSS-only theming, fully accessible."],
-"ICRAR/ijson":[1093,1192804,"Iterative JSON parser with Pythonic interfaces"],
+"ICRAR/ijson":[1094,1192804,"Iterative JSON parser with Pythonic interfaces"],
 "IDEA-Research/detrex":[2308,113572103,"detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks."],
 "Idov31/Venom":[397,62358580,"Venom is a library that meant to perform evasive communication using stolen browser socket"],
 "IsaacAneek/avr-resources":[0,81284474,"A curated list of resources to learn AVR Atmega328p"],

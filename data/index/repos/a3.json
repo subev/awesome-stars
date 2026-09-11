@@ -328,7 +328,7 @@
 "marcoancona/DeepExplain":[759,2278117,"A unified framework of perturbation and gradient-based attribution methods for Deep Neural Networks interpretability. DeepExplain also includes support for Shapley Values sampling. (ICLR 2018)"],
 "mariusbuescher/node-composer":[6,4403491,"composer plugin for a better frontend setup"],
 "math-comp/math-comp":[696,11424151,"Mathematical Components"],
-"mattt/emcee":[332,7659,"MCP generator for OpenAPIs 🫳🎤💥"],
+"mattt/emcee":[333,7659,"MCP generator for OpenAPIs 🫳🎤💥"],
 "mdaines/viz-js":[4347,1383,"Graphviz in your browser"],
 "michaeldorman/nngeo":[82,9386655,"k-Nearest Neighbor Join for Spatial Data"],
 "microsoft/dicom-server":[513,6154722,"OSS Implementation of DICOMweb standard"],

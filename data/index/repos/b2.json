@@ -248,7 +248,7 @@
 "erkin/ponysay":[1320,591669,"Pony rewrite of cowsay."],
 "esin/kubectlsafe":[42,69767,"Safe operations in kubectl with plugin kubectlsafe"],
 "espnet/espnet":[9955,34493687,"End-to-End Speech Processing Toolkit"],
-"ezelf/CVE-2018-9995_dvr_credentials":[557,15113645,"(CVE-2018-9995) Get DVR Credentials"],
+"ezelf/CVE-2018-9995_dvr_credentials":[558,15113645,"(CVE-2018-9995) Get DVR Credentials"],
 "f14XuanLv/github-pr-stats":[13,121799454,"📊 Showcase your open source contributions with beautiful SVG tables. Display your merged PRs from prestigious projects."],
 "fastapi/typer":[19969,156354296,"Typer, build great CLIs. Easy to code. Based on Python type hints."],
 "fastrgv/Portable-OpenAL-Sound":[1,6438881,"A partial thick Ada binding to OpenAL; essentially a sound-playing utility for Ada apps."],

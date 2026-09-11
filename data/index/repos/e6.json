@@ -340,7 +340,7 @@
 "naughtygopher/webgo":[309,183380889,"A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc)."],
 "naver/poc":[22,6589568,"Code for the paper \"Placing Objects in Context via Inpainting for Out-of-distribution Segmentation\", ECCV 2024"],
 "nek023/Lin":[1219,1830355," Xcode plugin that provides auto-completion for NSLocalizedString."],
-"neovim/nvim-lspconfig":[13938,6471485,"Quickstart configs for Nvim LSP"],
+"neovim/nvim-lspconfig":[13940,6471485,"Quickstart configs for Nvim LSP"],
 "netmute/foldsigns.nvim":[6,574582,"Adds foldmarkers as signs"],
 "netresearch/go-cron":[64,151247,"Go cron job scheduler — drop-in replacement for robfig/cron with runtime updates, resilience middleware, and active maintenance"],
 "nix-community/npmlock2nix":[147,33221035,"nixify npm based packages [maintainer=@andir] "],

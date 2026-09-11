@@ -360,7 +360,7 @@
 "raziman18/gomu":[212,50593529,"golang TUI music player"],
 "rdbende/Forest-ttk-theme":[464,77941087,"A beautiful modern theme for ttk, inspired by MS Excel's look 🌲🌳"],
 "react-bootstrap/react-bootstrap":[22601,6853419,"Bootstrap components built with React"],
-"reflex-frp/reflex":[1115,11824260,"Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse."],
+"reflex-frp/reflex":[1116,11824260,"Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse."],
 "relay-tools/relay-local-schema":[252,14005671,"Use Relay without a GraphQL server"],
 "ricardoferreirades/angular-translation-checker":[3,7657372,"A comprehensive tool for analyzing translation keys in Angular projects using ngx-translate. Detect unused translations, missing keys, and keep your i18n files clean."],
 "robwschlegel/heatwaveR":[56,7559399,"This GitHub repo contains all of the code for the heatwaveR package."],

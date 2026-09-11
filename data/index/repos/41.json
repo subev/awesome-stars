@@ -497,7 +497,7 @@
 "thephpleague/container":[865,527621,"Small but powerful dependency injection container"],
 "thoughtbot/high_voltage":[3234,6183,"Easily include static pages in your Rails app."],
 "thuml/CDAN":[420,23359141,"Code release for \"Conditional Adversarial Domain Adaptation\" (NIPS 2018)"],
-"thunlp/KB2E":[1420,18389035,"Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE"],
+"thunlp/KB2E":[1421,18389035,"Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE"],
 "tinyvision-ai-inc/Vision-FPGA-SoM":[48,49534624,"tinyVision.ai Vision & Sensor FPGA System on Module"],
 "tofuutils/tenv":[1435,154381570,"OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager"],
 "transmission/transmission":[15184,223312,"Official Transmission BitTorrent client repository"],

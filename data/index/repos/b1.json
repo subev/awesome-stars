@@ -58,7 +58,7 @@
 "J-x-Z/homebrew-tap":[1,39978180,""],
 "JamzyWang/awesome-redis":[745,5517818,"A curated list of amazingly awesome redis and redis ecosystem resources. "],
 "Jana-Marie/MP2300-Tools":[6,7141239,"My collection of tools I've written for the graphtec MP2300 plotter. Demo: "],
-"JoePenna/Dreambooth-Stable-Diffusion":[3212,100188076,"Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles."],
+"JoePenna/Dreambooth-Stable-Diffusion":[3211,100188076,"Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles."],
 "Jwink3101/dfb":[16,3073584,"Full-file, append-only, backups that can be easily restored to any point in time. Can backup to and from *any* rclone remote"],
 "KLayout/klayout":[1186,46386928,"KLayout Main Sources"],
 "Kampfkarren/selene":[814,3190756,"A blazing-fast modern Lua linter written in Rust"],

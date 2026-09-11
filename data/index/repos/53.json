@@ -176,7 +176,7 @@
 "camila314/GDCrypto":[0,47485054,"C++ library that implements common Geometry Dash algorithms."],
 "cavi-au/Consent-O-Matic":[4234,58287273,"Browser extension that automatically fills out cookie popups based on your preferences"],
 "cesbit/libcleri":[39,6178046,"Libcleri is a powerful tool to build languages. From a built language, libcleri can automatically  create parse trees, which are data structures representing how a grammar matches input. It also provides feedback in case the input does not match the language. This can be useful  for auto-completion, suggestions or error handling."],
-"charlesw/tesseract":[2459,259016,"A .Net wrapper for tesseract-ocr"],
+"charlesw/tesseract":[2462,259016,"A .Net wrapper for tesseract-ocr"],
 "cjroth/rebalance":[3,582130,""],
 "claydugo/browsher.nvim":[17,14915070,"🌐 Create commit pinned links to git(hub | lab) hosted files/lines directly from Neovim"],
 "coderofsalvation/powscript":[168,180068,"transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!"],

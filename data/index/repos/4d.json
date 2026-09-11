@@ -422,7 +422,7 @@
 "sunag/flow":[110,502810,"JavaScript UI library"],
 "surge-synthesizer/stochas":[556,46627050,"The Stochas Sequencer"],
 "svenvc/NeoJSON":[47,870089,"NeoJSON is an elegant and efficient standalone Smalltalk framework to read and write JSON converting to or from Smalltalk objects."],
-"swz30/Restormer":[2632,41057533,"[CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring. "],
+"swz30/Restormer":[2639,41057533,"[CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring. "],
 "sxin0/docsify-termynal":[7,29392026,"docsify 动画终端插件"],
 "synrc/n2o":[1340,661709,"⭕ N2O: Distributed WebSocket Application Server ISO 20922"],
 "tagirov/rusk":[19,22002436,"A minimal cross-platform terminal task manager"],
