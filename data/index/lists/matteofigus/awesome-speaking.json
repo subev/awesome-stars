@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Resources about public speaking","defaultBranch":"master","topics":["awesome-list","awesome","list","speaking-resources","speaking","conference"],"readmeSha":"d4c8c89d537a11e1e69f448101af97069cae471c"},
+"meta": {"description":"Resources about public speaking","defaultBranch":"master","topics":["awesome-list","awesome","list","speaking-resources","speaking","conference"],"readmeSha":"4bb02e40edbb5cd298123a7261a21f9127199526"},
 "members": [
 "sindresorhus/awesome",
 "softwaremill/it-cfp-list",

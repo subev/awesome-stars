@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"ce3ea9f80e31fc20824007c8ddc2795ee046defb"},
+"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"daa794424919eb4e9c38a85ff525a61f00f0cf57"},
 "members": [
 "opentofu/opentofu",
 "opentofu/registry",
@@ -20,6 +20,7 @@
 "Ant0wan/tfexe",
 "claranet/tfwrapper",
 "drifthoundhq/drifthound",
+"drumandbytes/opentofu-updater-action",
 "OP5dev/TF-via-PR",
 "tofuutils/pre-commit-opentofu",
 "opentofu/setup-opentofu",

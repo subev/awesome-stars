@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"65cb8e2b9a66316a915bcb894888090920c0ce77"},
+"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"b6144d3fce2db5fe8dd366811b3605937266c4a4"},
 "members": [
 "kahun/awesome-sysadmin",
 "yadage/adage",
@@ -80,6 +80,7 @@
 "insitro/redun",
 "grailbio/reflow",
 "richfitz/remake",
+"renart-data/renart",
 "bjpop/rubra",
 "kirillseva/ruigi",
 "pharmbio/sciluigi",
@@ -116,6 +117,7 @@
 "calebwin/pipelines",
 "treeverse/lakeFS",
 "projectnessie/nessie",
+"AppDevIQ/datascreeniq-python",
 "polynote/polynote",
 "ploomber/ploomber",
 "bruin-data/bruin",

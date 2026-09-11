@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"9de721727d6d6a40130b5b70a0068a4122923c4c"},
+"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"bbdbe11f1c795e08f01bde15385aa09b93c9a045"},
 "members": [
 "rust-embedded/wg",
 "rust-embedded/rust-raspberrypi-OS-tutorials",
@@ -181,7 +181,7 @@
 "ADNTIO/crispy-bootloader-rp2040-rs",
 "drogue-iot/ector",
 "drogue-iot/embedded-update",
-"drogue-iot/embedded-tls",
+"embassy-rs/embedded-tls",
 "ethercrab-rs/ethercrab",
 "Michael-F-Bryan/gcode-rs",
 "Vaishnav-Sabari-Girish/Hayasen",
@@ -217,6 +217,10 @@
 "cbruiz/printhor",
 "willamhou/hypervisor",
 "TheMaxMur/RS-Key",
+"vaulttec-dev/vaulttec-key",
 "ferrous-systems/embedded-trainings"
+],
+"dropped": [
+["2026-09-11","drogue-iot/embedded-tls"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":" Curated list of python software and packages related to scientific research in audio","defaultBranch":"master","topics":["awesome-list","python","audio"],"readmeSha":"23e880c3f472661f25525a450259a2cae43434f0"},
+"meta": {"description":" Curated list of python software and packages related to scientific research in audio","defaultBranch":"master","topics":["awesome-list","python","audio"],"readmeSha":"f0461a62c074c8b19369a9948845d51c236c5b45"},
 "members": [
 "sindresorhus/awesome",
 "danilobellini/audiolazy",
@@ -19,6 +19,7 @@
 "grrrr/nsgt",
 "sergree/matchering",
 "nils-werner/mdct",
+"jmrplens/phonometry",
 "jiaaro/pydub",
 "scikit-signal/tftb",
 "LCAV/pyroomacoustics",

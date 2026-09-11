@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"96c62cc32a61481746919ec69e6bc4dd5f6cfb37"},
+"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"6c825187af091b09e592d6856c736eb57620eb08"},
 "members": [
 "Piebald-AI/.github",
 "google-gemini/gemini-cli",
@@ -65,6 +65,7 @@
 "armoriq/armorGemini",
 "Maksim-Burtsev/punchcard",
 "sergeyizmailov/knowledge-delta-skills",
+"Nagarjuna2997/ios-agent-skill",
 "shinshin86/oh-my-logo",
 "agent-sh/agnix",
 "stevenAthompson/self-command",
@@ -127,6 +128,7 @@
 "JanYork/llm-wiki-cli",
 "vostride/agent-qa",
 "vshulcz/deja-vu",
+"mnemoverse/gemini-extension",
 "gutsavgupta/nvim-gemini-companion",
 "JonRoosevelt/gemini-cli.nvim",
 "JunYang-tes/agents-parter.nvim",

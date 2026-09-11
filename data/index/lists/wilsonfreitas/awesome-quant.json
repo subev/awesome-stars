@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)","defaultBranch":"main","topics":["finance","financial-data","stock-data","awesome","awesome-list","quantitative-finance","quant","quantitative-trading","yahoo-finance","finance-api"],"readmeSha":"daf52db5b071caaba1df0ab099ddde6cd9fae056"},
+"meta": {"description":"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)","defaultBranch":"main","topics":["finance","financial-data","stock-data","awesome","awesome-list","quantitative-finance","quant","quantitative-trading","yahoo-finance","finance-api"],"readmeSha":"ceb08f1fd631737962dc0ef7416c7a5efc756e49"},
 "members": [
 "numpy/numpy",
 "scipy/scipy",
@@ -112,6 +112,8 @@
 "Mattbusel/fin-primitives",
 "wickra-lib/wickra",
 "psyb0t/docker-wickworks",
+"charlieyanhx/exitkit",
+"holdout-labs/lesson-book",
 "donnywin85/cl-lp-rotation-scanner",
 "intrepidkarthi/orderbook",
 "Javier-Garzo/ern-wo-options-backtester",
@@ -148,6 +150,7 @@
 "jeffrey-liang/quantitative",
 "llazzaro/analyzer",
 "pmorissette/bt",
+"ArturSepp/QuantInvestStrats",
 "mementum/backtrader",
 "cloudQuant/backtrader",
 "ArturSepp/TrendFollowingSystems",
@@ -251,6 +254,7 @@
 "muye1202/VerumTrade",
 "psyb0t/mt5-httpapi",
 "psyb0t/ibkr-httpapi",
+"HimanshuJ16/Algo-Trading-Skills",
 "Viraj-Nigwekar/multi-axis-robust-portfolio-optimization",
 "arteemg/AutoHypothesis",
 "skfolio/skfolio",
@@ -291,6 +295,8 @@
 "lequant40/portfolio_allocation_js",
 "ghostfolio/ghostfolio",
 "cjroth/rebalance",
+"holdout-labs/factor-qc",
+"holdout-labs/lookahead-free",
 "VernonOY/alpha-skills",
 "quantopian/alphalens",
 "stefan-jansen/alphalens-reloaded",
@@ -332,8 +338,14 @@
 "JuliaStats/TimeSeries.jl",
 "femtotrader/TimeFrames.jl",
 "pineforge-4pass/pineforge-engine",
+"beepboop2025/market-brief",
+"eduair94/cambio-uruguay",
+"holdout-labs/ashare-data-immunity",
+"holdout-labs/pit-adjuster",
 "donnywin85/perp-funding-collector",
+"na77tech-creator/aikstockdata",
 "mznowhere/btc-orderbook-research",
+"groovg/itch-book",
 "OpenBB-finance/OpenBB",
 "Fincept-Corporation/FinceptTerminal",
 "ranaroussi/yfinance",
@@ -343,6 +355,7 @@
 "moshejs/commitments-of-traders",
 "coinpaprika/coinpaprika-api-python-client",
 "sircharli3/fillbench-data",
+"thegoldbarometer/data",
 "ChainBench/OpenChainBench",
 "defeat-beta/defeatbeta-api",
 "vdalhambra/financekit-mcp",
@@ -422,6 +435,7 @@
 "dgunning/edgartools",
 "adamhudson777/filingrail-mcp",
 "alwank/disclosure-alpha",
+"researchaiexe-stack/edgar-traps",
 "christianpichichero-max/pit-fundamentals",
 "jaablon/buried-events-parser",
 "fxmacrodata/fxmacrodata",
@@ -470,7 +484,6 @@
 "highfestiva/finplot",
 "lit26/finvizfinance",
 "maread99/market_analy",
-"ArturSepp/QuantInvestStrats",
 "bhftbootcamp/LightweightCharts.jl",
 "yutiansut/QUANTAXIS_Webkit",
 "devexperts/dxcharts-lite",
@@ -481,6 +494,7 @@
 "jmcnamara/XlsxWriter",
 "python-excel/xlwt",
 "poidasmith/xlloop",
+"rufeng0411/Nova-TradingAgent",
 "yeh2017/QFO-Quant-Platform",
 "pengpengyi92/dsh-quant",
 "gnzsnz/jupyter-quant",
@@ -557,7 +571,6 @@
 "vibeyclaw/awesome-sec-filings"
 ],
 "dropped": [
-["2026-09-04","thalesians/pythalesians"],
-["2026-09-04","na77tech-creator/aikstockdata"]
+["2026-09-04","thalesians/pythalesians"]
 ]
 }

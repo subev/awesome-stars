@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"a6648a9baaf3bc2b6a717d6cb23152c281b8bfcc"},
+"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"c88a5266de675bfc362f339f20fd82fe235961d2"},
 "members": [
 "sindresorhus/awesome",
 "vulpemventures/nigiri",
@@ -68,6 +68,7 @@
 "moneybutton/yours-bitcoin",
 "bitpay/bitcore-node",
 "bitcoinbook/bitcoinbook",
+"bitcoin/bips",
 "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
 "chaincodelabs/bitcoin-curriculum",
 "chaincodelabs/lightning-curriculum"

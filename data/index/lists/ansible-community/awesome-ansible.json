@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"60bed9543b762a537cafb6830406ac43cd135e96"},
+"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"84d9da6deba4ea6c467e3b18ee1118bd9f55d9d1"},
 "members": [
 "leucos/ansible-tuto",
 "geerlingguy/ansible-for-devops",

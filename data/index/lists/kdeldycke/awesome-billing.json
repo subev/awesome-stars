@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"acc60487cb53388ec6c9cf388301759edfadcab8"},
+"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"2d49b899ff2cfd9a3bb477139140ecc179d72398"},
 "members": [
 "sindresorhus/awesome",
 "kdeldycke/awesome-iam",
@@ -19,7 +19,7 @@
 "eloraiby/fs-pacer",
 "frappe/books",
 "brandon-rhodes/luca",
-"darcys22/godbledger",
+"blnkfinance/blnk",
 "formancehq/ledger",
 "tigerbeetle/tigerbeetle",
 "adamcharnock/django-hordak",
@@ -47,5 +47,8 @@
 "getredash/redash",
 "apache/superset",
 "meltano/meltano"
+],
+"dropped": [
+["2026-09-11","darcys22/godbledger"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.","defaultBranch":"master","topics":["sass","scss","css"],"readmeSha":"5786386b06987a18a2d58a9cba2850bedbc164a8"},
+"meta": {"description":"🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.","defaultBranch":"master","topics":["sass","scss","css"],"readmeSha":"4552ed8c7dea7b40a0edb09dd243c8cef50fcf5d"},
 "members": [
 "sindresorhus/awesome",
 "twbs/bootstrap",

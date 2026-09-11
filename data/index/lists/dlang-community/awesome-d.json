@@ -1,5 +1,5 @@
 {
-"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"ffbe976502070efd8c5169da8cab9fd741b27d87"},
+"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"173b05ece813de37d7113dc55a02131bd7069996"},
 "members": [
 "sindresorhus/awesome",
 "vinta/awesome-python",
@@ -147,7 +147,6 @@
 "Kapendev/parin",
 "ZILtoid1991/pixelperfectengine",
 "MrcSnm/HipremeEngine",
-"bmchtech/rengfx",
 "gecko0307/dagon",
 "MrSmith33/voxelman",
 "Ingrater/Spacecraft",
@@ -201,5 +200,8 @@
 "d-widget-toolkit/dwt",
 "extrawurst/DerelictLibui",
 "andlabs/libui"
+],
+"dropped": [
+["2026-09-11","bmchtech/rengfx"]
 ]
 }

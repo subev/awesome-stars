@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"2942899cac1ec47db1df521661dd71cceb773f8d"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"803f758df1047301fa11922686226a9c5bc45ab9"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"977939210039547677a6c22bfd5227107b0bc7fc"},
+"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"31d7d239c735e626c16a0148e96489272b9f2847"},
 "members": [
 "sindresorhus/awesome",
 "steven2358/awesome-generative-ai",
@@ -33,6 +33,7 @@
 "texttron/tevatron",
 "AnswerDotAI/RAGatouille",
 "chroma-core/chroma",
+"infino-ai/infino",
 "lancedb/lancedb",
 "milvus-io/milvus",
 "ModernRelay/omnigraph",
@@ -48,7 +49,7 @@
 "isaacus-dev/semchunk",
 "PrithivirajDamodaran/FlashRank",
 "VectifyAI/PageIndex",
-"Intelligent-Internet/psql_bm25s",
+"Intelligent-Internet/II-42",
 "microsoft/graphrag",
 "gusye1234/nano-graphrag",
 "HKUDS/LightRAG",
@@ -97,11 +98,15 @@
 "zylon-ai/private-gpt",
 "BerriAI/litellm",
 "Portkey-AI/gateway",
+"maximhq/bifrost",
 "Helicone/helicone",
 "AgentOps-AI/tokencost",
 "openmeterio/openmeter",
 "lancedb/vectordb-recipes",
 "NirDiamant/Agent_Memory_Techniques",
 "NirDiamant/RAG_Techniques"
+],
+"dropped": [
+["2026-09-11","Intelligent-Internet/psql_bm25s"]
 ]
 }

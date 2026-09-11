@@ -1,7 +1,6 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"d9d24400bac43fdebb99495e0f32d2dca0bce891"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"62145242dab268dd5289d6c3b9c1928e945826ce"},
 "members": [
-"shawnbot/custom-elements",
 "web-platform-tests/wpt",
 "praveenpuglia/shadow-dom-in-depth",
 "webcomponents/gold-standard",
@@ -63,6 +62,7 @@
 "haxtheweb/webcomponents",
 "lume/lume",
 "medblocks/medblocks-ui",
+"romshark/morpheus",
 "stryker-mutator/mutation-testing-elements",
 "ebi-webcomponents/nightingale",
 "nuxeo/nuxeo-elements",
@@ -112,12 +112,12 @@
 "Tencent/omi",
 "mixpanel/panel",
 "readymade-ui/readymade",
-"slimjs/slim.js",
 "stenciljs/core",
 "EasyWebApp/WebCell",
 "atomicojs/atomico",
 "dsolimando/elemento",
 "matthewp/haunted",
+"pionjs/pion",
 "hybridsjs/hybrids",
 "solidjs/solid",
 "Ravenstine/ember-custom-elements",
@@ -150,6 +150,7 @@
 "corpusculejs/custom-builtin-elements",
 "ungap/custom-elements-builtin",
 "ungap/import-node",
+"shawnbot/custom-elements",
 "domenic/html-as-custom-elements"
 ],
 "dropped": [
@@ -164,6 +165,7 @@
 ["2026-09-04","HelixDesignSystem/helix-ui"],
 ["2026-09-04","outpostHQ/numl"],
 ["2026-09-04","tyler-technologies-oss/forge-core"],
-["2026-09-04","heapwolf/giant"]
+["2026-09-04","heapwolf/giant"],
+["2026-09-11","slimjs/slim.js"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"a443100f222e2072416e9dd1accfc736ccd0731a"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"1ae638b8fd6e92ecb4344276e3ced05e2978385a"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -18,6 +18,7 @@
 "akitaonrails/ai-usagebar",
 "thisisgm/omarchy-pods",
 "tmn73/omarchy-calendar",
+"promaaa/sync-calendar-omarchy",
 "mryll/claudebar",
 "rosakodu/omarchy-dock",
 "robzolkos/omarchy-github",
@@ -97,6 +98,7 @@
 "jonashan/omarchy-workspace-mover",
 "APS6/omazed",
 "Firstp1ck/Pacsea",
+"t4t5/rencal",
 "bjarneo/tema",
 "HANCORE-linux/waybar-themes",
 "devmobasa/wayscriber",

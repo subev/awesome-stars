@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Quarto talks, tools, examples & articles! Contributions welcome!","defaultBranch":"main","topics":["quarto","quarto-extension","quarto-template","awesome","awesome-list"],"readmeSha":"17b18e2a611176f050ad51a7d5d08092fc205544"},
+"meta": {"description":"A curated list of Quarto talks, tools, examples & articles! Contributions welcome!","defaultBranch":"main","topics":["quarto","quarto-extension","quarto-template","awesome","awesome-list"],"readmeSha":"f429782589f08a70c28dc2e583658ff6602d86f4"},
 "members": [
 "WarwickCIM/quarto-workshop",
 "UCSB-MEDS/customizing-quarto-websites",
@@ -76,7 +76,6 @@
 "eitsupi/querying-with-prql",
 "ropensci-review-tools/babelquarto",
 "jatorresmunguia/juan-torresmunguia.github.io",
-"noahweidig/noahweidig.github.io",
 "skriptum/quarto-pressmark",
 "hadley/r4ds",
 "hadley/r-pkgs",
@@ -88,5 +87,8 @@
 "aml4td/website",
 "nrennie/scrollytelling",
 "schochastics/gh-dashboard"
+],
+"dropped": [
+["2026-09-11","noahweidig/noahweidig.github.io"]
 ]
 }

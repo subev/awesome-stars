@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"c2ebfe86514862780204127a03c50b00b037f736"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"c95cf80e2f42a5f3d07e00a269a7f4aaa5200357"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -22,7 +22,6 @@
 "Sigil-Wen/VisionCraft",
 "efremidze/Alarm",
 "fulldecent/8-ball-answer",
-"KhaosT/open-apollo",
 "belm/BaiduFM-Swift",
 "bither/bither-ios",
 "JohnWong/bus-today",
@@ -30,7 +29,6 @@
 "vinhnx/Clendar",
 "open-trackers/Gym-Routine-Tracker-Watch-App",
 "thomaspaulmann/HeartControl",
-"Dimillian/SwiftHN",
 "elkiwy/KHabit",
 "nightscout/nightguard",
 "chockenberry/NowPlayingPlus",
@@ -292,7 +290,6 @@
 "nerdsupremacist/CovidUI",
 "intrepidkarthi/dailyvox",
 "gematik/E-Rezept-App-iOS",
-"DerLobi/Depressed",
 "AnthonyH93/GoCycling",
 "Darktt/HealthKit-Swift",
 "megabyte0x/healthykit",
@@ -477,7 +474,6 @@
 "amikhaylin/pompaddo",
 "hooosberg/Rushi",
 "soapyigu/Swift-30-Projects",
-"PaulaScholz/ApnsSample",
 "sebjvidal/Apple-Music-UI-Demo",
 "gao0122/ARKit-Example-by-Apple",
 "apple/sample-backyard-birds",
@@ -501,7 +497,6 @@
 "AnupAmmanavar/Mvi-SwiftUI",
 "chunkyguy/PhotoApp",
 "objcio/app-architecture",
-"gtokman/Restaurant-Viewing-App",
 "SwiftyAlex/Samples",
 "igorkulman/iOSSampleApp",
 "c-villain/SneakerShop",
@@ -544,7 +539,6 @@
 "padloc/padloc",
 "mssun/passforios",
 "strongbox-password-safe/Strongbox",
-"openshopio/openshop.io-ios",
 "pointspy/shlist",
 "woocommerce/woocommerce-ios",
 "criticalmaps/criticalmaps-ios",
@@ -781,7 +775,6 @@
 "brittanyarima/Sketchy",
 "adamrushy/social-swiftui-app",
 "atrinh0/spiro",
-"brittanyarima/Steps",
 "jordibruin/Swift-Charts-Examples",
 "ivanvorobei/SwiftUI",
 "mikelikesdesign/SwiftUI-experiments",
@@ -823,6 +816,13 @@
 ["2026-08-28","fatih-gursoy/Cuisiner"],
 ["2026-08-28","FlexMonkey/ForceSketch"],
 ["2026-09-04","BalestraPatrick/AppleWatchCalculator"],
-["2026-09-04","MengTo/DesignerNewsApp"]
+["2026-09-04","MengTo/DesignerNewsApp"],
+["2026-09-11","KhaosT/open-apollo"],
+["2026-09-11","Dimillian/SwiftHN"],
+["2026-09-11","DerLobi/Depressed"],
+["2026-09-11","PaulaScholz/ApnsSample"],
+["2026-09-11","gtokman/Restaurant-Viewing-App"],
+["2026-09-11","openshopio/openshop.io-ios"],
+["2026-09-11","brittanyarima/Steps"]
 ]
 }

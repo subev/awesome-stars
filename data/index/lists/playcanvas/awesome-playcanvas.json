@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"2a14d0e43e6a44e3f43a6c8a9161cca3b972fac0"},
+"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"bb9fd5efc366254c2c21a06239c98b6f1bbe38bb"},
 "members": [
 "playcanvas/engine",
 "playcanvas/react",
@@ -9,6 +9,7 @@
 "tatelax/playcanvas-kinematic-character-controller",
 "playcanvas/playcanvas-ar",
 "yushimatenjin/playcanvas-node",
+"AlexAPPi/playcanvas-opti-pixel",
 "playcanvas/playcanvas-p2.js",
 "JonasPfi/PlayCanvasReactColyseus",
 "playcanvas/playcanvas-rest-api-tools",

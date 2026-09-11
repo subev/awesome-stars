@@ -1,5 +1,5 @@
 {
-"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"2bebf2b0efe78498706cdc74aaa80c9594f0e276"},
+"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"c75d63460f78cf2ed88da8916f3472814e42ed1f"},
 "members": [
 "halo-dev/halo",
 "halo-dev/theme-starter",
@@ -222,6 +222,7 @@
 "atangccc/Astrahub",
 "Akvicor/plugin-shortcode",
 "SwaggyMacro/plugin-lottie",
+"hcjike/plugin-wechat-official-sync",
 "halo-sigs/attachment-upload-cli",
 "halo-sigs/vscode-extension-halo",
 "halo-sigs/obsidian-halo",

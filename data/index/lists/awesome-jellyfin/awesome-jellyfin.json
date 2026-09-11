@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"8023ccda81c5f085aa54651e7f747c2e8f96dca0"},
+"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"75114ee95bc647e65a1d0cfcd89253bd30a100f5"},
 "members": [
 "ZL154/AchievementBadges_for_Jellyfin",
+"bardesss/customcoverart",
 "Fovty/HoverTrailer",
 "Namo2/InPlayerEpisodePreview",
 "lachlandcp/jellyfin-editors-choice-plugin",

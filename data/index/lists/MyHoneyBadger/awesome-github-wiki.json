@@ -1,5 +1,5 @@
 {
-"meta": {"description":":neckbeard: Awesome list GitHub Wikis","defaultBranch":"main","topics":["awesome","awesome-list","awesome-wiki","github","github-wiki","awesomeness","stackoverflow","stackoverflow-answer","stackoverflow-questions","trending-repositories"],"readmeSha":"ced9bfbfbbc5de7fa272e34b02a6596eddaa603f"},
+"meta": {"description":":neckbeard: Awesome list GitHub Wikis","defaultBranch":"main","topics":["awesome","awesome-list","awesome-wiki","github","github-wiki","awesomeness","stackoverflow","stackoverflow-answer","stackoverflow-questions","trending-repositories"],"readmeSha":"3656612fe8004c79d0f642a81d1159fe8f20f036"},
 "members": [
 "Netflix/Hystrix",
 "aws/aws-parallelcluster",
@@ -14,6 +14,7 @@
 "internetarchive/openlibrary",
 "JustArchiNET/ArchiSteamFarm",
 "GyulyVGC/sniffnet",
+"Isthimius/Gondwana",
 "linyows/github-wiki-search",
 "he-yufeng/RepoWiki",
 "Satttoshi/github-wiki-generator",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"e71fc8565b80d03d9b3f6a5fb270feeac52cd2ee"},
+"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"8f2096299d636ae7f04c198430946d1802d330b9"},
 "members": [
 "EmmaTheMartian/clockwork",
 "vlang/vab",
@@ -110,6 +110,7 @@
 "nedpals/vargs",
 "simonglob/vesseract",
 "einar-hjortdal/firebird",
+"vlang/leveldb",
 "vlang/mongo",
 "einar-hjortdal/redict",
 "patrickpissurno/vredis",

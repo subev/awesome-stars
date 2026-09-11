@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🚀 Awesome (free) web apps that work without login","defaultBranch":"master","topics":["awesome","awesomeness","list","web-app","awesome-list","application","applications","portableapps","no-login","no-login-web-apps"],"readmeSha":"5f95dddf011c459ce1eb5dd206af1c1a477d3b48"},
+"meta": {"description":"🚀 Awesome (free) web apps that work without login","defaultBranch":"master","topics":["awesome","awesomeness","list","web-app","awesome-list","application","applications","portableapps","no-login","no-login-web-apps"],"readmeSha":"c50403f80fd44763ac1b88fd7e6d0f6742fde314"},
 "members": [
 "sindresorhus/awesome",
 "anshumanv/ongaku-desktop"

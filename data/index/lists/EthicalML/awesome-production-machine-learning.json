@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"60240f46dc31261fb393b5bc09d73d37986c5da8"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"ca70a3757d055cba7408a415bd74541b8d20cd37"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -96,7 +96,7 @@
 "couler-proj/couler",
 "huggingface/datatrove",
 "dagster-io/dagster",
-"dbt-labs/dbt-core",
+"dbt-labs/dbt",
 "flyteorg/flyte",
 "Netflix/genie",
 "apache/hamilton",
@@ -549,6 +549,7 @@
 ["2026-09-04","neptune-ai/neptune-client"],
 ["2026-09-04","facebookresearch/fairseq"],
 ["2026-09-04","casper-hansen/AutoAWQ"],
-["2026-09-04","AutoGPTQ/AutoGPTQ"]
+["2026-09-04","AutoGPTQ/AutoGPTQ"],
+["2026-09-11","dbt-labs/dbt-core"]
 ]
 }

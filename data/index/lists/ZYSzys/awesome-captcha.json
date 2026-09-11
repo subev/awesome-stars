@@ -1,5 +1,5 @@
 {
-"meta": {"description":":key: Curated list of awesome captcha libraries and crack tools.","defaultBranch":"master","topics":["captcha","captcha-solving","captcha-breaking","captcha-generator","captcha-image","awesome","awesome-list","captcha-library","captcha-break","captcha-solver"],"readmeSha":"a035e07092a8fe415270a659d396b63b0043b018"},
+"meta": {"description":":key: Curated list of awesome captcha libraries and crack tools.","defaultBranch":"master","topics":["captcha","captcha-solving","captcha-breaking","captcha-generator","captcha-image","awesome","awesome-list","captcha-library","captcha-break","captcha-solver"],"readmeSha":"86017855a2dacaba60c1408e622042fd3420ead3"},
 "members": [
 "mewebstudio/captcha",
 "Gregwar/Captcha",
@@ -8,6 +8,7 @@
 "ambethia/recaptcha",
 "anhskohbo/no-captcha",
 "lorien/captcha_solver",
+"WebDecoy/FCaptcha",
 "dchest/captcha",
 "lepture/captcha",
 "produck/svg-captcha",
@@ -19,6 +20,7 @@
 "koto-bank/kocaptcha",
 "Lokno/click-captcha",
 "ArgoZhang/SliderCaptcha",
+"PrivateCaptcha/PrivateCaptcha",
 "arunpatala/captcha",
 "zakizhou/CAPTCHA",
 "nladuo/captcha-break",

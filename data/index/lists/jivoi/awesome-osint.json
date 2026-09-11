@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"7a933d007d4150e5de9baeab7187a4e6d2a77b3b"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"5be666df0554d6aed2c97ad7a6f0e333fe480358"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -33,7 +33,7 @@
 "matiash26/steam-osint",
 "misiektoja/github_monitor",
 "snooppr/shotstars",
-"p1ngul1n0/blackbird",
+"antoniaci/blackbird",
 "OSINTI4L/cupidcr4wl",
 "soxoj/maigret",
 "thewhiteh4t/nexfil",
@@ -141,5 +141,8 @@
 "lissy93/personal-security-checklist",
 "danielmiessler/SecLists",
 "zbetcheckin/Security_list"
+],
+"dropped": [
+["2026-09-11","p1ngul1n0/blackbird"]
 ]
 }

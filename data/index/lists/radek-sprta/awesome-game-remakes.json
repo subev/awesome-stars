@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"df3403cf911f871a60e11b3f9fa8f61cb2734dad"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"2137f835ebb461a030694d5a116f407b975e1173"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
@@ -216,7 +216,6 @@
 "endless-sky/endless-sky",
 "lordbasilaiassistant-sudo/aeon",
 "1oom-fork/1oom",
-"LixieWulf/Allure",
 "FreezingMoon/AncientBeast",
 "arescentral/antares",
 "beyond-all-reason/Beyond-All-Reason",
@@ -230,7 +229,6 @@
 "0Mart00/ChaosGame",
 "a-gondolkodas-orome/durer-jatekok",
 "stefanhendriks/Dune-II---The-Maker",
-"Kamikitte/DungeonKeeper",
 "joko1977-ui/DungeonKeeperReborn",
 "Themperror/Dungeon-Keeper-Remake",
 "EvolutionRTS/Evolution-RTS",
@@ -325,5 +323,9 @@
 "Warzone2100/warzone2100",
 "ItsWazzaP/wazzaps-boss-generals",
 "ZeroK-RTS/Zero-K"
+],
+"dropped": [
+["2026-09-11","LixieWulf/Allure"],
+["2026-09-11","Kamikitte/DungeonKeeper"]
 ]
 }

@@ -1,10 +1,10 @@
 {
-"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"7ff39dbdf15ccbf77bc52cab4905762b575089de"},
+"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"31a859aa93e973197465988f5f4035b3b2681e32"},
 "members": [
 "agentgateway/agentgateway",
 "maximhq/bifrost",
 "docker/mcp-gateway",
-"envoyproxy/ai-gateway",
+"theagentrouter/agent-router",
 "IBM/mcp-context-forge",
 "BerriAI/litellm",
 "mcpjungle/MCPJungle",
@@ -223,5 +223,8 @@
 "yaml/yaml-spec",
 "openmessaging/specification",
 "json-schema-org/json-schema-spec"
+],
+"dropped": [
+["2026-09-11","envoyproxy/ai-gateway"]
 ]
 }

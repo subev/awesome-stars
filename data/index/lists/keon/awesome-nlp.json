@@ -1,5 +1,5 @@
 {
-"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"0635178060d86245e299a00a21f5d83ef4247dea"},
+"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"dd30442b22955d019ce316cb81ec1f5aca8024f4"},
 "members": [
 "sindresorhus/awesome",
 "keon/awesome-nlp",

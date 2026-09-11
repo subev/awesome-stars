@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!","defaultBranch":"main","topics":["awesome","ble","bluetooth","bluetooth-le","bluetooth-low-energy","awesome-list","awesome-readme","awesome-ble"],"readmeSha":"3ab606e7af3af4f2a55d2cb8a2a2ecfebc4d2cdd"},
+"meta": {"description":"A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!","defaultBranch":"main","topics":["awesome","ble","bluetooth","bluetooth-le","bluetooth-low-energy","awesome-list","awesome-readme","awesome-ble"],"readmeSha":"423c9638ae25d4a89722a81a465e518fe34f9efd"},
 "members": [
 "project-chip/connectedhomeip",
 "zephyrproject-rtos/zephyr",
@@ -29,6 +29,7 @@
 "bettercap/bettercap",
 "nordicsemi/pc-nrfconnect-launcher",
 "WebBluetoothCG/demos",
+"iscarelli/niimbot-web-bluetooth",
 "engn33r/awesome-bluetooth-security",
 "arduino-libraries/ArduinoBLE",
 "espressif/esp-idf"

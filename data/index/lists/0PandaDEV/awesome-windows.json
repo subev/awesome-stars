@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"c89d599018668e521113906d725913606743a003"},
+"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"b2ef97711f3e1062f72a17bdaf8e1764ba2de8e4"},
 "members": [
 "sindresorhus/awesome",
 "vleerapp/vleer",
@@ -96,6 +96,7 @@
 "keepassxreboot/keepassxc",
 "padloc/padloc",
 "dani-garcia/vaultwarden",
+"mnardit/beetroot-releases",
 "0xfrankz/Kaas",
 "mulaRahul/keyviz",
 "Jinjinov/OpenHabitTracker",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ A curated list of awesome Svelte resources","defaultBranch":"main","topics":["svelte","awesome-list","awesome","sveltejs","sapper"],"readmeSha":"2c9bed3ffa997e92243f3d2ef16c02990473ef42"},
+"meta": {"description":"⚡ A curated list of awesome Svelte resources","defaultBranch":"main","topics":["svelte","awesome-list","awesome","sveltejs","sapper"],"readmeSha":"e787b3f5ece0fec6d5ee8c5385be4146867a633e"},
 "members": [
 "sindresorhus/awesome",
 "sveltejs/svelte",
@@ -79,16 +79,21 @@
 "rofixro/css-3d-progress",
 "palerdot/svelte-speedometer",
 "embedz/embedz",
+"flyfish-dev/file-viewer",
 "beynar/svelte-streamdown",
 "YusufCeng1z/svelte-bash",
+"JuandaGarcia/crd-ui",
 "vitejs/vite",
 "sveltejs/kit",
 "scosman/CMSaasStarter",
+"rodrgds/productplate",
 "tretapey/svelte-pwa",
 "tony-stark-eth/vite-svelte-docker-template",
 "code-gio/svelte-docs-starter",
 "phaserjs/template-svelte",
 "GantonL/templates",
+"moisesvalero/my-sveltekit-starter",
+"aker-dev/microfolio",
 "meursyphus/ssgoi",
 "PuruVJ/neodrag",
 "thisuxhq/sveltednd",
@@ -98,6 +103,7 @@
 "HosseinShabani/svelte-checkbox",
 "beyonk/svelte-toggle",
 "ConsoleTVs/sswr",
+"rejifald/StitchAPI",
 "Rajaniraiyn/svelte-sound",
 "vatro/svelthree",
 "NicoClack/SvelteKit-Adapter-Versioned-Worker",
@@ -121,6 +127,7 @@
 "mateothegreat/svelte5-router",
 "WJSoftware/svelte-router",
 "colinlienard/sv-router",
+"zakarialaoui10/ufbr",
 "Elderjs/elderjs",
 "loukamb/svelte-document",
 "frontman-ai/frontman",
@@ -133,6 +140,7 @@
 "leafOfTree/vim-svelte-plugin",
 "coc-extensions/coc-svelte",
 "oxide-lab/Oxide-Lab",
-"Prismo-Studio/Zephyr"
+"Prismo-Studio/Zephyr",
+"theolundqvist/pr-cockpit"
 ]
 }

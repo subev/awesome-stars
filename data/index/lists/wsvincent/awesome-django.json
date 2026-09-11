@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"47dccc47d7eee60155128b610d2400931cab4fdc"},
+"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"e4b841f9d1556f473cec3ca9a75aa11c3383eb70"},
 "members": [
 "sindresorhus/awesome",
 "django-hijack/django-hijack",
@@ -151,6 +151,8 @@
 "celery/django-celery-results",
 "RealOrangeOne/django-tasks",
 "coleifer/huey",
+"oxpull/django-ox",
+"lincolnloop/django-absurd",
 "django-components/django-components",
 "carltongibson/django-template-partials",
 "paqstd-dev/django-suspense",
@@ -180,6 +182,7 @@
 "mgrouchy/django-stronghold",
 "carltongibson/neapolitan",
 "rtts/djhtml",
+"FROWNINGdev/django-orm-lens",
 "psf/black",
 "coveragepy/coveragepy",
 "joke2k/faker",
@@ -217,6 +220,10 @@
 "DjangoCRM/django-crm",
 "sissbruecker/linkding",
 "sebst/pythonic-news",
+"letsrevel/revel-backend",
+"venueless/venueless",
+"pretix/pretix",
+"pretalx/pretalx",
 "nioperas06/awesome-django-rest-framework"
 ]
 }
