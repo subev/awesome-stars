@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"633f0a0151620e41905e3672650f27fa14acacfd"},
+"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"f8f5872b42f688b1d64ede1ae5075979d6e2d479"},
 "members": [
 "sindresorhus/awesome",
 "apsdehal/awesome-ctf",
@@ -30,6 +30,7 @@
 "michenriksen/gitrob",
 "FeeiCN/GSIL",
 "0x09AL/raven",
+"smicallef/spiderfoot",
 "evilsocket/xray",
 "vaguileradiaz/tinfoleak",
 "s0md3v/Photon",

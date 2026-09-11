@@ -1,0 +1,6 @@
+{
+"meta": {"description":"HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.","defaultBranch":"main","topics":["ai-directory","anthropic","claude","claude-ai","claude-code","claude-desktop","ai-tools","artificial-intelligence","awesome-list","claude-api"],"readmeSha":"f7a9c69d176148eb949852eab1ac3d1730c440b2"},
+"members": [
+"hesreallyhim/awesome-claude-code"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"b22ce386387a42e95cb9a908d518ed0b4987d398"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"45f45c5f1b8642e3a47f2c766cad00ad48284f0e"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -10,6 +10,7 @@
 "stefanoviana/deepalpha",
 "Agnuxo1/CAJAL",
 "future-agi/agent-learning-kit",
+"zenml-io/kitaru",
 "shantanu-deshmukh/chunktuner",
 "Intelligent-Internet/II-Commons-Skills",
 "rfordatascience/tidytuesday",
@@ -60,7 +61,9 @@
 "catboost/catboost",
 "perpetual-ml/perpetual",
 "jax-ml/jax",
+"PhilanthroPy-Project/PhilanthroPy",
 "pytorch/pytorch",
+"TorchDR/TorchDR",
 "pytorch/vision",
 "pytorch/text",
 "pytorch/audio",
@@ -170,7 +173,7 @@
 "interpretml/interpret",
 "marcotcr/lime",
 "flyteorg/flyte",
-"dbt-labs/dbt-core",
+"dbt-labs/dbt",
 "zasper-io/zasper",
 "skrub-data/skrub",
 "anonym-g/Chinese-Elite",
@@ -228,5 +231,8 @@
 "PavelGrigoryevDS/awesome-data-analysis",
 "evidencesynthesis-tools/awesome-evidence-synthesis",
 "ad-si/awesome-music-production"
+],
+"dropped": [
+["2026-09-11","dbt-labs/dbt-core"]
 ]
 }

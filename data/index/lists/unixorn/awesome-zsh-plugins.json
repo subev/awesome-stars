@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of ZSH frameworks, plugins, themes and tutorials.","defaultBranch":"main","topics":["collection","awesome-list","zsh-theme","zsh-completions","awesome","list","zsh-configuration","oh-my-zsh","zsh-plugin","hacktoberfest"],"readmeSha":"77dc912602a2e9a0b21fa358c49889b8b5b9faab"},
+"meta": {"description":"A collection of ZSH frameworks, plugins, themes and tutorials.","defaultBranch":"main","topics":["collection","awesome-list","zsh-theme","zsh-completions","awesome","list","zsh-configuration","oh-my-zsh","zsh-plugin","hacktoberfest"],"readmeSha":"380c4350b8fac78fe960fe5869a90445d7f0f6aa"},
 "members": [
 "psyrendust/alf",
 "sorin-ionescu/prezto",
@@ -1672,8 +1672,8 @@
 "fr3on/aporia",
 "givensuman/zsh-theme",
 "aramirol/apple-zsh-custom-theme",
-"bjrowlett2/apple-zsh-theme",
 "aknackd/zsh-themes",
+"Boursyt/apple-userhost-zsh-theme",
 "mrx04programmer/ZshTheme-ArchCraft",
 "dcavalcante/archie",
 "mikkurogue/archmocha",
@@ -2092,6 +2092,7 @@
 "h4ck3r0/kali-theme",
 "kalsowerus/kalsowerus.zsh-theme",
 "zaari/karu",
+"KakshiDEV56/zsh-katana",
 "LeonidPilyugin/kawaii-oh-my-zsh",
 "Keloran/keloran.zsh-theme",
 "notnek/zsh-theme",
@@ -2249,6 +2250,7 @@
 "softmoth/zsh-prompt-newt",
 "sebastienfilion/zsh.newton",
 "meierjan/nextbike-zsh-theme",
+"seankoji-com/zsh-theme-nick",
 "nikitakot/nikitakot-oh-my-zsh-theme",
 "NimaNikfar/ninik-zsh-theme",
 "alejandromume/ubunly-zsh-theme",
@@ -2735,6 +2737,7 @@
 ["2026-09-04","declnix/zsh.nix"],
 ["2026-09-04","wushenrong/zsh-eza"],
 ["2026-09-04","wushenrong/zsh-ls"],
-["2026-09-04","tokuhirom/plenv"]
+["2026-09-04","tokuhirom/plenv"],
+["2026-09-11","bjrowlett2/apple-zsh-theme"]
 ]
 }

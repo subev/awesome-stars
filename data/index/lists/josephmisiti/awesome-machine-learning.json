@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"2db9ab190d76fcffea625bfab96fc41dce39b20f"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"df931f9f8db0e79ee1a236f0909a970ba9b11c9a"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -33,6 +33,7 @@
 "lightgbm-org/LightGBM",
 "srendle/libfm",
 "facebookincubator/MCGrad",
+"Agosillo/MiaIA",
 "apache/mxnet",
 "CEA-LIST/N2D2",
 "uxlfoundation/oneDNN",

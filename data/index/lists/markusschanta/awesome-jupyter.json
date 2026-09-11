@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"9ce00f69666a442403ad0b9317ea8aa7098f2baf"},
+"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"6337c30d26716cb8a2623d40babdb280ee98081a"},
 "members": [
 "jupyter/docker-stacks",
 "nteract/hydrogen",
@@ -7,6 +7,7 @@
 "jupyterhub/jupyterhub",
 "jupyterlab/jupyterlab",
 "jupyterlab/jupyterlab-desktop",
+"jupyterlite/jupyterlite",
 "tweag/jupyenv",
 "Kaggle/docker-python",
 "ml-tooling/ml-workspace",
@@ -29,6 +30,7 @@
 "vega/vega-lite",
 "bqplot/bqplot",
 "evidentlyai/evidently",
+"flex-analytics/flexviz",
 "nicohlr/ipychart",
 "cytoscape/ipycytoscape",
 "timkpaine/ipydagred3",
@@ -44,6 +46,7 @@
 "pbugnion/gmaps",
 "krassowski/jupyter-manim",
 "3b1b/manim",
+"K3D-tools/K3D-jupyter",
 "lux-org/lux",
 "sammycdubs/pd-replicator",
 "perspective-dev/perspective",
@@ -55,6 +58,7 @@
 "jupyter-xeus/xleaflet",
 "QuantStack/xwebrtc",
 "jupyter-xeus/xwidgets",
+"buckaroo-data/buckaroo",
 "widgetti/ipyaggrid",
 "jupyter-widgets/ipydatagrid",
 "finos/ipyregulartable",
@@ -97,6 +101,7 @@
 "jupyterlab/jupyter-ai",
 "jpmorganchase/jupyter-fs",
 "holoviz/jupyter-panel-proxy",
+"jupyter-server/jupyter-resource-usage",
 "teticio/jupyter-stack-trace",
 "gavincyi/jupyterlab-executor",
 "kyso-io/jupyterlab-extension",
@@ -119,7 +124,6 @@
 "jupyter-widgets/jupyterlab-sidecar",
 "pbugnion/jupyterlab-sql",
 "xiaohk/stickyland",
-"jtpio/jupyterlab-system-monitor",
 "codota/tabnine-jupyterlab",
 "telamonian/theme-darcula",
 "jupyterlab/jupyterlab-toc",
@@ -137,6 +141,7 @@
 "ReviewNB/treon",
 "OpenGeoscience/geonotebook",
 "nir/jupylet",
+"shopsavvy/jupyter-shopsavvy",
 "parrt/lolviz",
 "BruceSherwood/vpython-jupyter",
 "xonsh/xontrib-jupyter",
@@ -148,5 +153,8 @@
 "jrjohansson/scientific-python-lectures",
 "jupyter-naas/awesome-notebooks",
 "norvig/pytudes"
+],
+"dropped": [
+["2026-09-11","jtpio/jupyterlab-system-monitor"]
 ]
 }

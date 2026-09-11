@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"a6a4116866f9966ad7ff52f9c7be49552f86cc5d"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"5bf1edef55b6a11a3eb042f6f284ac0bc125752f"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -301,6 +301,8 @@
 "tphakala/birda",
 "resumx/resumx",
 "yamlresume/yamlresume",
+"alichtman/shallow-backup",
+"PlakarKorp/plakar",
 "gleitz/howdoi",
 "santinic/how2",
 "nvbn/thefuck",
@@ -421,7 +423,6 @@
 "abhijithvijayan/import-github-labels-cli",
 "zautumnz/git-all-branches",
 "Zhengqbbb/cz-git",
-"alichtman/shallow-backup",
 "jesseduffield/lazygit",
 "magicmonty/bash-git-prompt",
 "gitui-org/gitui",

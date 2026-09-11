@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"f5581b6f3bbd0c15e815583e4ac1b40bb10147f8"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"7cbe4a8708b5f47aba3b6566388bfc44cf9757b1"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -793,7 +793,7 @@
 "vcr/vcr",
 "BBC-News/wraith",
 "Nedomas/zapata",
-"ably/ably-ruby",
+"ably/ably-pubsub-ruby",
 "meew0/discordrb",
 "Jesus/dropbox_api",
 "nov/fb_graph2",
@@ -843,7 +843,6 @@
 "peresleguine/pluggable_js",
 "nikolalsvk/render_async",
 "gottfrois/link_thumbnailer",
-"vifreefly/kimuraframework",
 "sparklemotion/mechanize",
 "jaimeiniesta/metainspector",
 "postmodern/spidr",
@@ -862,5 +861,9 @@
 "stimulusreflex/cable_ready",
 "firehoseio/firehose",
 "stimulusreflex/stimulus_reflex"
+],
+"dropped": [
+["2026-09-11","ably/ably-ruby"],
+["2026-09-11","vifreefly/kimuraframework"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"6958e0ae619d46463d637f19843559870dbbef9e"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"fe48a601ec506ec7d423609b5295d8d2f6441eff"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",
@@ -134,6 +134,7 @@
 "lz4/lz4",
 "avaneev/lzav",
 "lzfse/lzfse",
+"nemequ/lzmat",
 "richgel999/miniz",
 "zlib-ng/minizip-ng",
 "zlib-ng/minizip-ng",
@@ -1016,6 +1017,7 @@
 "bayandin/awesome-awesomeness",
 "sindresorhus/awesome",
 "MattPD/cpplinks",
+"oz123/awesome-c",
 "inputsh/awesome-c",
 "rigtorp/awesome-modern-cpp",
 "fenbf/AwesomePerfCpp",

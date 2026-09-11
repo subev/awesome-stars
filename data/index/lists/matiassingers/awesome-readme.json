@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"97bf0476e7d42b3c22918ce7fe91b0adbb996de6"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"4c7a6940b60e36f79757539983cdf6c8d5d50f40"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",
@@ -22,7 +22,7 @@
 "CoffeeIsAllYouNeed/Invisible-Driver",
 "create-go-app/cli",
 "day8/re-frame",
-"dbt-labs/dbt-core",
+"dbt-labs/dbt",
 "dmunish/notecharts",
 "dmunish/reach",
 "doomemacs/core",
@@ -108,12 +108,10 @@
 "redis/redis",
 "tauri-apps/tauri",
 "microsoft/vscode",
-"hackergrrl/art-of-readme",
 "dec0dOS/amazing-github-template",
-"hackergrrl/common-readme",
 "lheintzmann1/github-licenses-stats",
 "f14XuanLv/github-pr-stats",
-"anuraghazra/github-readme-stats",
+"stats-organization/github-stats-extended",
 "VishwaGauravIn/github-profile-readme-maker",
 "sourcerer-io/hall-of-fame",
 "jehna/readme-best-practices",
@@ -129,5 +127,11 @@
 "faressoft/terminalizer",
 "chjj/ttystudio",
 "charmbracelet/vhs"
+],
+"dropped": [
+["2026-09-11","dbt-labs/dbt-core"],
+["2026-09-11","hackergrrl/art-of-readme"],
+["2026-09-11","hackergrrl/common-readme"],
+["2026-09-11","anuraghazra/github-readme-stats"]
 ]
 }

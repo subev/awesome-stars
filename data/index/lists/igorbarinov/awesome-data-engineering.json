@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of data engineering tools for software developers","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"12b7ffe527e182915a10f186f6ecb21f2b9175f0"},
+"meta": {"description":"A curated list of data engineering tools for software developers","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"65c5ab9bec8b2a8beaec710eb98a27ef9a0ebeea"},
 "members": [
 "sindresorhus/awesome",
 "rqlite/rqlite",
@@ -30,6 +30,8 @@
 "TIBCOSoftware/snappydata",
 "SouravRoy-ETL/slothdb",
 "alibaba/zvec",
+"reductstore/reductstore",
+"manticoresoftware/manticoresearch",
 "capitalone/datacompy",
 "GoogleCloudPlatform/professional-services-data-validator",
 "godalida/koala-diff",
@@ -61,6 +63,8 @@
 "slothflowlabs/duckle",
 "mirlan-irokez/rawbbit",
 "faucet-hq/faucet-stream",
+"jitsucom/jitsu",
+"scriptella/scriptella-etl",
 "spotify/snakebite",
 "piskvorky/smart_open",
 "juicedata/juicefs",
@@ -93,6 +97,7 @@
 "metabase/metabase",
 "MoonMao42/ReceiptBI",
 "dekart-xyz/dekart",
+"flex-analytics/flexviz",
 "supernovae-st/nika",
 "ralforion/orionbelt-semantic-layer",
 "bruin-data/bruin",
@@ -136,6 +141,7 @@
 "provero-org/provero",
 "rbmuller/scherlok",
 "vertti/daffy",
-"nnnkkk7/snowflake-emulator"
+"nnnkkk7/snowflake-emulator",
+"sealandseacat/dbmask"
 ]
 }

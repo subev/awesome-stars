@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"ba7351c5daccbf9518f686b12126eff1adf73c2f"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"fde11c2e60a6ff4b2fc0edb5f122ebc3d3f5a46b"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -9,6 +9,7 @@
 "dotnet/roslynator",
 "SonarSource/sonar-dotnet",
 "clj-kondo/clj-kondo",
+"passsy/dart-lint",
 "integrated-application-development/delphilint",
 "integrated-application-development/sonar-delphi",
 "dlang-community/D-Scanner",
@@ -148,7 +149,6 @@
 "facebookarchive/pfff",
 "prontolabs/pronto",
 "coderaiser/putout",
-"viva64/pvs-studio-check-list",
 "codingjoe/relint",
 "jayu/rev-dep",
 "dotnet/roslyn-analyzers",
@@ -278,6 +278,7 @@
 ["2026-09-04","viglesiasce/kube-lint"],
 ["2026-09-04","facetoe/promval"],
 ["2026-09-04","ConsenSysDiligence/mythril"],
-["2026-09-04","uni-bremen-agst/libvcs4j"]
+["2026-09-04","uni-bremen-agst/libvcs4j"],
+["2026-09-11","viva64/pvs-studio-check-list"]
 ]
 }

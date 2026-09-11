@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"668637250f634b36f1011a64ca6a2335f00e0053"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"080430eac09e9e5fad37f1a9b295cfdaf60b3cdc"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -121,6 +121,7 @@
 "aidenybai/million",
 "whatsup/whatsup",
 "remult/remult",
+"dy/sprae",
 "keystonejs/keystone",
 "reactioncommerce/reaction",
 "TryGhost/Ghost",

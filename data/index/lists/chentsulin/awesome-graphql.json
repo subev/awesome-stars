@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"1cab88b359cb4896c937e9fef20e2d88f603c598"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"1c783af75e3d1b9f2541afc4acde05168e54d303"},
 "members": [
 "sindresorhus/awesome",
 "graphql/graphql-spec",
@@ -250,7 +250,6 @@
 "graphql-rust/juniper",
 "graphql-rust/graphql-client",
 "graphql-rust/graphql-parser",
-"tailcallhq/tailcall",
 "burner/graphqld",
 "ropensci/ghql",
 "ropensci/graphql",
@@ -285,6 +284,7 @@
 "davinerd/gql_intruder",
 "dolevf/graphql-cop",
 "omar2535/GraphQLer",
+"Perufitlife/hasura-security",
 "apollographql/apollo-client-devtools",
 "2fd/graphdoc",
 "Code-Hex/gqldoc",
@@ -315,6 +315,7 @@
 "mugli/learning-graphql"
 ],
 "dropped": [
-["2026-08-27","prisma/prisma"]
+["2026-08-27","prisma/prisma"],
+["2026-09-11","tailcallhq/tailcall"]
 ]
 }

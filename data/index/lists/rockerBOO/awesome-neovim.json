@@ -1,6 +1,7 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"088098eb928dcdf9ba9b672c348b35fbc55a6b3e"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"87ce96eb449c08455ef4655c1ba2431bb7f9bc71"},
 "members": [
+"alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
 "savq/paq-nvim",
 "folke/lazy.nvim",
@@ -120,6 +121,8 @@
 "zbirenbaum/copilot.lua",
 "github/copilot.vim",
 "brianaung/compl.nvim",
+"coder/claudecode.nvim",
+"hebercosfer/floating-claude.nvim",
 "raymondware/herdr.nvim",
 "saya-ashen/agent-workbench.nvim",
 "nwiizo/signalbox.nvim",
@@ -470,6 +473,7 @@
 "wsdjeg/cpicker.nvim",
 "leolaurindo/tunnelvision.nvim",
 "cxwx/shadowMyName.nvim",
+"rezniqov/soviet.nvim",
 "ThorstenRhau/token",
 "oskarnurm/koda.nvim",
 "yonatanperel/lake-dweller.nvim",
@@ -584,7 +588,7 @@
 "ptdewey/darkearth-nvim",
 "uloco/bluloco.nvim",
 "slugbyte/lackluster.nvim",
-"0xstepit/flow.nvim",
+"stefanopitton/flow.nvim",
 "samharju/serene.nvim",
 "mikovskii/obscure.nvim",
 "bakageddy/alduin.nvim",
@@ -649,6 +653,7 @@
 "neur1n/noline.nvim",
 "OXY2DEV/bars.nvim",
 "zaakiy/line-justice.nvim",
+"olivgr/winbarbuf.nvim",
 "NTBBloodbath/galaxyline.nvim",
 "tjdevries/express_line.nvim",
 "sontungexpt/witch-line",
@@ -759,6 +764,7 @@
 "cxwx/lazyUrlUpdate.nvim",
 "sontungexpt/url-open",
 "crusj/bookmarks.nvim",
+"Doehnert/laravel-log-watcher.nvim",
 "jbyuki/instant.nvim",
 "chrisgrieser/nvim-genghis",
 "figsoda/nix-develop.nvim",
@@ -966,6 +972,7 @@
 "cosmicbuffalo/gem_install.nvim",
 "taigrr/glaze.nvim",
 "jpease/hex-outdated.nvim",
+"mm4cN/nvim-conan",
 "Darkskittlz/GitCompanion",
 "YouSame2/inlinediff-nvim",
 "mrloop/telescope-git-branch.nvim",
@@ -1010,6 +1017,7 @@
 "jceb/jiejie.nvim",
 "chojs23/ec",
 "harrisoncramer/gitlab.nvim",
+"mm4cN/nvim-gitlab",
 "pwntester/octo.nvim",
 "ldelossa/gh.nvim",
 "topaxi/pipeline.nvim",
@@ -1256,7 +1264,7 @@
 "nvim-zh/colorful-winsep.nvim",
 "nyngwang/NeoNoName.lua",
 "jyscao/ventana.nvim",
-"mrjones2014/smart-splits.nvim",
+"smart-splits-nvim/smart-splits.nvim",
 "altermo/nwm",
 "MisanthropicBit/winmove.nvim",
 "ycdzj/win-mover.nvim",
@@ -1395,6 +1403,8 @@
 "dropped": [
 ["2026-08-27","yetone/avante.nvim"],
 ["2026-08-27","nyoom-engineering/nyoom.nvim"],
-["2026-09-04","mikeboiko/nvim-flow"]
+["2026-09-04","mikeboiko/nvim-flow"],
+["2026-09-11","0xstepit/flow.nvim"],
+["2026-09-11","mrjones2014/smart-splits.nvim"]
 ]
 }
