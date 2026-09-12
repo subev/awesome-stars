@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome works that use AI for mathematical discoveries.","defaultBranch":"main","topics":[],"readmeSha":"aa91f170fe886052678be06052395e1f20e79989"},
+"meta": {"description":"List of awesome works that use AI for mathematical discoveries.","defaultBranch":"main","topics":[],"readmeSha":"3006ae39c66db9709c6a708e3eb8243befe48806"},
 "members": [
 "cayleypy/cayleypy",
 "xand-stapleton/nirenberg-neural-network",
@@ -64,6 +64,7 @@
 "meghabyte/mod-math",
 "TomasSilva/MLcCY7",
 "seewoo5/ML-NF",
+"LorenzoLuccioli/qtLearning",
 "friederrr/GHOSTS",
 "google-deepmind/funsearch",
 "google-deepmind/alphaevolve_repository_of_problems",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.","defaultBranch":"develop","topics":["kafka","rest","server-sent-events","streaming-api","grpc","mqtt","event-driven-architecture","proxy","event-stream-proxy","event-streaming"],"readmeSha":"f751fefdf55eec7541f3b37c17d65fca53a39fe8"},
+"meta": {"description":"🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.","defaultBranch":"develop","topics":["kafka","rest","server-sent-events","streaming-api","grpc","mqtt","event-driven-architecture","proxy","event-stream-proxy","event-streaming"],"readmeSha":"516a61f1ed1d8515aa0e80677b23a322b6af7599"},
 "members": [
 "aklivity/zilla-demos"
 ]

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"7b2b9595c123b49446c246ba5846d35eeeedb999"},
+"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"328543bbab452fb36cc4d73147c84b75f9a6ad20"},
 "members": [
 "sindresorhus/awesome",
 "R-CoderDotCom/calendR",
@@ -161,7 +161,6 @@
 "andytai7/GGenemy",
 "Freguglia/ggfocus",
 "teunbrand/ggh4x",
-"AliciaSchep/gglabeller",
 "hughjonesd/ggmagnify",
 "davedgd/ggNestedBarChart",
 "GuangchuangYu/ggplotify",
@@ -175,7 +174,6 @@
 "ben-williams/tickr",
 "h20gg702/vbracket",
 "terrytangyuan/autoplotly",
-"cosi1/ggtips",
 "plotly/plotly.R",
 "BjnNowak/bertin",
 "jfjelstul/eumaps",
@@ -216,6 +214,8 @@
 "paulvanderlaken/ppsr",
 "jacqpark/prettyPanelMatch",
 "AakaashRao/starbility",
+"AliciaSchep/gglabeller",
+"cosi1/ggtips",
 "YuLab-SMU/ggai",
 "EmilHvitfeldt/ggrandom",
 "Jiawang1209/ggSketch",

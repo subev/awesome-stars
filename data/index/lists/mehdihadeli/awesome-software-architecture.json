@@ -1,6 +1,9 @@
 {
-"meta": {"description":"📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.","defaultBranch":"main","topics":["architecture","ddd","ddd-architecture","system-design","design-patterns","microservices","clean-architecture","software-architecture","architectural-styles","architectural-patterns"],"readmeSha":"719221754a0cded4372970736ef087d878c5fda3"},
+"meta": {"description":"📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.","defaultBranch":"main","topics":["architecture","ddd","ddd-architecture","system-design","design-patterns","microservices","clean-architecture","software-architecture","architectural-styles","architectural-patterns"],"readmeSha":"ce0d3269c4b1fbb1ff2266e74f17076891c5a166"},
 "members": [
-"sindresorhus/awesome"
+
+],
+"dropped": [
+["2026-09-12","sindresorhus/awesome"]
 ]
 }

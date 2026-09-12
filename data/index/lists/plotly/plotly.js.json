@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Open-source JavaScript charting library behind Plotly and Dash","defaultBranch":"main","topics":["data-visualization","d3","webgl","plotly","charting-library","charts","visualization","plotly-dash","regl"],"readmeSha":"83644910553b81ec35c2f7d5da2000664104a581"},
+"meta": {"description":"Open-source JavaScript charting library behind Plotly and Dash","defaultBranch":"main","topics":["data-visualization","d3","webgl","plotly","charting-library","charts","visualization","plotly-dash","regl"],"readmeSha":"cef7cec3b8c409e52a91f8627b043ab0d1f74351"},
 "members": [
 "greggman/virtual-webgl",
 "plotly/graphing-library-docs"

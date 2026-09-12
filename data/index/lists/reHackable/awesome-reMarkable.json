@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"e508639aea4a2e78b44e6fdb666f135cfb620e53"},
+"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"41924d73f905cf510d44fecf99e06d11ecab67e2"},
 "members": [
 "sindresorhus/awesome",
 "ddvk/remarkable2-framebuffer",
@@ -13,6 +13,7 @@
 "subutux/rmapy",
 "rschroll/rmcl",
 "ddvk/rmfakecloud",
+"RedTTGMoss/librm_lines",
 "ax3l/lines-are-beautiful",
 "ax3l/lines-are-rusty",
 "matomatical/reMarkable-kaitai",

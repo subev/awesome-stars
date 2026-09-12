@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collective list of public APIs for use in security. Contributions welcome","defaultBranch":"master","topics":["awesome-list","security","siem","json-api","json"],"readmeSha":"3d76d4bcd7811e824bb0611368b4af639556c87a"},
+"meta": {"description":"A collective list of public APIs for use in security. Contributions welcome","defaultBranch":"master","topics":["awesome-list","security","siem","json-api","json"],"readmeSha":"0bafebf3acdbfd1568550f0ee5311c11224655de"},
 "members": [
 "marmelab/awesome-rest",
 "jaegeral/security-apis",

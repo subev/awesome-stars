@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome emacs config files","defaultBranch":"master","topics":["list","awesome","emacs","emacs-configuration","dotfile","configuration"],"readmeSha":"52d484f21dcab11ddf84a19bb6cf07c8031473cf"},
+"meta": {"description":"Awesome emacs config files","defaultBranch":"master","topics":["list","awesome","emacs","emacs-configuration","dotfile","configuration"],"readmeSha":"0404c79ae80a6b4cd521118ba05861646c1f4d53"},
 "members": [
 "syl20bnr/spacemacs",
 "doomemacs/core",

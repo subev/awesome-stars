@@ -1,12 +1,17 @@
 {
-"meta": {"description":"A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM","defaultBranch":"main","topics":[],"readmeSha":"7dc185687f6eb80ec1de6e68bbf745a4fe9094f7"},
+"meta": {"description":"A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM","defaultBranch":"main","topics":[],"readmeSha":"462c0c17be5761e20a47947365eb8e568889d30d"},
 "members": [
 "ZikangYuan/sr_livo",
 "sjtuyinjie/Ultra-Fusion",
 "sjtuyinjie/M3DGR",
+"APRIL-ZJU/Gaussian-LIC",
+"elon876/Omni-LIVO",
 "sjtuyinjie/Ground-Fusion2",
+"HKUST-Aerial-Robotics/GS-LIVO",
+"xieyuser/GS-LIVM",
 "hku-mars/FAST-LIVO2",
 "hku-mars/r3live",
+"S-Torin/Point-line-LIVO",
 "ZikangYuan/SDV-LOAM",
 "APRIL-ZJU/Coco-LIC",
 "hku-mars/FAST-LIVO",

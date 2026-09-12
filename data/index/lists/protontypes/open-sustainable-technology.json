@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"5d81ab085ae8d29a965f63be8333f9acfc7dc878"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"9be1eb3b0185f76bb2c543f26a600bbdf1903f1b"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -323,6 +323,8 @@
 "e4st-dev/E4ST.jl",
 "ANL-CEEESA/STREAM",
 "ijbd/assetra",
+"OSeMOSYS/MUIO",
+"EAPD-DRB/MUIOGO",
 "gridsingularity/gsy-e",
 "energywebfoundation/origin",
 "assume-framework/assume",

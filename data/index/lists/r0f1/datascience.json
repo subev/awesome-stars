@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"79cf4bc528bd6fd37bcd33c64d4825748219d150"},
+"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"585aca58b8c0712b6e64e86a7b8f594b5e73b85b"},
 "members": [
 "uxlfoundation/scikit-learn-intelex",
 "Data-Centric-AI-Community/fg-data-profiling",
@@ -141,6 +141,7 @@
 "CannyLab/tsne-cuda",
 "DmitryUlyanov/Multicore-TSNE",
 "GrantCuster/umap-explorer",
+"TorchDR/TorchDR",
 "wilsonjr/humap",
 "anders-biostat/sleepwalk",
 "peterwittek/somoclu",

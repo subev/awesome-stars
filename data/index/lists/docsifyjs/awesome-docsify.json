@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💖 A curated list of awesome things related to docsify","defaultBranch":"master","topics":["awesome","awesome-list","docsify","docsify-plugin"],"readmeSha":"001ad8475826d9451e3fc701a48233f20e986123"},
+"meta": {"description":"💖 A curated list of awesome things related to docsify","defaultBranch":"master","topics":["awesome","awesome-list","docsify","docsify-plugin"],"readmeSha":"41bdf92320f274a630a913cbbda9c0507198b781"},
 "members": [
 "vudash/vudash",
 "njleonzhang/vue-data-tables",
@@ -119,6 +119,7 @@
 "win-tm/docsify-display-colors",
 "bulexu/docsify-infographic",
 "sherlockmen/docsify-pytutor",
+"julienbusset/docsify-sigma",
 "FlippedCodes/docsify-simple-themeable",
 "sushantrahate/docsify-darkly-theme",
 "boopathikumar018/docsify-darklight-theme",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources","defaultBranch":"master","topics":["angular","angular2","angular2-components","angular2-directive","angular-components","ng2","angular2-library","awsome-list","angular-component","awsome"],"readmeSha":"24219c78aa59a68817b36efb67dfa1a6ff2e45d7"},
+"meta": {"description":":sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources","defaultBranch":"master","topics":["angular","angular2","angular2-components","angular2-directive","angular-components","ng2","angular2-library","awsome-list","angular-component","awsome"],"readmeSha":"aa5d3e97550127bc59196bffa704123d3f19606e"},
 "members": [
 "angular/angular",
 "compodoc/compodoc",
@@ -148,6 +148,7 @@
 "bampakoa/ngx-wig",
 "Ledzz/angular2-tinymce",
 "ghostboyzone/angular-simditor",
+"Simon-He95/markstream-vue",
 "sebholstein/angular-google-maps",
 "ng2-ui/map",
 "infusion-code/angular-maps",

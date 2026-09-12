@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 A curated list of awesome GitHub Profile which updates in real time ","defaultBranch":"master","topics":["awesome-list","awesome","github","github-readme","github-profile-readme","portfolio","profile-readme"],"readmeSha":"0e44de4c08da8daa533e0f116231b1cdf9e89a67"},
+"meta": {"description":"😎 A curated list of awesome GitHub Profile which updates in real time ","defaultBranch":"master","topics":["awesome-list","awesome","github","github-readme","github-profile-readme","portfolio","profile-readme"],"readmeSha":"e2e2874d262ab07641b859213fc64baff8ce3482"},
 "members": [
 "abhisheknaiidu/abhisheknaiidu",
 "thmsgbrt/thmsgbrt",
@@ -43,6 +43,7 @@
 "justashton/justashton",
 "anmol098/anmol098",
 "monkindey/monkindey",
+"ddroid/ddroid",
 "martonlederer/old-profile-readme",
 "rednafi/rednafi",
 "Zhenye-Na/zhenye-na",
@@ -112,6 +113,7 @@
 "techytushar/techytushar",
 "onimur/onimur",
 "brunotacca/brunotacca",
+"alihamzaio/alihamzaio",
 "matyo91/matyo91",
 "CyrisXD/CyrisXD",
 "mmphego/mmphego",
@@ -184,10 +186,16 @@
 "vbriand/vbriand",
 "BrunnerLivio/brunnerlivio",
 "fnky/fnky",
+"egorthinks/git-bonsai",
 "abhisheknaiidu/todoist-readme",
+"creativecodeco/gitcard-studio",
 "anuraghazra/github-readme-stats",
+"dvigo/github-stats",
+"seuthootDev/github-readme-insight-terminal-ascii",
 "HwangTaehyun/github-repository-contribution-stats",
+"flycran/github-gravity",
 "DenverCoder1/github-readme-streak-stats",
+"rafaeloliveiraz/gitglance",
 "simple-icons/simple-icons",
 "caneco/laravel-github-profile-view-counter",
 "athul/waka-readme",
@@ -217,6 +225,15 @@
 "khalby786/REHeader",
 "DenverCoder1/github-readme-youtube-stats",
 "arg3t/goodreads-readme",
-"DenverCoder1/readme-typing-svg"
+"DenverCoder1/readme-typing-svg",
+"dahan8473/snake-and-commits",
+"rowkav09/GitHub-profile-stats",
+"starlash7/github-candles",
+"in-c0/daily-badge",
+"0xharkirat/dither-portrait",
+"seuthootDev/github-readme-zodiac",
+"seuthootDev/github-readme-chinese-zodiac",
+"icortesb/vinilo",
+"prsdx/YourTomo"
 ]
 }

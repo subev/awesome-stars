@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"4acdc6e7248f6510b9ad1406cceebda8ef101eec"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"8f9c96d7934369d1070eea4377adcb085df2a6f9"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -227,6 +227,7 @@
 "zoeyfyi/TeX-Match",
 "Guake/guake",
 "revathskumar/bender",
+"excelano/comma",
 "ryonakano/konbucase",
 "artemanufrij/regextester",
 "phase1geo/TextShine",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.","defaultBranch":"master","topics":["awesome","change-detection","remote-sensing","dataset","deep-learning"],"readmeSha":"82226fd3e68e19062d2ae736528936bb17b25f58"},
+"meta": {"description":"A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.","defaultBranch":"master","topics":["awesome","change-detection","remote-sensing","dataset","deep-learning"],"readmeSha":"a60fd23ee29aa02569108f4c7cc13850c96f7599"},
 "members": [
 "sindresorhus/awesome",
 "Bili-Sakura/RSCC",
@@ -46,6 +46,7 @@
 "Bobholamovic/CDLab",
 "ChenHongruixuan/ChangeDetectionRepository",
 "Bobholamovic/ChangeDetectionToolbox",
+"blaz-r/mason_cd",
 "mustansarfiaz/GeoVLM-R1-Toolkit",
 "Yu-Zhouz/SegChange-R1",
 "KimotaQY/SAM2-CD",
