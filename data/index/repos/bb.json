@@ -1,6 +1,6 @@
 {
 "3e2j/dae-cleanup":[0,44019961,"Blender Add-on : Cleanup for Switch Toolbox exported .dae model files"],
-"AD-Attacks/Active-Directory-Penetration-Testing":[26,134177965,""],
+"AD-Attacks/Active-Directory-Penetration-Testing":[25,134177965,""],
 "AKSW/QuitDiff":[8,770163,"Command line comparison tool for semantic web data, it can be used as git difftool for RDF data as well."],
 "ANYbotics/anymal_d_simple_description":[22,18677290,""],
 "ANYbotics/grid_map":[3237,18677290,"Universal grid map library for mobile robotic mapping"],
@@ -212,7 +212,7 @@
 "egoist/package-size":[424,8784712,"Get the bundle size of an npm package."],
 "emadb/rovex":[14,276876,"A multi mars rover implementation in Elixir. "],
 "ember-a11y/ember-a11y":[81,18333534,"A collection of tools to build accessible Ember applications."],
-"enaqx/awesome-react":[74567,182219,"A collection of awesome things regarding React ecosystem"],
+"enaqx/awesome-react":[74568,182219,"A collection of awesome things regarding React ecosystem"],
 "eparisotto/ActorMimic":[69,12306196,"Train an RL agent to play multiple Atari games at once"],
 "es-shims/String.prototype.trimLeft":[8,6288429,"ES2019 spec-compliant shim for String.prototype.trimLeft."],
 "eth-cscs/sarus":[150,5744410,"OCI-compatible engine to deploy Linux containers on HPC environments."],

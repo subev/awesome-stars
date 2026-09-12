@@ -225,7 +225,7 @@
 "elk-zone/elk":[6034,118971678,"A nimble Mastodon web client"],
 "elloramir/fetch-lua":[12,36797037,"Non-blocking love2d HTTPS/HTTP library"],
 "emmett-framework/granian":[5631,46401492,"A Rust HTTP server for Python applications"],
-"emscripten-core/emscripten":[27608,46011144,"Emscripten: An LLVM-to-WebAssembly Compiler"],
+"emscripten-core/emscripten":[27610,46011144,"Emscripten: An LLVM-to-WebAssembly Compiler"],
 "endgameinc/eql":[227,1102250,""],
 "eranyanay/1m-go-websockets":[5993,2053767,"handling 1M websockets connections in Go"],
 "ergo-services/ergo":[4656,76691249,"An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. "],

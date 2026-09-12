@@ -350,7 +350,7 @@
 "nomi-san/parsec-vdd":[5539,38210249,"✨ Perfect virtual display for game streaming"],
 "objectbox/objectbox-swift":[619,22327943,"Swift database - fast, simple and lightweight (iOS, macOS)"],
 "omec-project/aether-cni":[1,47397761,"Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode)"],
-"online-ml/river":[6093,47002673,"🌊 Online machine learning in Python"],
+"online-ml/river":[6092,47002673,"🌊 Online machine learning in Python"],
 "openark/orchestrator":[5775,10356578,"MySQL replication topology management and HA"],
 "orsinium-labs/flake8-pylint":[8,62876761,"Flake8 plugin that runs PyLint"],
 "paolosimone/virtual-json-viewer":[84,11669196,"JSON browser extension with virtual DOM, search and JQ filtering"],

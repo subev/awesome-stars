@@ -265,7 +265,7 @@
 "frankhale/Aurora":[8,190154,"An MVC web framework for .NET "],
 "friedrith/contributing-generator":[6,4005226,"A generator for the CONTRIBUTING.md, README.md, LICENSE, etc"],
 "fukamachi/envy":[61,90570,"Configuration switcher by an environment variable inspired by Config::ENV."],
-"functime-org/functime":[1184,153821607,"Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data."],
+"functime-org/functime":[1185,153821607,"Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data."],
 "fusilero/balistica":[67,62163640,"A open source ballistics calculator"],
 "fwang91/residual-attention-network":[558,11504366,"Residual Attention Network for Image Classification"],
 "gardener/gardenctl-v2":[37,33683699,"Command-line client for the Gardener with focus on operations"],

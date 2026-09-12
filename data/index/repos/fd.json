@@ -353,7 +353,7 @@
 "nasa-jpl/open-source-rover":[9635,10360932,"A build-it-yourself, 6-wheel rover based on the rovers on Mars!"],
 "neomatrix369/awesome-graal":[368,1570917,"A curated list of awesome resources for Graal, GraalVM, Truffle and related topics"],
 "nextest-rs/future-queue":[72,99227291,"Queue futures to run concurrently, in the order they're spawned, and with global and group limits."],
-"nf-core/eager":[213,35520196,"A fully reproducible and state-of-the-art ancient DNA analysis pipeline"],
+"nf-core/eager":[214,35520196,"A fully reproducible and state-of-the-art ancient DNA analysis pipeline"],
 "nicolaslopezj/searchable":[1994,2042567,"A php trait to search laravel models"],
 "nienow/sn-theme-overcast":[1,4440760,"Overcast theme for Standard Notes"],
 "ninjaframework/ninja":[1900,4134828,"Ninja is a full stack web framework for Java. Rock solid, fast and super productive."],

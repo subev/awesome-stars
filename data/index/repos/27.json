@@ -273,7 +273,7 @@
 "jclem/logfmt-elixir":[28,412282,"Decode and encode Logfmt lines in Elixir"],
 "jdleesmiller/jotgit":[210,160829,"Git-backed real time collaborative editor built with meteor."],
 "jebberjeb/viz.cljc":[31,4070806,"Generate images from Graphviz dot strings in Clojure and Clojurescript"],
-"jekyll/jekyll":[51657,3083652,":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby"],
+"jekyll/jekyll":[51656,3083652,":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby"],
 "jez/pandoc-sidenote":[157,5544532,"Convert Pandoc Markdown-style footnotes into sidenotes"],
 "jgrancher/react-native-sketch":[643,5517450,"🎨 A React Native <Sketch /> component for touch-based drawing."],
 "jimm/csvlixir":[33,14596,"A CSV reading/writing application for Elixir."],

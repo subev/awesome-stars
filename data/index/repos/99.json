@@ -392,7 +392,7 @@
 "projekt0n/github-nvim-theme":[2476,83335019,"GitHub's Neovim themes "],
 "ps2dev/ps2-packer":[83,358441,"Create packed ELF files to run on the PS2"],
 "publicsuffix/list":[2935,2463634,"The Public Suffix List"],
-"pubsubhubbub/PubSubHubbub":[622,1208576,"The PubSubHubbub protocol specification."],
+"pubsubhubbub/PubSubHubbub":[623,1208576,"The PubSubHubbub protocol specification."],
 "pydata/pandas-datareader":[3264,1284191,"Extract data from a wide range of Internet sources into a pandas DataFrame."],
 "pyecharts/jupyter-echarts":[89,34701774,"Bring echarts libraries to jupyter notebooks"],
 "python-injector/flask_injector":[282,119698538,"Adds Injector support to Flask."],

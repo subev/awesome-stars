@@ -448,7 +448,7 @@
 "swenson/vector.h":[57,33404,"C header library for typed lists (using macros and \"template\" C)."],
 "szp2005/llm-prices-cn":[0,147570523,"Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation."],
 "tailsmails/amdim":[3,253711812,"Make your screen dimmer than 0%"],
-"tanprathan/MobileApp-Pentest-Cheatsheet":[5267,11171126,"The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics."],
+"tanprathan/MobileApp-Pentest-Cheatsheet":[5266,11171126,"The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics."],
 "tarantool/expirationd":[49,2344919,"Expiration daemon module for Tarantool"],
 "target/pod-reaper":[211,932489,"Rule based pod killing kubernetes controller"],
 "taskforcesh/bullmq":[9390,29824808,"BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL"],

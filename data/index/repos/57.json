@@ -155,7 +155,7 @@
 "augmentedlogic/mollyb":[2,50803072,"a basic gemini protocol server"],
 "aws-samples/eb-node-express":[7,8931462,""],
 "azat-io/eslint-plugin-de-morgan":[317,5698350,"🧵 ESLint plugin for transforming negated boolean expressions via De Morgan’s laws"],
-"bagisto/bagisto":[28110,43133047,"Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs"],
+"bagisto/bagisto":[28112,43133047,"Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs"],
 "belse-de/zig-tut":[22,16528094,"A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well."],
 "benchoi93/TrajGAIL":[68,28798606,""],
 "benedekrozemberczki/awesome-graph-classification":[4801,17380887,"A collection of important graph embedding, classification and representation learning papers with implementations."],

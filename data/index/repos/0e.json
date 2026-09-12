@@ -313,7 +313,7 @@
 "liabru/matter-js":[18400,654420,"a 2D rigid body physics engine for the web ▲● ■"],
 "liamcain/obsidian-calendar-ui":[38,693981,"The UI that powers the obsidian-calendar-plugin"],
 "libreddit/libreddit":[5200,117129612,"Private front-end for Reddit"],
-"ligi/GradleDependenciesHelperPlugin":[379,111600,"IntelliJ AutoCompletion plugin for maven gradle dependencies"],
+"ligi/GradleDependenciesHelperPlugin":[380,111600,"IntelliJ AutoCompletion plugin for maven gradle dependencies"],
 "livehelpnow/tds_ecto":[56,9371843,"TDS Adapter for Ecto"],
 "lqez/django-summernote":[1087,579366,"Simply integrate Summernote editor with Django project. "],
 "ltriess/kitti_scan_unfolding":[16,33211926,":snake: Python Implementation for KITTI Scan Unfolding"],

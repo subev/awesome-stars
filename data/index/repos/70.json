@@ -381,7 +381,7 @@
 "puddletag/puddletag":[634,68825869,"Powerful, simple, audio tag editor for GNU/Linux"],
 "python-babel/flask-babel":[452,14215782,"i18n and l10n support for Flask based on Babel and pytz"],
 "qmd-lab/closeread-workshop":[4,145300504,"Materials for a workshop on the Closeread Quarto extension."],
-"quora/asynq":[696,68739,"Python library for asynchronous programming"],
+"quora/asynq":[695,68739,"Python library for asynchronous programming"],
 "railsware/bozon":[758,9354,"🛠 Command line tool for building, testing and publishing modern Electron applications"],
 "ramda/eslint-plugin-ramda":[117,5298359,":ram: ESLint rules for use with Ramda"],
 "rasgointelligence/RasgoQL":[269,68652288,"Write python locally, execute SQL in your data warehouse"],

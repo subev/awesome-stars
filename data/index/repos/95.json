@@ -481,7 +481,7 @@
 "valtech/minq":[1,185270,"Mockable, LINQable support for Sitecore and Sitecore MVC"],
 "varvet/pundit":[8520,3612746,"Minimal authorization through OO design and pure Ruby classes"],
 "vercel/pkg":[24342,14985020,"Package your Node.js project into an executable"],
-"vitalets/github-trending-repos":[3007,1473072,"Track GitHub trending repositories in your favorite programming language by native GitHub notifications!"],
+"vitalets/github-trending-repos":[3006,1473072,"Track GitHub trending repositories in your favorite programming language by native GitHub notifications!"],
 "vksnk/go-fann":[120,615088,"Go bindings for FANN, library for artificial neural networks"],
 "vlad3996/computing-density-maps":[52,12818855,"Fast computing density maps for ShanghaiTech and other datasets"],
 "vlang/vab":[347,46413578,"V Android Bootstrapper"],
@@ -512,5 +512,5 @@
 "zcaceres/fetch-mcp":[823,10032979,"A flexible HTTP fetching Model Context Protocol server."],
 "zhangchiqing/bluebird-promisell":[44,811374,"A practical functional programming library for promises"],
 "zhfeing/Bootstrapping-ViTs-pytorch":[18,48783491,"Official pytorch implementation for CVPR2022 paper \"Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training\""],
-"zhihanyue/ts2vec":[869,18026801,"A universal time series representation learning framework"]
+"zhihanyue/ts2vec":[870,18026801,"A universal time series representation learning framework"]
 }

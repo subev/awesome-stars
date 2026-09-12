@@ -226,7 +226,7 @@
 "genadis/aurelia-mdl":[22,6747147,"Aurelia plugin for Material Design Lite"],
 "genkami/watson":[269,28508897,"WATSON: Wasted but Amazing Turing-incomplete Stack-based Object Notation"],
 "gerrymanoim/exchange_calendars":[667,194147,"Calendars for various securities exchanges."],
-"getsops/sops":[23092,129185620,"Simple and flexible tool for managing secrets"],
+"getsops/sops":[23093,129185620,"Simple and flexible tool for managing secrets"],
 "giuseppemorelli/docker-devbox":[10,1280769,"Simple docker-compose for local and staging environments"],
 "gmh5225/Exploit-gdrv-loader":[0,13917777,"Kernel driver loader using vulnerable gigabyte driver (https://www.secureauth.com/labs/advisories/gigabyte-drivers-elevation-privilege-vulnerabilities) to load a unsigned driver"],
 "gmh5225/FallGuysSharp":[0,13917777,"FallGuys mods"],

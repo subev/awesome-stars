@@ -195,7 +195,7 @@
 "coolapso/tfimport":[50,14358086,"Automatically import infrastructure to tfstate"],
 "crazy-max/WindowsSpyBlocker":[5193,1951866,"Block spying and tracking on Windows"],
 "criptalia/spanish_dni_validator":[8,36248946,"A Spanish DNI, NIF, CIF and NIE validator for Golang"],
-"cuge1995/awesome-time-series":[1062,48620704,"list of papers, code, and other resources"],
+"cuge1995/awesome-time-series":[1061,48620704,"list of papers, code, and other resources"],
 "daftspunk/laravel-config-writer":[176,1392869,"Write to Laravel Config files and maintain file integrity"],
 "dagrejs/dagre-d3":[2959,34791034,"A D3-based renderer for Dagre"],
 "dakrone/clojure-opennlp":[757,19060,"Natural Language Processing in Clojure (opennlp)"],

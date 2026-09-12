@@ -286,7 +286,7 @@
 "jaegeral/security-apis":[993,741037,"A collective list of public APIs for use in security. Contributions welcome"],
 "jandre/brosquery":[28,211583,"module for osquery to load Bro logs into tables"],
 "jas502n/CVE-2015-5254":[15,16593068,"ActiveMQ  Deserialization RCE"],
-"jenkinsci/jenkins":[26542,107424,"Jenkins automation server"],
+"jenkinsci/jenkins":[26541,107424,"Jenkins automation server"],
 "jessek/hashdeep":[788,1842175,""],
 "jfalameda/refinerycms-dynamicfields":[15,287670,"This plugin lets the user create models dynamically and attach them to a page type or page ID. Then when editing these pages new fields would be added."],
 "jimregan/wordnet-lemon-to-w3c":[1,227350,"sameAs links for the Lemon conversion of WordNet 2.0 to the W3C conversion"],

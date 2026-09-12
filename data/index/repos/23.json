@@ -339,7 +339,7 @@
 "microsoft/mssql-monitoring":[91,6154722,"Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana"],
 "miroblog/deep_rl_trader":[414,8775704,"Trading Environment(OpenAI Gym) + DDQN (Keras-RL)"],
 "mit-pdos/perennial":[243,12404246,"Verifying concurrent storage and distributed systems"],
-"mkdocs/mkdocs":[22430,9692741,"Project documentation with Markdown."],
+"mkdocs/mkdocs":[22429,9692741,"Project documentation with Markdown."],
 "mladenplavsic/css-ripple-effect":[346,1327535,"Pure CSS (no JavaScript) implementation of Android Material design \"ripple\" animation"],
 "mmhelloworld/idris-jvm":[483,771425,"Idris on the JVM"],
 "moddio/taro":[287,20597335,"HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)"],

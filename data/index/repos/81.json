@@ -210,7 +210,7 @@
 "duckdb/duckdb-rs":[960,82039556," Ergonomic bindings to duckdb for Rust "],
 "duckleg/as3dpad":[19,2516535,"as3dpad is a virtual gamepad designed for Adobe AIR mobile. You can develop a iOS/Android game and receive user data from the touch screen. X and Y axis data will be represented to “UP”, “DOWN”, “LEFT”, “RIGHT” and a radians."],
 "dunglas/DunglasAngularCsrfBundle":[148,57224,"Automatic CSRF protection for JavaScript apps using a Symfony API"],
-"easysoft/zentaopms":[1684,237078,"Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​"],
+"easysoft/zentaopms":[1685,237078,"Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​"],
 "ecmwf/WeatherGenerator":[142,6368067,"The repository of the WeatherGenerator project"],
 "eeue56/take-home":[358,1139198,"A take-home application server written in Elm and only Elm"],
 "elgentos/magento2-hyva-checkout-ab-test":[20,2070687,"Set up an A/B test with different available Hyvä and Luma checkouts"],

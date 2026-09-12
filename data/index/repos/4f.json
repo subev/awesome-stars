@@ -59,7 +59,7 @@
 "JimmieOverby/SitecoreSitemapXML":[9,2419689,"The Sitemap XML module generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines. "],
 "KIZI/sparqlab":[12,7964044,"Lab for exercising SPARQL"],
 "Karneades/Defensomania":[66,30265053,"Defensomania is a security monitoring and incident response card game."],
-"Kludex/uvicorn":[10957,7353520,"An ASGI web server, for Python. 🦄"],
+"Kludex/uvicorn":[10959,7353520,"An ASGI web server, for Python. 🦄"],
 "KyryloKuzyk/PrimeTween":[1985,13222270,"High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code."],
 "LazyDeveloperHelper/LazyDeveloperHelper":[18,252492027,"Too lazy for write \"pip install -r requirements.txt\", or \"cargo add ...\".. or maybe.. \"luarocks install ..\" and writing it to requirements file? This plugin for you!"],
 "Lidarr/Lidarr":[5647,28475832,"Looks and smells like Sonarr but made for music."],

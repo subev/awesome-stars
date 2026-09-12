@@ -136,7 +136,7 @@
 "aaaguirrep/offensive-docker":[770,38407321,"Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets."],
 "abagames/111-one-button-games-in-2021":[88,2502899,"I have created 111 one-button games in 2021"],
 "acassen/dra-guard":[27,266622,"Mobile Core-Network routing software"],
-"achimnol/aiotools":[167,555156,"Idiomatic asyncio utilties"],
+"achimnol/aiotools":[168,555156,"Idiomatic asyncio utilties"],
 "adobe/ferrum":[529,476009,"Features from the rust language in javascript: Provides Traits/Type classes & a hashing infrastructure and an advanced library for working with sequences/iterators in js"],
 "adriancmiranda/glimpse.nvim":[10,5431310,"🖼️ Fast multi-format file previewer with inline Kitty graphics support, external pane previews, and integrations for file explorers and pickers."],
 "ajalt/fuckitpy":[5292,1109214,"The Python error steamroller."],

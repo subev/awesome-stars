@@ -74,7 +74,7 @@
 "Neuraxio/Neuraxle":[612,39544082,"The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments."],
 "Nordgaren/Elden-Ring-Debug-Tool":[173,83100346,"Debug tool for Elden Ring modding"],
 "OGS-GmbH/ngx-http":[2,197610277,"A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions."],
-"OWASP/mastg":[13179,155815,"The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS."],
+"OWASP/mastg":[13180,155815,"The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS."],
 "OscarCreator/rsync.nvim":[102,53407525,"neovim plugin which synchronises project with rsync on save."],
 "PDAL/java":[12,859797,"Java extension and bindings for PDAL"],
 "PKU-YuanGroup/LLaVA-CoT":[2132,135824553,"[ICCV 2025] LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning"],

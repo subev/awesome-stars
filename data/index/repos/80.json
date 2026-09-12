@@ -159,7 +159,7 @@
 "bungle/lua-resty-gettext":[9,983257,"LuaJIT FFI-based gettext library for OpenResty."],
 "buzcarter/UkeGeeks":[108,141770,"UkeGeeks Scriptasaurus creates fingering diagrams by reading plain text or ChordPro ukulele songs. Examples and documentation at UkeGeeks.com"],
 "c-cube/ocaml-containers":[523,1274291,"A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license."],
-"cachethq/cachet":[15239,9951502,"🚦 Cachet, the open source, self-hosted status page system."],
+"cachethq/cachet":[15235,9951502,"🚦 Cachet, the open source, self-hosted status page system."],
 "calzoneman/sync":[1587,385672,"Node.JS Server and JavaScript/HTML Client for synchronizing online media"],
 "carbon-design-system/carbon-tutorial":[162,25179978,"An app for the Carbon Design System tutorial"],
 "carloscalla/notepad.nvim":[5,4551639,"Neovim plugin for taking quick notes"],

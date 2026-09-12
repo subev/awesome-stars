@@ -336,7 +336,7 @@
 "openagentemail/openagentemail":[20,309239157,"Self-hosted email for AI agents — the open-source alternative to AgentMail. One compose file → unlimited inboxes, OTP extraction, MCP server."],
 "openboxes/openboxes":[893,5391464,"OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities."],
 "openfl/dragonbones":[43,4061208,"Runtime support for DragonBones skeletal animation"],
-"openkm/document-management-system":[849,9322751,"OpenKM is a Open Source Document Management System"],
+"openkm/document-management-system":[848,9322751,"OpenKM is a Open Source Document Management System"],
 "openresty/lua-resty-redis":[1956,7390180,"Lua redis client driver for the ngx_lua based on the cosocket API"],
 "optozorax/quad-storage":[23,18114381,"Plugin for macro-, mini-quad (quads) to save data in simple local storage using Web Storage API in WASM and local file on a native platforms."],
 "orfeotoolbox/OTB":[392,894429,"Github mirror of https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb"],

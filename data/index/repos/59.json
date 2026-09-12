@@ -76,7 +76,7 @@
 "OpenVPN/easy-rsa":[4478,1569141,"easy-rsa - Simple shell based CA utility"],
 "P1sec/sms_smsc":[14,856786,"Android application which allows sending SMS, with a specific SMSC without changing system defaults."],
 "PaddlePaddle/PaddleGAN":[8047,23534030,"PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on."],
-"PowerShellMafia/PowerSploit":[13086,15639068,"PowerSploit - A PowerShell Post-Exploitation Framework"],
+"PowerShellMafia/PowerSploit":[13085,15639068,"PowerSploit - A PowerShell Post-Exploitation Framework"],
 "PyCQA/modernize":[371,8749848,"Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)"],
 "QuivrHQ/MegaParse":[7414,159330290,"File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. "],
 "Quramy/ts-graphql-plugin":[758,1262998,"TypeScript Language Service Plugin for GraphQL developers"],

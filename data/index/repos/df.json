@@ -197,7 +197,7 @@
 "ecmwf/pdbufr":[28,6368067,"High-level BUFR interface for ecCodes"],
 "ef4/prember":[191,319282,"Prerender Ember apps with Fastboot at build time."],
 "electron-userland/electron-installer-redhat":[85,17519142,"Create a Red Hat / RPM package for your Electron app."],
-"eliben/pykaleidoscope":[344,1130906,"Implementation of the LLVM tutorial in Python using llvmlite"],
+"eliben/pykaleidoscope":[345,1130906,"Implementation of the LLVM tutorial in Python using llvmlite"],
 "eliranbar/ng-rich-text-editor":[2,28564377,""],
 "ellerbrock/fish-shell-setup-osx":[342,2029255,":blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2"],
 "elmarti/meteor-antd-boilerplate":[9,4789968,""],

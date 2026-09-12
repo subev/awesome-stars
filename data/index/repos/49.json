@@ -349,7 +349,7 @@
 "mcurmi05/vdiff":[0,155406311,"Breaking-change diffs for npm packages, served over REST and MCP, so coding agents stop writing code against outdated API knowledge."],
 "mdh34/hackup":[50,12615975,"Read Hacker News from the desktop"],
 "merces/aleph":[158,1429647,"An Open Source Malware Analysis Pipeline System"],
-"mermaid-js/mermaid":[90204,57169982,"Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"],
+"mermaid-js/mermaid":[90214,57169982,"Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"],
 "michaeljforster-zz/panic":[42,3678779,"Common Lisp (Parenscript) library for React"],
 "mikusnuz/pexbot-mcp":[1,35033879,"MCP server for pex.bot — AI simulated crypto trading with real-time Upbit prices. 11 tools, 5 resources, 5 prompts."],
 "minchenlee/c9watch":[128,110967458,"c9watch (short for claude code watch, like k8s for Kubernetes) is a macOS desktop app that gives you a real-time dashboard of every Claude Code session running on your machine. No more switching between terminals to check which agent needs permission, which one is working, and which one is idle."],

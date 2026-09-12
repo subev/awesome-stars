@@ -454,7 +454,7 @@
 "stack-of-tasks/talos-data":[3,3725101,"TALOS robot data for the Stack-Of-Tasks"],
 "stefanmaric/ntee":[23,1009040,"Portable Unix shell command 'tee', with some extras - read from standard input and write to standard output and files"],
 "stellarbit/aioping":[92,3501718,"Python asyncio ping library"],
-"str4d/age-plugin-yubikey":[969,4993799,"YubiKey plugin for age"],
+"str4d/age-plugin-yubikey":[971,4993799,"YubiKey plugin for age"],
 "stuffmatic/tilecam":[67,2444852,"A Blender add-on that makes it easy to render seamlessly repeatable images."],
 "sudara/awesome-juce":[1333,472,"A curated list of JUCE modules, templates, plugins, oh my!"],
 "sysprog21/fibdrv":[42,22310129,"Linux kernel module that calculates Fibonacci numbers"],

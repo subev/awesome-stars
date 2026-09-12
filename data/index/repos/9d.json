@@ -93,7 +93,7 @@
 "RobertCsordas/RFCN-tensorflow":[290,2706617,"RFCN implementation in TensorFlow"],
 "RomainFranceschini/quartz":[16,470056,"Quartz - A Crystal Modeling & Simulation framework"],
 "RunpeiDong/DreamLLM":[462,37994246,"[ICLR 2024 Spotlight] DreamLLM: Synergistic Multimodal Comprehension and Creation"],
-"SVF-tools/SVF":[1709,31209843,"Static Value-Flow Analysis Framework for Source Code"],
+"SVF-tools/SVF":[1708,31209843,"Static Value-Flow Analysis Framework for Source Code"],
 "SaiBalaji-PSS/Scoop":[4,51410810,"A NEWS app which can be used to read,share and bookmark articles of various categories"],
 "Scaseco/RdfProcessingToolkit":[51,91833510,"Command line interface based RDF processing toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets, streams of bindings and streams of named graphs with support for processing JSON, CSV and XML using function extensions. Ships with an integrated SPARQL and GraphQL server."],
 "ScorpioBroker/ScorpioBroker":[76,55130839,"NGSI-LD compliant context broker named Scorpio. Developed by NEC Laboratories Europe and NEC Technologies India"],

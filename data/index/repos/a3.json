@@ -267,7 +267,7 @@
 "invopop/gobl.verifactu":[15,70638251,"Convert GOBL into VeriFactu documents and send to the AEAT"],
 "ipkn/crow":[7627,283960,"Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)"],
 "ironsmile/euterpe":[575,50431,"Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧"],
-"isso-comments/isso":[5308,101195030,"a Disqus alternative"],
+"isso-comments/isso":[5309,101195030,"a Disqus alternative"],
 "ivan-hc/AppMan":[349,88724353,"AppImage Package Manager. \"AppMan\" is a redistribution of \"AM\" Application Manager, that does not require root privileges to install and manage apps: same code, same apps... two different behavior."],
 "ivarref/opentype.clj":[2,74075,"A simple API over opentype.js for Clojure. Runs on the JVM."],
 "izumin5210/action-homebrew-tap":[13,2010175,""],

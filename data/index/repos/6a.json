@@ -450,7 +450,7 @@
 "vercel/ms":[5547,14985020,"Tiny millisecond conversion utility"],
 "vhpoet/awesome-ripple":[200,686185,"A curated list of Ripple resources"],
 "vincenthz/libjson":[294,174631,"a JSON parser and printer library in C. easy to integrate with any model."],
-"vinta/awesome-python":[320158,652070,"The definitive list that answers \"I want to do X in Python, which tool should I use?\""],
+"vinta/awesome-python":[320200,652070,"The definitive list that answers \"I want to do X in Python, which tool should I use?\""],
 "viper-framework/viper":[1562,11727060,"Binary analysis and management framework"],
 "void-stack/VMUnprotect.Dumper":[462,47751114,"VMUnprotect.Dumper can dynamically untamper VMProtected Assembly."],
 "voxpupuli/vim-puppet":[31,8693967,"Puppet niceties for your Vim setup"],

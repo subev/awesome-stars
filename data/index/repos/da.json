@@ -105,7 +105,7 @@
 "Synthesis/ray2get":[10,497580,"Convert the .apm music files from Rayman 2 (PC) to .wav."],
 "TexasInstruments/edgeai-tidlrunner":[6,24322022,"Bring Your Edge AI Models For Compilation, Inference, Analysis or Benchmark (BYOM) using TI Deep Learning (TIDL) - Edge AI in TI Processors"],
 "ThalesGroup/GeoView":[14,42569525,"Views to display and interact with geographical objects and cartographic layers for UI"],
-"The-Z-Labs/linux-exploit-suggester":[6605,121764924,"Linux privilege escalation auditing tool"],
+"The-Z-Labs/linux-exploit-suggester":[6611,121764924,"Linux privilege escalation auditing tool"],
 "TheGamesDB/TheGamesDB":[137,1786370,"TheGamesDB.net Repository - An open, online database for video game fans."],
 "Thiago4532/mdmath.nvim":[239,19158283,"A Neovim plugin for inline LaTeX equation previews in Markdown."],
 "Tiendil/feeds.fun":[394,871672,"News reader with tags, scoring, and LLM"],
