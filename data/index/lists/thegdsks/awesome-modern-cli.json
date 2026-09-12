@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.","defaultBranch":"main","topics":["awesome","awesome-list","cli","cli-tools","command-line","developer-tools","modern-unix","rust","terminal","terminal-tools"],"readmeSha":"a2c91aa8d825c7c00c1ef9943eed628e3b2364a1"},
+"meta": {"description":"A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.","defaultBranch":"main","topics":["awesome","awesome-list","cli","cli-tools","command-line","developer-tools","modern-unix","rust","terminal","terminal-tools"],"readmeSha":"1b5823b63cb7de29e234ea617fb68aa8ae728060"},
 "members": [
 "sharkdp/bat",
 "aristocratos/btop",
@@ -124,6 +124,7 @@
 "9001/copyparty",
 "svenstaro/miniserve",
 "Chleba/netscanner",
+"heymaikol/network-doctor",
 "backendsystems/nibble",
 "GyulyVGC/sniffnet",
 "gcla/termshark",
@@ -164,6 +165,7 @@
 "gohugoio/hugo",
 "getzola/zola",
 "bcicen/ctop",
+"ASCIT31/Dark-Moon",
 "wagoodman/dive",
 "containerd/nerdctl",
 "mrjackwills/oxker",

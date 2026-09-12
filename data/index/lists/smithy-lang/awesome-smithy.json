@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.","defaultBranch":"main","topics":["api","aws","client","codegen","sdk","server","smithy","awesome","awesome-list"],"readmeSha":"fa97133ef7843100d0c8e6b5728813d4af6e88e8"},
+"meta": {"description":"Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.","defaultBranch":"main","topics":["api","aws","client","codegen","sdk","server","smithy","awesome","awesome-list"],"readmeSha":"c54cbffade65e6ce987a4cc8d90534c62c7c75cc"},
 "members": [
 "smithy-lang/smithy",
 "smithy-lang/smithy",

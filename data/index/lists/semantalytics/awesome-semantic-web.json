@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"4cdf7659171744bb57705481bb33949d6ae07ea9"},
+"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"ba6c16b6b7ffb296494094507235c5a60728680b"},
 "members": [
 "rollxx/manchester-syntax-owl2",
 "ontola/hextuples",
@@ -191,6 +191,7 @@
 "gbv/ssso",
 "gbv/dso",
 "gatemezing/MMOntologies",
+"fabio-rovai/ontology-curriculum",
 "TheOntologist/OntoVerbal",
 "INCATools/dosdp-tools",
 "mdesalvo/OWLSharp",
@@ -282,6 +283,7 @@
 "linked-solutions/jarql",
 "shexjs/shex.js",
 "DataBorg/client",
+"p2m2/unravel-rdf",
 "nicholashauschild/kotlin-rdf",
 "kasei/SPARQLKit",
 "sweetrdf/easyrdf",

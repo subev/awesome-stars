@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"f25b7519edc6715de62de66e716d1da2e747af18"},
+"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"e3cc53f0c7f7ffadc112e227a374d474bdbad56a"},
 "members": [
 "COMBINE-lab/alevin-fry",
 "YeoLab/anchor",
@@ -111,6 +111,7 @@
 "lanjiangboston/GiniClust",
 "cz-ye/DECENT",
 "gillislab/MetaMarkers",
+"s4s4s4s/pbcheck",
 "euxhenh/phenotype-cover",
 "kdkorthauer/scDD",
 "hms-dbmi/scde",

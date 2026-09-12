@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome robot descriptions (URDF, MJCF)","defaultBranch":"main","topics":["awesome","awesome-list","urdf-descriptions","urdf-models","biped","humanoid","quadruped","robot","urdf","legged-robots"],"readmeSha":"12bc6f04df3ef05e257758e9d5f8c46ffa06a8f2"},
+"meta": {"description":"A curated list of awesome robot descriptions (URDF, MJCF)","defaultBranch":"main","topics":["awesome","awesome-list","urdf-descriptions","urdf-models","biped","humanoid","quadruped","robot","urdf","legged-robots"],"readmeSha":"cee004d4ee79774d61ec52220975517289a5d4b8"},
 "members": [
 "ianathompson/eDO_description",
 "google-deepmind/mujoco_menagerie",
@@ -27,7 +27,9 @@
 "unitreerobotics/unitree_ros",
 "rimim/AWD",
 "robot-descriptions/cassie_description",
+"limxdynamics/tron1-robot-description",
 "G-Levine/rhea_description",
+"limxdynamics/tron2-robot-description",
 "bbokser/spryped",
 "upkie/upkie_description",
 "RethinkRobotics/baxter_common",
@@ -42,7 +44,7 @@
 "google-deepmind/mujoco",
 "laas/simple_humanoid_description",
 "psyonicinc/ability-hand-api",
-"TetherIA/aero-hand-open",
+"Chestnut-Robotics/aero-hand-open",
 "jhu-lcsr-attic/bhand_model",
 "ADVRHumanoids/iit-dagana-ros-pkg",
 "iotdesignshop/dexhand_description",
@@ -58,7 +60,7 @@
 "BoosterRobotics/booster_gym",
 "adubredu/DigitRobot.jl",
 "shbang91/draco3_description",
-"bxirobotics/robot_models",
+"bxirobotics/robot_descriptions",
 "mesh-iit/ergocub-software",
 "gbionics/gb-robot-models",
 "FFTAI/Wiki-GRx-Models",
@@ -72,6 +74,7 @@
 "Rhoban/microban",
 "ros-naoqi/nao_robot",
 "ros-naoqi/nao_meshes",
+"limxdynamics/humanoid-description",
 "gkjohnson/nasa-urdf-robots",
 "ros-aldebaran/romeo_robot",
 "Rhoban/sigmaban_urdf",
@@ -110,5 +113,9 @@
 "limxdynamics/tron1-robot-description",
 "stephane-caron/awesome-open-source-robots",
 "gbionics/awesome-urdf"
+],
+"dropped": [
+["2026-09-12","TetherIA/aero-hand-open"],
+["2026-09-12","bxirobotics/robot_models"]
 ]
 }

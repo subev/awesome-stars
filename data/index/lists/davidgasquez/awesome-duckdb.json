@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"a2b8f6de1c79ea4ec37236ffdd9639b3e8390906"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"d8b34214c9e3a055d419bf4db0560282540861d7"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -67,6 +67,7 @@
 "TraberSoftware/Unleasharp.DB.DuckDB",
 "nnnkkk7/snowflake-emulator",
 "skuirrels/DuckDB.EFCoreProvider",
+"AstroVela/vane",
 "mattf96s/QuackDB",
 "caioricciuti/duck-ui",
 "StructuredLabs/preswald",
@@ -153,6 +154,7 @@
 "ImpossibleForge/pfc-duckdb",
 "ywelsch/duckdb-prql",
 "intellekthq/duckdb-pst",
+"dentiny/duckdb-query-condition-cache",
 "pdet/Scrooge-McDuck",
 "Query-farm/shellfs",
 "KoliStat/the-stats-duck",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"e1ca5a23b90bae359c4723004913ab1cefe709f3"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"ab6ab9f65b6ece60d5c36cee926d451a9e50d239"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -26,7 +26,7 @@
 "Helicone/ai-gateway",
 "katanemo/plano",
 "looplj/axonhub",
-"mnfst/manifest",
+"mnfst/llm-gateway",
 "theopenco/llmgateway",
 "APIParkLab/APIPark",
 "pydantic/pydantic-ai-gateway",
@@ -57,7 +57,7 @@
 "EinStack/glide",
 "Kong/kong",
 "apache/apisix",
-"envoyproxy/ai-gateway",
+"theagentrouter/agent-router",
 "kgateway-dev/kgateway",
 "TheLunarCompany/lunar",
 "krakend/krakend-ce",
@@ -132,6 +132,7 @@
 "MoonshotAI/K2-Vendor-Verifier",
 "toby-bridges/api-relay-audit",
 "cuihuan/modelprobe",
+"mnfst/llm-gateway",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",
@@ -141,6 +142,8 @@
 ],
 "dropped": [
 ["2026-09-05","tsouth89/toolport"],
-["2026-09-05","workweave/router"]
+["2026-09-05","workweave/router"],
+["2026-09-12","mnfst/manifest"],
+["2026-09-12","envoyproxy/ai-gateway"]
 ]
 }

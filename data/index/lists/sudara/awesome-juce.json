@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"76d203897d36ccbd1b51e2744ff6ce21ab1f4342"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"eb3cf0c90252da1459538a0ea7a3e8884014dea3"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",

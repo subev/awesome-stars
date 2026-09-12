@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⛩️ A curated, multilingual, and actively maintained index of the Touhou ecosystem ☯️","defaultBranch":"main","topics":["awesome","awesome-list","bullet-hell","community","curated-list","danmaku","decompilation","fangame","game-modding","game-preservation"],"readmeSha":"54f7521706df7493fe2b66218fca6cae78d0e470"},
+"meta": {"description":"⛩️ A curated, multilingual, and actively maintained index of the Touhou ecosystem ☯️","defaultBranch":"main","topics":["awesome","awesome-list","bullet-hell","community","curated-list","danmaku","decompilation","fangame","game-modding","game-preservation"],"readmeSha":"6b1c25146b844dc659eed6725482dbae1d9813dd"},
 "members": [
 "wearrrrr/9Launcher",
 "spacebanana420/tanuki",
@@ -32,6 +32,7 @@
 "kikones34/th128-replay-fixer",
 "nmlgc/ReC98",
 "N0zoM1z0/th105",
+"N0zoM1z0/th04",
 "GensokyoClub/th06",
 "some100/th07",
 "N0zoM1z0/th08",

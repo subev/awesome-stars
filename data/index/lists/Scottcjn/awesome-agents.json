@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of AI agent platforms, frameworks, protocols, tools, and resources","defaultBranch":"main","topics":["agent-framework","agent-protocol","ai-agents","awesome","awesome-list","llm","multi-agent"],"readmeSha":"a626793597200b65321afac6e836f2e1642f06fa"},
+"meta": {"description":"A curated list of AI agent platforms, frameworks, protocols, tools, and resources","defaultBranch":"main","topics":["agent-framework","agent-protocol","ai-agents","awesome","awesome-list","llm","multi-agent"],"readmeSha":"43915f265780716f20d20e4de7e7bc39917524ad"},
 "members": [
 "Scottcjn/Rustchain",
 "Significant-Gravitas/AutoGPT",
@@ -13,6 +13,7 @@
 "FlowiseAI/Flowise",
 "langgenius/dify",
 "letta-ai/letta",
+"madarco/agentbox",
 "MarlBurroW/hivekeep",
 "aeonfun/aeon",
 "langchain-ai/langchain",

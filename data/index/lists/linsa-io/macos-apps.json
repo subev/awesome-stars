@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome macOS apps","defaultBranch":"master","topics":["macos","apps","curated-list","macos-apps","awesome","awesome-list","macos-app"],"readmeSha":"78fa96bdea75df898c3bdc68561075d39227ad1b"},
+"meta": {"description":"Awesome macOS apps","defaultBranch":"master","topics":["macos","apps","curated-list","macos-apps","awesome","awesome-list","macos-app"],"readmeSha":"66a17088404b7241b22ab4289961af6883b6afa9"},
 "members": [
 "linsa-io/curated-lists",
 "larryxiao/openquack",
@@ -17,6 +17,7 @@
 "bysiber/cleardisk",
 "gitify-app/gitify",
 "HexFiend/HexFiend",
+"sorkila/lockpaw",
 "anishathalye/lumen",
 "iina/iina",
 "glushchenko/fsnotes",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.","defaultBranch":"master","topics":["decentralized-protocols","decentralized-applications","decentralized-web","decentralized","awesome","awesome-list"],"readmeSha":"6fec0376e8cb842e8573b7b99b69b6fc26260ae3"},
+"meta": {"description":"A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.","defaultBranch":"master","topics":["decentralized-protocols","decentralized-applications","decentralized-web","decentralized","awesome","awesome-list"],"readmeSha":"bfa3e45b32d3eeb749074b90a604068dc5e6dcc0"},
 "members": [
 "bluesky-social/atproto",
 "forgefed/forgefed",
@@ -31,12 +31,15 @@
 "ssbc/patchwork",
 "btrask/stronglink",
 "ethersphere/swarm",
+"ethersphere/bee",
 "sanity/tahrir",
 "TrsstProject/trsst",
 "oddsdk/ts-odd",
 "zeronet-conservancy/zeronet-conservancy",
 "redecentralize/alternative-internet",
-"Decentralized-ID/decentralized-id.github.io"
+"Decentralized-ID/decentralized-id.github.io",
+"gdamdam/awesome-offline-knowledge",
+"gdamdam/awesome-resilient-communication"
 ],
 "dropped": [
 ["2026-09-05","sindresorhus/awesome"],

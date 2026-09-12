@@ -1,9 +1,10 @@
 {
-"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"48659cad24ea09ffc701c070908163e838f6c493"},
+"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"d6104adc94b5f663b272ee88a96fd2256b38609c"},
 "members": [
 "sindresorhus/awesome",
 "adam-p/markdown-here",
 "NeuroTechX/EEG-ExPy",
+"NeuroAIHub/BrainPilot",
 "tayal-sarthak/edf2csv",
 "tayal-sarthak/edfcore",
 "sccn/BCILAB",

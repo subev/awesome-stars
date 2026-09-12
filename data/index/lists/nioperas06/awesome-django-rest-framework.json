@@ -1,5 +1,5 @@
 {
-"meta": {"description":" 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework","defaultBranch":"master","topics":["django-rest-framework","django","api","awesome","usefull-drf","awesome-list","serialization","django-authentication","django-rest","python"],"readmeSha":"4b103c1774d46fe7b0ab02f6e63bd84f75903594"},
+"meta": {"description":" 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework","defaultBranch":"master","topics":["django-rest-framework","django","api","awesome","usefull-drf","awesome-list","serialization","django-authentication","django-rest","python"],"readmeSha":"6101ecc8847f2f8e30756990a829a515018ab29c"},
 "members": [
 "sindresorhus/awesome",
 "anexia-it/django-rest-passwordreset",
@@ -49,6 +49,7 @@
 "gizmag/drf-ujson-renderer",
 "vbabiy/djangorestframework-camel-case",
 "mypebble/rest-framework-latex",
+"FROWNINGdev/django-orm-lens",
 "amikrop/drf-sendables",
 "gilsondev/django-rest-localflavor",
 "django-json-api/django-rest-framework-json-api",

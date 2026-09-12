@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"87a29db2b050fc3f80551fdb1cd8949a4c18d810"},
+"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"fc40436ee2b76c219a6310174becd72a5fd8ec4b"},
 "members": [
 "szabgab/awesome-for-non-programmers",
 "sdras/awesome-actions",
@@ -19,6 +19,9 @@
 "jivoi/awesome-osint",
 "agarrharr/awesome-cli-apps",
 "awesome-selfhosted/awesome-selfhosted",
+"gdamdam/awesome-decentralized-web",
+"gdamdam/awesome-resilient-communication",
+"gdamdam/awesome-offline-knowledge",
 "evidencesynthesis-tools/awesome-evidence-synthesis",
 "soarsh/awesome-subreddits",
 "hive-intel/awesome-crypto-mcp-servers",

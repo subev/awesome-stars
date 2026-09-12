@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"5587d653469afb5edfa6908411a712af8b817689"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"dcd09eeb3f87081499a7b5e5c7818bfe3eac20a3"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -18,21 +18,21 @@
 "ag2ai/ag2",
 "Josh-XT/AGiXT",
 "trpc-group/trpc-agent-go",
-"openonion/connectonion",
 "rlaope/oh-my-hermes",
+"openonion/connectonion",
 "razzant/ouroboros",
 "wanxingai/LightAgent",
 "agentlas-ai/Agentlas-OS",
 "kreneskyp/ix",
 "promptise-com/Foundry",
 "aeonfun/aeon",
-"ahmadvh/octochains",
 "Fzkuji/OpenProgram",
+"ahmadvh/octochains",
 "axar-ai/axar",
 "juspay/neurolink",
 "Muvon/octomind",
-"nMaroulis/protolink",
 "NetMindAI-Open/NarraNexus",
+"nMaroulis/protolink",
 "Scottcjn/shaprai",
 "Scottcjn/trashclaw",
 "barun-saha/kodeagent",
@@ -73,7 +73,6 @@
 "caura-ai/caura",
 "xuiltul/animaworks",
 "omega-memory/omega-memory",
-"Perseus-Computing-LLC/perseus",
 "inite-ai/inite-brain-service",
 "mem0ai/mem0",
 "Agent-Field/agentfield",
@@ -113,6 +112,7 @@
 "eumemic/ai-legion"
 ],
 "dropped": [
-["2026-08-29","EvoAgentX/EvoAgentX"]
+["2026-08-29","EvoAgentX/EvoAgentX"],
+["2026-09-12","Perseus-Computing-LLC/perseus"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of apps, developer resources, communities, and articles related to the Apple Vision Pro","defaultBranch":"main","topics":["apple","ar","avp","ios","spatial-computing","vision","vision-os","vision-pro","visionos","visionpro"],"readmeSha":"67ace234c81e309af4c3377040acf4de4fd31d05"},
+"meta": {"description":"Collection of apps, developer resources, communities, and articles related to the Apple Vision Pro","defaultBranch":"main","topics":["apple","ar","avp","ios","spatial-computing","vision","vision-os","vision-pro","visionos","visionpro"],"readmeSha":"cbabfd5c447b3542a8580d2b123fa9a7fdfd3507"},
 "members": [
 "jtmuller5/VisionOS-Tips-and-Tricks",
 "jordibruin/visionOS-Examples",
@@ -38,6 +38,7 @@
 "BaeBae33/visionOS-develop-with-imagine",
 "qaze/vision_wordle",
 "jetstyle/Apple-Vision-Pro-UI-Kit",
+"comdigis-community/IO",
 "dart-lang/native",
 "firebase/firebase-ios-sdk",
 "flutter/flutter",
