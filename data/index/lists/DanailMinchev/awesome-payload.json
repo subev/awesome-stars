@@ -1,9 +1,10 @@
 {
-"meta": {"description":":sunglasses: A curated list of awesome Payload resources for users and developers.","defaultBranch":"main","topics":["awesome","awesome-list","payload","payloadcms"],"readmeSha":"2f512d0ad89b9d3796a92838b98068ea5d32d81b"},
+"meta": {"description":":sunglasses: A curated list of awesome Payload resources for users and developers.","defaultBranch":"main","topics":["awesome","awesome-list","payload","payloadcms"],"readmeSha":"ded044e28a5649b60fc6ada085f2d0a685c62838"},
 "members": [
 "payloadcms/payload",
 "payloadcms/website",
 "DanailMinchev/payload-clerk-example",
+"Ducksss/payload-components",
 "shopnex-ai/shopnex",
 "r1tsuu/payload-enchants",
 "UPDOT/payload-auth-plugin",

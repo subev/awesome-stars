@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of web application security","defaultBranch":"master","topics":["penetration-testing","web-hacking","vulnerabilities","scanner","hacking","hacking-tools","metasploit","web-security","appsec","owasp"],"readmeSha":"c05fa3330e64417a3592b4559c9a6f3ce17eb82d"},
+"meta": {"description":"A list of web application security","defaultBranch":"master","topics":["penetration-testing","web-hacking","vulnerabilities","scanner","hacking","hacking-tools","metasploit","web-security","appsec","owasp"],"readmeSha":"1ef5cbf19dddbea325cabc375d8aa3c3e185f1ef"},
 "members": [
 "bad-antics/nullsec-linux",
 "bad-antics/nullsec-webfuzz",
@@ -9,6 +9,7 @@
 "bjeborn/basic-auth-pot",
 "ASCIT31/Dark-Moon",
 "BugTraceAI/BugTraceAI",
+"TayfurYldz/headerproof",
 "ANVEAI/anve-offsec",
 "sullo/nikto",
 "nccgroup/Scout2",
@@ -51,6 +52,8 @@
 "momenbasel/keyFinder",
 "DenisPodgurskii/pentestkit",
 "inflictx/Arsenal",
+"okdkebm/UpClaw",
+"ai-blueteam/http-detection-agent",
 "zaproxy/zaproxy",
 "aaaguirrep/offensive-docker",
 "bee-san/RustScan",

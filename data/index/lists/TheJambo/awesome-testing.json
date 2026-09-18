@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"969b9ee75048daad2cea1bacd44658f5d2649070"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"8ddf7ac4659af0605b7e8397765c491500638125"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -19,6 +19,8 @@
 "Evaliphy/evaliphy",
 "supernovae-st/nika",
 "mukundzha/crilio",
+"Continuum-AI-Corp/OrcaReplay",
+"xag/flight-recorder",
 "xnbox/DeepfakeHTTP",
 "faiscadev/fakecloud",
 "getmockd/mockd",
@@ -28,6 +30,7 @@
 "testdriverai/goodlooks",
 "retest/recheck-web",
 "sherlo-io/sherlo",
+"SharminSirajudeen/drengr-runner",
 "rubycdp/ferrum",
 "ai-dashboad/flutter-skill",
 "test-zeus-ai/testzeus-hercules",

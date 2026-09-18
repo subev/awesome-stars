@@ -1,5 +1,5 @@
 {
-"meta": {"description":"👻 A curated list of awesome FFmpeg resources.","defaultBranch":"master","topics":["ffmpeg","fluent-ffmpeg","awesome","awesome-list"],"readmeSha":"a33f5d134a47e772c36c332271eb11963a3374a2"},
+"meta": {"description":"👻 A curated list of awesome FFmpeg resources.","defaultBranch":"master","topics":["ffmpeg","fluent-ffmpeg","awesome","awesome-list"],"readmeSha":"a7307da457b930b965f14c8dc90bcf1b084d3be2"},
 "members": [
 "transitive-bullshit/ffmpeg-cli-flags",
 "fluent-ffmpeg/node-fluent-ffmpeg",
@@ -15,6 +15,7 @@
 "Kagami/ffmpeg.js",
 "eugeneware/ffmpeg-static",
 "NiKlimenko/FFParser",
+"steven-panxd/lottie-render",
 "transitive-bullshit/ffmpeg-gl-transition",
 "leixiaohua1020/simplest_ffmpeg_mobile",
 "bilibili/ijkplayer",

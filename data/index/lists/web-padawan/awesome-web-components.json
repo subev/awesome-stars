@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"62145242dab268dd5289d6c3b9c1928e945826ce"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"a64e3b912b8f6c980d445d9352ba5debda450511"},
 "members": [
 "web-platform-tests/wpt",
 "praveenpuglia/shadow-dom-in-depth",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Jargon from the functional programming world in simple terms!","defaultBranch":"master","topics":["functional-programming","fp","awesome-list","education","glossary","javascript"],"readmeSha":"e7d663c3f01b445cd4e5efb2a5eb937cb701fe3d"},
+"meta": {"description":"Jargon from the functional programming world in simple terms!","defaultBranch":"master","topics":["functional-programming","fp","awesome-list","education","glossary","javascript"],"readmeSha":"11849ed50c8a2d096b088a0bd15af5322c6317e3"},
 "members": [
 "fantasyland/fantasy-land",
 "alexmoreno/jargoes-programacao-funcional",
@@ -16,6 +16,7 @@
 "Moelf/functional-programming-jargon.jl",
 "marcwrobel/functional-programming-jargon-fr",
 "calmm-js/partial.lenses",
+"flunc/optics",
 "ramda/ramda",
 "paldepind/union-type",
 "fantasyland/daggy",

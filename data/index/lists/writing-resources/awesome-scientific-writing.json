@@ -1,5 +1,5 @@
 {
-"meta": {"description":":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ","defaultBranch":"main","topics":["awesome","markdown","restructuredtext","jupyter-notebook","org-mode","pandoc","awesome-list"],"readmeSha":"742023aa1d0e018e676bdaf79b1c667cbfb74d3e"},
+"meta": {"description":":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ","defaultBranch":"main","topics":["awesome","markdown","restructuredtext","jupyter-notebook","org-mode","pandoc","awesome-list"],"readmeSha":"9f280c0e264519ec7f993ec57a517a38b6e54931"},
 "members": [
 "sindresorhus/awesome",
 "marktext/marktext",
@@ -10,6 +10,7 @@
 "vim-pandoc/vim-pandoc-syntax",
 "yzhang-gh/vscode-markdown",
 "shd101wyy/markdown-preview-enhanced",
+"tobiasosDev/citecheck",
 "brodie-neuro/ScholarRef",
 "UB-Mannheim/zotero-ocr",
 "YuZh98/latex2arxiv",
@@ -20,6 +21,7 @@
 "amperser/proselint",
 "remarkjs/remark-lint",
 "twolfson/restructuredtext-lint",
+"rvben/rumdl",
 "vale-cli/vale",
 "btford/write-good",
 "dev-onejun/paper-templates-for-github-pages",

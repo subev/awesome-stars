@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"ab232cf232ee964c00d831e1477f90d85ca496b8"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"57a836339d32bb97127422582527e8632f86877a"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -28,6 +28,7 @@
 "load1n9/caviar",
 "littledivy/deno_sdl2",
 "matmen/ImageScript",
+"hanshs474/kavel-ts",
 "retraigo/monke",
 "dahlia/logtape",
 "retraigo/appraisal",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"afab354414790fff8d9d6c0cff7afce6fb42fb41"},
+"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"31200d42654c4bf84220fcfffefc812e6149a831"},
 "members": [
 "sindresorhus/awesome",
 "run-as-root/awesome-magento2",
@@ -82,6 +82,8 @@
 "mageplaza/magento-2-seo",
 "Zwernemann/magento2-withdrawl",
 "mage-os-lab/module-blog",
+"BerryPath/magento2-berrypath-flow",
+"BerryPath/magento2-berrypath-product-feed",
 "staempfli/magento2-module-pdf",
 "SnowdogApps/magento2-menu",
 "justbetter/magento2-sentry",

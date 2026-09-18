@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"8f2096299d636ae7f04c198430946d1802d330b9"},
+"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"d5f715ec00453b02128d026cf2353e41a00cc300"},
 "members": [
 "EmmaTheMartian/clockwork",
 "vlang/vab",
@@ -64,6 +64,7 @@
 "vlang/vinix",
 "vlang/unikernel",
 "vlang/vpm",
+"Create-Vlang-App/create-vlang-app",
 "shiipou/lenra-template-v",
 "mulh8377/vset",
 "Ddiidev/ini-v",
@@ -158,6 +159,8 @@
 "gechandesu/netio",
 "ttytm/vibe",
 "jordan-bonecutter/vmq",
+"bedrock-v/webrtc-v",
+"bedrock-v/raknet",
 "jdonnerstag/vlang-mmap",
 "asvvvad1/vlipboard",
 "Ddiidev/WindowsRegistry",

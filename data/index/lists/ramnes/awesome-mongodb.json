@@ -1,5 +1,5 @@
 {
-"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"7a6c497061a90707d25a21ac01719d12c76707af"},
+"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"64dad9132554bcda52ef0f4e6d58f32683f2d6b0"},
 "members": [
 "sindresorhus/awesome",
 "mongodb-developer/the-little-mongodb-book",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"e4b841f9d1556f473cec3ca9a75aa11c3383eb70"},
+"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"c456df5f4ea42f9c539a35c1f394a9d2915460ce"},
 "members": [
 "sindresorhus/awesome",
 "django-hijack/django-hijack",
@@ -12,6 +12,7 @@
 "jrief/django-admin-sortable2",
 "Brktrlw/django-admin-collaborator",
 "django-control-room/dj-control-room",
+"7tg/django-admin-mcp",
 "sehmaschine/django-grappelli",
 "farridav/django-jazzmin",
 "fabiocaccamo/django-admin-interface",
@@ -55,7 +56,7 @@
 "ambient-innovation/django-removals",
 "sloria/environs",
 "funkybob/django-classy-settings",
-"occipital/django-content-settings",
+"oduvan/django-content-settings",
 "wagtail/wagtail",
 "wagtail/awesome-wagtail",
 "stephenmcd/mezzanine",
@@ -225,5 +226,8 @@
 "pretix/pretix",
 "pretalx/pretalx",
 "nioperas06/awesome-django-rest-framework"
+],
+"dropped": [
+["2026-09-18","occipital/django-content-settings"]
 ]
 }

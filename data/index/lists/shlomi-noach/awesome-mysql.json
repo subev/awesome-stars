@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"75af69714881f35ed45bc58f449a25f6f3950ed3"},
+"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"cad3dcea8d8a2f609c3036ba741e6a89da7be559"},
 "members": [
 "sindresorhus/awesome",
 "box/Anemometer",
@@ -47,6 +47,7 @@
 "brianmario/mysql2",
 "speed2exe/myzql",
 "c410-f3r/wtx",
+"ProxySQL/dbdeployer",
 "MariaDB4j/MariaDB4j",
 "flyway/flyway",
 "nethalo/dbsafe",
@@ -78,7 +79,7 @@
 "mariadb-corporation/galera",
 "yoshinorim/mha4mysql-node",
 "yoshinorim/mha4mysql-manager",
-"openark/orchestrator",
+"ProxySQL/orchestrator",
 "percona/replication-manager",
 "signal18/replication-manager",
 "MariaDB/mcp",
@@ -106,5 +107,8 @@
 "twindb/undrop-for-innodb",
 "XD-DENG/SQL-exercise",
 "villagesql/villagesql-server"
+],
+"dropped": [
+["2026-09-18","openark/orchestrator"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"69531cea830ba3a2387a8ee49687ba3d207b088c"},
+"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"4fad910a2f1e5e4402ff850395042f5ec94299b9"},
 "members": [
 "sindresorhus/awesome",
 "wezterm/wezterm",
@@ -19,7 +19,7 @@
 "KawaiiSelbst/nu_utf8_hack.wez",
 "KawaiiSelbst/keys_bypass.wez",
 "xarvex/presentation.wez",
-"mrjones2014/smart-splits.nvim",
+"smart-splits-nvim/smart-splits.nvim",
 "winter-again/wezterm-config.nvim",
 "ChrisGVE/pivot_panes.wezterm",
 "bad-noodles/stack.wez",
@@ -43,7 +43,7 @@
 "sravioli/kanagawa.wz",
 "koh-sh/wezterm-theme-rotator",
 "Tomauskasz/electric-control-room.wez",
-"willytop8/Wezterm-Window-Tint",
+"william-ricchiuti/Wezterm-Window-Tint",
 "aureolebigben/wezterm-cmd-sender",
 "ChrisGVE/dev.wezterm",
 "ChrisGVE/lib.wezterm",
@@ -59,5 +59,9 @@
 "sravioli/warp.wz",
 "btrachey/wezterm-replay",
 "usrivastava92/widgets.wez"
+],
+"dropped": [
+["2026-09-18","mrjones2014/smart-splits.nvim"],
+["2026-09-18","willytop8/Wezterm-Window-Tint"]
 ]
 }

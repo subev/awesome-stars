@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"db71f9479e3834de10b4bcd321faa1558db9aa6a"},
+"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"d77ef8ca177b11948de5960c08631c106fb4f603"},
 "members": [
 "sindresorhus/awesome",
 "preactjs/preact",
@@ -131,6 +131,7 @@
 "MiftikCZ/idea-keeper-2",
 "sakihet/trellith",
 "GladysAssistant/Gladys",
+"authier-pm/authier",
 "react/react",
 "infernojs/inferno",
 "alibaba/rax",

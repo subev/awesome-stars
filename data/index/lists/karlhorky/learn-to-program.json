@@ -1,6 +1,7 @@
 {
-"meta": {"description":"Educational resources to learn to program (Foundation in Web Development)","defaultBranch":"main","topics":[],"readmeSha":"650cfcdd781128615b85209e0b58d50b3f25d127"},
+"meta": {"description":"Educational resources to learn to program (Foundation in Web Development)","defaultBranch":"main","topics":[],"readmeSha":"a3620067937bbb8b6558aca582958994d5c39861"},
 "members": [
+"gibbok/typescript-book",
 "1millionwomentotech/toolkitten",
 "prakhar1989/awesome-courses"
 ]

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"c88a5266de675bfc362f339f20fd82fe235961d2"},
+"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"3e0ac226b5fdd739dbd802fa73d704e63784d2bc"},
 "members": [
 "sindresorhus/awesome",
 "vulpemventures/nigiri",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"75114ee95bc647e65a1d0cfcd89253bd30a100f5"},
+"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"d44dc03d155b3643b7b3a64dd3427ae2f589fb19"},
 "members": [
 "ZL154/AchievementBadges_for_Jellyfin",
 "bardesss/customcoverart",

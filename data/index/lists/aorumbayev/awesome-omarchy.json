@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"1ae638b8fd6e92ecb4344276e3ced05e2978385a"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"eac964af7b4f235afd2004c6656d698a1e7812ee"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -23,6 +23,7 @@
 "rosakodu/omarchy-dock",
 "robzolkos/omarchy-github",
 "konradk/hass",
+"GreyforgeLabs/omarchy-hotbar",
 "crmne/omarchy-hyprmoncfg",
 "OldJobobo/lacuna-shell",
 "SirJul1337/omarchy-lock-explorer",
@@ -44,6 +45,7 @@
 "jkoestinger/omarchy-vpn",
 "husamemadH/omarchy-quattro-prayer-times",
 "28allday/Quattrolitaire",
+"GreyforgeLabs/reprieve",
 "lgse/sandman",
 "ax1g/quickshell-screentime-plugin",
 "HANCORE-linux/Shibumi-Shell",
@@ -174,6 +176,7 @@
 "bjarneo/omarchy-nes-theme",
 "sc0ttman/omarchy-one-dark-pro-theme",
 "Justikun/omarchy-osaka-jade-theme",
+"simoz/omarchy-outpost-theme",
 "mattbbia/pissarro",
 "bjarneo/omarchy-pulsar-theme",
 "dotsilva/omarchy-purplewave-theme",

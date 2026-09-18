@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"c299f7b076718b88dc56db0a37de1aba4dc4f27d"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"af3bca39b397898a4a572e2e1dbe80d016e5f432"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",

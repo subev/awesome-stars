@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"5e1c06c1a10c8e7dabc6dbc430c7bfb17b72354a"},
+"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"7a38e5a1033d0c74f8781423f1d711c7dca1be12"},
 "members": [
 "sindresorhus/awesome",
 "awesome-foss/awesome-sysadmin-data",
@@ -9,7 +9,7 @@
 "bazelbuild/bazel",
 "gradle/gradle",
 "OpenVoxProject/openbolt",
-"dmarcguardhq/dmarcguard",
+"dmarcguardhq/parse-dmarc",
 "domainaware/parsedmarc",
 "ruby/rake",
 "restic/others",
@@ -21,6 +21,7 @@
 "Edrusb/DAR",
 "databasus/databasus",
 "duplicati/duplicati",
+"mitoteam/mtsaver",
 "Portabase/portabase",
 "rclone/rclone",
 "rdiff-backup/rdiff-backup",
@@ -140,7 +141,6 @@
 "graphite-project/graphite-web",
 "oetiker/rrdtool-1.x",
 "statsd/statsd",
-"OpenTSDB/tcollector",
 "influxdata/telegraf",
 "VictoriaMetrics/VictoriaMetrics",
 "chocolatey/choco",
@@ -235,5 +235,9 @@
 "SoftEtherVPN/SoftEtherVPN",
 "sshuttle/sshuttle",
 "strongswan/strongswan"
+],
+"dropped": [
+["2026-09-18","dmarcguardhq/dmarcguard"],
+["2026-09-18","OpenTSDB/tcollector"]
 ]
 }

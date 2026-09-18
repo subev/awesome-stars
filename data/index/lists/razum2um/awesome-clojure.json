@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff","defaultBranch":"master","topics":["hacktoberfest","clojure","awesome-list"],"readmeSha":"8727c9e6085634b032c61a6b128a59a84fc7bebd"},
+"meta": {"description":"A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff","defaultBranch":"master","topics":["hacktoberfest","clojure","awesome-list"],"readmeSha":"af02865b04337ec0a0930d602a15459ac080126a"},
 "members": [
 "sindresorhus/awesome",
 "OneKeePass/desktop",

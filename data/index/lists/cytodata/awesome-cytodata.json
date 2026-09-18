@@ -1,14 +1,17 @@
 {
-"meta": {"description":"A curated list of awesome cytodata resources","defaultBranch":"master","topics":["awesome-list","awesome","image-analysis","morphology","cellprofiler","machine-learning"],"readmeSha":"676425ef154b0e84561c4fd665a761229f20fae4"},
+"meta": {"description":"A curated list of awesome cytodata resources https://www.cytodata.org/awesome-cytodata/","defaultBranch":"master","topics":["awesome-list","awesome","image-analysis","morphology","cellprofiler","machine-learning"],"readmeSha":"6967e1056c29a15ae4fa997b189df8f96f427ed6"},
 "members": [
-"CellProfiling/HPA-competition",
-"carpenter-singh-lab/2022_Haghighi_NatureMethods",
-"carpenterlab/2016_Bray_NatureProtocols",
-"broadinstitute/cell-health",
-"cytomining/cytominer",
-"aoles/EBImage",
-"menchelab/BioProfiling.jl",
-"cytomining/pycytominer",
-"BodenmillerGroup/histoCAT"
+
+],
+"dropped": [
+["2026-09-18","CellProfiling/HPA-competition"],
+["2026-09-18","carpenter-singh-lab/2022_Haghighi_NatureMethods"],
+["2026-09-18","carpenterlab/2016_Bray_NatureProtocols"],
+["2026-09-18","broadinstitute/cell-health"],
+["2026-09-18","cytomining/cytominer"],
+["2026-09-18","aoles/EBImage"],
+["2026-09-18","menchelab/BioProfiling.jl"],
+["2026-09-18","cytomining/pycytominer"],
+["2026-09-18","BodenmillerGroup/histoCAT"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome","awesome-list","gpt","openai","speech-to-text","transcription"],"readmeSha":"f9433a77720fdcd86290a1718a373b3c0ee81d23"},
+"meta": {"description":"🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome","awesome-list","gpt","openai","speech-to-text","transcription"],"readmeSha":"b710c3561e53b417615a0546dfdeff412a973d86"},
 "members": [
 "openai/whisper",
 "ggml-org/whisper.cpp",

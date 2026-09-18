@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources for WebExtensions development.","defaultBranch":"main","topics":["webext","awesome","awesome-list"],"readmeSha":"648b6247be1680b1657de23f894194115523444c"},
+"meta": {"description":"A curated list of awesome resources for WebExtensions development.","defaultBranch":"main","topics":["webext","awesome","awesome-list"],"readmeSha":"c4fb982d30091b87ed2c2131a66a5bb299aaf8fd"},
 "members": [
 "fregante/webext-options-sync",
 "fregante/webext-storage-cache",

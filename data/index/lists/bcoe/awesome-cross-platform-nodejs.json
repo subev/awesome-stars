@@ -1,10 +1,10 @@
 {
-"meta": {"description":":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"a070bf4b7320edde95100d55a7d6bf7e1afbd788"},
+"meta": {"description":":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"ba7127e4bb8d70e3ae59a5f1911efacba3081c60"},
 "members": [
 "ehmicky/cross-platform-node-guide",
 "microsoft/nodejs-guidelines",
 "ehmicky/cross-platform-terminal-characters",
-"coreybutler/nvm-windows",
+"nvm-windows/nvm",
 "nvm-sh/nvm",
 "tj/n",
 "felixrieseberg/npm-windows-upgrade",
@@ -58,5 +58,8 @@
 "istanbuljs/spawn-wrap",
 "styfle/awesome-desktop-js",
 "all-contributors/allcontributors.org"
+],
+"dropped": [
+["2026-09-18","coreybutler/nvm-windows"]
 ]
 }

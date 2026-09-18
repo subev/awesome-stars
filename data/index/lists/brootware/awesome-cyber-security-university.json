@@ -1,7 +1,10 @@
 {
-"meta": {"description":"🎓 Because Education should be free. Contributions welcome! 🕵️ ","defaultBranch":"main","topics":["cyber-security","awesome-list","curriculum","courses","free","education","educational-project","cybersecurity","hacking","learning-by-doing"],"readmeSha":"ad8f3d4c44403c33103c8c059b6fb1a5689884fa"},
+"meta": {"description":"🎓 Because Education should be free. Contributions welcome! 🕵️ ","defaultBranch":"main","topics":["cyber-security","awesome-list","curriculum","courses","free","education","educational-project","cybersecurity","hacking","learning-by-doing"],"readmeSha":"833a523b88c60f0660b3bdbaae12c194d9de0726"},
 "members": [
-"brootware/awesome-cyber-security-university",
-"all-contributors/allcontributors.org"
+
+],
+"dropped": [
+["2026-09-18","brootware/awesome-cyber-security-university"],
+["2026-09-18","all-contributors/allcontributors.org"]
 ]
 }

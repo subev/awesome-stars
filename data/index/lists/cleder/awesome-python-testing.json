@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"5ae71d0a4a4daa643e0eddbfb8184291415bf6ad"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"bf7e05c77e22a53a10f81769544c008eb9c28158"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -29,7 +29,9 @@
 "jllorencetti/pytest-deadfixtures",
 "dbfixtures/pytest-mysql",
 "dbfixtures/pytest-rabbitmq",
+"hermes-labs-ai/agent-convergence-scorer",
 "Agent-Hellboy/mcp-server-fuzzer",
+"Continuum-AI-Corp/OrcaReplay",
 "Jott2121/sabot",
 "tenro-ai/tenro-python",
 "hseera/dynamic-workload-model",
@@ -63,6 +65,7 @@
 "CodeEnPlace/bough",
 "sixty-north/cosmic-ray",
 "Jott2121/crucible",
+"simin-yuan/self-auditing-agent",
 "EvanKepner/mutatest",
 "boxed/mutmut",
 "mutpy/mutpy",

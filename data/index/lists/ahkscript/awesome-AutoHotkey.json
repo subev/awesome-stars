@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"b350d6ad13880cbbec273071694ff15eb18e6f9f"},
+"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"a906b83692e0466535fbf9002713499c0a5cbd6e"},
 "members": [
 "sindresorhus/awesome",
 "bayandin/awesome-awesomeness",
@@ -65,6 +65,7 @@
 "Uberi/Autocomplete",
 "tiuub/DateHotkey",
 "marius-sucan/KeyPress-OSD",
+"shokurov/ahk-layout-switch",
 "almogtavor/static-hands",
 "ManiacDC/TypingAid",
 "fuhsjr00/bug.n",

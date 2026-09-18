@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"af41f670c1a72df27d3fc7959ce24e375779aad5"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"783abdb769f9cd03a25d02d5b689a3a62a65422f"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
@@ -424,7 +424,7 @@
 "rajasegar/cl-webapp-seed",
 "paddymul/css-lite",
 "lisp-maintainers/find-port",
-"eudoxia0/trivial-download",
+"sharplispers/trivial-download",
 "fukamachi/cl-cookie",
 "Junker/mobiledetect",
 "Junker/random-ua",
@@ -602,10 +602,11 @@
 "ajberkley/cl-binary-store",
 "wlbr/cl-marshal",
 "AccelerationNet/function-cache",
-"froydnj/chipz",
+"sharplispers/chipz",
 "froydnj/archive",
 "fukamachi/envy",
 "sheepduke/chameleon",
+"sharplispers/local-time",
 "sharplispers/local-time",
 "tkych/cl-date-time-parser",
 "chaitanyagupta/chronicity",
@@ -684,6 +685,8 @@
 "google/lisp-koans"
 ],
 "dropped": [
-["2026-09-04","gornskew/lisply-mcp"]
+["2026-09-04","gornskew/lisply-mcp"],
+["2026-09-18","eudoxia0/trivial-download"],
+["2026-09-18","froydnj/chipz"]
 ]
 }
