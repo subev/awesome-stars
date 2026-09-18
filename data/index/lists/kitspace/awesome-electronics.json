@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources for Electronic Engineers and hobbyists","defaultBranch":"master","topics":["awesome","electronics","hardware","pcb","kicad","eagle","gerber","altium"],"readmeSha":"760e7d3b906223637c3a0692d50a60a7d5960812"},
+"meta": {"description":"A curated list of awesome resources for Electronic Engineers and hobbyists","defaultBranch":"master","topics":["awesome","electronics","hardware","pcb","kicad","eagle","gerber","altium"],"readmeSha":"568edbe6a6740c0b9063194da03f5661e6bd6b57"},
 "members": [
 "upb-lea/Inkscape_electric_Symbols",
 "geckocircuits/GeckoCIRCUITS",
@@ -9,6 +9,7 @@
 "kitspace/kicad_footprints",
 "openscopeproject/InteractiveHtmlBom",
 "INTI-CMNB/KiBot",
+"way2pramil/awesome-kicad-projects",
 "adafruit/Adafruit-Eagle-Library",
 "sparkfun/SparkFun-Eagle-Libraries",
 "Part-DB/Part-DB-legacy",

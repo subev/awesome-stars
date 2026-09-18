@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"02f4f6207f2c09e1557bb0d86d1a979817cb6924"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"4a11099430e5fbd50195ada2334d25ec03348091"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -336,6 +336,7 @@
 "papra-hq/papra",
 "24eme/signaturepdf",
 "simpledms/simpledms",
+"snapotter-hq/SnapOtter",
 "Stirling-Tools/Stirling-PDF",
 "Atsumeru-xyz/Atsumeru",
 "jarynclouatre/bindery",
@@ -559,7 +560,6 @@
 "Part-DB/Part-DB-server",
 "Shelf-nu/shelf.nu",
 "Donkie/Spoolman",
-"toeverything/AFFiNE",
 "ontola/atomic-server",
 "michaelstaake/LibreKB",
 "siyuan-note/siyuan",
@@ -727,7 +727,7 @@
 "joho1968/POMjs",
 "aunefyren/poenskelisten",
 "re-Director/re-director",
-"reactive-resume/app",
+"reactive-resume/reactive-resume",
 "hakimel/reveal.js",
 "revive-adserver/revive-adserver",
 "recurser/string-is",
@@ -804,6 +804,7 @@
 "livebook-dev/livebook",
 "brufdev/many-notes",
 "usememos/memos",
+"Tenebrie/neverkin",
 "enchant97/note-mark",
 "overleaf/overleaf",
 "alextselegidis/plainpad",
@@ -1133,6 +1134,8 @@
 ["2026-09-11","aceberg/WatchYourLAN"],
 ["2026-09-11","yarrick/iodine"],
 ["2026-09-11","mnfst/manifest"],
-["2026-09-11","bouncepaw/mycorrhiza"]
+["2026-09-11","bouncepaw/mycorrhiza"],
+["2026-09-18","toeverything/AFFiNE"],
+["2026-09-18","reactive-resume/app"]
 ]
 }

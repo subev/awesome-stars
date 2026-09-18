@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"376d7cd8e84b5a2126d6b69bb04f570e0dca958a"},
+"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"97186bf2ac81016083e866c6fc9e7d36bd3f84b2"},
 "members": [
 "sindresorhus/awesome",
 "gobridge/about-us",
@@ -51,6 +51,7 @@
 "gojargo/go-resample",
 "tphakala/go-wav",
 "DylanMeeus/GoAudio",
+"iSerganov/gocue",
 "dh1tw/gosamplerate",
 "n10v/id3v2",
 "gen2brain/malgo",
@@ -210,6 +211,7 @@
 "integrii/flaggy",
 "sgreben/flagvar",
 "agilira/flash-flags",
+"SatyamKumarCS/Fling-CLI",
 "jonathonwebb/getopt",
 "SalvucciFacundo/go-arch",
 "alexflint/go-arg",
@@ -978,6 +980,7 @@
 "vladopajic/go-actor",
 "workanator/go-floc",
 "kamildrazkiewicz/go-flow",
+"jizhuozhi/go-future",
 "nikhilsaraf/go-tools",
 "subchen/go-trylock",
 "pieterclaerhout/go-waitgroup",
@@ -1180,6 +1183,7 @@
 "go-log4g/core",
 "apsdehal/go-logger",
 "AyoubTadlaoui/GoLogX",
+"maguro/gslog",
 "henvic/httpretty",
 "ssgreg/journald",
 "clok/kemba",
@@ -1770,6 +1774,7 @@
 "dwin/goArgonPass",
 "dwin/goSecretBoxPassword",
 "rekurt/gost-crypto",
+"ijin82/grim",
 "Mutasem-mk4/gspy",
 "avahidi/interpol",
 "nilpoona/leakhound",
@@ -2077,6 +2082,7 @@
 "huandu/facebook",
 "Kachit/fasapay-sdk-go",
 "maddevsio/fcm",
+"canopy-labs/featureflip-go",
 "emiddleton/gads",
 "TheOrioli/gcm",
 "codingsince1985/geo-golang",
@@ -2524,6 +2530,7 @@
 "flowbaker/flowbaker",
 "rhosocial/go-dag",
 "noneback/go-taskflow",
+"RealZimboGuy/gopherflow",
 "luno/workflow",
 "XML-Comp/XML-Comp",
 "sbabiv/xml2map",
@@ -2633,7 +2640,6 @@
 "abiosoft/colima",
 "getanteon/anteon",
 "s0rg/decompose",
-"us/den",
 "centerorbit/depcharge",
 "thevxn/dish",
 "x1unix/docker-go-mingw",
@@ -2858,6 +2864,7 @@
 "dropped": [
 ["2026-09-04","cel-expr/cel-go"],
 ["2026-09-04","anacrolix/utp"],
-["2026-09-11","d3fvxl/di"]
+["2026-09-11","d3fvxl/di"],
+["2026-09-18","us/den"]
 ]
 }

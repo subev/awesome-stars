@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"4c7a6940b60e36f79757539983cdf6c8d5d50f40"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"d3f7257e0fdcd0d139587ad79d7899b07d64f95c"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",
@@ -9,12 +9,12 @@
 "alichtman/stronghold",
 "amitmerchant1990/electron-markdownify",
 "amplication/amplication",
-"ankitwasankar/mftool-java",
 "AntonioFalcaoJr/EventualShop",
 "aregtech/areg-sdk",
 "armync/ArminC-AutoExec",
 "athityakumar/colorls",
 "aurumz-rgb/ReviewAid",
+"Bonevane/Bridge",
 "brenocq/implot3d",
 "CCOSTAN/Home-AssistantConfig",
 "choojs/choo",
@@ -132,6 +132,7 @@
 ["2026-09-11","dbt-labs/dbt-core"],
 ["2026-09-11","hackergrrl/art-of-readme"],
 ["2026-09-11","hackergrrl/common-readme"],
-["2026-09-11","anuraghazra/github-readme-stats"]
+["2026-09-11","anuraghazra/github-readme-stats"],
+["2026-09-18","ankitwasankar/mftool-java"]
 ]
 }

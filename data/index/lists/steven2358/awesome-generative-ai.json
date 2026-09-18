@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"e846db3e3d97175ba0dd36813ef96b0fa9f0621e"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"21627e0f36df67f12700040df8082ed09cdbab01"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
@@ -16,6 +16,7 @@
 "stanford-oval/storm",
 "asreview/asreview",
 "LearningCircuit/local-deep-research",
+"jmiao24/Paper2Agent",
 "The-PR-Agent/pr-agent",
 "ravenscroftj/turbopilot",
 "ricklamers/gpt-code-ui",
@@ -46,7 +47,7 @@
 "mlflow/mlflow",
 "rehydra-ai/rehydra-sdk",
 "agentset-ai/agentset",
-"mnfst/manifest",
+"mnfst/llm-gateway",
 "i18n-actions/ai-i18n",
 "modelcontextprotocol/modelcontextprotocol",
 "steel-dev/steel-browser",
@@ -110,6 +111,7 @@
 "sindresorhus/awesome-chatgpt"
 ],
 "dropped": [
-["2026-09-04","QuivrHQ/quivr"]
+["2026-09-04","QuivrHQ/quivr"],
+["2026-09-18","mnfst/manifest"]
 ]
 }

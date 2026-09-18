@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"fde11c2e60a6ff4b2fc0edb5f122ebc3d3f5a46b"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"760b4fdfb95d09ac9156af2efe9bdde3b7c05265"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -123,9 +123,9 @@
 "nicklockwood/SwiftFormat",
 "ActiveState/tdk",
 "angular-eslint/angular-eslint",
-"palantir/tslint",
 "whyboris/TypeScript-Call-Graph",
 "typescript-eslint/typescript-eslint",
+"palantir/tslint",
 "dalance/svls",
 "mshr-h/vscode-verilog-hdl-support",
 "AlexEne/twiggy",
@@ -144,6 +144,7 @@
 "eslint/eslint",
 "terryyin/lizard",
 "RoloBits/nestjs-doctor",
+"Alcatecablee/Neurolint-CLI",
 "sed-inf-u-szeged/OpenStaticAnalyzer",
 "oxc-project/oxc",
 "facebookarchive/pfff",

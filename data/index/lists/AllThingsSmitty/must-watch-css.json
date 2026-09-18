@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🔥 CSS talks you have to see ⚡️ covering CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tools, and more! 🚀","defaultBranch":"master","topics":["css","awesome","awesome-list","css-flexbox","css-framework","css-grid","css-performance","css3","performance","conference-talk"],"readmeSha":"e992617b43c0e247becd05bfbab3e02242749d61"},
+"meta": {"description":"CSS talks you have to see 📺 covering CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tools, and more!","defaultBranch":"master","topics":["css","awesome-lists","conference-talks","css-grids","custom-properties","flexbox","frontend","learning-resource","sass","web-development"],"readmeSha":"46b7c158da0210c4caf16a310306f7481b2944f1"},
 "members": [
 "AllThingsSmitty/must-watch-javascript",
 "sindresorhus/awesome"

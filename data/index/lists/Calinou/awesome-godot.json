@@ -1,9 +1,10 @@
 {
-"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"2845c3a1c87e555e3615d72ff80c089b1ecfcd47"},
+"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"c39b2a4ae47bae34682278f8d6e18ba94e314c5e"},
 "members": [
 "Godot-Languages-Support/godot-lang-support",
 "TinyTakinTeller/GodotProjectZero",
 "unknown-horizons/godot-port",
+"max99x/wutw-public",
 "GaidamakUA/blipshift",
 "didier-v/breakable",
 "kidscancode/circle_jump",

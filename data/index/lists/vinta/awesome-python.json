@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"bcae6acdedf62b5a0c7e5c6d5c9ade5875b9b3c5"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"beea0e463bd2ba9a986fd8d77a6a8ac0d781ea58"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "getsentry/skills",
@@ -23,6 +23,7 @@
 "ml-explore/mlx-lm",
 "BerriAI/litellm",
 "huggingface/diffusers",
+"huggingface/peft",
 "unslothai/unsloth",
 "axolotl-ai-cloud/axolotl",
 "openai/whisper",
@@ -231,10 +232,11 @@
 "prompt-toolkit/ptpython",
 "prompt-toolkit/python-prompt-toolkit",
 "analysis-tools-dev/static-analysis",
+"seddonym/import-linter",
 "jendrikseipp/vulture",
+"rohaquinlop/complexipy",
 "prospector-dev/prospector",
 "repowise-dev/repowise",
-"rohaquinlop/complexipy",
 "pre-commit/pre-commit",
 "astral-sh/ruff",
 "psf/black",

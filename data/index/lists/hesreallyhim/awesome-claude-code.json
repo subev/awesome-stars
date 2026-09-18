@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"fb715daf9fa18ea20016bcad2a01a77e57dbc3f8"},
+"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"592ad37fa6c7831c0de6aea9570a525871445201"},
 "members": [
 "anthropics/claude-code",
 "multica-ai/andrej-karpathy-skills",
@@ -78,6 +78,7 @@
 "alonw0/web-asset-generator",
 "conorbronsdon/avoid-ai-writing",
 "robertguss/claude-code-toolkit",
+"andrewroxby/claude-style-patch",
 "glacierphonk/naming",
 "renezander030/capcut-cli",
 "es617/claude-replay",

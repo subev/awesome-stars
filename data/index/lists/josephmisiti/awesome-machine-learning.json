@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"df931f9f8db0e79ee1a236f0909a970ba9b11c9a"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"0a72316dac5ea7fac9f95b4e5f146ad12c3e567f"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -198,6 +198,7 @@
 "retextjs/retext",
 "spencermountain/compromise",
 "axa-group/nlp.js",
+"Koda-OSS/Glyph",
 "NathanEpstein/D3xter",
 "rigtorp/statkit",
 "NathanEpstein/datakit",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"f8f5872b42f688b1d64ede1ae5075979d6e2d479"},
+"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"ebd12e4c590150c4812ddd921b2d813e81999e85"},
 "members": [
 "sindresorhus/awesome",
 "apsdehal/awesome-ctf",

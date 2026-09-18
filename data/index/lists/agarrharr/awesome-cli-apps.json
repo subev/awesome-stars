@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"5bf1edef55b6a11a3eb042f6f284ac0bc125752f"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"49139a054d8e54b6bec2f95872b196df0700d514"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -116,6 +116,7 @@
 "sindresorhus/np",
 "vercel/release",
 "semantic-release/semantic-release",
+"progovoy/vmn",
 "sindresorhus/npm-name-cli",
 "sindresorhus/npm-user-cli",
 "sindresorhus/npm-home",
