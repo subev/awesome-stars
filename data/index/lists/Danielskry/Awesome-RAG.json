@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"a7abb1bf415f84c010478322b0b53bc0a0b94e86"},
+"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"5857d6e602be809239906f1b342a1670d0623510"},
 "members": [
 "Danielskry/Awesome-RAG-Agent-Plugin",
 "Danielskry/LangChain-Chroma-RAG-demo-2024",
@@ -14,7 +14,6 @@
 "deepset-ai/haystack",
 "microsoft/semantic-kernel",
 "langgenius/dify",
-"truefoundry/cognita",
 "weaviate/Verba",
 "mastra-ai/mastra",
 "letta-ai/letta",
@@ -39,10 +38,14 @@
 "chroma-core/chroma",
 "milvus-io/milvus",
 "pgvector/pgvector",
-"Intelligent-Internet/psql_bm25s",
+"Intelligent-Internet/II-42",
 "neo4j/neo4j",
 "surrealdb/surrealdb",
 "weaviate/weaviate",
 "facebookresearch/faiss"
+],
+"dropped": [
+["2026-09-19","truefoundry/cognita"],
+["2026-09-19","Intelligent-Internet/psql_bm25s"]
 ]
 }

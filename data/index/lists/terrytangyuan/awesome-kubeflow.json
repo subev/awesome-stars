@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cloud-native","cncf","deep-learning","devops","kubeflow","kubeflow-pipelines","kubernetes"],"readmeSha":"104f8b4eef28f2f20c3a653968a97da0139e80b0"},
+"meta": {"description":"A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cloud-native","cncf","deep-learning","devops","kubeflow","kubeflow-pipelines","kubernetes"],"readmeSha":"e21f6cabf1ea5b5ec0ec31b76b5694525935cac7"},
 "members": [
 "kubeflow/kubeflow",
 "kubeflow/katib",

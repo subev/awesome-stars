@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"78c18ccbf1c765817abdd98219e954e3b2fc6304"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"6f5992e15a4901d866f71ae9fe6b28b700872e6d"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -21,6 +21,7 @@
 "wedo911/citeguard",
 "heidihelena/citevahti",
 "RetrogradeLabs/lune-mcp-server",
+"SixSentences/sixsentences",
 "studio-11-co/falsify",
 "jupyter/jupyter",
 "poldrack/narps",

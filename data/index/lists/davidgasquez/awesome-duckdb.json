@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"d8b34214c9e3a055d419bf4db0560282540861d7"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"62af89d5e2d95c565e23927923f2ef0244b7fe34"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -142,6 +142,7 @@
 "Query-farm/evalexpr_rhai",
 "Query-farm/fuzzycomplete",
 "CogitatorTech/gaggle",
+"singhpratech/duckdbgpumetaldbram",
 "evidence-dev/duckdb_gsheets",
 "isaacbrodsky/h3-duckdb",
 "gropaul/hostFS",

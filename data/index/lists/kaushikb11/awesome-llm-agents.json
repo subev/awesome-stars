@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"dcd09eeb3f87081499a7b5e5c7818bfe3eac20a3"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"56c40d89b751c11d9c2887a9e7a0a1845cc3f96e"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -26,11 +26,10 @@
 "kreneskyp/ix",
 "promptise-com/Foundry",
 "aeonfun/aeon",
-"Fzkuji/OpenProgram",
 "ahmadvh/octochains",
 "axar-ai/axar",
-"juspay/neurolink",
 "Muvon/octomind",
+"juspay/neurolink",
 "NetMindAI-Open/NarraNexus",
 "nMaroulis/protolink",
 "Scottcjn/shaprai",
@@ -113,6 +112,7 @@
 ],
 "dropped": [
 ["2026-08-29","EvoAgentX/EvoAgentX"],
-["2026-09-12","Perseus-Computing-LLC/perseus"]
+["2026-09-12","Perseus-Computing-LLC/perseus"],
+["2026-09-19","Fzkuji/OpenProgram"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"e71be97cfd6deae284f959982b41563a1e57490e"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"96d6b958eb1085517ed6ac6fb55cffd267eed53b"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -68,6 +68,7 @@
 "markhuot/watchtower",
 "xuzhougeng/wispterm",
 "Yukaii/ykmx",
+"praxis-labs-io/zen-term",
 "Snoupix/browstty",
 "philipp-spiess/electron-libghostty",
 "coder/ghostty-web",
@@ -83,6 +84,7 @@
 "g960059/agtmux-term",
 "aiyu-ai/AiyuTerm",
 "bradjenn/blink",
+"yuuichieguchi/Calyx",
 "manaflow-ai/cmux",
 "brianrackle/codelima",
 "nowledge-co/con-terminal",
@@ -94,6 +96,7 @@
 "stickmy/moss",
 "10xChengTu/Mux0",
 "lancy/paulatty",
+"heylittlepan/ponymux",
 "alltuner/factoryfloor",
 "emmettlu/frep",
 "coder/xum",
@@ -108,12 +111,15 @@
 "seruman/hauntty",
 "montanaflynn/headless-terminal",
 "emadda/hot-notes",
-"BarutSRB/OmniWM",
+"OmniNull/OmniWM",
 "pastel-sketchbook/reed",
 "dalvlatko/ribari-releases",
 "aarol/term2html",
 "weedonandscott/trolley",
 "psyclyx/vanish",
 "mjpowersjr/vterm-mcp"
+],
+"dropped": [
+["2026-09-19","BarutSRB/OmniWM"]
 ]
 }

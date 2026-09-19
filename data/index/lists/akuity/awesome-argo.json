@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome projects and resources related to Argo (a CNCF graduated project)","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","argocd","argo-workflows","argo-events","argo-rollouts","machine-learning","workflow-engine","workflow-management"],"readmeSha":"3d298bbad75280f32b542dba6224fde07b066d26"},
+"meta": {"description":"A curated list of awesome projects and resources related to Argo (a CNCF graduated project)","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","argocd","argo-workflows","argo-events","argo-rollouts","machine-learning","workflow-engine","workflow-management"],"readmeSha":"fe427faed4e98cd789661d5a74c9a969bd4d1033"},
 "members": [
 "argoproj-labs/argocd-agent",
 "argoproj-labs/argocd-autopilot",

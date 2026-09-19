@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"9107a87149ad87c8b3153e326a9930714e9486ab"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"b131cab4a3534f26e2e50468b9270d5c89d6df62"},
 "members": [
 "ccusage/ccusage",
 "Maciek-roboblog/Claude-Code-Usage-Monitor",
@@ -49,6 +49,7 @@
 "getzep/graphiti",
 "getzep/zep",
 "crewAIInc/crewAI",
+"langchain-ai/langchain",
 "langchain-ai/langgraph",
 "JetBrains/benjamin-plus-skill",
 "oanhduong/token-ninja",

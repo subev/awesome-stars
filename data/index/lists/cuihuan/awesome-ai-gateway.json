@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"ab6ab9f65b6ece60d5c36cee926d451a9e50d239"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"c45b5b7cbd1edd4322dc65e4d9fd460fd22061ef"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -7,9 +7,9 @@
 "glama-ai/lightport",
 "nullsink/nullsink",
 "moozechen/flintapi",
-"QuantumNous/new-api",
 "lxg2it/modelrouter-core",
 "lee101/openpaths",
+"QuantumNous/new-api",
 "BerriAI/litellm",
 "Portkey-AI/gateway",
 "router-for-me/CLIProxyAPI",
@@ -119,6 +119,7 @@
 "mlflow/mlflow",
 "liaohch3/claude-tap",
 "jianshuo/ccglass",
+"Continuum-AI-Corp/OrcaReplay",
 "kubernetes-sigs/gateway-api-inference-extension",
 "vllm-project/aibrix",
 "llm-d/llm-d",
@@ -132,7 +133,6 @@
 "MoonshotAI/K2-Vendor-Verifier",
 "toby-bridges/api-relay-audit",
 "cuihuan/modelprobe",
-"mnfst/llm-gateway",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"c26e441c9a03b4da603862c1f0617fe565bc916f"},
+"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"dde5b610222a55e005453733339bb9643dec3e04"},
 "members": [
 "PauloMigAlmeida/AlmeidaOS",
 "frednora/gramado",
@@ -19,7 +19,6 @@
 "mikaku/Fiwix",
 "Ruddle/Fomos",
 "FreeRTOS/FreeRTOS",
-"GreenteaOS/Greentea",
 "HelenOS/helenos",
 "mntmn/interim",
 "pgrAm/JSD-OS",
@@ -100,6 +99,7 @@
 "openbsd/src",
 "reactos/reactos",
 "SamyPesse/How-to-Make-a-Computer-Operating-System",
+"red-mutt/lytlnyblOS",
 "jserv/mini-arm-os",
 "gregkh/kernel-tutorial",
 "gregkh/kernel-development",
@@ -116,5 +116,8 @@
 "sjp38/hackermail",
 "kworkflow/kworkflow",
 "arighi/virtme-ng"
+],
+"dropped": [
+["2026-09-19","GreenteaOS/Greentea"]
 ]
 }

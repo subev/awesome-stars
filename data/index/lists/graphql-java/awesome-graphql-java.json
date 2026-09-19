@@ -1,5 +1,5 @@
 {
-"meta": {"description":"awesome list of graphql-java related projects","defaultBranch":"master","topics":["graphql","graphql-java","awesome-list"],"readmeSha":"3f979277359c99c3c5d8579a2cb74a877dfea1d6"},
+"meta": {"description":"awesome list of graphql-java related projects","defaultBranch":"master","topics":["graphql","graphql-java","awesome-list"],"readmeSha":"aaaac8e279100536f08f2c2910ec6b286f4d2034"},
 "members": [
 "sindresorhus/awesome",
 "graphql-java/graphql-java",
@@ -37,6 +37,7 @@
 "bsideup/graphql-java-reactive",
 "graphql-java-kickstart/graphql-java-servlet",
 "graphql-java-kickstart/graphql-spring-boot",
+"Netflix/dgs-framework",
 "timtebeek/graphql-jpa-spring-boot-starter",
 "networknt/light-graphql-4j",
 "shendepu/moqui-graphql",
@@ -47,6 +48,7 @@
 "runabol/spring-boot-starter-graphql",
 "micronaut-projects/micronaut-graphql",
 "graphql-java/graphql-java-extended-validation",
+"setchy/dgs-extended-formatters",
 "graphql-java/java-dataloader",
 "graphql/dataloader",
 "graphql-java/graphql-java-extended-scalars",

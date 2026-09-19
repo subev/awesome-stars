@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"5a50437225371c3121121dd3b2267c7f6ac6bcda"},
+"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"684404c05bd59aeea1ee4b63a35db9e3a2d71c8a"},
 "members": [
 "planetjekyll/awesome-jekyll",
 "planetjekyll/awesome-jekyll-themes",
@@ -116,6 +116,8 @@
 "jchance/jekyll-llms-generator",
 "jchance/jekyll-social-share",
 "jchance/jekyll-structured-content",
+"abhinavs/jekyll-llms-output",
+"abhinavs/jekyll-markdown-output",
 "hendrikschneider/jekyll-analytics",
 "FastComments/fastcomments-jekyll",
 "jchance/jekyll-webmentions-static",

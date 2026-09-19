@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"b544efed1fe0ce46c46d2a50e8e19f51d2bf13b9"},
+"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"99dea58487c6679382a74477092daf49fc80a078"},
 "members": [
 "sindresorhus/awesome",
 "open-policy-agent/opa",
@@ -16,6 +16,7 @@
 "raspbernetes/k8s-security-policies",
 "kingztech2019/agt-policies-nigeria",
 "Principled-Evolution/gopal",
+"ynotbhatc/rego_policy_libraries",
 "open-policy-agent/opa-java",
 "borgeby/jarl",
 "Bisnode/opa-java-client",
