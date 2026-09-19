@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of free public APIs — searchable, community-maintained, with a free JSON API.","defaultBranch":"master","topics":["public-api","api","apis","api-list","awesome","awesome-list","beginner-friendly","collection","curated-list","developer-resources"],"readmeSha":"4f8cb41a3d5268585ef936e279e1ba963c59f691"},
+"meta": {"description":"A curated list of free public APIs — searchable, community-maintained, with a free JSON API.","defaultBranch":"master","topics":["public-api","api","apis","api-list","awesome","awesome-list","beginner-friendly","collection","curated-list","developer-resources"],"readmeSha":"f8b7a9d49bc33388f81578f70c7273be9161e38e"},
 "members": [
 "movebank/movebank-api-doc",
 "AniList/docs",
@@ -41,12 +41,15 @@
 "aguedo/idgen",
 "thm/uinames",
 "ookii-tsuki/yomi",
-"SaltyTaro/vessel-check-api",
+"arcnautical/vessel-check-api",
 "transitland/transitland-datastore",
 "koch-t/KV78Turbo-OVAPI",
 "shevabam/breaking-bad-quotes",
 "ywalia01/dune-api",
 "jamesseanwright/ron-swanson-quotes",
 "Thatskat/southpark-quotes-api"
+],
+"dropped": [
+["2026-09-19","SaltyTaro/vessel-check-api"]
 ]
 }

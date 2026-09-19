@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"920b198a349d73e30009916b9caf96beafc66d92"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"f9eb7fd2971bca3641774a0db20ac8726a0ce40c"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -9,6 +9,7 @@
 "maplibre/maplibre-style-spec",
 "falseinput/expressive",
 "maplibre/maputnik",
+"marucjmar/maputnik-inline-plugin",
 "lhapaipai/maplibre-theme",
 "Kanahiro/maplibre-vscode-extension",
 "maplibre/font-maker",
@@ -47,7 +48,6 @@
 "themustafaomar/libregl",
 "yvanvds/wtMapbox",
 "maplibre/maplibre-gl-compare",
-"marucjmar/any-routing",
 "AbelVM/gauge_legend",
 "korywka/mapbox-controls",
 "mapbox/mapbox-gl-draw",
@@ -170,5 +170,8 @@
 "utopia-os/utopia-map",
 "Jaza/expo-maplibre-native-plus-web-demo",
 "visgl/react-map-gl"
+],
+"dropped": [
+["2026-09-19","marucjmar/any-routing"]
 ]
 }

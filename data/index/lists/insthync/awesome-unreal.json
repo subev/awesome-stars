@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"3e2b3b1561a5f58399621d8e56c28f132dbc6a10"},
+"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"535fe6e1d299289364dac9db194577910a69b98a"},
 "members": [
 "RemRemRemRe/RemAbilityUtility",
 "OversizedSunCoreDev/ArtilleryEco",
@@ -90,7 +90,7 @@
 "Allysony/tensorflow2-ue4-ar",
 "mika314/UELlama",
 "Agosillo/MiaIA",
-"gameDNAstudio/MobileUtils",
+"GameDNAStudio/MobileUtils",
 "gtreshchev/AndroidNative",
 "atenfyr/UAssetAPI",
 "modio/modio-ue",
@@ -149,7 +149,7 @@
 "skeskinen/MeshWidgets",
 "MWadstein/UMG-ResizableWidget",
 "BitReign/AnimatedCrosshairsUE4",
-"gameDNAstudio/FastSwitcher",
+"GameDNAStudio/FastSwitcher",
 "Tolc/Unreal-UMG-3DObjectInWidget",
 "EverNewJoy/UE4GamepadUMG",
 "ufna/VaTexAtlas",
@@ -201,13 +201,14 @@
 "pseuplex/vscode-unreal-snippets",
 "AyumaxSoft/EasyJsonParser",
 "AyumaxSoft/EasyXMLParser",
-"Jim-Kroovy/Mr-Mannequins-Tools",
+"Jim-Kroovy/mr_mannequins_tools",
 "bombomby/optick",
 "adamrehn/ue4-docker",
 "rionix/LocalizationUE4",
 "Gradess2019/UnrealVersionChanger",
 "microdee/Nuke.Unreal",
 "IvanMurzak/Unreal-MCP",
+"madesroches/micromegas",
 "jdcook/fresh_cooked_tweens",
 "benui-dev/UE-BUITween",
 "ikrima/gamedevguide",
@@ -217,5 +218,10 @@
 "Megafunk/MassSample",
 "MrRobinOfficial/Guide-UnrealEngine",
 "Narxim/Narxim-GAS-Example"
+],
+"dropped": [
+["2026-09-19","gameDNAstudio/MobileUtils"],
+["2026-09-19","gameDNAstudio/FastSwitcher"],
+["2026-09-19","Jim-Kroovy/Mr-Mannequins-Tools"]
 ]
 }

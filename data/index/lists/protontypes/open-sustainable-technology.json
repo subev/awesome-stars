@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"9be1eb3b0185f76bb2c543f26a600bbdf1903f1b"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"03063344d18a9bc324d93c8bc153b14af9059322"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -203,6 +203,7 @@
 "mathworks/Fuel-Cell-Vehicle-Model-Simscape",
 "Virtual-FCS/VirtualFCS",
 "ClimateCompatibleGrowth/GeoH2",
+"NatLabRockies/H2Integrate",
 "OpenEnergyDashboard/OED",
 "emoncms/emoncms",
 "JPHutchins/open-energy-view",
@@ -379,6 +380,7 @@
 "rewiringamerica/api.rewiringamerica.org",
 "PhilippVerpoort/posted",
 "eigenergy/powerio",
+"EnAccess/digitalization-support-hub",
 "EnergyInnovation/eps-us",
 "cityssm/EMILE",
 "grid-parity-exchange/Egret",
@@ -428,6 +430,7 @@
 "Alkia/electra",
 "dos-group/vessim",
 "VILLASframework/node",
+"EnAccess/micropowermanager",
 "IMMM-SFA/tell",
 "pyaf/load_forecasting",
 "DrafProject/draf",

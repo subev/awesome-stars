@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"701063bcae5397ea54478ff8d5f8160d92a6c1fd"},
+"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"32cdb873e256b9d12d0e73c5851a5e6731783662"},
 "members": [
 "sindresorhus/awesome",
 "vt-digital-libraries-platform/aws-batch-iiif-generator",

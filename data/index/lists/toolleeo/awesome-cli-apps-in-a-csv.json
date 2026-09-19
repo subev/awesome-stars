@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"4e51f4dc376b42096cd10f32d9a3aca264ce98e5"},
+"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"1c7737b862d0269ff165074f1cff352768f33496"},
 "members": [
 "sindresorhus/awesome",
 "athityakumar/colorls",
@@ -55,7 +55,7 @@
 "NorfairKing/bevel",
 "terroo/his",
 "ddworken/hishtory",
-"dvorka-oss/hstr",
+"dvorka/hstr",
 "cantino/mcfly",
 "simonw/csv-diff",
 "dandavison/delta",
@@ -157,7 +157,6 @@
 "afify/sfm",
 "yorukot/superfile",
 "GiorgosXou/TUIFIManager",
-"BranBushes/veld-fm",
 "antonmedv/walk",
 "sxyazi/yazi",
 "aweary/alder",
@@ -1177,7 +1176,7 @@
 "hrj/abandon",
 "EnhancedJax/Bagels",
 "jtraub91/bits",
-"Feromond/budget_tracker_tui",
+"Feromond/budget-tracker-tui",
 "xxczaki/cash-cli",
 "mrusme/cloudcash",
 "cointop-sh/cointop",
@@ -1258,7 +1257,7 @@
 "bugswriter/tuxi",
 "wtfutil/wtf",
 "leonmavr/zeitkatze",
-"devmegablaster/bashform",
+"trustunsafe/bashform",
 "astefanutti/decktape",
 "taraqfarhan/ggl",
 "kitesi/gpa-calculator",
@@ -1456,7 +1455,7 @@
 "jooapa/jammer",
 "ravachol/kew",
 "korei999/kmp3",
-"remvze-org/lowfi",
+"remvze/lowfi",
 "PrajwalVandana/maestro-cli",
 "guptarohit/mfp",
 "unpythonic-coder/mplay",
@@ -1818,5 +1817,12 @@
 "k4m4/terminals-are-sexy",
 "orangekame3/awesome-terminal-recorder",
 "rothgar/awesome-tuis"
+],
+"dropped": [
+["2026-09-19","dvorka-oss/hstr"],
+["2026-09-19","BranBushes/veld-fm"],
+["2026-09-19","Feromond/budget_tracker_tui"],
+["2026-09-19","devmegablaster/bashform"],
+["2026-09-19","remvze-org/lowfi"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome technologies related to Anime, Comic and Games","defaultBranch":"master","topics":["awesome","awesome-list","anime"],"readmeSha":"8cc87fdbf8a8b78847fb73e93f86378adf316608"},
+"meta": {"description":"A curated list of awesome technologies related to Anime, Comic and Games","defaultBranch":"master","topics":["awesome","awesome-list","anime"],"readmeSha":"590f3951aa177ac3f7367e98426775a961a106f9"},
 "members": [
 "sindresorhus/awesome",
 "mon/0x40-web",
@@ -60,7 +60,7 @@
 "Kycklingar/PBooru",
 "rr-/szurubooru",
 "zcyzcy88/TagTable",
-"ant-research/AniDoc",
+"robbyant-research/AniDoc",
 "Mukosame/Anime2Sketch",
 "Aneureka/animate-me",
 "mattya/chainer-DCGAN",
@@ -163,5 +163,8 @@
 "animenotifier/notify.moe",
 "shitagaki-lab/see-through",
 "vignetteapp/vignette"
+],
+"dropped": [
+["2026-09-19","ant-research/AniDoc"]
 ]
 }

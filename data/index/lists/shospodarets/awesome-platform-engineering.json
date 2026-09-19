@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"1a43b040af9787b3ea103d202870aaca852de2c5"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"5ec90251f6a1485f253cb4dc4945c6695183b229"},
 "members": [
 "sindresorhus/awesome",
 "ota-run/ota",
@@ -30,6 +30,7 @@
 "getanteon/anteon",
 "atinfo/awesome-test-automation",
 "microsoft/HydraLab",
+"Continuum-AI-Corp/OrcaReplay",
 "jaegertracing/jaeger",
 "fluent/fluentd",
 "infracost/infracost",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"328543bbab452fb36cc4d73147c84b75f9a6ad20"},
+"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"e7108a47247997994bc3f03d425a1e5831accd94"},
 "members": [
 "sindresorhus/awesome",
 "R-CoderDotCom/calendR",

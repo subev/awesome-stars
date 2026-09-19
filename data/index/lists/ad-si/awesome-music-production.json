@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"e88197084014a77b0ee2bc494c3c2d37c471ca73"},
+"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"3de4a43c0495e1eb346de2bafd3f23bab9f37d6d"},
 "members": [
 "gridsound/daw",
 "kmatheussen/radium",
@@ -48,6 +48,7 @@
 "pd3v/line",
 "Bubobubobubobubo/sardine",
 "sonic-pi-net/sonic-pi",
+"gpasquero/rusted-moog",
 "bitwize-music-studio/claude-ai-music-skills",
 "michaelwillis/dragonfly-reverb",
 "GareBear99/FreeEQ8",
@@ -77,6 +78,7 @@
 "zynaddsubfx/zynaddsubfx",
 "cardonabits/haxo-hw",
 "XavierGerD/MIDILodica",
+"Whackalenso/CircuitSax",
 "bitfieldaudio/OTTO",
 "ad-si/awesome-sheet-music",
 "notthetup/awesome-webaudio"

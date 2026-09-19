@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"c749c49cf5a3975a2e4d848c6ab7f65c7b20bec3"},
+"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"343db10679fcabd8307283564820edb0f445c1bd"},
 "members": [
 "VITA-MLLM/VITA",
 "VITA-MLLM/VITA-Audio",
@@ -137,7 +137,7 @@
 "mbzuai-oryx/groundingLMM",
 "RUCAIBox/ComVint",
 "Vision-CAIR/MiniGPT-4",
-"apple/ml-ferret",
+"apple-aiml-research/ml-ferret",
 "PKU-YuanGroup/LanguageBind",
 "SY-Xuan/Pink",
 "thunlp/Muffin",
@@ -338,5 +338,8 @@
 "FuxiaoLiu/MMC",
 "pkunlp-icler/PCA-EVAL",
 "VityaVitalich/IMAD"
+],
+"dropped": [
+["2026-09-19","apple/ml-ferret"]
 ]
 }

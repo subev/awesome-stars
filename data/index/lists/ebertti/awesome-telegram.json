@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"490bc07dc57547da0d5b9152aea058565f4db01e"},
+"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"021cb325d684da3c80a7363966aa858f7c7f13f0"},
 "members": [
 "sindresorhus/awesome",
 "aeonfun/aeon",
@@ -15,6 +15,7 @@
 "ayrat555/el_monitorro",
 "muety/telegram-expense-bot",
 "othmarodev/filaxy-herald",
+"411A/Telegram-Anonymous-Messaging-Bot-Creator",
 "Mostafa-Abbasi/HyperTAG",
 "dizballanze/m00dbot",
 "muety/telepush",

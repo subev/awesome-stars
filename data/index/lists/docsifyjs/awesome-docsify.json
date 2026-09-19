@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💖 A curated list of awesome things related to docsify","defaultBranch":"master","topics":["awesome","awesome-list","docsify","docsify-plugin"],"readmeSha":"41bdf92320f274a630a913cbbda9c0507198b781"},
+"meta": {"description":"💖 A curated list of awesome things related to docsify","defaultBranch":"master","topics":["awesome","awesome-list","docsify","docsify-plugin"],"readmeSha":"39d2b2cd15a0294102b967731e405188053d2120"},
 "members": [
 "vudash/vudash",
 "njleonzhang/vue-data-tables",
@@ -93,7 +93,6 @@
 "docsify-note/docsify-mango-valine",
 "dolanmiu/docsify-terminal-block",
 "simonguo/docsify-docx-converter",
-"pikapikapikaori/docsify-gitalk-with-footer",
 "UliGall/docsify-versioned-plugin",
 "sxin0/docsify-termynal",
 "rcqed/docsify-markmap.js",
@@ -120,6 +119,7 @@
 "bulexu/docsify-infographic",
 "sherlockmen/docsify-pytutor",
 "julienbusset/docsify-sigma",
+"pikapikapikaori/docsify-simple-dark-mode",
 "FlippedCodes/docsify-simple-themeable",
 "sushantrahate/docsify-darkly-theme",
 "boopathikumar018/docsify-darklight-theme",
@@ -130,5 +130,8 @@
 "w3teal/docsify-theme-vista",
 "microsoft/Web-Dev-For-Beginners",
 "microsoft/AI-For-Beginners"
+],
+"dropped": [
+["2026-09-19","pikapikapikaori/docsify-gitalk-with-footer"]
 ]
 }
