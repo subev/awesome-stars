@@ -406,7 +406,7 @@
 "scalameta/munit":[472,7526438,"Scala testing library with actionable errors and extensible APIs"],
 "schlae/graphics-gremlin":[577,1458118,"Open source retro ISA video card"],
 "scitex-ai/scitex-writer":[3,211223684,"LaTeX manuscript compilation for scientific documents, with MCP server"],
-"seaweedfs/seaweedfs":[34816,11985425,"SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling."],
+"seaweedfs/seaweedfs":[34823,11985425,"SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling."],
 "sebi2k1/node-can":[248,1223463,"NodeJS SocketCAN extension"],
 "senbox-org/snap-engine":[213,7795191,"ESA Earth Observation Toolbox and Java Development Platform"],
 "sferik/x-cli":[5584,10308,"A command-line power tool for Twitter."],

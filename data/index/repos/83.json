@@ -404,7 +404,7 @@
 "princeton-vl/CornerNet":[2368,29677746,""],
 "profMagija/control-unpack":[36,4057526,""],
 "prometheus-erl/prometheus_process_collector":[53,196521446,"Prometheus.io process collector in Erlang"],
-"psf/black":[41848,50630501,"The uncompromising Python code formatter"],
+"psf/black":[41849,50630501,"The uncompromising Python code formatter"],
 "ptal/oak":[146,3127628,"A typed parser generator embedded in Rust code for Parsing Expression Grammars"],
 "punkpeye/pipenet":[526,108313943,"Expose your local server to the public internet instantly"],
 "r-lib/ir":[65,22618716,""],

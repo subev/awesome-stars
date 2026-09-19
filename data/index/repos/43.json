@@ -150,7 +150,7 @@
 "abougouffa/minemacs":[203,3716399,"MinEmacs: an Emacs configuration framework for daily use"],
 "acaisoft/angular-azure-maps":[3,11339376,""],
 "actonlang/acton":[187,78542524,"Actor-based, safely typed, fast programming language."],
-"ad-si/awesome-music-production":[1498,36796532,"A curated list of software, services, and resources to create and distribute music"],
+"ad-si/awesome-music-production":[1499,36796532,"A curated list of software, services, and resources to create and distribute music"],
 "addyosmani/critical-path-css-tools":[1165,110953,"Tools to prioritize above-the-fold (critical-path) CSS"],
 "adobe/spectrum-web-components":[1537,476009,"Spectrum Web Components"],
 "adopted-ember-addons/ember-cli-hot-loader":[99,40569405,"An early look at what hot reloading might be like in the ember ecosystem"],
@@ -281,7 +281,7 @@
 "grin-compiler/ghc-whole-program-compiler-project":[122,38571350,"GHC Whole Program Compiler and External STG IR tooling"],
 "guard/guard-livereload":[2107,351846,"Guard::LiveReload automatically reload your browser when 'view' files are modified."],
 "gund/ng-dynamic-component":[559,3644678,"Dynamic components with full life-cycle support for inputs and outputs for Angular"],
-"hasherezade/mal_unpack_drv":[97,3115348,"MalUnpack companion driver"],
+"hasherezade/mal_unpack_drv":[96,3115348,"MalUnpack companion driver"],
 "helpful-AIs/triplyfy-mcp":[4,173743116,""],
 "heuermh/sars-cov-2":[0,35293,"SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) sequences and features"],
 "hmngwy/mutton":[17,1647347,"Better AWS Lambda Handlers in Python"],
@@ -417,7 +417,7 @@
 "ra1028/FloatingActionSheetController":[137,7347118,"FloatingActionSheetController is a cool design ActionSheetController library written in Swift2."],
 "raburton/esp8266":[186,433543,"Various bits of code for ESP8266"],
 "rafaecheve/Awesome-Community":[12,506168,"Repository about how to build communities online"],
-"rapid7/metasploit-framework":[39025,1013671,"Metasploit Framework"],
+"rapid7/metasploit-framework":[39026,1013671,"Metasploit Framework"],
 "rasky/n64memtest":[4,1014109,"Nintendo 64 memory test"],
 "ravahn/machina":[230,6621202,"Network capture library for realtime TCP/IP decoding from a windows application.  Includes an extension library to support FFXIV data capture."],
 "rdagger/micropython-ssd1306":[1,106355,"MicroPython SPI & I2C Display Driver for SSD1306 monochrome OLED"],
@@ -505,5 +505,5 @@
 "yewzijian/3DFeatNet":[220,13637627,"3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration"],
 "yoichiro/vite-plugin-handlebars":[8,261787,"This is a plugin that provides convenient features for using Handlebars with Vite."],
 "zommuter/ama":[0,3686260,"Ask me anything!"],
-"zvec-ai/zvec-go":[30,254627891,""]
+"zvec-ai/zvec-go":[30,254627891,"zvec go binding"]
 }

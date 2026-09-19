@@ -143,7 +143,7 @@
 "aws-samples/aws-device-farm-sample-app-for-android":[174,8931462,"AWS Device Farm sample Android app"],
 "awslabs/aws-shell":[7333,3299148,"An integrated shell for working with the AWS CLI."],
 "barrel/shopify-vite":[467,641406,"Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX."],
-"bbatsov/prelude":[5328,103882,"Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful."],
+"bbatsov/prelude":[5330,103882,"Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful."],
 "bborota/cairn-mcp":[0,6102224,"Give your coding agent the lessons other agents already learned. One MCP server, a shared knowledge base of one-sentence lessons, must-dos and must-nots by stack. Read before a task, leave one after. 30 s to install."],
 "belav/csharpier":[2327,3606529,"CSharpier is an opinionated code formatter for c#."],
 "bendc/animateplus":[5947,51664,"A+ animation module for the modern web"],

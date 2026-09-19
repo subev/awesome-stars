@@ -150,7 +150,7 @@
 "arshadshk/Position-Prediction-Pretraining":[8,39850778,"Position Prediction as an Effective Pretraining Strategy"],
 "artman/Signals":[465,263457,"A micro-library for creating and observing events."],
 "ashutoshgngwr/validate-fastlane-supply-metadata":[28,7106123,"A Github Action to statically validate Fastlane metadata for Android (supply)."],
-"astral-sh/ruff":[49688,115962839,"An extremely fast Python linter and code formatter, written in Rust."],
+"astral-sh/ruff":[49694,115962839,"An extremely fast Python linter and code formatter, written in Rust."],
 "atabel/renfe-api":[6,1849576,"A simple nodejs scraper and server of renfe cercanias services "],
 "atenpas/gpg":[119,5692966,"Generate grasp pose candidates in point clouds"],
 "atomflunder/skillratings":[79,80397293,"Rust library for popular skill rating algorithms like Elo, Glicko-2, TrueSkill and many more."],

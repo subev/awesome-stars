@@ -217,7 +217,7 @@
 "dwarfmaster/Babel2":[7,2025623,"The public release of the Babel2 framework, a framework for Fluid Construction Grammar, multi-agent experiments and Incremental Recruitment Language."],
 "ecator/anki-youdao2anki":[31,21003365,"转换有道单词本到Anki格式"],
 "eclipse-cloe/cloe":[48,256565805,"Cloe"],
-"editor-code-assistant/eca-emacs":[497,216573231,"Editor Code Assistant (ECA) integration for Emacs"],
+"editor-code-assistant/eca-emacs":[510,216573231,"Editor Code Assistant (ECA) integration for Emacs"],
 "editor-js/delimiter":[50,27892231,"Delimiter plugin for Editor.js 2.0"],
 "emre1512/CircleProgressBar":[111,12556394,"A simple library for creating circular progressbars for Android"],
 "entron/entity-embedding-rossmann":[873,3742499,""],

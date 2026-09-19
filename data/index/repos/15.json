@@ -112,7 +112,7 @@
 "VDrift/vdrift":[407,527384,"VDrift source code"],
 "VincentGsell/GS.Core":[33,5397337,"Common tools for projects"],
 "WinShell-Bhanu/Clipsync":[183,204787653,"Secure clipboard sync and high-speed file transfer between Android and macOS, with cloud and local-network modes."],
-"XLearning-SCU/2022-CVPR-AirNet":[235,54518841,"PyTorch implementation for All-In-One Image Restoration for Unknown Corruption (AirNet) (CVPR 2022)"],
+"XLearning-SCU/2022-CVPR-AirNet":[234,54518841,"PyTorch implementation for All-In-One Image Restoration for Unknown Corruption (AirNet) (CVPR 2022)"],
 "Xor-el/ByteSizeLibPascal":[31,12124088,"TByteSize is a utility record that makes byte size representation in code easier by removing ambiguity of the value being represented."],
 "YosefLab/TRAPeS":[14,13837262,"TCR Reconstruction Algorithm for Paired-End Single cell"],
 "YuyeQingshan/robbyolivier":[1,2328212,"A theme for iTerm, works on oh-my-zsh"],
@@ -331,7 +331,7 @@
 "motherduckdb/duckdb-tableau-connector":[23,106357348,"New main repository for the DuckDB Tableau connector"],
 "mozilla/hawk":[1939,131524,"INACTIVE - HTTP Holder-Of-Key Authentication Scheme.  Archived as of April 5th, 2024"],
 "n-elia/MAX30102-MicroPython-driver":[86,62206011,"A Maxim MAX30102 driver ported to MicroPython. It should also work for MAX30105."],
-"nachifur/RDDM":[582,23144348,"CVPR 2024: Residual Denoising Diffusion Models"],
+"nachifur/RDDM":[583,23144348,"CVPR 2024: Residual Denoising Diffusion Models"],
 "nanana-app/mcp-server-nano-banana":[10,237513869,"MCP server for Nanana AI image generation powered by Google Gemini's nano banana"],
 "nanotech/jellybeans.vim":[1863,34699,"A colorful, dark color scheme for Vim."],
 "nasa/pvslib":[314,848102,"NASA PVS Library of Formal Developments"],
@@ -471,7 +471,7 @@
 "zerodrop-dev/zerodrop-mcp":[0,305726466,"MCP server for ZeroDrop — gives AI agents disposable inboxes with auto-extracted OTPs and magic links. Claude, Cursor, Claude Code."],
 "zeshuaro/appainter":[763,12210067,"A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app."],
 "zhaber/grules":[40,509747,"Grules - rule engine for data preprocessing"],
-"zhangchbin/OnlineLabelSmoothing":[83,35215543,"The official code for the paper \"Delving Deep into Label Smoothing\", IEEE TIP 2021"],
+"zhangchbin/OnlineLabelSmoothing":[82,35215543,"The official code for the paper \"Delving Deep into Label Smoothing\", IEEE TIP 2021"],
 "zpm-zsh/pr-eol":[0,25201012,"Plugin for ZSH who display end of line symbol who can be used in $PROMPT_EOL_MARK"],
 "ztomsy/ztom":[58,50171527,"ZTOM is the crypto exhange Trade Order Management System SDK. Built upon CCXT. Failure proof. Production Ready."]
 }

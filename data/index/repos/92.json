@@ -308,7 +308,7 @@
 "matryer/is":[1975,101659,"Professional lightweight testing mini-framework for Go."],
 "mcpware/cross-code-organizer":[375,269031962,"Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups."],
 "meditohq/medito-app":[1315,65036206,"The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS."],
-"megvii-model/HINet":[402,53892394,""],
+"megvii-model/HINet":[401,53892394,""],
 "mensfeld/code-on-incus":[722,392754,"Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically."],
 "meysamhadeli/booking-microservices":[1391,35596795," A practical microservices with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, Wolverine, and Aspire in .Net 10."],
 "mhergon/RealmGeoQueries":[142,621373,"Realm GeoQueries made easy"],

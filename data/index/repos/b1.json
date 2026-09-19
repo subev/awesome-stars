@@ -33,7 +33,7 @@
 "Distelli/graphql-apigen":[65,11526238,"Generate Java APIs with GraphQL Schemas"],
 "Dracks/keepass-2-file":[8,1499165,"A small project to generate files using templates and data from keepass file"],
 "DreamyCecil/SeriousSkaConverter":[1,21009796,"Simple console utility for converting different ASCII model formats into Serious Engine's SKA model formats."],
-"EgeBalci/sgn":[2008,17179401,"SGN — polymorphic binary encoder"],
+"EgeBalci/sgn":[2005,17179401,"SGN — polymorphic binary encoder"],
 "Ermelber/nitro-g3d-tools":[12,9807588,"Collection of tools to convert models compatible with some Nintendo DS games."],
 "Esri/arcgis-vectortile-style-editor":[91,628795,"A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps"],
 "Expeed-Software/ngx-schema-tools":[1,222067076,"Contains angular components to work with JSON schemas"],

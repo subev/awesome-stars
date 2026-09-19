@@ -278,7 +278,7 @@
 "gondor/depcon":[7,148656,"Docker blue-green/deployment/management supporting Mesos/Marathon and Compose.  THIS IS A FORK - SEE ORIGINAL REPO"],
 "google-deepmind/android_env":[1241,8596759,"RL research on Android devices."],
 "google-deepmind/chex":[958,8596759,""],
-"google/leveldb":[39426,1342004,"LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."],
+"google/leveldb":[39427,1342004,"LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."],
 "google/transit":[1071,1342004,""],
 "gtjoseph/mt3339-utils":[67,1205666,""],
 "gzchenhao/openhire":[4,266899295,"Agent-native job search over employer ATS APIs (Greenhouse/Lever/Ashby/Beisen/Moka) — 139 employers across US/EU/China incl. robotics & autonomous-driving. Ghost-job scoring; your résumé never touches the server. MCP server for Claude/Cursor."],

@@ -193,7 +193,7 @@
 "crazyguitar/pysheeet":[8157,3689606,"Python Cheat Sheet"],
 "create-go-app/fiber-go-template":[1115,59355893,"📝 Production-ready backend template with Fiber Go Web Framework for Create Go App CLI."],
 "crertel/graphmath":[90,1707779,"An Elixir library for performing 2D and 3D mathematics."],
-"dajva/rg.el":[551,1027008,"Emacs search tool based on ripgrep"],
+"dajva/rg.el":[552,1027008,"Emacs search tool based on ripgrep"],
 "darjeeling/awesome-kr-foss":[62,52967,"A curated list of awesome Korean open source projects"],
 "darkleaf/di":[57,1124593,"DI is a dependency injection framework that allows you to define dependencies as cheaply as defining function arguments."],
 "dcampos/nvim-snippy":[341,68250,"Snippet plugin for Neovim written in Lua"],

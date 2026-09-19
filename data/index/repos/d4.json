@@ -415,7 +415,7 @@
 "rocq-archive/automata":[24,18695465,"Beginning of formal language theory"],
 "ronaxdevil/logcatTrimmer":[3,44991437,"Online Logcat Trimmer"],
 "ropensci/rerddap":[43,1200269,"R client for working with ERDDAP servers"],
-"rranelli/auto-package-update.el":[162,4231743,"Automatically update Emacs packages."],
+"rranelli/auto-package-update.el":[163,4231743,"Automatically update Emacs packages."],
 "run-z/rollup-plugin-flat-dts":[24,67541158,".d.ts files flattener and Rollup plugin"],
 "runtipi/runtipi":[9671,147710665,"Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨"],
 "ryukinix/cl-web-push":[7,7642878,"Web Push Notifications for Common Lisp applications"],

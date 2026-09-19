@@ -119,7 +119,7 @@
 "VHellendoorn/Code-LMs":[1842,1426353,"Guide to using pre-trained large language models of source code"],
 "ValeevGroup/mpqc":[81,5217762,"The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation."],
 "VriskaSerket51/EastwardPacker":[9,77536295,"Tools for export/import Eastward assets."],
-"Wilfred/deadgrep":[782,70800,"fast, friendly searching with ripgrep and Emacs"],
+"Wilfred/deadgrep":[783,70800,"fast, friendly searching with ripgrep and Emacs"],
 "Wilfred/ht.el":[262,70800,"The missing hash table library for Emacs"],
 "WitAqua-tools/Root-My-Device":[15,309803593,"KSU installer for supported firmware with CVE-2026-43499"],
 "YonoHub/waymo_ros":[11,63966386,"This is a ROS package to connect Waymo open dataset to ROS"],

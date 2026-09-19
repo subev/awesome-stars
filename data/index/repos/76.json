@@ -152,7 +152,7 @@
 "antirez/micropython-telegram-bot":[64,65632,"MicroPython telegram bot library: simple way to put your IoT projects on the cloud"],
 "antonj/Highlight-Indentation-for-Emacs":[478,378590,"Minor modes to highlight indentation guides in emacs."],
 "anuraghazra/typelevel-parser":[147,35374649,"Experiment to push the limits of TypeScript's type system by writing a \"real\" tokenizer/parser/interpreter entirely on type-level."],
-"apache/superset":[74833,47359,"Apache Superset is a Data Visualization and Data Exploration Platform"],
+"apache/superset":[74835,47359,"Apache Superset is a Data Visualization and Data Exploration Platform"],
 "apirrone/Open_Duck_Mini":[4051,6552564,"Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe"],
 "apsdehal/awesome-ctf":[11862,3616806,"A curated list of CTF frameworks, libraries, resources and softwares"],
 "arlimus/zero.zsh":[16,1307529,"theme and configuration plugin for zsh with oh-my-zsh"],

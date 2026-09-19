@@ -227,7 +227,7 @@
 "eldare/ARCarGuidePoC":[24,40336237,"PoC to detect and track parts under a car's hood, with ARKit + Vision + CreateML + RealityKit."],
 "eliemichel/AdvancedBlenderAddon":[39,5802849,"A starter kit and reference for writing advanced Blender add-ons"],
 "elmasse/nextein":[887,223235,"A static site generator with markdown + react for Next.js"],
-"emacs-tree-sitter/elisp-tree-sitter":[855,88576578,"Emacs Lisp bindings for tree-sitter"],
+"emacs-tree-sitter/elisp-tree-sitter":[854,88576578,"Emacs Lisp bindings for tree-sitter"],
 "emlid/ntripbrowser":[32,6757242,"CLI tool to easily get NTRIP caster information"],
 "endgameinc/RTA":[1098,1102250,""],
 "entropicalabs/openqaoa":[144,40197982,"Multi-backend SDK for quantum optimisation"],

@@ -36,7 +36,7 @@
 "Ediminator/homematicip-hcu":[73,211899731,"This is a custom integration for Home Assistant that connects directly to your Homematic IP Home Control Unit (HCU) over your local network. It allows you to control and monitor your Homematic IP devices without relying on the cloud."],
 "Eggmansworld/Project_EGG_Tools":[1,6796855,"Project EGG is a Japanese digital distribution service that sells classic retro PC games as `.bin` container files hosted on the service's CDN. This toolkit automates a full preservation workflow: fetching raw files, packaging them into named archives, extracting contents into usable game folders, maintaining romanization, and generating DAT files."],
 "EmilHvitfeldt/talk-useR2022-textrecipes":[11,14034784,""],
-"Eronana/compressor":[5,9164153,"This is a simply compressor, it implemented lz77 and huffman algorithm"],
+"Eronana/compressor":[4,9164153,"This is a simply compressor, it implemented lz77 and huffman algorithm"],
 "European-Securities-Markets-Authority/esma_data_py":[32,194083034,"The esma_data_py package provides tools to search and download data from the ESMA register (publication tool)"],
 "F0NDO/fortnite-sigs":[0,101996131,""],
 "FacundoLucci/plsreadme":[4,92830973,""],

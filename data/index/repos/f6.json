@@ -271,7 +271,7 @@
 "jmhessel/fmpytorch":[172,178075,"A PyTorch implementation of a Factorization Machine module in cython."],
 "johnbean393/KeyType":[548,113509988,"An open-source Cotypist with macOS system wide AI autocomplete"],
 "jondot/rust-how-do-i-start":[1153,83390,"Hand curated advice and pointers for getting started with Rust"],
-"joostkremers/writeroom-mode":[670,191630,"Writeroom-mode: distraction-free writing for Emacs."],
+"joostkremers/writeroom-mode":[671,191630,"Writeroom-mode: distraction-free writing for Emacs."],
 "josbeir/cakephp-symfony-mailer":[0,26058,"A CakePHP plugin that allows you to use Symfony Mailer as a Mail Transport"],
 "jphp-group/jphp":[1709,7314128,"JPHP - an implementation of PHP on Java VM"],
 "jpmml/jpmml-evaluator-spark":[99,3713638,"PMML evaluator library for Apache Spark"],

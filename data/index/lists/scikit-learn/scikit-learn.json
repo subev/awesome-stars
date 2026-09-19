@@ -1,5 +1,5 @@
 {
-"meta": {"description":"scikit-learn: machine learning in Python","defaultBranch":"main","topics":["machine-learning","python","statistics","data-science","data-analysis"],"readmeSha":"c0c1d57212538b39281d3efecb650f14d09d6730"},
+"meta": {"description":"scikit-learn: machine learning in Python","defaultBranch":"main","topics":["machine-learning","python","statistics","data-science","data-analysis"],"readmeSha":"1a518d0e91892bb629daaf815092204cbc60dffc"},
 "members": [
 "astral-sh/ruff"
 ]

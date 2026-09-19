@@ -386,7 +386,7 @@
 "openZH/covid_19":[418,37435832,"COVID19 case numbers of Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README."],
 "openbrt/vibetab-chrome-extension":[0,126942532,"Chrome extension that turns browser tab audio into haptic feedback."],
 "openmundi/austria.db":[5,5459882,"Free open public domain data for Austria (Österreich) / Europe incl. states (Bundesländer), cities, counties (Bezirke), etc."],
-"optiv/ScareCrow":[2891,12102497,"ScareCrow - Payload creation framework designed around EDR bypass."],
+"optiv/ScareCrow":[2888,12102497,"ScareCrow - Payload creation framework designed around EDR bypass."],
 "os-fpga/FOEDAG":[74,81380882,"Framework Open EDA Gui"],
 "ossf/allstar":[1453,67707773,"GitHub App to set and enforce security policies"],
 "ota-run/ota":[80,270006511,"The execution contract for AI agents. Execution governance for software repositories, shared with humans and CI."],

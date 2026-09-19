@@ -473,7 +473,7 @@
 "sonic2kk/steamtinkerlaunch":[2840,7917345,"Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs"],
 "sparklemotion/nokogiri":[6280,1851072,"Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby."],
 "sparql-generate/sparql-generate":[71,39694352,"SPARQL-Generate implementation over Apache Jena"],
-"sshaw/git-link":[473,17570,"Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location"],
+"sshaw/git-link":[474,17570,"Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location"],
 "status-im/react-native-desktop-qt":[1248,11767950,"A Desktop port of React Native, driven by Qt, forked from Canonical"],
 "sterrasec/dummy":[68,102400219,"Generator of static files(csv, jpeg, png, pdf) for testing file upload. It can generate csv and png files of any number of bytes!"],
 "stevana/elastically-scalable-thread-pools":[118,5664010,"An experiment in controlling the size of a thread pool using a PID controller."],

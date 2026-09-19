@@ -1,8 +1,9 @@
 {
-"meta": {"description":"LZPACK - CP/M-80 (8080 and Z80) executable compressor in ANSI C89","defaultBranch":"master","topics":["ansi-c","c89","compression","compressor","executable-compressor","executable-packing","packer","popcom","8080","z80"],"readmeSha":"11b52c92dcb1ec7ca790f654b763c79ba6ba1796"},
+"meta": {"description":"LZPACK - CP/M-80 (8080 and Z80) executable compressor in ANSI C89","defaultBranch":"master","topics":["ansi-c","c89","compression","compressor","executable-compressor","executable-packing","packer","popcom","8080","z80"],"readmeSha":"3a9a1260fc52095bf643225c5d94f86f93c9162a"},
 "members": [
 "ghaerr/elks",
 "jhallen/cpm",
+"ivanizag/iz-cpm",
 "tsupplis/cpm86-crossdev",
 "open-watcom/open-watcom-v2",
 "google/sanitizers",

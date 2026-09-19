@@ -277,7 +277,7 @@
 "jrusnack/secure-ruby-development-guide":[10,1485264,"Guide to secure software development in Ruby"],
 "jspicl/jspicl":[70,53867645,"A Javascript to PICO-8 Lua transpiler"],
 "juehang/vscode-mcp-server":[392,39200111,"MCP server to expose VS Code editing features to an LLM for AI coding"],
-"justinmk/vim-sneak":[3532,1359421,"The missing motion for Vim :athletic_shoe:"],
+"justinmk/vim-sneak":[3533,1359421,"The missing motion for Vim :athletic_shoe:"],
 "kahoon/pending":[7,16564633,"Minimal in-memory deferred task scheduler for Go with ID-based debouncing, cancellation, concurrency limits, and graceful shutdown."],
 "keathley/butler_tableflip":[2,1642095,"Flipping tables with butler"],
 "keunwoochoi/dl4mir":[245,16153797,"Deep learning for MIR"],

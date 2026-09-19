@@ -495,7 +495,7 @@
 "venmo/VENTokenField":[786,256998,"Easy-to-use token field that is used in the Venmo app."],
 "vfile/vfile":[530,24635680,"Virtual file format for text processing used in @unifiedjs"],
 "vim-scripts/sparql.vim":[5,443562,"Syntax file for SPARQL query language for RDF"],
-"vimwiki/vimwiki":[9520,2800895,"Personal Wiki for Vim"],
+"vimwiki/vimwiki":[9518,2800895,"Personal Wiki for Vim"],
 "vitobotta/docker-tunnel":[292,283811,"A Docker-based self hosted alternative to Ngrok"],
 "vulgur/Sources":[79,3339536,"Sources is a simplified github client for reading the source code easily and comfortably."],
 "wal-g/wal-g":[4249,31082131,"Archival and Restoration for databases in the Cloud"],

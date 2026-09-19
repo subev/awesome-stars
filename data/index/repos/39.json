@@ -220,7 +220,7 @@
 "eclipse-che/che":[7168,78380170,"Kubernetes based Cloud Development Environments for Enterprise Teams"],
 "ecrc/hicma":[37,16811254,"HiCMA: Hierarchical Computations on Manycore Architectures"],
 "egorlem/ultima.zsh-theme":[133,63231806,"Minimalist Zsh theme — clean, clear, visually structured."],
-"emacs-lsp/lsp-ui":[1116,27148249,"UI integrations for lsp-mode"],
+"emacs-lsp/lsp-ui":[1117,27148249,"UI integrations for lsp-mode"],
 "emacs-php/composer.el":[11,31366612,"PHP Composer interface for Emacs"],
 "emit-sds/emit-ghg":[58,98183721,"Mapping of greenhouse gases with EMIT."],
 "emoon/rust_minifb":[1210,350822,"Cross platform window and framebuffer crate for Rust"],

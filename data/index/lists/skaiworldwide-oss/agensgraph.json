@@ -1,5 +1,5 @@
 {
-"meta": {"description":"AgensGraph, a transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb"],"readmeSha":"a8909a983a469e3dcd9d9c42257979b400c5eea5"},
+"meta": {"description":"AgensGraph, a transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb"],"readmeSha":"c57de37013d924f43dcd1fb1524b952b30cf6dd1"},
 "members": [
 "skaiworldwide-oss/agensgraph-ai",
 "skaiworldwide-oss/agensgraph-jdbc",

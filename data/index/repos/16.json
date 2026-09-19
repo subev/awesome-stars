@@ -326,7 +326,7 @@
 "lblasc/lua-telegraf":[4,32152,"Lua/LuaJIT/OpenResty client for telegraf/influxdb"],
 "ledgersmb/LedgerSMB":[568,2297436,"Double-entry accounting & ERP for the web"],
 "leonarduk/unison":[6,5912850,"UNISoN is a Java-based NNTP client that can analyse messages to save to a Pajek-format file for Social Network Analysis. Developed as part of an MSc Business Systems Analysis & Design at City University. "],
-"lewis6991/gitsigns.nvim":[7109,7904185,"Git integration for buffers"],
+"lewis6991/gitsigns.nvim":[7110,7904185,"Git integration for buffers"],
 "libraries/gameboy":[1427,42462844,"Full featured Cross-platform GameBoy emulator by Rust. Forever boys!."],
 "lifting-bits/mcsema":[2788,56900623,"Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode"],
 "lisaoakley/gym-flipit":[4,16887236,""],

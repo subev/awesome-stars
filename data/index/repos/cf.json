@@ -452,7 +452,7 @@
 "virtualsms-io/mcp-server":[8,265610251,"MCP server for account verification: SMS verification, number rentals and matching-country proxies on carrier-issued mobile numbers. 40 tools, 2500+ services, 145+ countries. Works with Claude, Cursor, Codex, Windsurf, Cline, Zed, OpenClaw, Hermes and Continue."],
 "vita-epfl/trajnetplusplusbaselines":[295,38284806,"[ITS'21] Human Trajectory Forecasting in Crowds: A Deep Learning Perspective"],
 "vladimirias/Foundations":[59,424011,"Voevodsky's original development of the univalent foundations of mathematics in Coq"],
-"voidstar0/akamai-deobfuscator":[314,25884226,"A tool to help you deobfuscate Akamai scripts."],
+"voidstar0/akamai-deobfuscator":[315,25884226,"A tool to help you deobfuscate Akamai scripts."],
 "voorhoede/riotjs-style-guide":[284,2759382,"Opinionated RiotJS Style Guide for teams."],
 "vrialland/micropython-ht1632c":[8,89838,"Micropython driver for Sure Electronics' HT1632C bicolor led matrix "],
 "w3c/largest-contentful-paint":[103,379216,"Specification for the LargestContentfulPaint API"],

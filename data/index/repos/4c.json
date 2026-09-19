@@ -496,7 +496,7 @@
 "webpy/webpy":[5923,26682,"web.py is a web framework for python that is as simple as it is powerful. "],
 "webrecorder/browsertrix-crawler":[1141,13686290,"Run a high-fidelity browser-based web archiving crawler in a single Docker container"],
 "weecology/NeonTreeEvaluation":[174,1156696,"Benchmark dataset for tree detection for airborne RGB, Hyperspectral and LIDAR imagery"],
-"williamleif/GraphSAGE":[3726,4439310,"Representation learning on large graphs using stochastic graph convolutions."],
+"williamleif/GraphSAGE":[3728,4439310,"Representation learning on large graphs using stochastic graph convolutions."],
 "willianjusten/awesome-svg":[4648,3991845,"A curated list of SVG. "],
 "willowtreeapps/vocable-ios":[92,557680,"Vocable AAC for iOS - Empowering people to communicate with care takers and loved ones."],
 "wl-zhao/VPD":[540,26575932,"[ICCV 2023] VPD is a framework that leverages the high-level and low-level knowledge of a pre-trained text-to-image diffusion model to downstream visual perception tasks."],

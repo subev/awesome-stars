@@ -232,7 +232,7 @@
 "flashquartermaster/Cuke4AS3":[25,972366,"A BDD Cucumber wire protocol implementation for Flash ActionScript"],
 "franciscop/umbrella":[2346,2801252,":umbrella: Lightweight javascript library for DOM manipulation and events"],
 "fregu856/segmentation":[244,7135713,"TensorFlow implementation of ENet, trained on the Cityscapes dataset."],
-"frida/frida":[21963,4073090,"Main repo for hosting release binaries"],
+"frida/frida":[21968,4073090,"Main repo for hosting release binaries"],
 "gaasedelen/lighthouse":[2580,9522648,"A Coverage Explorer for Reverse Engineers"],
 "garlic0x1/gitwatch":[1,43155857,"Monitor Github for commits and send notifications"],
 "garythung/trashnet":[715,7055455,"Dataset of images of trash; Torch-based CNN for garbage image classification"],

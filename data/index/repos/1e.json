@@ -313,7 +313,7 @@
 "jeringeo/CompressiveFlows":[25,32948027,"Implementation of ICCV 2019 paper \"Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations\""],
 "jetiny/rollup-plugin-re":[35,7445506,"rollup replace plugin"],
 "jfmengels/eslint-plugin-fp":[967,3869412,"ESLint rules for functional programming"],
-"jnv/lists":[11490,616767,"The definitive list of lists (of lists) curated on GitHub and elsewhere"],
+"jnv/lists":[11492,616767,"The definitive list of lists (of lists) curated on GitHub and elsewhere"],
 "jonkhler/s2cnn":[971,4534141,"Spherical CNNs"],
 "jrowen/rhandsontable":[389,1530030,"A htmlwidgets implementation of Handsontable.js"],
 "jupyterhub/dummyauthenticator":[30,17927519,"A Dummy JupyterHub Authenticator to make testing easy"],
@@ -534,5 +534,5 @@
 "yireo/magento2-codeception-utilities":[8,1373981,"Yireo Codeception utilities for Magento 2"],
 "yojoecapital/goop-cli":[2,77992669,"The Google Drive Push CLI is a simple tool for syncing files between a local directory and Google Drive."],
 "z-shell/zredis-cmd":[5,93575852,"A Zsh plugin that utilizes <variable sharing> done by z-shell/zredis plugin to implement <remote command execution>"],
-"zk-phi/symon":[304,3530521,"Tiny graphical system monitor"]
+"zk-phi/symon":[305,3530521,"Tiny graphical system monitor"]
 }

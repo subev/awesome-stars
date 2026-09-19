@@ -470,7 +470,7 @@
 "taoensso/tempura":[265,3482172,"Simple text localization library for Clojure/Script"],
 "tarnfeld/mesos-python-framework":[26,217279,"Example Mesos Framework written in Python"],
 "tc39/ecma262":[15689,1725583,"Status, process, and documents for ECMA-262"],
-"tesseract-ocr/tesseract":[76563,8401422,"Tesseract Open Source OCR Engine (main repository)"],
+"tesseract-ocr/tesseract":[76568,8401422,"Tesseract Open Source OCR Engine (main repository)"],
 "testtt8484/eth_contract":[0,220597079,""],
 "tfzhou/FedFA":[60,5791480,"ICLR 2023 - FedFA: Federated Feature Augmentation"],
 "the10thWiz/zsh-prompt-generator":[7,16281943,"A rust tool to create a customized Zsh prompt"],

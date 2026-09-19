@@ -247,7 +247,7 @@
 "firmai/pandasvault":[434,26666267,"Advanced Pandas Vault — Utilities, Functions and Snippets (by @firmai)."],
 "flappy-royale/flappy-royale":[159,52417789,"A 99-player last-bird-flapping battle royale"],
 "fluent/fluent-plugin-kafka":[307,859518,"Kafka input and output plugin for Fluentd"],
-"folke/which-key.nvim":[7301,292349,"💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type."],
+"folke/which-key.nvim":[7304,292349,"💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type."],
 "forgemeshlabs/imagegen-mcp":[1,284770047,"MCP server for AI image generation, background removal, and upscaling with optional x402 USDC payments on Base mainnet."],
 "forty2/bravia2mqtt":[15,1472096,"Control your Sony Bravia TV with MQTT."],
 "fukamachi/pira":[30,90570,"Unofficial AWS SDK for Common Lisp"],

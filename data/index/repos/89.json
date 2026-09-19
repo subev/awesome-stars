@@ -486,7 +486,7 @@
 "waiwera/waiwera":[61,49133194,"A parallel, open-source geothermal flow simulator"],
 "wbotelhos/rating":[70,116234,":star: A confidence-based rating system with scope and cache enabled"],
 "weaming/md2png":[41,10275711,"Render markdown file to PNG image. Support custom CSS URL/file."],
-"wenbowen123/BundleTrack":[685,23078192,"[IROS 2021] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models"],
+"wenbowen123/BundleTrack":[688,23078192,"[IROS 2021] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models"],
 "wind-python/windpowerlib":[395,21263042,"The windpowerlib is a library to model the output of wind turbines and farms."],
 "wycats/looper":[16,4,"Static analysis tools for ES6"],
 "xames3/slowtorch":[25,90549089,"Another implementation of PyTorch from the ground up, for real."],

@@ -167,7 +167,7 @@
 "brentstrandy/phaser-underline-text":[7,5529881,"Extends Phaser.Text to easily let you add underlines anywhere in your text"],
 "brtmax/warm-springs":[1,54221876,"Warm Springs Color Theme Zsh"],
 "btrachey/wezterm-replay":[2,20742349,"Capture commands from output and insert them into the next prompt"],
-"buildawesome-one/starter":[81,320799717,"Best content-first micro-starter powered by Build Awesome One kit and Blades CSS — perfect for blogs, docs, landing pages, or anything content-driven 📝"],
+"buildawesome-one/starter":[79,320799717,"Best content-first micro-starter powered by Build Awesome One kit and Blades CSS — perfect for blogs, docs, landing pages, or anything content-driven 📝"],
 "bungaku-moe/NikkeViewerEX":[34,135030871,"🔫 Interactive Goddess of Victory: NIKKE Spine Viewer"],
 "burdzwastaken/hadolint-action":[13,13855668,"A GitHub action to run hadolint and reports violations given a Dockerfile within a repository"],
 "c-bata/rtmp":[139,5564044,"Server implementation of Adobe's RTMP 1.0 protocol in Go."],

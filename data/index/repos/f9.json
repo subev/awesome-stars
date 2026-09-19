@@ -216,7 +216,7 @@
 "dojo/typings":[29,86896,"Dojo 1 - TypeScript Typings (including Dijit and DojoX)"],
 "dotenv-linter/dotenv-linter":[2105,63101922,"⚡️Lightning-fast linter for .env files. Written in Rust 🦀"],
 "dwijitsolutions/laraadmin":[1582,19834726,"LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more."],
-"emacsorphanage/git-gutter":[887,4679765,"Emacs port of GitGutter which is Sublime Text Plugin"],
+"emacsorphanage/git-gutter":[888,4679765,"Emacs port of GitGutter which is Sublime Text Plugin"],
 "emanuelhuber/RGPR":[226,12541363,"Ground-penetrating radar (GPR) data processing and visualisation: a free and open-source software package (R language)"],
 "ember-cli/ember-exam":[289,10262982,"Run your tests with randomization, splitting, and parallelization for beautiful tests."],
 "ember-community-russia/awesome-ember":[207,38083211,"A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more."],
@@ -388,7 +388,7 @@
 "oemof/DHNx":[46,8503379,"District heating system optimisation and simulation models"],
 "okeuday/pqueue":[173,61850,"Erlang Priority Queues"],
 "omec-project/ausf":[1,47397761,""],
-"ompl/ompl":[2150,7645596,"The Open Motion Planning Library (OMPL)"],
+"ompl/ompl":[2151,7645596,"The Open Motion Planning Library (OMPL)"],
 "onethawt/idaplugins-list":[3836,14185578,"A list of IDA Plugins"],
 "oojr/react-native-battery":[55,1275902,"plugin for react native that adds an listener for the battery status of a device"],
 "openstack/hacking":[243,324574,"OpenStack Hacking Style Checks. Mirror of code maintained at opendev.org."],
@@ -426,7 +426,7 @@
 "rclone-ui/rclone-sdk":[70,200495165,"OpenAPI-based client for the Rclone RC API"],
 "rebassjs/rebass":[7898,41265750,":atom_symbol: React primitive UI components built with styled-system."],
 "redeclipse/base":[534,10807478,"Base environment for Red Eclipse and associated source files."],
-"redis/redis-py":[13644,1529926,"Redis Python client"],
+"redis/redis-py":[13645,1529926,"Redis Python client"],
 "redteamfortress/PhantomKiller":[290,285915761,"Another BYOVD process killer. works on all EDR's. fully signed."],
 "reduxjs/reselect":[19009,13142323,"Selector library for Redux"],
 "renkun-ken/rlist":[204,4662568,"A Toolbox for Non-Tabular Data Manipulation"],
@@ -522,5 +522,5 @@
 "z-shell/zsh-lsd":[19,93575852,"Zsh plugin replace GNU/ls with next generation Peltoche/lsd"],
 "zecoxao/pkgdec5":[19,1857828,"pkgdec from RedEyeX32 for the ps5 "],
 "ziyuwwang/DynaMixer":[30,68987383,""],
-"zvec-ai/zvec-studio":[106,254627891,"visual management tool for zvec"]
+"zvec-ai/zvec-studio":[109,254627891,"visual management tool for zvec"]
 }

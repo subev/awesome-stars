@@ -28,7 +28,7 @@
 "DangerousPrototypes/BusPirate5-hardware":[123,390299,"Bus Pirate Hardware and accessories for v5 and higher"],
 "DarwinAwardWinner/dotemacs":[12,228145,"My Emacs configuration (contents of ~/.emacs.d/)"],
 "DataKitchen/data-observability-installer":[141,5611963,"Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility across and down your data estate. Save time with simple, fast data quality test generation and execution. Trust your data, tools, and systems end to end."],
-"DogLooksGood/parinfer-mode":[405,11796018,"Parinfer for Emacs :)"],
+"DogLooksGood/parinfer-mode":[404,11796018,"Parinfer for Emacs :)"],
 "Domochip/sms2mqtt":[67,33293764,"Gateway to send/receive SMS through MQTT using an USB GSM dongle (gammu)"],
 "Druhin13/corona":[10,46156118,"Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks & Precautions - https://coronavirusapp.github.io"],
 "Dummiesman/AngelStudiosBlenderAddon":[18,10748421,"A Blender add-on that handles several formats used in Angel Studios / Rockstar San Diego games from ~1999-2006"],
@@ -58,7 +58,7 @@
 "Joffref/opa-middleware":[22,51022808,"opa-middleware gather all the middlewares you need to use Open Policy Agent with your API"],
 "JunoNgx/luxeTpl":[7,5671813,"A state-centric template for the Luxe Engine"],
 "KISS-UI/kiss-ui":[344,13789189,"A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)"],
-"Kaidoz/ProxyCall-Remover":[29,33166919,"Deobfuscator for remove proxy calls methods"],
+"Kaidoz/ProxyCall-Remover":[28,33166919,"Deobfuscator for remove proxy calls methods"],
 "KeplSiv/FolderForge":[93,84513624,"Open-source macOS folder customization with presets, rules, and recursive workspace styling."],
 "KornnerStudios/KSoft":[6,8563045,"Migrating from https://bitbucket.org/KornnerStudios/ksoft/"],
 "KristofferStrube/Blazor.MediaCaptureStreams":[93,11569642,"A Blazor wrapper for the Media Capture and Streams browser API."],
@@ -227,7 +227,7 @@
 "eliasdorneles/usolitaire":[103,37565,"Solitaire in your terminal, powered by Unicode and https://textual.textualize.io/"],
 "emacs-grammarly/lsp-grammarly":[207,79193985,"lsp-mode ❤️ grammarly"],
 "emacs-mirror/emacs":[5201,8382104,"Mirror of GNU Emacs"],
-"emacsfodder/move-text":[236,2025524,"move current line or region up or down"],
+"emacsfodder/move-text":[235,2025524,"move current line or region up or down"],
 "embassy-rs/embedded-tls":[244,80000440,"An Rust TLS 1.3 implementation for embedded devices."],
 "ennuo/ufg.js":[9,67672427,"A JavaScript library for interfacing with formats in UFG games, primarily LittleBigPlanet Karting."],
 "erlerobot/meta-ros2":[19,5610713,"ROS 2 Layer for OpenEmbedded Linux"],
@@ -528,5 +528,5 @@
 "zammad/zammad":[5924,1380327,"Zammad is a web based open source helpdesk/customer support system."],
 "zekebuilds-lab/captcha-mcp":[1,273267884,"MCP server for PoW + Lightning agent auth — charge AI agents per-call without accounts. npm: @powforge/captcha-mcp"],
 "zenml-io/kitaru":[292,88676955,"Agent traces you can run, not just read."],
-"zilliztech/attu":[3156,18416694,"The Best GUI for Milvus"]
+"zilliztech/attu":[3163,18416694,"The Best GUI for Milvus"]
 }

@@ -153,7 +153,7 @@
 "centreon/centreon-plugins":[335,1890152,"Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. "],
 "chaobrain/braincell":[14,186382703,"Biologically Detailed Brain Cell Modeling in JAX"],
 "charite/ngspipeline":[7,4958472,"Our NGS Pipeline using Nextflow"],
-"chartjs/Chart.js":[67700,10342521,"Simple HTML5 Charts using the <canvas> tag"],
+"chartjs/Chart.js":[67704,10342521,"Simple HTML5 Charts using the <canvas> tag"],
 "chisui/zsh-nix-shell":[435,4526429,"zsh plugin that lets you use zsh in nix-shell shells."],
 "chrisgrieser/nvim-scissors":[582,73286100,"Automagical editing and creation of snippets."],
 "cityxdev/covid19ByCountry":[1,55859758,"A small dashboard providing country comparison on COVID-19 data"],

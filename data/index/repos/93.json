@@ -168,7 +168,7 @@
 "c-okelly/org_to_anki":[67,8889083,"Python3 module to convert Txt, Org or LibreOffice files into Anki decks"],
 "cablelabs/snaps-openstack":[9,619376,"OpenStack installer for SNAPS"],
 "callstack/repack":[1933,42239399,"A webpack-based toolkit to build your React Native application with full support of webpack ecosystem."],
-"cask/cask":[1324,5344792,"Project management tool for Emacs"],
+"cask/cask":[1326,5344792,"Project management tool for Emacs"],
 "catherinedevlin/ddl-generator":[275,208054,"Guesses table DDL based on data"],
 "charliewolfe/PointerGuard":[58,43051392,"PointerGuard is a proof-of-concept tool used to create 'guarded' pointers which disguise pointer addresses, monitor reads/writes, and prevent access from external processes."],
 "chrisdwheatley/material-design-hamburger":[88,894092,"Android's Material Design hamburger animation built in CSS"],

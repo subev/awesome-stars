@@ -256,7 +256,7 @@
 "finos/ipyregulartable":[113,35377814,"High performance, editable, stylable datagrids in jupyter and jupyterlab"],
 "flipped-aurora/gin-vue-admin":[25016,63276650,"🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。"],
 "floriankugler/FLKAutoLayout":[1482,567328,"UIView category which makes it easy to create layout constraints in code"],
-"folke/flash.nvim":[4240,292349,"Navigate your code with search labels, enhanced character motions and Treesitter integration"],
+"folke/flash.nvim":[4241,292349,"Navigate your code with search labels, enhanced character motions and Treesitter integration"],
 "fuatakgun/eufy_security":[1394,11085566,"Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors."],
 "gajus/eslint-plugin-jsdoc":[1228,973543,"JSDoc specific linting rules for ESLint."],
 "garyzhao/SemGCN":[474,1342385,"The Pytorch implementation for \"Semantic Graph Convolutional Networks for 3D Human Pose Regression\" (CVPR 2019)."],

@@ -198,7 +198,7 @@
 "boostorg/regex":[119,3170529,"Boost.org regex module"],
 "boxer-cpr/boxer":[4,43616518,"Common packages for Boxer, including messages, robot description, and controllers"],
 "brentp/somalier":[334,1739,"fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... \"like damn that is one smart wine guy\""],
-"brotzeit/rustic":[735,25367303,"Rust development environment for Emacs"],
+"brotzeit/rustic":[736,25367303,"Rust development environment for Emacs"],
 "bugs-dot-jar/bugs-dot-jar":[64,31779969,"Bugs.jar: A Large-scale, Diverse Dataset of Bugs for Java Program Repair"],
 "bwide/CollectionNode":[102,18719347,"a collectionView made for Sprite Kit"],
 "bystritskiy/awesome-ios-books":[725,16685049,"📚 Directory of iOS books"],
