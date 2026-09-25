@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"b65dbd8de60e38be772cd59d3b9fa939a5c66391"},
+"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"b4b7d8a4d28ae9b74628c24c02be17cea130de5c"},
 "members": [
 "sindresorhus/awesome",
 "MobilityData/GTFS-books",
@@ -39,6 +39,7 @@
 "rust-transit/gtfs-structure",
 "derhuerst/extract-gtfs-pathways",
 "derhuerst/extract-gtfs-shapes",
+"Gabboxl/gtfs-osm-import",
 "CUTR-at-USF/gtfs-osm-sync",
 "ioTransit/gtfs-parser",
 "cal-itp/gtfs-service-area",

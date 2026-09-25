@@ -1,5 +1,5 @@
 {
-"meta": {"description":":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.","defaultBranch":"master","topics":[],"readmeSha":"473176131914ced1484b42124dbfdae89df0b5c4"},
+"meta": {"description":":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.","defaultBranch":"master","topics":[],"readmeSha":"905593bc39fa347c75673678351d342569a1dafa"},
 "members": [
 "ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python",
 "ianw/bottomupcs",
@@ -25,6 +25,7 @@
 "HoTT/Coq-HoTT",
 "aosabook/aosabook",
 "BloombergGraphics/whatiscode",
+"gibbok/typescript-book",
 "programminghistorian/jekyll",
 "karlseguin/the-little-introduction-to-programming",
 "sayanee/build-podcast",

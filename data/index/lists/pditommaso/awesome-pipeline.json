@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"b6144d3fce2db5fe8dd366811b3605937266c4a4"},
+"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"8737eb78a157081ea5da71dd82fcdf504afeeabf"},
 "members": [
 "kahun/awesome-sysadmin",
 "yadage/adage",
@@ -120,9 +120,12 @@
 "AppDevIQ/datascreeniq-python",
 "polynote/polynote",
 "ploomber/ploomber",
+"singhpratech/adbcbridge",
 "bruin-data/bruin",
 "cadence-workflow/cadence",
 "dataform-co/dataform",
+"bejaouibechir/Hydra",
+"panodata/omniload",
 "pathwaycom/pathway",
 "brexhq/substation",
 "argoproj/argo-workflows",

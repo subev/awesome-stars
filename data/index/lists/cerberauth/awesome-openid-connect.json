@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"9179bfb5aa2bc33b56720f859f68fd722a6a1307"},
+"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"161bdfaa39a634c71d199f0b61a5f4edb700acc7"},
 "members": [
 "goauthentik/authentik",
 "dexidp/dex",
@@ -42,7 +42,9 @@
 "greenpau/caddy-security",
 "vouch/vouch-proxy",
 "yaron-zehavi/oauth-app2app-browserless",
-"SecureAuthCorp/oauth2c",
-"cerberauth/awesome-openid-connect"
+"SecureAuthCorp/oauth2c"
+],
+"dropped": [
+["2026-09-25","cerberauth/awesome-openid-connect"]
 ]
 }

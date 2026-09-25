@@ -1,7 +1,9 @@
 {
-"meta": {"description":"🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️","defaultBranch":"master","topics":["javascript","react","learning-resources","awesome-list","conference-talks","frontend","functional-programming","javascript-frameworks","performance","web-development"],"readmeSha":"d59e03f555d1f1451bba713a567e87392e03f813"},
+"meta": {"description":"JavaScript talks you have to see 👀 on functional programming, performance, frameworks, React, debugging, leveling up, and more!","defaultBranch":"master","topics":["javascript","react","learning-resources","awesome-list","conference-talks","frontend","functional-programming","javascript-frameworks","performance","web-development"],"readmeSha":"36ed97b5486eecfb34503cd21e59e259acc4ae79"},
 "members": [
-"AllThingsSmitty/must-watch-css",
-"sindresorhus/awesome"
+"AllThingsSmitty/must-watch-css"
+],
+"dropped": [
+["2026-09-25","sindresorhus/awesome"]
 ]
 }

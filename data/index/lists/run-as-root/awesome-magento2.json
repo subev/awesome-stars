@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"31200d42654c4bf84220fcfffefc812e6149a831"},
+"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"23f42c679fbb20f608e2624030d444b2c378fb3e"},
 "members": [
 "sindresorhus/awesome",
 "run-as-root/awesome-magento2",
@@ -68,8 +68,8 @@
 "mageplaza/magento-2-slovak-language-pack",
 "Smile-SA/elasticsuite",
 "algolia/algoliasearch-magento-2",
-"firegento/FireGento_FastSimpleImport2",
 "run-as-root/Typesense-Magento-2",
+"firegento/FireGento_FastSimpleImport2",
 "zepgram/module-disable-search-engine",
 "walkwizus/magento2-module-meilisearch",
 "magefan/module-blog",
@@ -82,16 +82,14 @@
 "mageplaza/magento-2-seo",
 "Zwernemann/magento2-withdrawl",
 "mage-os-lab/module-blog",
-"BerryPath/magento2-berrypath-flow",
-"BerryPath/magento2-berrypath-product-feed",
 "staempfli/magento2-module-pdf",
 "SnowdogApps/magento2-menu",
 "justbetter/magento2-sentry",
 "hyva-themes/magento2-hyva-admin",
 "bitExpert/magento2-force-login",
 "experius/Magento-2-Module-PageNotFound",
-"magenizr/Magenizr_ResetUiBookmarks",
 "mage-os/theme-adminhtml-m137",
+"magenizr/Magenizr_ResetUiBookmarks",
 "magepal/magento2-gmail-smtp-app",
 "idhlagency/magento2-disable-stock-reservation",
 "redchamps/clean-admin-menu",
@@ -129,5 +127,9 @@
 "ziadoz/awesome-php",
 "aleron75/mageres",
 "sunel/awesome-magento"
+],
+"dropped": [
+["2026-09-25","BerryPath/magento2-berrypath-flow"],
+["2026-09-25","BerryPath/magento2-berrypath-product-feed"]
 ]
 }

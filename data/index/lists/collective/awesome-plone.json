@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Add-ons and resources for the CMS Plone","defaultBranch":"main","topics":["awesome","awesome-list","cms","plone","python","zope"],"readmeSha":"9cb695d52793049e09e3402a712d427c81631342"},
+"meta": {"description":"Add-ons and resources for the CMS Plone","defaultBranch":"main","topics":["awesome","awesome-list","cms","plone","python","zope"],"readmeSha":"283d5874ac477b5f92fe0a7b1861865261f1db35"},
 "members": [
 "collective/awesome-volto",
 "collective/collective.consent",

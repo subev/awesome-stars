@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"803f758df1047301fa11922686226a9c5bc45ab9"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"b27f7aba3564842605dbb087dbef852bcff7763d"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
@@ -288,6 +288,7 @@
 "Warzone2100/warzone2100",
 "Andrettin/Wyrmsun",
 "ZeroK-RTS/Zero-K",
+"djeada/Standard-of-Iron",
 "SimonSchubert/Braincup",
 "tvbarthel/ChaseWhisplyProject",
 "prakhar1989/ColorPhun",
@@ -401,7 +402,6 @@
 "agoragames/halo-reach-api",
 "taisel/IodineGBA",
 "itchio/itch",
-"city41/breakouts",
 "agoragames/java-leaderboard",
 "agoragames/php-leaderboard",
 "agoragames/python-leaderboard",
@@ -413,5 +413,8 @@
 "mrdoob/stats.js",
 "agoragames/tassadar",
 "Blizzard/api-wow-docs"
+],
+"dropped": [
+["2026-09-25","city41/breakouts"]
 ]
 }

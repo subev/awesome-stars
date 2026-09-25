@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"d71dc138cea8100161183b0806d3652f098a7212"},
+"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"67fbd8ca80f62a105c443c177f28f35fac7e1a14"},
 "members": [
 "aseprite/aseprite",
 "Mtax-Development/GML-OOP",
@@ -72,7 +72,6 @@
 "Kruger0/Tweeny",
 "YellowAfterlife/GMEdit",
 "GameMakerDiscord/Rubber",
-"JafarDakhan/vim-gml",
 "tinkerer-red/GMLC",
 "erkan612/GMLVM",
 "daikon-games/rt-shell",
@@ -207,5 +206,8 @@
 "FaultyFunctions/GameMakerLibraries",
 "Calinou/awesome-gamedev",
 "ellisonleao/magictools"
+],
+"dropped": [
+["2026-09-25","JafarDakhan/vim-gml"]
 ]
 }

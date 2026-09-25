@@ -1,5 +1,5 @@
 {
-"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"a00e25b7173274d016c334b7b02e063116cad114"},
+"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"968528c57f70d908e8523483f69050f8d52e4431"},
 "members": [
 "sindresorhus/awesome",
 "Samsung/Wits",
@@ -16,6 +16,7 @@
 "reisxd/TizenBrew",
 "reisxd/TizenTube",
 "TAGISWILD/beam-tv",
+"lennartschoch/invidious-tizen",
 "ConnectSDK/Connect-SDK-Android",
 "hobbyquaker/lgtv2",
 "hobbyquaker/node-red-contrib-lgtv",

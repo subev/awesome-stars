@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"5b13dafecf818c9cbf1f211d9f4155333525551c"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"9cd6fa45848bf416f4f26e037810b194fb3dc5f5"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -105,6 +105,7 @@
 "pathwaycom/pathway",
 "redpanda-data/connect",
 "rudderlabs/rudder-server",
+"Yacine-ai-tech/StreamPulse",
 "Netflix/suro",
 "JayJamieson/yasdb",
 "beava-dev/beava",

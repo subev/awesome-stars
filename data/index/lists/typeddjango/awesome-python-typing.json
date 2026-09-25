@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome Python types, stubs, plugins, and tools to work with them.","defaultBranch":"master","topics":["python","mypy","python-stubs","mypy-stubs","mypy-plugins","pyi","awesome-list","pep484","python-types","awesome"],"readmeSha":"4268a9c7e01ada4ce6afd73d8761b68a4fd87f9f"},
+"meta": {"description":"Collection of awesome Python types, stubs, plugins, and tools to work with them.","defaultBranch":"master","topics":["python","mypy","python-stubs","mypy-stubs","mypy-plugins","pyi","awesome-list","pep484","python-types","awesome"],"readmeSha":"6a198fd16713f13004ff1eed54d3f58b5fcbd725"},
 "members": [
 "KotlinIsland/basedmypy",
 "DetachHead/basedpyright",
@@ -20,6 +20,7 @@
 "agronholm/typeguard",
 "seandstewart/typical",
 "davidfstr/trycast",
+"connor-makowski/type_enforced",
 "django/asgiref",
 "boto/boto3",
 "jeshan/botostubs",

@@ -1,8 +1,7 @@
 {
-"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"9e304c145af04c983e423faf43b4e7f1026dffed"},
+"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"92b9acaf263b971626771c7fffced14433265a2d"},
 "members": [
 "sindresorhus/awesome",
-"APA-Technology-Division/urban-and-regional-planning-resources",
 "microsoft/USBuildingFootprints",
 "censusreporter/censusreporter",
 "mtmleczko/nzlud",
@@ -25,6 +24,7 @@
 "City-Form-Lab/madina",
 "eskerda/pybikes",
 "opengeos/leafmap",
+"jblindsay/whitebox-tools",
 "marceloprates/prettymaps",
 "abdullahselek/HerePy",
 "streettraffic/streettraffic",
@@ -54,5 +54,8 @@
 "brycejohnston/awesome-agriculture",
 "tmcw/awesome-geojson",
 "ai-collection/ai-collection"
+],
+"dropped": [
+["2026-09-25","APA-Technology-Division/urban-and-regional-planning-resources"]
 ]
 }

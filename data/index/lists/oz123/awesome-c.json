@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.","defaultBranch":"master","topics":["awesome-list","c","awesome","list"],"readmeSha":"b3c393897b627d1f729552fe47a7a97bbde310ed"},
+"meta": {"description":"A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.","defaultBranch":"master","topics":["awesome-list","c","awesome","list"],"readmeSha":"bdf1b9e98d2fdb02a0ec23eeb2803cd2a969be4d"},
 "members": [
 "Dead2/zlib-ng",
 "Cyan4973/FiniteStateEntropy",
@@ -240,6 +240,7 @@
 "armink/EasyLogger",
 "OCamlPro/owi",
 "an-dr/microlog",
-"Nouridin/vfs_pipe"
+"Nouridin/vfs_pipe",
+"mainak55512/flint"
 ]
 }

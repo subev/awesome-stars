@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"abd6116f6b7f1d5a92e5d9c10a83e173d6b060a3"},
+"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"f4b77df10e050984675b6b6684c0191343939696"},
 "members": [
 "microsoft/playwright",
 "artilleryio/artillery",
@@ -26,12 +26,13 @@
 "mskelton/eslint-plugin-playwright",
 "vitalets/global-cache",
 "omachala/heroshot",
-"saffron-health/libretto",
+"cashew-labs/libretto",
 "aerokube/moon",
 "stevez/nextcov",
 "currents-dev/playwright-best-practices-skill",
 "vitalets/playwright-magic-steps",
 "vitalets/playwright-network-cache",
+"jamalkamaladdin/pixelpact",
 "Mattwmaster58/playwright-python-language-injection",
 "testdino-hq/playwright-skill",
 "denodell/playwright-soak-test",
@@ -67,5 +68,8 @@
 "microsoft/TypeScript",
 "microsoft/vscode",
 "xtermjs/xterm.js"
+],
+"dropped": [
+["2026-09-25","saffron-health/libretto"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"8aa5519ab872d5b210fa2c3b83a75324a7961967"},
+"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"5f2e2b6bc810cfc97a4458371b710a679e4c8cca"},
 "members": [
 "lit/lit",
 "gracile-web/starter-projects",
@@ -19,6 +19,7 @@
 "rodydavis/lit-node-editor",
 "rodydavis/lit-3d-piano",
 "rodydavis/vite-rxdb-lit",
+"GyeongHoKim/lucide-lit",
 "shoelace-style/localize",
 "MatthiasKainer/pure-lit",
 "aggre/ullr",

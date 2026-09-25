@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"daa794424919eb4e9c38a85ff525a61f00f0cf57"},
+"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"7ab9415d2074f4ecbc195993fbac3079af76b32e"},
 "members": [
 "opentofu/opentofu",
 "opentofu/registry",
@@ -49,6 +49,8 @@
 "opentofu/tofu-ls",
 "ashpool37/zed-extension-opentofu",
 "env0/terratag",
-"minamijoyo/tfupdate"
+"minamijoyo/tfupdate",
+"bare-devcontainer/templates",
+"bare-devcontainer/images"
 ]
 }

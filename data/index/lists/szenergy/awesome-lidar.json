@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"bae80fbf5abee66cbd999f9b5f45a05b9a9ee43e"},
+"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"df00d98ba68d4f3f3b90d5904fb50611dda32387"},
 "members": [
 "ros-drivers/velodyne",
 "valgur/velodyne_decoder",
@@ -72,6 +72,7 @@
 "hogyun2/awesome-lidar-place-recognition",
 "neng-wang/Awesome-LiDAR-MOS",
 "sjtuyinjie/awesome-LiDAR-Visual-SLAM",
+"danielcamposramos/awesome-ar",
 "philipturner/ARHeadsetKit",
 "philipturner/scene-color-reconstruction",
 "marian42/pointcloudprinter",

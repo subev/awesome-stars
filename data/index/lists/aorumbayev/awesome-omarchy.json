@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"eac964af7b4f235afd2004c6656d698a1e7812ee"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"5eacd7c4ef8151f696355a1abe41865ede7609b1"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -43,6 +43,7 @@
 "zzwong/omarchy-stage",
 "bjarneo/omarchy-shell-plugins",
 "jkoestinger/omarchy-vpn",
+"momoi-labs/omarchy-pane-manager",
 "husamemadH/omarchy-quattro-prayer-times",
 "28allday/Quattrolitaire",
 "GreyforgeLabs/reprieve",
@@ -59,6 +60,7 @@
 "aloisdeniel/flutter_omarchy",
 "2disbetter/FW12Rotate",
 "magudb/hyprBluetooth",
+"nocstah/hyprflip",
 "devmobasa/wayscriber",
 "erans/hyprmon",
 "t4t5/hypruler",
@@ -100,6 +102,7 @@
 "jonashan/omarchy-workspace-mover",
 "APS6/omazed",
 "Firstp1ck/Pacsea",
+"kaolti/phantomat",
 "t4t5/rencal",
 "bjarneo/tema",
 "HANCORE-linux/waybar-themes",

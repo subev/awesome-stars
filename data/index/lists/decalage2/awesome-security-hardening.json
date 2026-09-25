@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome security hardening guides, tools and other resources","defaultBranch":"master","topics":["awesome-list","security","security-hardening","security-tools","windows-hardening","cybersecurity","cyber-security","infosec","best-practices","cis-benchmarks"],"readmeSha":"c21408185e13be38f3c05f8eb9efae26a4ed5066"},
+"meta": {"description":"A collection of awesome security hardening guides, tools and other resources","defaultBranch":"master","topics":["awesome-list","security","security-hardening","security-tools","windows-hardening","cybersecurity","cyber-security","infosec","best-practices","cis-benchmarks"],"readmeSha":"c5c893a1af7bc0fe4146fba39a5cc14a7665c9eb"},
 "members": [
 "sindresorhus/awesome",
 "trimstray/the-practical-linux-hardening-guide",
@@ -22,6 +22,7 @@
 "cottinghamd/HardeningAuditor",
 "olafhartong/MDE-AuditCheck",
 "arpitn30/nipper-ng",
+"cedricllorens/cawk",
 "c0r0n3r/cryptolyzer",
 "nabla-c0d3/sslyze",
 "testssl/testssl.sh",

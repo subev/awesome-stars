@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"1d1c5aeaea01d9115f9993d21013c8631d202fce"},
+"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"d1e2aea68e30870a04f816a6f78f57277edfc6d5"},
 "members": [
 "pnxenopoulos/csgo",
 "leomaurodesenv/smm-course-search",
@@ -33,6 +33,7 @@
 "leomaurodesenv/TapAI",
 "cheahjs/bravefrontier_data",
 "oganm/dnddata",
+"rajeshsureddi/GameScope",
 "NabajeetBarman/GamingHDRVideoSET",
 "oscarmcnulty/gta-3d-dataset",
 "Biuni/PokemonGO-Pokedex",

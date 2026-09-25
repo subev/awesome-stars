@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collaborative list of great resources about RESTful API architecture, development, test, and performance","defaultBranch":"master","topics":["awesome","rest"],"readmeSha":"7782d733136a1402d4ee034f73b34ecb83a0ee6e"},
+"meta": {"description":"A collaborative list of great resources about RESTful API architecture, development, test, and performance","defaultBranch":"master","topics":["awesome","rest"],"readmeSha":"ab9bc75110b3cb363a28d215f7a277a664a1e420"},
 "members": [
 "sindresorhus/awesome",
 "interagent/http-api-design",
@@ -96,6 +96,7 @@
 "Redocly/redoc",
 "slatedocs/slate",
 "opticdev/optic",
+"cortex-docs/cortex",
 "Kong/kong",
 "TykTechnologies/tyk",
 "NatLabRockies/api-umbrella",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"48da02561e768fbb7d638a96c762c6ec0f03398d"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"384a8f95b7bc1fa1bf42dd02e498591eb3cad6d9"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -35,6 +35,7 @@
 "dropbox/PhotoWatch",
 "stevenselcuk/Pomosh-iOS-watchOS",
 "SaiBalaji-PSS/Quote-Today",
+"jakublipinski/Silent-Bell",
 "kuglee/TermiWatch",
 "JohnYezub/NewsFeed_SwiftUI_MVVM",
 "D-32/WatchPics",
@@ -122,7 +123,7 @@
 "gluonfield/enchanted",
 "EVOlution-App/iOS",
 "expo/expo",
-"claration/Feather",
+"claration/feather",
 "rudrankriyam/Foundation-Models-Framework-Lab",
 "davejacobsen/HapticHaven",
 "rrroyal/Harbour",
@@ -173,6 +174,7 @@
 "hamed8080/LeitnerBox",
 "Catrobat/Catty",
 "FlineDev/Prayer",
+"nicedreamzapp/RealTime-Space",
 "Visual-Studio-Coder/Recap",
 "cuappdev/podcast-ios",
 "scribe-org/Scribe-iOS",
@@ -277,6 +279,7 @@
 "cl7/Sakura-Fly",
 "chsxf/SKTetris",
 "phpmaple/Stick-Hero-Swift",
+"Significant-Hobbies/calorie",
 "mhdhejazi/CoronaTracker",
 "nploi/corona_tracker",
 "alfianlosari/CoronaVirusTrackerSwiftUI",
@@ -512,6 +515,7 @@
 "Visual-Studio-Coder/QR-Share-Pro",
 "WezSieTato/ScanNow",
 "s-s/dnscloak",
+"xsxs18-dev/FileManager",
 "LemonPepperSeasoning/Hasher",
 "iCepa/iCepa",
 "keybase/client",
@@ -607,7 +611,6 @@
 "ynagatomo/ImgGenSD2",
 "loomax-labs/InferrLM",
 "almormd/Learning",
-"alexruperez/MADBike",
 "ChoiysApple/My-Little-Popcat",
 "ivirtex/networkarch-old",
 "tucan9389/ObjectDetection-CoreML",
@@ -619,7 +622,6 @@
 "iAugux/Phonetic",
 "FlexMonkey/Plum-O-Meter",
 "Loriage/Mealie-Swift-App",
-"wvabrinskas/PokePal",
 "onmyway133/Recipes",
 "Say-Their-Name/say-their-names-ios",
 "vincode-io/Humboldt",
@@ -823,6 +825,9 @@
 ["2026-09-18","StewartLynch/iOS-14-Widget"],
 ["2026-09-18","hackfoldr/hackfoldr-iOS"],
 ["2026-09-18","AdrienVillez/LOST-Location"],
-["2026-09-18","Brimizer/Slidden"]
+["2026-09-18","Brimizer/Slidden"],
+["2026-09-25","claration/Feather"],
+["2026-09-25","alexruperez/MADBike"],
+["2026-09-25","wvabrinskas/PokePal"]
 ]
 }

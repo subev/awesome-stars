@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"a7d02316cb0f50e35e7ad33af1dacfa6754b49b6"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"f1c2486a6164c9968421e7b8f97720af85b53e79"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -126,6 +126,7 @@
 "alassek/activerecord-pg_enum",
 "rgeo/activerecord-postgis-adapter",
 "bibendi/activerecord-postgres_enum",
+"carldaws/activerecord-postgresql-branched",
 "rails-sqlserver/activerecord-sqlserver-adapter",
 "byroot/activerecord-typedstore",
 "simukappu/activity_notification",
@@ -139,7 +140,7 @@
 "bkuhlmann/auther",
 "ai/autoprefixer-rails",
 "avo-hq/avo",
-"BemiHQ/bemi-rails",
+"pgstack-io/bemi-rails",
 "BetterErrors/better_errors",
 "presidentbeef/brakeman",
 "weppos/breadcrumbs_on_rails",
@@ -250,6 +251,7 @@
 "opticdev/optic"
 ],
 "dropped": [
-["2026-09-04","encrypt-to/encrypt.to"]
+["2026-09-04","encrypt-to/encrypt.to"],
+["2026-09-25","BemiHQ/bemi-rails"]
 ]
 }

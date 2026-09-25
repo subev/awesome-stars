@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"af3bca39b397898a4a572e2e1dbe80d016e5f432"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"4bd2fd6b2fa0788bd5fbb87318c60a75318a1aab"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -21,6 +21,7 @@
 "nanomq/nanomq",
 "ForestHubAI/edge-agents",
 "pnoker/iot-dc3",
+"cortex-docs/cortex",
 "UllrAI/dsh-mqtt",
 "hivemq/hivemq-mqtt-web-client",
 "labodj/homie-home-assistant-discovery",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources related to the Ada and SPARK programming language","defaultBranch":"master","topics":["awesome","ada","spark","ada-framework","ada-language","ada-programs","ada-binding","gnat","spark-ada","ada-library"],"readmeSha":"2ae6cea7a54e56d0cf7aa1bb650aec1a4c69260f"},
+"meta": {"description":"A curated list of awesome resources related to the Ada and SPARK programming language","defaultBranch":"master","topics":["awesome","ada","spark","ada-framework","ada-language","ada-programs","ada-binding","gnat","spark-ada","ada-library"],"readmeSha":"6416d6a1525656772abdf978b39c57f0e6471705"},
 "members": [
 "ohenley/files",
 "tofgarion/spark-by-example",
@@ -14,6 +14,7 @@
 "AdaCore/gnat-community-archives",
 "AdaCore/gnatstudio",
 "zertovitch/lea",
+"UlrikHjort/Ada-Version-of-Emacs-Avoe",
 "thindil/Ada-Bundle",
 "textmate/ada.tmbundle",
 "rocher/ob-ada-spark",

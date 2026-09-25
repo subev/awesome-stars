@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"8ddf7ac4659af0605b7e8397765c491500638125"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"70120e8d8ca1c674dfc952bd53bee39c1499a5ed"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -19,6 +19,7 @@
 "Evaliphy/evaliphy",
 "supernovae-st/nika",
 "mukundzha/crilio",
+"dmsehgal/aiexpect",
 "Continuum-AI-Corp/OrcaReplay",
 "xag/flight-recorder",
 "xnbox/DeepfakeHTTP",
@@ -47,12 +48,13 @@
 "rapiddweller/datamimic",
 "sealandseacat/dbmask",
 "UtilHatch/json-validation-test-cases",
-"altansayan/mock-jutsu-api",
 "shuttle-hq/synth",
 "trytouca/trytouca",
 "ehmicky/test-each",
+"vinceblock99/postal-code-formats",
 "VertaaUX/cli",
 "Nikita-Filonov/load-testing-hub-panel",
+"grafana/k6",
 "foundry-rs/foundry",
 "jg8481/Robot-Framework-Solidity-Testing-Toolkit",
 "bats-core/bats-core",
@@ -80,5 +82,8 @@
 "MathiasPaulenko/awesome-behave",
 "fityanos/awesome-quality-assurance-roadmap",
 "TheJambo/ToDoInterviewTest"
+],
+"dropped": [
+["2026-09-25","altansayan/mock-jutsu-api"]
 ]
 }

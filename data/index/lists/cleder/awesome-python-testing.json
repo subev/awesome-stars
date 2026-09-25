@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"bf7e05c77e22a53a10f81769544c008eb9c28158"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"3914a3dc67e68dd40c57091c9aaf1a20dde1e502"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -29,8 +29,8 @@
 "jllorencetti/pytest-deadfixtures",
 "dbfixtures/pytest-mysql",
 "dbfixtures/pytest-rabbitmq",
-"hermes-labs-ai/agent-convergence-scorer",
-"Agent-Hellboy/mcp-server-fuzzer",
+"roli-lpci/agent-convergence-scorer",
+"mcp-runtime/mcp-server-fuzzer",
 "Continuum-AI-Corp/OrcaReplay",
 "Jott2121/sabot",
 "tenro-ai/tenro-python",
@@ -65,7 +65,7 @@
 "CodeEnPlace/bough",
 "sixty-north/cosmic-ray",
 "Jott2121/crucible",
-"simin-yuan/self-auditing-agent",
+"simin-yuan/greencheck",
 "EvanKepner/mutatest",
 "boxed/mutmut",
 "mutpy/mutpy",
@@ -92,6 +92,7 @@
 "Stranger6667/hypothesis-graphql",
 "schemathesis/schemathesis",
 "Optibus/playback",
+"Haswell119/driftwire",
 "golikovichev/postman2pytest",
 "microsoft/restler-fuzzer",
 "taverntesting/tavern",
@@ -128,6 +129,7 @@
 "augustogoulart/awesome-pytest",
 "boxed/hammett",
 "maelstrom-software/maelstrom",
+"ingrid-owusu/mdoctest",
 "nose-devs/nose2",
 "nyggus/perftester",
 "preset-io/promptimize",
@@ -143,6 +145,7 @@
 "darrenburns/ward",
 "Erotemic/xdoctest",
 "pschanely/CrossHair",
+"hermes-labs-ai/csv-quality-gate",
 "zxyasfas/greenproof",
 "google/importlab",
 "usagitoneko97/klara",
@@ -182,6 +185,9 @@
 ],
 "dropped": [
 ["2026-08-28","man-group/partialtesting"],
-["2026-08-28","pytest-dev/pytest-incremental"]
+["2026-08-28","pytest-dev/pytest-incremental"],
+["2026-09-25","hermes-labs-ai/agent-convergence-scorer"],
+["2026-09-25","Agent-Hellboy/mcp-server-fuzzer"],
+["2026-09-25","simin-yuan/self-auditing-agent"]
 ]
 }

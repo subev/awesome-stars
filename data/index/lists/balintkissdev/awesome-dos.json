@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of references for development of DOS applications.","defaultBranch":"main","topics":["dos","ms-dos","retroprogramming","awesome","awesome-list","lists","resources","retrogaming"],"readmeSha":"cf452099a2bb515da98487c3f7ff2c0e37d17554"},
+"meta": {"description":"Curated list of references for development of DOS applications.","defaultBranch":"main","topics":["dos","ms-dos","retroprogramming","awesome","awesome-list","lists","resources","retrogaming"],"readmeSha":"4506f41d059a15b201955c6d0f2e72966f6d9c6b"},
 "members": [
 "open-watcom/open-watcom-v2",
 "alexfru/SmallerC",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"46a5585abc4b97a667e5f234844aeddfb8c0b2f1"},
+"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"3acf0a396ebe7e2a3ba75e87531d0fabc860b36f"},
 "members": [
 "Piebald-AI/.github",
 "google-gemini/gemini-cli",
@@ -21,9 +21,11 @@
 "google-github-actions/run-gemini-cli",
 "Piebald-AI/gemini-cli-desktop",
 "iOfficeAI/AionUi",
+"cvelasquez/agent-workbench",
 "vybestack/llxprt-code",
 "iflow-ai/iflow-cli",
 "QwenLM/qwen-code",
+"ruslanlap/loopguard",
 "rxdt/loopgate_harness",
 "sipyourdrink-ltd/bernstein",
 "aannoo/hcom",
@@ -68,8 +70,12 @@
 "Nagarjuna2997/ios-agent-skill",
 "hermes-labs-ai/lintlang",
 "cohesivity-org/cohesivity-plugin",
-"feder-cr/AIHawk",
+"feder-cr/invisible_playwright_mcp",
 "kgaidev/kgai-gemini",
+"raimondasl/isitdone-gemini",
+"minosin/gtdbrain-gemini-extension",
+"hermes-labs-ai/supersearch",
+"getclera/mcp",
 "shinshin86/oh-my-logo",
 "SurefireStudios/tldr",
 "agent-sh/agnix",
@@ -99,6 +105,10 @@
 "Hahaknight/claude-skills-pro",
 "mathdevie/devie-ai-quota-tracker",
 "vivekchand/clawmetry",
+"devgiordane/openfiles",
+"hermes-labs-ai/hermes-jailbench",
+"archcore-ai/archcore",
+"DevinoSolutions/anotifier-for-claude-codex-cursor",
 "VjayC/SRT-Subtitle-Translator-Validator",
 "oneryalcin/gemini-cli-sdk",
 "ben-vargas/ai-sdk-provider-gemini-cli",
@@ -138,6 +148,9 @@
 "squirrelscan/squirrelscan",
 "noteflowai/dsh-skills-anywhere",
 "glasser-ai/plugins",
+"minds-ai-co/minds-mcp",
+"samvallad33/vestige",
+"samvallad33/vestige-gemini",
 "gutsavgupta/nvim-gemini-companion",
 "JonRoosevelt/gemini-cli.nvim",
 "JunYang-tes/agents-parter.nvim",
@@ -157,6 +170,7 @@
 "nowork-studio/notfair-plugin"
 ],
 "dropped": [
-["2026-08-28","ofekron/better-agent"]
+["2026-08-28","ofekron/better-agent"],
+["2026-09-25","feder-cr/AIHawk"]
 ]
 }

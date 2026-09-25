@@ -1,8 +1,9 @@
 {
-"meta": {"description":"A curated list of resources dedicated to Natural Language Generation (NLG)","defaultBranch":"master","topics":["nlg","natural-language-generation","natural-language-understanding","awesome-list","awesome"],"readmeSha":"9873b4c4abc1091c99fd2f02b4dea0fb44b9ad4b"},
+"meta": {"description":"A curated list of resources dedicated to Natural Language Generation (NLG)","defaultBranch":"master","topics":["nlg","natural-language-generation","natural-language-understanding","awesome-list","awesome"],"readmeSha":"ffd661c308e1628eabdb58f875de5b1c403666f8"},
 "members": [
 "UFAL-DSG/alex_context_nlg_dataset",
 "harvardnlp/boxscore-data",
+"tuetschek/e2e-dataset",
 "pvougiou/Neural-Wikipedian",
 "ThiagoCF05/webnlg",
 "google-research-datasets/dstc8-schema-guided-dialogue",
@@ -36,6 +37,7 @@
 "huggingface/transformers",
 "akanimax/natural-language-summary-generation-from-structured-data",
 "accelerated-text/accelerated-text",
+"RosaeNLG/rosaenlg",
 "kowey/GenI",
 "rali-udem/jsRealB",
 "simplenlg/simplenlg",

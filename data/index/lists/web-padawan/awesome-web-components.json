@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"a64e3b912b8f6c980d445d9352ba5debda450511"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"d6f8967ec9483b6ad2883d369011f34bd69e5ed3"},
 "members": [
 "web-platform-tests/wpt",
 "praveenpuglia/shadow-dom-in-depth",
@@ -71,6 +71,7 @@
 "pixano/pixano-elements",
 "playcanvas/web-components",
 "google/playground-elements",
+"vollowx/seele",
 "HTMLElements/Smart.UI",
 "bennypowers/stripe-elements",
 "eeditiones/tei-publisher-components",

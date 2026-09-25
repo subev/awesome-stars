@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Platforms, tools, and guides for critical organizers 🌆","defaultBranch":"main","topics":["awesome","awesome-list","hackathon","hackathons"],"readmeSha":"ba73727d7a037687cc50a26829282f3ed4a5415f"},
+"meta": {"description":"Platforms, tools, and guides for critical organizers 🌆","defaultBranch":"main","topics":["awesome","awesome-list","hackathon","hackathons"],"readmeSha":"b70aadd1723891b4969c3760c4aa4eb734e06b5f"},
 "members": [
 "mbiesiad/awesome-hackathons",
 "Olanetsoft/awesome-hackathon-projects",
@@ -47,6 +47,7 @@
 "Neuro-Hack/sponsorship",
 "Hackalist/Hackalist.github.io",
 "hackclub/hackathons",
+"Hack-HQ/hackhq",
 "hackclub/scrapbook",
 "Catalyst-IN/OpenSourceEvents-Frontend",
 "sahanmndl/UpCoding-Web",

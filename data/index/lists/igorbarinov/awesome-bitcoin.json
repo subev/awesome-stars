@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"3e0ac226b5fdd739dbd802fa73d704e63784d2bc"},
+"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"e1c78356cf98d0a2b5bbf2918feb592b204b202c"},
 "members": [
 "sindresorhus/awesome",
 "vulpemventures/nigiri",
@@ -17,6 +17,7 @@
 "8144225309/superscalar-mcp",
 "singularityjason/lightning-memory",
 "Blockstream/esplora",
+"bitpay/insight",
 "yasaricli/chainradar-api",
 "alexk111/One-Time-Address",
 "JoinMarket-Org/joinmarket-clientserver",
