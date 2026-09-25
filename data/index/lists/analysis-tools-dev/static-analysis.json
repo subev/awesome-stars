@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"760b4fdfb95d09ac9156af2efe9bdde3b7c05265"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"17a97a87ebf3203d714948ac179946e4a1a299ad"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -207,7 +207,6 @@
 "sds/slim-lint",
 "mozilla/dennis",
 "codespell-project/codespell",
-"vlajos/misspell-fixer",
 "amperser/proselint",
 "dominikh/go-tools",
 "mcandre/linters",
@@ -280,6 +279,7 @@
 ["2026-09-04","facetoe/promval"],
 ["2026-09-04","ConsenSysDiligence/mythril"],
 ["2026-09-04","uni-bremen-agst/libvcs4j"],
-["2026-09-11","viva64/pvs-studio-check-list"]
+["2026-09-11","viva64/pvs-studio-check-list"],
+["2026-09-25","vlajos/misspell-fixer"]
 ]
 }

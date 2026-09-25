@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome places to learn and/or practice algorithms.","defaultBranch":"master","topics":[],"readmeSha":"f9eed5aad5bc0f056fb6a3ad32b459bbc5b6cc73"},
+"meta": {"description":"A curated list of awesome places to learn and/or practice algorithms.","defaultBranch":"master","topics":[],"readmeSha":"238876c1ca94480511118efaa7e5fe4c32110f43"},
 "members": [
 "bayandin/awesome-awesomeness",
+"wislertt/leetcode-py",
 "tsiege/Tech-Interview-Cheat-Sheet",
 "teivah/algodeck",
 "mostafatouny/awesome-theoretical-computer-science",

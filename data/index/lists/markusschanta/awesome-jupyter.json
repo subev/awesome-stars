@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"6337c30d26716cb8a2623d40babdb280ee98081a"},
+"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"875081533d2758785f329b2692b218c42ea32cb7"},
 "members": [
 "jupyter/docker-stacks",
 "nteract/hydrogen",
@@ -53,6 +53,7 @@
 "pyecharts/pyecharts",
 "apache/echarts",
 "jupyter-widgets/pythreejs",
+"sachinhosmani/torchvista",
 "tqdm/tqdm",
 "1kbgz/tributary",
 "jupyter-xeus/xleaflet",
@@ -93,6 +94,7 @@
 "jupyterlab/jupyterlab-celltags",
 "jupyterlab-contrib/jupyterlab_code_formatter",
 "jupyterlab/debugger",
+"pallaprolus/devscholar-jupyter",
 "QuantStack/jupyterlab-drawio",
 "elyra-ai/elyra",
 "run-ai/jupyterlab_genv",
@@ -132,6 +134,7 @@
 "jwkvam/jupyterlab-vim",
 "altair-viz/jupyterlab_voyager",
 "chmp/ipytest",
+"tosin2013/jupyter-notebook-validator-operator",
 "jpmorganchase/nbcelltests",
 "computationalmodelling/nbval",
 "bollwyvl/nosebook",
@@ -139,7 +142,7 @@
 "QuantEcon/sphinxcontrib-jupyter",
 "treebeardtech/nbmake-action",
 "ReviewNB/treon",
-"OpenGeoscience/geonotebook",
+"kitware-data-solutions/geonotebook",
 "nir/jupylet",
 "shopsavvy/jupyter-shopsavvy",
 "parrt/lolviz",
@@ -155,6 +158,7 @@
 "norvig/pytudes"
 ],
 "dropped": [
-["2026-09-11","jtpio/jupyterlab-system-monitor"]
+["2026-09-11","jtpio/jupyterlab-system-monitor"],
+["2026-09-25","OpenGeoscience/geonotebook"]
 ]
 }

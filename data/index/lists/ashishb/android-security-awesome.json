@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"8bb15b8ff5abb3d4afbdbd24f19be5f359b53849"},
+"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"c8e47f8d996181cafbadff0baf5403cc6aefeda9"},
 "members": [
 "maaaaz/androwarn",
 "sonyxperiadev/ApkAnalyser",
@@ -120,6 +120,7 @@
 "optiv/InsecureShop",
 "oversecured/ovaa",
 "B3nac/InjuredAndroid",
+"cpeoples/dvma",
 "jacobsoo/AndroidSlides",
 "OWASP/mastg",
 "doridori/Android-Security-Reference",

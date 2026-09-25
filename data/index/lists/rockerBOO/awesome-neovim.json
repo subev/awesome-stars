@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"05475e765e1b7cd42f77ab824f0de1a7d34376d7"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"cd19c3d9c4571d2b149e29f2b7e994e6fb27bd7c"},
 "members": [
 "alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
@@ -82,6 +82,8 @@
 "mason-org/mason.nvim",
 "Senal-D-A-Gunaratna/swapson.nvim",
 "Crysthamus/nvim-file-operations",
+"antosha417/nvim-lsp-file-operations",
+"carldaws/miser.nvim",
 "sontungexpt/better-diagnostic-virtual-text",
 "folke/trouble.nvim",
 "piersolenski/wtf.nvim",
@@ -175,6 +177,7 @@
 "overflow/fs-review.nvim",
 "taigrr/neocrush.nvim",
 "zgs225/pi2.nvim",
+"jaitd/fieldguide.nvim",
 "alessio-vivaldelli/java-creator-nvim",
 "Julian/lean.nvim",
 "nvim-flutter/flutter-tools.nvim",
@@ -193,6 +196,7 @@
 "nvim-java/nvim-java",
 "clang-engineer/jvm-env.nvim",
 "artur-shaik/jc.nvim",
+"ag-libs/lathe.nvim",
 "kiyoon/python-import.nvim",
 "kiyoon/haskell-scope-highlighting.nvim",
 "apyra/nvim-unity",
@@ -229,7 +233,7 @@
 "sjclayton/goplexity.nvim",
 "rest-nvim/rest.nvim",
 "lima1909/resty.nvim",
-"mistweaverco/kulala.nvim",
+"dont-be-evil-company/kulala.nvim",
 "heilgar/nvim-http-client",
 "farias-hecdin/CSSVarViewer",
 "farias-hecdin/CSSVarHighlight",
@@ -818,6 +822,7 @@
 "paulburgess1357/nvim-mcp",
 "dpezto/chezmoi-template.nvim",
 "7KiLL/copybara.nvim",
+"rifen/timescope",
 "VidocqH/data-viewer.nvim",
 "theKnightsOfRohan/csvlens.nvim",
 "YS-L/csvlens",
@@ -829,6 +834,7 @@
 "y3owk1n/undo-glow.nvim",
 "gen740/SmoothCursor.nvim",
 "indium114/smudge.nvim",
+"RedEye-Developers/starfall.nvim",
 "TheLazyCat00/termfile-nvim",
 "TheLazyCat00/runner-nvim",
 "LuxVim/nvim-luxterm",
@@ -932,6 +938,7 @@
 "lewistg/pesto.nvim",
 "wsdjeg/tasks.nvim",
 "JulOuellet/bzl.nvim",
+"pewpewnor/dove.nvim",
 "saghen/blink.lib",
 "folke/lazydev.nvim",
 "lumen-oss/luarocks-tag-release",
@@ -1235,6 +1242,7 @@
 "notomo/cmdbuf.nvim",
 "gelguy/wilder.nvim",
 "vzze/cmdline.nvim",
+"juniorsundar/cling.nvim",
 "rmagatti/auto-session",
 "gennaro-tedesco/nvim-possession",
 "olimorris/persisted.nvim",
@@ -1402,6 +1410,7 @@
 "xieyonn/spinner.nvim",
 "mjmjm0101/quickui.nvim",
 "markosnarinian/ln.nvim",
+"simifalaye/minibuffer.nvim",
 "akrawchyk/awesome-vim",
 "Weyaaron/nvim-training",
 "ChuYanLon/chad46"
@@ -1411,6 +1420,7 @@
 ["2026-08-27","nyoom-engineering/nyoom.nvim"],
 ["2026-09-04","mikeboiko/nvim-flow"],
 ["2026-09-11","0xstepit/flow.nvim"],
-["2026-09-11","mrjones2014/smart-splits.nvim"]
+["2026-09-11","mrjones2014/smart-splits.nvim"],
+["2026-09-25","mistweaverco/kulala.nvim"]
 ]
 }

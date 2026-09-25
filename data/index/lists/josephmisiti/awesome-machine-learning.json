@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"0a72316dac5ea7fac9f95b4e5f146ad12c3e567f"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"ff52c41f4111036fff26f56c73f65158bb9a386a"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -236,6 +236,7 @@
 "Hoff97/tensorjs",
 "mil-tokyo/webdnn",
 "final-kk/kandle",
+"ai-on-browser/ai-on-browser.github.io",
 "stdlib-js/stdlib",
 "jcoglan/sylvester",
 "simple-statistics/simple-statistics",
@@ -448,6 +449,7 @@
 "huggingface/transformers",
 "alinapetukhova/textcl",
 "bibinprathap/VeritasGraph",
+"speedyk-005/yasbd-lib",
 "aimhubio/aim",
 "AstraZeneca/rexmex",
 "AstraZeneca/chemicalx",

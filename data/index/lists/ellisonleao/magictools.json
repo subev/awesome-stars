@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"7d39c399c88b765ddfe6e543af737fa90e4d0ffc"},
+"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"2c8d377425676b58b5f4521e2dd8297f50fd1634"},
 "members": [
 "sindresorhus/awesome",
 "nidorx/matcaps",
@@ -60,6 +60,7 @@
 "Immediate-Mode-UI/Nuklear",
 "ObEngine/ObEngine",
 "OpenXRay/xray-16",
+"braedonsaunders/parlour",
 "PixelVision8/PixelVision8",
 "kitao/pyxel",
 "Rajawali/Rajawali",

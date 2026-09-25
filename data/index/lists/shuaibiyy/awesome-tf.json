@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"8a6f884e1d1abd9d613c3fe3157c232460fd81e3"},
+"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"2dbaa53488650bab7a00a8809c364ad89ff16571"},
 "members": [
 "sindresorhus/awesome",
 "antonbabenko/terraform-docs-as-pdf",
@@ -65,6 +65,7 @@
 "runatlantis/terraform-gce-atlantis",
 "terraform-google-modules/terraform-google-project-factory",
 "fabiocicerchia/terraform-helm-carbon-intensity-exporter",
+"fabiocicerchia/terraform-helm-cloud-carbon-footprint",
 "fabiocicerchia/terraform-helm-kepler",
 "kbst/terraform-kubestack",
 "nix-community/terraform-nixos",
@@ -104,6 +105,7 @@
 "nat-henderson/terraform-provider-dominos",
 "elastic/terraform-provider-elasticstack",
 "env0/terraform-provider-env0",
+"canopy-labs/terraform-provider-featureflip",
 "integrations/terraform-provider-github",
 "gitlabhq/terraform-provider-gitlab",
 "sullivtr/terraform-provider-graphql",
@@ -229,6 +231,7 @@
 "cycloidio/terracognita",
 "cycloidio/terracost",
 "derBroBro/TerraDepot",
+"niravraychura/terradrift",
 "chenrui333/terradozer",
 "jaceq/terraeasy",
 "anmolnagpal/terraform-ai-skills",

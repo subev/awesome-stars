@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"beea0e463bd2ba9a986fd8d77a6a8ac0d781ea58"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"b4a93aa907661252df31daeb12f63fd435f84dba"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "getsentry/skills",
@@ -11,6 +11,7 @@
 "openai/openai-agents-python",
 "anthropics/claude-agent-sdk-python",
 "NousResearch/hermes-agent",
+"AstrBotDevs/AstrBot",
 "stanfordnlp/dspy",
 "567-labs/instructor",
 "run-llama/llama_index",
@@ -123,6 +124,8 @@
 "browser-use/browser-use",
 "scrapy/scrapy",
 "unclecode/crawl4ai",
+"browserbase/stagehand",
+"browser-use/jev-ultrafast",
 "kurtmckee/feedparser",
 "Alir3z4/html2text",
 "adbar/trafilatura",
@@ -156,6 +159,7 @@
 "chroma-core/chroma",
 "lancedb/lancedb",
 "alibaba/zvec",
+"pixeltable/pixeltable",
 "msiemens/tinydb",
 "tkem/cachetools",
 "grantjenks/python-diskcache",

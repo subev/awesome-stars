@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"4a11099430e5fbd50195ada2334d25ec03348091"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"5849a9b003dc4f0460b54ddb06221950f2bf0269"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -492,8 +492,10 @@
 "Accessory/minus_games",
 "a1ex4/ownfoil",
 "pelican/panel",
+"Chnapy/PKVault",
 "pterodactyl/panel",
 "pufferpanel/pufferpanel",
+"RiDDiX/RetroArr",
 "JMBeresford/retrom",
 "rommapp/romm",
 "sbpp/sourcebans-pp",
@@ -507,7 +509,7 @@
 "Mintplex-Labs/anything-llm",
 "ENTERPILOT/GoModel",
 "khoj-ai/khoj",
-"danny-avila/LibreChat",
+"LibreChat-AI/LibreChat",
 "av/harbor",
 "defilantech/LLMKube",
 "LearningCircuit/local-deep-research",
@@ -602,6 +604,7 @@
 "rfsbraz/deleterr",
 "henriquesebastiao/downtify",
 "neosy/elengrab",
+"EgalitarianMonkey/hometube",
 "av1155/houndarr",
 "Lidarr/Lidarr",
 "TheWicklowWolf/LidaTube",
@@ -1013,10 +1016,10 @@
 "octobox/octobox",
 "theonedev/onedev",
 "opf/openproject",
+"Paca-AI/paca",
 "makeplane/plane",
 "reviewboard/reviewboard",
 "scm-manager/scm-manager",
-"GauthierNelkinsky/ShipShipShip",
 "titraio/titra",
 "nirix/traq",
 "uvdesk/community-skeleton",
@@ -1136,6 +1139,8 @@
 ["2026-09-11","mnfst/manifest"],
 ["2026-09-11","bouncepaw/mycorrhiza"],
 ["2026-09-18","toeverything/AFFiNE"],
-["2026-09-18","reactive-resume/app"]
+["2026-09-18","reactive-resume/app"],
+["2026-09-25","danny-avila/LibreChat"],
+["2026-09-25","GauthierNelkinsky/ShipShipShip"]
 ]
 }

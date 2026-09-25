@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"7cbe4a8708b5f47aba3b6566388bfc44cf9757b1"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"12d4a9fd845da24ee5ac2eda8d19fba2cf28f2f0"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -132,6 +132,7 @@
 "samvera/browse-everything",
 "fog/fog",
 "kddnewton/humidifier",
+"avonderluft/comfy-middle-seat",
 "comfy/comfortable-mexican-sofa",
 "wearefine/fae",
 "publify/publify",

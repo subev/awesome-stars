@@ -1,5 +1,5 @@
 {
-"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"9e28d189c73a0191a27fb1045e07b791b79a162f"},
+"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"dde053ab684cd428944d1ac5e8f128214f380399"},
 "members": [
 "sindresorhus/awesome",
 "vercel/next.js",
@@ -85,12 +85,8 @@
 "nicepkg/shotog",
 "frontman-ai/frontman",
 "farming-labs/docs",
-"the-beating-light-of-the-nail/ai-video-prompt-cheatsheet",
-"Vette1123/movies-streaming-platform",
-"armor229-ux/File-Flex",
-"Saad-web-spec/DevScratchPad",
-"a827681306/devtoolkit",
 "codelitdev/courselit",
+"a827681306/devtoolkit",
 "fim-ai/fim-one",
 "onur-ozkan/feednext",
 "auth0-blog/nextjs-got",
@@ -117,7 +113,13 @@
 "KryptXBSA/t3-twitter-clone",
 "shadcn-ui/taxonomy",
 "shadcn-ui/ui",
-"KryptXBSA/StorageBox",
-"gibbok/typescript-book"
+"KryptXBSA/StorageBox"
+],
+"dropped": [
+["2026-09-25","the-beating-light-of-the-nail/ai-video-prompt-cheatsheet"],
+["2026-09-25","Vette1123/movies-streaming-platform"],
+["2026-09-25","armor229-ux/File-Flex"],
+["2026-09-25","Saad-web-spec/DevScratchPad"],
+["2026-09-25","gibbok/typescript-book"]
 ]
 }

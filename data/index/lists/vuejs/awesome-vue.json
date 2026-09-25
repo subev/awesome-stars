@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"569ea098a549a7b6cc2590dffa0dd58d9edd627f"},
+"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"c126bd8cb75f5e7fd0fe6803caba38e159954b27"},
 "members": [
 "sindresorhus/awesome",
 "vuejs/core",
@@ -224,6 +224,7 @@
 "walkframe/gridsheet",
 "witqq/spreadsheet",
 "nelson820125/jordium-gantt-vue3",
+"parade0393/vtable-guild",
 "nandi95/vue-toastify",
 "kyvg/vue3-notification",
 "smastrom/notivue",
@@ -285,7 +286,7 @@
 "ManukMinasyan/vue-functional-calendar",
 "antoniandre/vue-cal",
 "boussadjra/vue-spring-calendar",
-"elreco/vue-tailwind-datepicker",
+"elreco/coderocket-ui",
 "tomosterlund/qalendar",
 "schedule-x/schedule-x",
 "Kodeglot/vue-calendar",
@@ -585,6 +586,7 @@
 ["2026-09-18","noeGnh/vue3-icon-picker"],
 ["2026-09-18","byteboomers/vue-autofocus-directive"],
 ["2026-09-18","byteboomers/vue-lpage"],
-["2026-09-18","askbudi/roundtable"]
+["2026-09-18","askbudi/roundtable"],
+["2026-09-25","elreco/vue-tailwind-datepicker"]
 ]
 }

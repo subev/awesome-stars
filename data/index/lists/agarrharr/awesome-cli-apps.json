@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"49139a054d8e54b6bec2f95872b196df0700d514"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"aac2eceb5559b5c3bcd29ea3873bba14e8310827"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -104,6 +104,7 @@
 "antoniorodr/cronboard",
 "s3m/s3m",
 "bencherdev/bencher",
+"runwisp/runwisp",
 "ivanilves/lstags",
 "lirantal/dockly",
 "jesseduffield/lazydocker",

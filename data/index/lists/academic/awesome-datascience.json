@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"45f45c5f1b8642e3a47f2c766cad00ad48284f0e"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"dd0cde98707467a3dfbbb81f8d40482a0a4e42f4"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -80,6 +80,7 @@
 "ultralytics/yolov3",
 "ultralytics/yolov5",
 "ultralytics/ultralytics",
+"openlanguagemodel/openlanguagemodel",
 "tensorflow/tensorflow",
 "tensorlayer/TensorLayer",
 "tflearn/tflearn",
@@ -176,6 +177,7 @@
 "dbt-labs/dbt",
 "zasper-io/zasper",
 "skrub-data/skrub",
+"Koda-OSS/Glyph",
 "anonym-g/Chinese-Elite",
 "Desbordante/desbordante-core",
 "shmlkv/dna-claude-analysis",
@@ -202,6 +204,7 @@
 "juanmoisesd/latamdata-py",
 "artakulov/us-water-quality-data",
 "erinheit451/verified-supplement-evidence",
+"whatfontis/WhatFontIs-Bench",
 "bayandin/awesome-awesomeness",
 "josephmisiti/awesome-machine-learning",
 "jnv/lists",
