@@ -104,7 +104,7 @@
 "ParTech/Pipeline-Performance-Monitor":[4,3798757,"Simple solution for measuring the duration of Sitecore pipeline execution"],
 "PentHertz/5GC_API_parse":[80,59710120,"A BurpSuite extension to parse 5GC NF OpenAPI 3.0 files to assess 5G core networks"],
 "Perturbation-Response-Prediction/PRnet":[91,157387127,"PRnet is a flexible and scalable perturbation-conditioned generative model predicting transcriptional responses to unseen complex perturbations at bulk and single-cell levels."],
-"PetarV-/GAT":[3551,4183324,"Graph Attention Networks (https://arxiv.org/abs/1710.10903)"],
+"PetarV-/GAT":[3553,4183324,"Graph Attention Networks (https://arxiv.org/abs/1710.10903)"],
 "Phala-Network/phala-blockchain":[370,59632547,"Phala Network 1.0 Monorepo"],
 "PictureElement/nextjs-strapi-portfolio-starter":[28,22181928,"Production-ready headless CMS starter template built with Next.js, Strapi, and Tailwind CSS for optimal SEO."],
 "Pixley-Growth/PixleyReader":[70,268378576,""],

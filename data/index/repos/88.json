@@ -233,7 +233,7 @@
 "duailibe/cuid":[55,1574588,"Collision-resistant ids, in Elixir"],
 "durkie/ngx_http_mbtiles_module":[17,3200608,"A nginx module to serve map tiles directly from mbtiles container files"],
 "eclipse-paho/paho.mqtt.python":[2423,186823076,"paho.mqtt.python"],
-"edp963/davinci":[5012,25784602,"Davinci is a DVsaaS (Data Visualization as a Service) Platform"],
+"edp963/davinci":[5011,25784602,"Davinci is a DVsaaS (Data Visualization as a Service) Platform"],
 "eduardolat/pgbackweb":[2636,57238554,"🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾"],
 "egoist-labs/denopkg.com":[239,64363882,"An easier way to use code from GitHub in your Deno project."],
 "egulias/ListenersDebugCommandBundle":[56,791806,"A Symfony 2 console command to debug listeners"],

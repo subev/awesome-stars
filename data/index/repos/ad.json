@@ -459,7 +459,7 @@
 "tbali0524/advent-of-code-rust":[0,51286559,"Advent of Code solutions in Rust by TBali"],
 "te9c/jellyfin-plugin-shikimori":[31,47248306,"Jellyfin metadata provider for anime from shikimori.io"],
 "telepath9000/elf-packer":[38,16546318,"Encrypts 64-bit elf files that decrypt at runtime. "],
-"tensorflow/tensorflow":[200311,15658638,"An Open Source Machine Learning Framework for Everyone"],
+"tensorflow/tensorflow":[200321,15658638,"An Open Source Machine Learning Framework for Everyone"],
 "textpattern/textpattern-jquery-ui-theme":[15,21210,"The jQuery UI theme used within the Textpattern CMS admin-side."],
 "theseus-os/Theseus":[3203,42755277,"Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler."],
 "tidalcycles/vortex":[107,10014169,"Moved to https://codeberg.org/uzu/vortex/"],
@@ -503,5 +503,5 @@
 "zachwill/moment":[743,172692,"A Python library for dealing with dates"],
 "zakkhoyt/VWWPermissionKit":[143,2229408,"A visual permission manager for iOS"],
 "ziyuw/rembo":[116,759511,"Bayesian optimization in high-dimensions via random embedding."],
-"zvec-ai/zvec-grep":[3593,254627891,"Local-first search across your workspace, built for humans and AI agents."]
+"zvec-ai/zvec-grep":[3782,254627891,"Local-first search across your workspace, built for humans and AI agents."]
 }

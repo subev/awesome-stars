@@ -471,7 +471,7 @@
 "stackrender/stackrender":[547,226551349,"StackRender is the next-gen database schema design and generation tool."],
 "startprogress/China_stock_announcement":[216,12439146,"该项目通过scrapy爬虫从巨潮网络的服务器获取中国股市的公告"],
 "stauren/vise-ssr":[21,88204,"Isomorphic SSR framework based on Vite.js"],
-"stephane-caron/pymanoid":[233,1189580,"Humanoid robotics prototyping environment based on OpenRAVE"],
+"stephane-caron/pymanoid":[234,1189580,"Humanoid robotics prototyping environment based on OpenRAVE"],
 "stovv/next-strapi-sitemap":[6,16264774,"Generate sitemap and robots.txt for NextJS used web hook from STRAPI"],
 "strukturag/libde265":[1919,5314589,"Open h.265 video codec implementation."],
 "sturdy-dev/codereview.gpt":[608,75087565,"Reviews your Pull/Merge Requests using ChatGPT"],

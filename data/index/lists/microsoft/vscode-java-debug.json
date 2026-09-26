@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Java Debugger for Visual Studio Code.","defaultBranch":"main","topics":["java","java-debugger","vscode-java"],"readmeSha":"548f2739bfbf52c26e8bc6d232b9ebf1dc9a79b3"},
+"meta": {"description":"Java Debugger for Visual Studio Code.","defaultBranch":"main","topics":["java","java-debugger","vscode-java"],"readmeSha":"021c9bee7e4629fd760b51ee5843a82c4e90b845"},
 "members": [
 "microsoft/java-debug"
 ]

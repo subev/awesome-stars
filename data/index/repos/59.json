@@ -325,7 +325,7 @@
 "mccutchen/go-httpbin":[885,57938,"A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib."],
 "milespossing/Azure-Keyvault-Zsh":[0,7330275,"A simple zsh plugin to help make using the keyvault feature of the azure cli a little less verbose"],
 "mims-harvard/ohmnet":[85,60720343,"OhmNet: Representation learning in multi-layer graphs"],
-"minad/tempel":[651,50754,":classical_building: Tempel - Simple templates for Emacs"],
+"minad/tempel":[652,50754,":classical_building: Tempel - Simple templates for Emacs"],
 "mindalyze-com/mtl-explorer":[41,6230096,"MTL Explorer: a self-hosted GPS track explorer for maps, stats, filtering, route planning, and photo-linked trail history."],
 "miso-belica/sumy":[3699,1072330,"Module for automatic summarization of text documents and HTML pages."],
 "mjmlio/mjml":[18248,16115896,"MJML: the only framework that makes responsive email easy"],

@@ -140,7 +140,7 @@
 "apache/skywalking-rover":[238,47359,"Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance."],
 "aphyr/dom-top":[213,3748,"Unorthodox control flow, for Clojurists with masochistic sensibilities."],
 "ashwingopalsamy/uuidcheck":[6,47941624,"A tiny, zero-dependency Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into timestamps by ensuring accuracy and light compute."],
-"asmith26/wide_resnets_keras":[138,6988036,"Keras implementation + pretrained weights for \"Wide Residual Networks\""],
+"asmith26/wide_resnets_keras":[139,6988036,"Keras implementation + pretrained weights for \"Wide Residual Networks\""],
 "away3d/away3d-examples-fp11":[101,549071,"Actionscript examples for use with the Away3D engine for Flash Player 11"],
 "aws-samples/aws-codedeploy-samples":[639,8931462,"Samples and template scenarios for AWS CodeDeploy"],
 "awslabs/aws-mobile-appsync-sdk-js":[917,3299148,"JavaScript library files for Offline, Sync, Sigv4. includes support for React Native"],

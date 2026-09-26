@@ -326,7 +326,7 @@
 "jwplayer/southpaw":[53,5090060,":baseball: Streaming left joins in Kafka for change data capture"],
 "kaishengtai/neuralart":[2394,5561444,"An implementation of the paper 'A Neural Algorithm of Artistic Style'."],
 "kamilsk/breaker":[21,1165416,"🚧 Flexible mechanism to make execution flow interruptible."],
-"karpathy/convnetjs":[11205,241138,"Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser."],
+"karpathy/convnetjs":[11204,241138,"Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser."],
 "keepcosmos/terjira":[910,1201508,"Terjira is a very interactive and easy to use CLI tool for Jira."],
 "kellyjonbrazil/jc":[8686,24423665,"CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts."],
 "kettanaito/naming-cheatsheet":[14191,14984911,"Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern."],
@@ -390,7 +390,7 @@
 "niledatabase/nile-mcp-server":[17,97133832,"MCP server for Nile Database - Manage and query databases, tenants, users, auth using LLMs"],
 "ninsuo/symfony-collection":[438,4152132,"[NOT MAINTAINED] A jQuery plugin that manages adding, deleting and moving elements from a Symfony form collection"],
 "niuiic/todo.nvim":[19,63799565,"Simple but powerful todo manager based on text."],
-"nobiot/org-transclusion":[1125,12507865,"Emacs package to enable transclusion with Org Mode"],
+"nobiot/org-transclusion":[1124,12507865,"Emacs package to enable transclusion with Org Mode"],
 "norasector/turbine":[153,92351441,"SDR software for capturing trunked radio systems"],
 "novoid/dot-emacs":[209,727493,"My GNU/Emacs configuration"],
 "odin-lang/odin-libs":[51,34303136,"A list of Odin libraries, wrappers and bindings."],
@@ -470,7 +470,7 @@
 "servicetitan/Stl.Fusion":[1886,1610283,"Build real-time apps (Blazor included) with less than 1% of extra code responsible for real-time updates. Host 10-1000x faster APIs relying on transparent and nearly 100% consistent caching. We call it DREAM, or Distributed REActive Memoization, and it's here to turn real-time on!"],
 "shrektan/ggTimeSeries":[0,8368933,"Taking time series visualisations beyond line charts."],
 "shroominic/funcchain":[341,34897716,"⛓️ build cognitive systems, pythonic"],
-"shurcooL/markdownfmt":[819,41136041,"Like gofmt, but for Markdown."],
+"shurcooL/markdownfmt":[820,41136041,"Like gofmt, but for Markdown."],
 "simeg/urlsup":[18,8566054,"✅ CLI to find broken URLs in files (awesome_bot alternative but significantly faster)"],
 "simtex-dev/engine":[20,114510092,"Convert your files into LaTeX/pdf with one command!"],
 "siyanew/num2fa":[6,1218696,"A Library to convert numbers to Farsi (Persian)"],
@@ -523,7 +523,7 @@
 "waddupp00/risbow":[2,101832002,"A risto inspired zsh theme with a lolcat like rainbow effect"],
 "wannabeOG/Mask-RCNN":[988,25241641,"A PyTorch implementation of the architecture of Mask RCNN"],
 "wapmorgan/awesome-webservice":[26,6000618,"A curated list of awesome web services."],
-"wbthomason/dotfiles":[297,3729908,"My dotfiles"],
+"wbthomason/dotfiles":[296,3729908,"My dotfiles"],
 "webfactory/exceptions-bundle":[62,135788,"A bundle to ease development of custom, user-friendly Symfony2 error pages."],
 "webtorrent/instant.io":[3595,5800008,"🚀 Streaming file transfer over WebTorrent (torrents on the web)"],
 "wsvincent/lithium":[2460,766418,"Django starter project with 🔋"],
@@ -536,5 +536,5 @@
 "zammad/zammad":[5953,1380327,"Zammad is a web based open source helpdesk/customer support system."],
 "zekebuilds-lab/captcha-mcp":[1,273267884,"MCP server for PoW + Lightning agent auth — charge AI agents per-call without accounts. npm: @powforge/captcha-mcp"],
 "zenml-io/kitaru":[295,88676955,"Agent traces you can run, not just read."],
-"zilliztech/attu":[3163,18416694,"The Best GUI for Milvus"]
+"zilliztech/attu":[3176,18416694,"The Best GUI for Milvus"]
 }

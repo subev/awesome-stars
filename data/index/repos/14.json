@@ -222,7 +222,7 @@
 "eush77/help-version":[5,4472489,"Easily handle --help and --version arguments in your CLI application"],
 "ev3dev/grx":[21,6878323,"GRX 3 Graphics Library"],
 "externalist/exploit_playground":[616,7565666,"Analysis of public exploits or my 1day exploits"],
-"facebookresearch/nevergrad":[4207,16943930,"A Python toolbox for performing gradient-free optimization"],
+"facebookresearch/nevergrad":[4208,16943930,"A Python toolbox for performing gradient-free optimization"],
 "fakoua/SwissKnife":[11,2089210,"Deno Swiss Knife tools"],
 "feross/buffer":[1891,121766,"The buffer module from node.js, for the browser."],
 "flibustier/jwt-online-cracker":[21,9994935,"Brute-force a JWT HS256, HS384 or HS512 from your browser (online)"],

@@ -296,7 +296,7 @@
 "jclem/gifify":[1139,412282,"gifify turns movies into gifs."],
 "jcwang123/FedLC":[50,37990976,"[ECCV 2022] Personalizing Federated Medical Image Segmentation"],
 "jellyfin/jellyfin":[57498,45698031,"The Free Software Media System - Server Backend & API"],
-"jeonsworld/ViT-pytorch":[2160,37530102,"Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)"],
+"jeonsworld/ViT-pytorch":[2161,37530102,"Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)"],
 "jghauser/auto-pandoc.nvim":[41,10319377,"Use pandoc to convert markdown files according to options from a yaml block"],
 "jgrss/cultionet":[33,6633570,"Image segmentation of cultivated land"],
 "jiahaolu97/anything-unsegmentable":[29,38347064,"(CVPR 2024) \"Unsegment Anything by Simulating Deformation\""],

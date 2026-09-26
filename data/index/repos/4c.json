@@ -175,7 +175,7 @@
 "cjodo/convert.nvim":[57,126993260,"A Neovim plugin to help with css unit, and number conversions."],
 "climate-cooperative/home-energy-assessment-database":[3,150552955,"Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools."],
 "clj-commons/pretty":[624,44632579,"Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions"],
-"cnclabs/smore":[375,4588695,"SMORe: Modularize Graph Embedding for Recommendation"],
+"cnclabs/smore":[374,4588695,"SMORe: Modularize Graph Embedding for Recommendation"],
 "cnizzardini/cakephp-preloader":[12,171294,"An OPCache Preloader for CakePHP 4 and 5 applications"],
 "coldnew/linum-relative":[171,39703,"display relative line number in the left margin in emacs"],
 "coleam00/Archon":[23503,47287758,"The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."],

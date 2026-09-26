@@ -127,7 +127,7 @@
 "Yukin02/Dwm-Overlay":[139,181607796,"DWM Overlay without write .text"],
 "Yuras/pdf-toolbox":[184,692251,"A collection of tools for processing PDF files in Haskell"],
 "abhay-byte/mkm":[147,64067372,"Minimal Android kernel management and system monitoring application"],
-"abo-abo/hydra":[1941,2937359,"make Emacs bindings that stick around"],
+"abo-abo/hydra":[1943,2937359,"make Emacs bindings that stick around"],
 "abonander/img_hash":[338,3198595,"A Rust library for calculating perceptual hash values of images"],
 "acruzgarcia/OMIEData":[38,36373644,"Python package to import data from OMIE (Iberian Peninsula's Electricity Market Operator): https://www.omie.es/"],
 "actions/container-toolkit-action":[165,44036562,"Template repo for creating container actions using https://github.com/actions/toolkit/"],

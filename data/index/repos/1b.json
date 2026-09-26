@@ -65,7 +65,7 @@
 "LKremer/ggpointdensity":[453,15158974,":chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot."],
 "Lobos/react-ui":[1621,101764,"A collection of components for React, base on bootstrap 4.0. "],
 "LockonS/terminal-workload-report":[3,5363950,"A plugin for oh-my-zsh which calculate and display how many commands has been executed via terminal."],
-"MRPT/mvsim":[411,13395395,"Vehicle and mobile robotics simulator. C++ & Python API. Use it as a standalone application or via ROS 1 or ROS 2"],
+"MRPT/mvsim":[415,13395395,"Vehicle and mobile robotics simulator. C++ & Python API. Use it as a standalone application or via ROS 1 or ROS 2"],
 "Malte2036/flutter_linuxstats":[12,18309412,"A flutter application to monitor your Linux PC statistic."],
 "MartyTremblay/sip2mqtt":[45,780553,"A SIP monitoring script that publishes incoming calls with CallerID to an MQTT channel"],
 "MathiasPaulenko/wavexis-mcp":[1,36444344,"MCP server for browser automation — 220 tools for Chrome, Edge & Firefox via CDP + BiDi. 13 capability tiers, stealth mode, Lighthouse audits. No Node.js, no Chromium download. 100% Python."],

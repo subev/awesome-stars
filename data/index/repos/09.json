@@ -154,7 +154,7 @@
 "ahausladen/JsonDataObjects":[459,2139078,"JSON parser for Delphi 2009 and newer"],
 "ahgamut/rust-ape-example":[217,41098605,"A simple example with Rust and Cosmopolitan Libc"],
 "aisamanra/rust-haskell-ffi":[132,49535,"Toy example of calling Rust from Haskell"],
-"ajaxorg/ace":[27144,168515,"Ace (Ajax.org Cloud9 Editor)"],
+"ajaxorg/ace":[27143,168515,"Ace (Ajax.org Cloud9 Editor)"],
 "akasa828/SD_Card_OVID_Player":[2,233584564,"STM32F103 OVID player for SSD1306/SH1106 OLED with SPI Micro SD, FatFs file browsing, CRC-checked playback, and a VS Code/ST-Link workflow.                   基于 STM32F103 的 OVID 播放器，适配 SSD1306/SH1106 OLED，支持 SPI Micro SD、FatFs 文件浏览、CRC 播放校验，以及 VS Code + ST-Link 开发与调试流程。"],
 "alberthild/shieldapi-mcp":[1,3729342,"MCP server for ShieldAPI — URL scanning, breach detection, domain/IP reputation as AI agent tools. Pay-per-request via x402."],
 "alcat2008/react-native-loading":[10,4625875,"A lightweight loading for your React Native app."],

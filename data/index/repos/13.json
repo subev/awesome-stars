@@ -262,7 +262,7 @@
 "flow-storm/flow-storm-debugger":[861,147559607,"A debugger for Clojure and ClojureScript with some unique features."],
 "flowyroll/lodash.lua":[67,3702907,"lodash inspired library for lua"],
 "fly-lang/fly":[7,78164914,"The Fly programming language"],
-"fniessen/emacs-leuven-theme":[768,1748469,"This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #emacs #theme #coding #orgmode"],
+"fniessen/emacs-leuven-theme":[769,1748469,"This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #emacs #theme #coding #orgmode"],
 "frankrolf/git-for-type-designers":[92,2049645,""],
 "fukamachi/dexador":[437,90570,"A fast HTTP client for Common Lisp"],
 "gbif/ipt":[139,1963797,"GBIF Integrated Publishing Toolkit (IPT)"],

@@ -348,7 +348,7 @@
 "one-aalam/awesome-astro":[943,532906,"Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support."],
 "onlurking/awesome-infosec":[5752,10618352," A curated list of awesome infosec courses and training resources."],
 "opa334/TrollStore":[22189,18235760,"Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple"],
-"openai/gym":[37236,14957082,"A toolkit for developing and comparing reinforcement learning algorithms."],
+"openai/gym":[37235,14957082,"A toolkit for developing and comparing reinforcement learning algorithms."],
 "openfootball/schema.sql":[50,4477026,"football.db database schema (tables, views, etc.) scripts (in SQL) and documentation"],
 "openresty/lua-resty-limit-traffic":[854,7390180,"Lua library for limiting and controlling traffic in OpenResty/ngx_lua"],
 "openscenegraph/OpenSceneGraph":[3614,213099,"OpenSceneGraph git repository"],

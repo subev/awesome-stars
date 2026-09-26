@@ -441,7 +441,7 @@
 "shindyu/ApplyStyleKit":[210,3795662,"Elegant Apply Style by Swift Method Chain.🌙"],
 "shinyoshiaki/oculus-quest-remote-desktop":[41,16427740,"Remote desktop for Oculus Quest. Using Babylon.js , React and WebRTC"],
 "showlab/DatasetDM":[334,101181824,"[NeurIPS2023] DatasetDM:Synthesizing Data with Perception Annotations Using Diffusion Models"],
-"sindrets/diffview.nvim":[5820,2786478,"Single tabpage interface for easily cycling through diffs for all modified files for any git rev."],
+"sindrets/diffview.nvim":[5826,2786478,"Single tabpage interface for easily cycling through diffs for all modified files for any git rev."],
 "skedgo/tripgo-mcp-server":[5,1966293,"MCP server for TripGo's multi-modal routing"],
 "skysky97/Candb":[54,18086458,"Generate CAN dbc file with OEM defined CAN matrix (*.xls)."],
 "slack-ruby/slack-ruby-bot-server":[268,21144015,"A library that enables you to write a complete Slack bot service with Slack button integration, in Ruby."],

@@ -400,7 +400,7 @@
 "purcell/elisp-slime-nav":[159,5636,"Slime-style navigation of Emacs Lisp source with M-. & M-,"],
 "qurious-pixel/SMAS_Launcher":[54,62252937,""],
 "raadsr15/RL-5G-RAN-slicing":[4,183951239,"Reinforcement learning–based framework for dynamic 5G RAN network slicing. A PPO agent allocates radio resource blocks across eMBB, URLLC, and mMTC slices using SLA-aware rewards, evaluated via throughput, latency, queue stability, and SLA violation metrics."],
-"rainstormstudio/nerd-icons.el":[328,22017420,""],
+"rainstormstudio/nerd-icons.el":[329,22017420,""],
 "rasros/lx":[53,20238696,"CLI tool for bundling project files as LLM context."],
 "raystack/dagger":[280,4037263,"Dagger is an easy-to-use, configuration over code, cloud-native framework built on top of Apache Flink for stateful processing of real-time streaming data. "],
 "rdaly525/coreir":[106,14632648,""],

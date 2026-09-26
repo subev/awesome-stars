@@ -346,7 +346,7 @@
 "modio/modio-ue":[141,45281711,"Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers "],
 "monix/monix":[1929,16490874,"Asynchronous, Reactive Programming for Scala and Scala.js."],
 "monpeco/real_time_bn":[29,16638078,"Real-Time Bluetooth Networks - UTAustinX"],
-"mooz/js2-mode":[1336,40159,"Improved JavaScript editing mode for GNU Emacs"],
+"mooz/js2-mode":[1335,40159,"Improved JavaScript editing mode for GNU Emacs"],
 "moscajs/aedes":[1970,53509501,"Barebone MQTT broker that can run on any stream server, the node way"],
 "mosteo/rxada":[24,264377,"An Ada 2012 implementation of the Rx methodology"],
 "mrzhu-cool/pix2pix-pytorch":[445,24325370,"PyTorch implementation of \"Image-to-Image Translation Using Conditional Adversarial Networks\"."],

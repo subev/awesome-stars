@@ -314,7 +314,7 @@
 "jdesboeufs/connect-mongo":[1968,1231232,"MongoDB session store for Express"],
 "jiangzhengwenjz/totkol":[22,15051292,"WIP Decompilation of Tactics Ogre: The Knight of Lodis (USA)"],
 "jitwxs/163MusicLyrics":[4104,22422341,"云音乐歌词获取处理工具【网易云、QQ音乐】"],
-"joaotavora/eglot":[2562,387011,"A client for Language Server Protocol servers"],
+"joaotavora/eglot":[2561,387011,"A client for Language Server Protocol servers"],
 "joknarf/complete-ng":[7,10117818,"bash/zsh Tab completion nextgen"],
 "jpvantassel/swprocess":[122,32400448,"Python package for surface wave processing."],
 "jtaylortech/journalot":[100,56975935,"Minimal journaling CLI for developers. Git-backed, terminal-native, zero friction. Just type `journal` and start writing."],

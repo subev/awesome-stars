@@ -265,7 +265,7 @@
 "haf/Http.fs":[318,193115,"A simple, functional HTTP client library for F#"],
 "harish-io/Impressionist":[707,1227293,"Visual tool to create impress.js presentations"],
 "harshkumarkhatri/harshkumarkhatri":[91,42743629,""],
-"hasherezade/pe-bear":[3810,3115348,"Portable Executable reversing tool with a friendly GUI "],
+"hasherezade/pe-bear":[3820,3115348,"Portable Executable reversing tool with a friendly GUI "],
 "hasura/ndc-duckdb":[19,13966722,""],
 "henrythemes/jekyll-starter-theme":[29,17216374,"jekyll starter theme - minimial"],
 "herlesupreeth/FHoSS":[15,4115839,"Git clone of SVN repo at svn://svn.code.sf.net/p/openimscore/code/FHoSS/trunk but with added features"],

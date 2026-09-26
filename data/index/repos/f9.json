@@ -121,7 +121,7 @@
 "SkyFire/MopCore547":[2,32227,"World of Warcraft Mists of Pandaria 5.4.7 Most Playeble Source with Siedge of Orgrimmar! if you wanna help us - post new issue with request to invite you ! we need more people! feel free to help"],
 "Splode/pomotroid":[5518,13758438,":tomato: Simple and visually-pleasing Pomodoro timer"],
 "StylishThemes/GitHub-Blog-Dark":[9,6145677,"A dark style for the GitHub Blog"],
-"TOSUN-Shanghai/TSMaster":[431,69186233,"A powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on. It supports all kinds of mainstream hardware such as TOSUN, Vector, IXXAT, PEAK, Kvaser, Intrepidcs, ZLG, CANable, CandleLight, cantact and so on. Free for research and education purpose for some features."],
+"TOSUN-Shanghai/TSMaster":[433,69186233,"A powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on. It supports all kinds of mainstream hardware such as TOSUN, Vector, IXXAT, PEAK, Kvaser, Intrepidcs, ZLG, CANable, CandleLight, cantact and so on. Free for research and education purpose for some features."],
 "TarasKovalenko/EntityLengths.Generator":[8,2806803,"Source generator for EF Core entity length constants"],
 "TeamAmaze/AmazeFileManager":[6406,30984365,"Material design file manager for Android"],
 "Testura/Testura.Mutation":[106,24499374,"Mutation testing tool for C# .NET"],
@@ -304,7 +304,7 @@
 "jacklinquan/micropython-samtts":[9,36973354,"A Python port of Software Automatic Mouth Text-To-Speech program."],
 "jam1garner/arc-fuse":[3,8260240,"A fuse wrapper for Smash Ultimate's ARC filetype"],
 "jaydainn/CFBWidget":[6,37037667,"This project aims at displaying the latest scores of your favorite cfb team on your ios homescreen."],
-"jertel/elastalert2":[1133,16639611,"ElastAlert 2 is a continuation of the original yelp/elastalert project. Pull requests are appreciated!"],
+"jertel/elastalert2":[1134,16639611,"ElastAlert 2 is a continuation of the original yelp/elastalert project. Pull requests are appreciated!"],
 "jessevdk/go-flags":[2694,14469,"go command line option parser"],
 "jestjs/jest":[45465,103283236,"Delightful JavaScript Testing."],
 "jhelvy/splitKbCompare":[347,9012994,"An interactive tool for comparing layouts of different split mechanical keyboards"],
@@ -489,7 +489,7 @@
 "thgh/rollup-plugin-serve":[248,1109982,"Serve your rolled up bundle like webpack-dev-server"],
 "thinkst/canarytokens":[2165,13569025,"Canarytokens helps track activity and actions on your network"],
 "thoughtbot/Tropos":[1498,6183,"Weather and Forecasts for Humans"],
-"tikv/client-go":[362,41004122,"Go client for TiKV"],
+"tikv/client-go":[363,41004122,"Go client for TiKV"],
 "tinyvision-ai-inc/UPduino-v3.0":[365,49534624,"UPduino 3.0: new 4 layer layout, various other improvements"],
 "tkr-sh/advent-of-code-2025-nushell":[1,49250442,"Advent of code in pure nushell!"],
 "tohojo/xdp-paper":[154,396657,"Source text and experimental data for our paper describing XDP"],
@@ -530,5 +530,5 @@
 "z-shell/zsh-lsd":[19,93575852,"Zsh plugin replace GNU/ls with next generation Peltoche/lsd"],
 "zecoxao/pkgdec5":[19,1857828,"pkgdec from RedEyeX32 for the ps5 "],
 "ziyuwwang/DynaMixer":[30,68987383,""],
-"zvec-ai/zvec-studio":[109,254627891,"visual management tool for zvec"]
+"zvec-ai/zvec-studio":[111,254627891,"visual management tool for zvec"]
 }

@@ -262,7 +262,7 @@
 "google-deepmind/dm_robotics":[413,8596759,"Libraries, tools and tasks created and used at DeepMind Robotics."],
 "google/gumbo-parser":[5190,1342004,"An HTML5 parsing library in pure C99"],
 "gpedic/ecto_shortuuid":[31,779118,"Ecto type which adds support for ShortUUID in Ecto schemas"],
-"graspit-simulator/graspit":[219,15239784,"The GraspIt! simulator"],
+"graspit-simulator/graspit":[220,15239784,"The GraspIt! simulator"],
 "grote/Transportr":[1173,244947,"Free Public Transport Assistant without Ads or Tracking"],
 "gvalkov/micropython-esp8266-hmc5883l":[17,190997,"Micropython driver for the HMC5883l on the ESP8266"],
 "hamaluik/Luxe3D":[3,894782,"Experiments in 3D in Luxe"],

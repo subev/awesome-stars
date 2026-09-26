@@ -217,7 +217,7 @@
 "csyhuang/hn2016_falwa":[49,14957917,"Python library for computing Finite-Amplitude Local Wave Activity Diagnostics from climate data."],
 "curtisjamesholt/BY-GEN-public":[249,29793215,"Generative Modeling Toolkit for Blender"],
 "cyrus-/typy":[52,280638,"A fragmentary bidirectional type system as a Python library"],
-"dada-bots/dadaGP":[169,74745049,"Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language models like GPT2, TransformerXL, etc. "],
+"dada-bots/dadaGP":[171,74745049,"Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language models like GPT2, TransformerXL, etc. "],
 "dagrz/aws_pwn":[1224,1920318,"A collection of AWS penetration testing junk"],
 "danforthcenter/plantcv":[830,9678079,"Plant phenotyping with image analysis"],
 "davidde/git":[56,10991039,"Custom oh-my-zsh git plugin"],
@@ -509,5 +509,5 @@
 "yewzijian/3DFeatNet":[220,13637627,"3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration"],
 "yoichiro/vite-plugin-handlebars":[8,261787,"This is a plugin that provides convenient features for using Handlebars with Vite."],
 "zommuter/ama":[0,3686260,"Ask me anything!"],
-"zvec-ai/zvec-go":[30,254627891,"zvec go binding"]
+"zvec-ai/zvec-go":[32,254627891,"zvec go binding"]
 }

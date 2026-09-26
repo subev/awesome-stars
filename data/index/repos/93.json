@@ -196,7 +196,7 @@
 "dparis/phzr":[113,149485,"A ClojureScript wrapper for the Phaser HTML5 game framework"],
 "dragonman225/notablog":[682,25148955,"Tell stories of your work with Notion"],
 "driceroland/Search":[1773,74648512,"A small, fast WebKit browser for macOS, by Office Commun."],
-"driftregion/iso14229":[361,20824939,"ISO 14229 (UDS) server and client for embedded systems"],
+"driftregion/iso14229":[363,20824939,"ISO 14229 (UDS) server and client for embedded systems"],
 "dtschust/redux-bug-reporter":[676,210970,":bug: A bug reporter and bug playback tool for redux. :bug:"],
 "duetds/date-picker":[1720,59133187,"Duet Date Picker is an open source version of Duet Design System’s accessible date picker. Try live example at https://duetds.github.io/date-picker/"],
 "ecmwf/anemoi-core":[162,6368067,"Core packages for Anemoi."],

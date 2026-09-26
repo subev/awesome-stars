@@ -234,7 +234,7 @@
 "flashquartermaster/Cuke4AS3":[25,972366,"A BDD Cucumber wire protocol implementation for Flash ActionScript"],
 "franciscop/umbrella":[2346,2801252,":umbrella: Lightweight javascript library for DOM manipulation and events"],
 "fregu856/segmentation":[244,7135713,"TensorFlow implementation of ENet, trained on the Cityscapes dataset."],
-"frida/frida":[22037,4073090,"Main repo for hosting release binaries"],
+"frida/frida":[22040,4073090,"Main repo for hosting release binaries"],
 "gaasedelen/lighthouse":[2580,9522648,"A Coverage Explorer for Reverse Engineers"],
 "gamaze-labs/hicortex":[2,274078040,"Self-learning memory for AI agents — experience captured automatically, distilled into lessons overnight, shared across your whole fleet. Works with Hermes, OpenClaw, Claude Code, and Pi."],
 "garlic0x1/gitwatch":[1,43155857,"Monitor Github for commits and send notifications"],

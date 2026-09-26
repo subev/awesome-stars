@@ -137,7 +137,7 @@
 "anonhostpi/DBPF.js":[5,130698314,"A simple library for reading DBPF files in TypeScript/JavaScript from the browser and node"],
 "anschnapp/mutflow":[29,17565996,"Mutation testing inside your Kotlin tests. Compile once, catch gaps."],
 "antfu/awesome-cn-cafe-web":[105,11247099,"☕️ Web App for Awesome CN Café"],
-"apache/airflow":[46972,47359,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"],
+"apache/airflow":[46976,47359,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"],
 "apache/commons-exec":[163,47359,"Apache Commons Exec"],
 "apertium-lmf/Apertium-pt-gl.pt-gl-LMF":[0,8309547,"This is the LMF version of the Apertium bilingual ditionary for Portugues and Galician languages"],
 "apertium/apertium-es-gl":[1,4594256,"Apertium translation pair for Spanish and Galician"],

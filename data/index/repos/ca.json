@@ -12,7 +12,7 @@
 "BobbyAnguelov/FbxFormatConverter":[228,10767490,"FBX File Format Converter"],
 "CAU-HE/CMCDNet":[40,122869895,""],
 "CSSLint/csslint":[4813,7219403,"Automated linting of Cascading Stylesheets"],
-"Calamari-OCR/calamari":[1200,40763252,"Line based ATR Engine based on OCRopy"],
+"Calamari-OCR/calamari":[1199,40763252,"Line based ATR Engine based on OCRopy"],
 "Cap-go/capacitor-file":[5,97002524,"Capacitor plugin for file system operations. A modern replacement for cordova-plugin-file with a compatible API."],
 "Cap-go/capacitor-webview-guardian":[8,97002524,"Capacitor plugin to Detect when the WebView was killed in the background and relaunch it on foreground."],
 "Cap-go/live-update-action":[1,97002524,"GitHub Action to deploy a Capacitor Live Update to the Capgo Cloud."],

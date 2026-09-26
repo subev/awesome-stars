@@ -73,7 +73,7 @@
 "Lorenzooone/ShantaeText":[1,7537905,"Text Injecting and Extracting Software for Shantae on GBC."],
 "LowResourceLanguages/agtk":[0,11143138,"Import from https://sourceforge.net/p/agtk/code/HEAD/tree/"],
 "MVIG-SJTU/pointSIFT":[660,24424314,"a module for 3D semantic segmentation in point clouds."],
-"MagnusThome/RejsaCAN-ESP32":[799,32169384,"ESP32 and ESP32-S3 board with CAN interface, runs on 12V power (with auto shutdown)"],
+"MagnusThome/RejsaCAN-ESP32":[803,32169384,"ESP32 and ESP32-S3 board with CAN interface, runs on 12V power (with auto shutdown)"],
 "Makemytechnology/mmt-studio-5g6g":[10,230974717,"MMT Studio — 5G Core + Tester + Orchestration"],
 "MalGamy/YARA_Rules":[65,74544712,""],
 "MattCheramie/GopherTrunk":[144,1930795,"Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit."],

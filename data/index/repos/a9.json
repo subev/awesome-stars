@@ -232,7 +232,7 @@
 "duplicati/duplicati":[15027,8270231,"Store securely encrypted backups in the cloud!"],
 "dvlden/xk6-ethereum":[0,320753608,""],
 "eXist-db/exist":[470,2393489,"eXist Native XML Database and Application Platform"],
-"emacs-helm/helm":[3472,1541688,"Emacs incremental completion and selection narrowing framework"],
+"emacs-helm/helm":[3474,1541688,"Emacs incremental completion and selection narrowing framework"],
 "endatabas/endb":[280,119592324,"SQL document database with full history."],
 "endojs/endo":[1061,9937112,"Endo is a distributed secure JavaScript sandbox, based on SES"],
 "enmanuelmag/heimdall-mcp":[11,7991036,"Transparent MCP proxy with OpenTelemetry tracing. Wrap any MCP server and persist traces to SQLite, Postgres or MySQL."],
