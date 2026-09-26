@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.","defaultBranch":"master","topics":["pytorch","python","machine-learning","deep-learning","tutorials","papers","awesome","awesome-list","pytorch-tutorials","data-science"],"readmeSha":"80bb8e874261994b1961571ab432a917286fd60d"},
+"meta": {"description":"A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.","defaultBranch":"master","topics":["pytorch","python","machine-learning","deep-learning","tutorials","papers","awesome","awesome-list","pytorch-tutorials","data-science"],"readmeSha":"92cda690691817343811c5c71ece97f7ee914796"},
 "members": [
 "meta-pytorch/captum",
 "pytorch/text",
@@ -144,7 +144,7 @@
 "godardt/torchlite",
 "Schlumberger/joint-vae",
 "kengz/SLM-Lab",
-"BindsNET/bindsnet",
+"Hananel-Hazan/bindsnet",
 "pyg-team/pytorch_geometric",
 "knighton/torchplus",
 "zuoxingdong/lagom",
@@ -670,5 +670,8 @@
 "interesaaat/TorchSharp",
 "ml-tooling/ml-workspace",
 "IgorSusmelj/pytorch-styleguide"
+],
+"dropped": [
+["2026-09-26","BindsNET/bindsnet"]
 ]
 }

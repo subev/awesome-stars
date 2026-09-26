@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"03063344d18a9bc324d93c8bc153b14af9059322"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"3779cbd2babcec8e166966843aeb21b06a98c216"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -79,6 +79,7 @@
 "thomluther/ha-anker-solix",
 "sandialabs/pvcracks",
 "openclimatefix/pvnet",
+"open-energy-transition/earthpv",
 "TAMU-AML/DSWE-Package",
 "IEAWindSystems/IEA-15-240-RWT",
 "wind-python/windpowerlib",
@@ -789,6 +790,7 @@
 "holos-aafc/Holos",
 "Klimabevaegelsen/landbruget.dk",
 "ift-gftc/opentraceability",
+"un-fao/GLEAM",
 "NMF-earth/nmf-app",
 "energyPATHWAYS/EnergyPATHWAYS",
 "opentaps/blockchain-carbon-accounting",
@@ -2131,6 +2133,7 @@
 "ItziModel/itzi",
 "NHERI-SimCenter/pelicun",
 "GeoscienceAustralia/anuga_core",
+"google-research/flood-forecasting",
 "primap-community/primap2",
 "climatepolicyradar/methodology",
 "iiasa/message_ix",

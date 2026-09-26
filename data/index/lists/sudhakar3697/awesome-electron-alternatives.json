@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"fd12cf33910791c7c4ee27045eceeba69b8b7106"},
+"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"602bcc377b9ddafae55178d472b4ddc9e1ef6df1"},
 "members": [
 "Elanis/web-to-desktop-framework-comparison",
 "tealsnow/awesome-electron-alternatives",
@@ -8,6 +8,7 @@
 "chromelyapps/Chromely",
 "ABildstein/SpiderEye",
 "tryphotino/photino.NET",
+"ivanvoyager/PhotinoX",
 "integrativesoft/foton",
 "InfiniLore/InfiniFrame",
 "webview/webview",

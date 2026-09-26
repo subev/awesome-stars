@@ -1,5 +1,5 @@
 {
-"meta": {"description":"awesome llvm security [Welcome to PR]","defaultBranch":"main","topics":["llvm","ollvm","clang","obfuscate","security","msvc","windows","windowsdriver","driver","awesome"],"readmeSha":"53a17915d890d5eeb1670f1f24c0b0dd28e03785"},
+"meta": {"description":"awesome llvm security [Welcome to PR]","defaultBranch":"main","topics":["llvm","ollvm","clang","obfuscate","security","msvc","windows","windowsdriver","driver","awesome"],"readmeSha":"e821e97b01a75567998340d7db8cb38a905aa620"},
 "members": [
 "HyunCafe/contribute-practice",
 "openai/codex",
@@ -272,7 +272,6 @@
 "adorad/adorad",
 "jfecher/ante",
 "arcsysu/SYsU-lang",
-"skyzluo/CS143-Compilers-Stanford",
 "TinyCC/tinycc",
 "alekmaul/tcc",
 "rochus-keller/TccGen",
@@ -455,6 +454,7 @@
 "NewWorldComingSoon/UnknownField",
 "vaivaswatha/debugir",
 "grotius-cnc/Qt_LLVM_App",
+"manasghandat/LLVM-Lens",
 "mikeroyal/LLVM-Guide",
 "banach-space/llvm-tutor",
 "xiaoweiChen/Learn-LLVM-12",
@@ -491,5 +491,8 @@
 "GuoYaxiang/craftinginterpreters_zh",
 "tuoxie007/play_with_llvm",
 "mgaudet/CompilerJobs"
+],
+"dropped": [
+["2026-09-26","skyzluo/CS143-Compilers-Stanford"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"f9eb7fd2971bca3641774a0db20ac8726a0ce40c"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"55e17ebdd0c126efc81a7b187f530c791b06bd43"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -116,6 +116,7 @@
 "traccar/maplibre-google-maps",
 "geoblocks/ol-maplibre-layer",
 "protomaps/PMTiles",
+"devladpopov/s57-parser",
 "guillaumemichel/veritiles",
 "honua-io/honua-sdk-js",
 "mapbox/expression-jamsession",
@@ -132,6 +133,7 @@
 "tjdavey/geojson-map-fit-mercator",
 "mvt-proj/maplibre-legend",
 "bjperson/maplibre-gl-video-export",
+"amine-a11/mapbox-expr-lang",
 "mapbox/mapbox-gl-framerate",
 "MazeMap/mapbox-gl-fps",
 "maplibre/maplibre-gl-inspect",
@@ -166,6 +168,7 @@
 "britishlibrary/peripleo",
 "radical-data/queering-the-map",
 "uplbtools/room-tba",
+"benjddd/fable-build-day-tlv-2026",
 "wikimedia/apps-android-wikipedia",
 "utopia-os/utopia-map",
 "Jaza/expo-maplibre-native-plus-web-demo",

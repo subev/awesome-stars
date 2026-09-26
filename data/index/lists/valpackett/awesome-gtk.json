@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"2b9999990da4c81d77656338000f85b34ae9059b"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"cb0865ac07bd2911b7dc4cf41bceefbe17c2475c"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -95,8 +95,8 @@
 "trigg/Discover",
 "diamondburned/dissent",
 "paper-plane-developers/paper-plane",
-"elementary/mail",
 "hyprlab/hylki",
+"elementary/mail",
 "jdobonb/datafall",
 "gabutakut/gabutdm",
 "bleakgrey/Transporter",

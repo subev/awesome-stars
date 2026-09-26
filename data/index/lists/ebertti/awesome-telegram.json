@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"021cb325d684da3c80a7363966aa858f7c7f13f0"},
+"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"d864285f55b30278ad762a1b713caf8e0b9c12d1"},
 "members": [
 "sindresorhus/awesome",
 "aeonfun/aeon",
@@ -81,6 +81,7 @@
 "AnyTimeTraveler/telegram-menu-library",
 "rubenlagus/TelegramBots",
 "olosegres/telegramcode",
+"OasisPioneer/Telegram-Bot-API",
 "StefanoBelli/xxtelebot",
 "reo7sp/tgbot-cpp",
 "witnessmenow/Universal-Arduino-Telegram-Bot",

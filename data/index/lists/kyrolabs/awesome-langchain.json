@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"1a756521285249ba3f8cbabd45f4cbb760fe68fc"},
+"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"a6e181b93c7cfc8ef45a92f6b75bebb565d42090"},
 "members": [
 "langchain-ai/langchain",
 "langchain-ai/langchainjs",
@@ -32,6 +32,7 @@
 "langwatch/langwatch",
 "splx-ai/agentic-radar",
 "cvs-health/uqlm",
+"tenuo-ai/tenuo",
 "zylon-ai/private-gpt",
 "hpcaitech/ColossalAI",
 "crewAIInc/crewAI",
@@ -60,7 +61,8 @@
 "mem0ai/mem0",
 "traceloop/openllmetry",
 "future-agi/traceAI",
-"QuivrHQ/quivr",
+"pixeltable/pixeltable",
+"The-Vibe-Company/quivr",
 "arc53/DocsGPT",
 "gmpetrov/databerry",
 "Mintplex-Labs/anything-llm",
@@ -198,5 +200,8 @@
 "Hannibal046/Awesome-LLM",
 "shm007g/LLaMA-Cult-and-More",
 "ysymyth/awesome-language-agents"
+],
+"dropped": [
+["2026-09-26","QuivrHQ/quivr"]
 ]
 }

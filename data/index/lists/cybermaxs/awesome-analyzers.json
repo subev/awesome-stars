@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"0ef179e60f4d759418ffa5efacc091d66c6992d7"},
+"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"444f827d706e7fee1cd7184dbc8b3a2693d05aaa"},
 "members": [
 "DotNetAnalyzers/StyleCopAnalyzers",
 "Wintellect/Wintellect.Analyzers",
@@ -21,6 +21,7 @@
 "cezarypiatek/MultithreadingAnalyzer",
 "Maxofpower/DbContextThreadSafetyAnalyzer",
 "dotnet-project-file-analyzers/dotnet-project-file-analyzers",
+"dfederm/ReferenceTrimmer",
 "rjmurillo/moq.analyzers",
 "xunit/xunit.analyzers",
 "shuebner/ClosedTypeHierarchyDiagnosticSuppressor",

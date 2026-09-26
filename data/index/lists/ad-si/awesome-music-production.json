@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"3de4a43c0495e1eb346de2bafd3f23bab9f37d6d"},
+"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"251b2803dbf34ae00322ee80bdfb175f2f20a330"},
 "members": [
 "gridsound/daw",
 "kmatheussen/radium",

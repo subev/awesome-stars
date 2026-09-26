@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"d11ce7a582d9d3ad0402549e893b13cd4ceda072"},
+"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"60d6183fd3037d4737502f275a495815ff105251"},
 "members": [
 "lissy93/personal-security-checklist",
 "dani-garcia/vaultwarden",
@@ -43,6 +43,7 @@
 "duggytuxy/syswarden",
 "crazy-max/WindowsSpyBlocker",
 "hardentools/hardentools",
+"Raphire/Win11Debloat",
 "PaulSec/awesome-windows-domain-hardening",
 "fabacab/awesome-cybersecurity-blueteam",
 "alichtman/stronghold",

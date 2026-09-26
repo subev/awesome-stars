@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source workflow engines","defaultBranch":"master","topics":[],"readmeSha":"d75f6fecf33c085eed1393c210531eca9cbf79c9"},
+"meta": {"description":"A curated list of awesome open source workflow engines","defaultBranch":"master","topics":[],"readmeSha":"a22f489f9ee5d8c0f4b2c1b68ff9a8195a6cded7"},
 "members": [
 "activepieces/activepieces",
 "aiidateam/aiida-core",
@@ -29,6 +29,7 @@
 "DidactHQ/didact",
 "treasure-data/digdag",
 "apache/dolphinscheduler",
+"durable-workflow/workflow",
 "elsa-workflows/elsa-core",
 "j-easy/easy-rules",
 "materialsproject/fireworks",
@@ -46,7 +47,6 @@
 "thbar/kiba",
 "zenml-io/kitaru",
 "kubeflow/pipelines",
-"durable-workflow/workflow",
 "hooopo/petri_flow",
 "martian-lang/martian",
 "Netflix/metaflow",

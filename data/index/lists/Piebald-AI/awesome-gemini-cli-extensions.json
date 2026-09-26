@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"a1fb7bec261e3862bcade8917b055ec46c8bc7c1"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"7dc13d5933e058dd87a5ceb90d172123bd4d3cc5"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -14,7 +14,7 @@
 "automateyournetwork/GeminiCLI_ScreenShare_Extension",
 "automateyournetwork/pyATS_GeminiCLI_Extension",
 "Yamato-main/gemini-discord",
-"feder-cr/AIHawk",
+"feder-cr/invisible_playwright_mcp",
 "lusha-oss/lusha-mcp-plugin",
 "atxp-dev/atxp",
 "figma/figma-gemini-cli-extension",
@@ -28,6 +28,8 @@
 "runapi-ai/mcp",
 "Bevel-Software/Hexis",
 "cohesivity-org/cohesivity-plugin",
+"kyisaiah47/compound-gemini-extension",
+"minosin/gtdbrain-gemini-extension",
 "SurefireStudios/tldr",
 "thoreinstein/gemini-notifier",
 "MohamedAbdallah-14/unslop",
@@ -84,6 +86,10 @@
 "gemini-cli-extensions/bigquery-conversational-analytics",
 "gemini-cli-extensions/bigquery-data-analytics",
 "gemini-cli-extensions/knowledge-catalog",
-"gemini-cli-extensions/looker"
+"gemini-cli-extensions/looker",
+"minds-ai-co/minds-mcp"
+],
+"dropped": [
+["2026-09-26","feder-cr/AIHawk"]
 ]
 }

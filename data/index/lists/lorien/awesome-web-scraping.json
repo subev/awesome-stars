@@ -1,10 +1,11 @@
 {
-"meta": {"description":"List of libraries, tools and APIs for web scraping and data processing.","defaultBranch":"master","topics":["web-scraping","captcha-bypass","captcha-recaptcha","crawling","crawling-framework","crawling-python","crawling-tool","scraping","scraping-framework","scraping-python"],"readmeSha":"cbf76386a5b33a4bb9957bfa82a38b21c3406d77"},
+"meta": {"description":"List of libraries, tools and APIs for web scraping and data processing.","defaultBranch":"master","topics":["web-scraping","captcha-bypass","captcha-recaptcha","crawling","crawling-framework","crawling-python","crawling-tool","scraping","scraping-framework","scraping-python"],"readmeSha":"87fdc156f1ed994e4eedd79640c75954d81d0bf9"},
 "members": [
 "lorien/awesome-web-scraping",
 "dhamaniasad/HeadlessBrowsers",
 "curl/curl",
 "lorien/awesome-pastebins",
+"anderspitman/awesome-tunneling",
 "vinta/awesome-python",
 "ziadoz/awesome-php",
 "markets/awesome-ruby",

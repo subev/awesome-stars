@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"1c7737b862d0269ff165074f1cff352768f33496"},
+"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"95989f34ef12ee7677a098627d98a50335251088"},
 "members": [
 "sindresorhus/awesome",
 "athityakumar/colorls",
@@ -672,7 +672,7 @@
 "schooldanlp6/marstui-rustio",
 "dschep/ntfy",
 "AnirudhG07/ntfyme",
-"drakvyn/oswriter",
+"cyber-drak/oswriter",
 "plp13/qman",
 "docsion/rfsh",
 "sysid/rs-env",
@@ -1823,6 +1823,7 @@
 ["2026-09-19","BranBushes/veld-fm"],
 ["2026-09-19","Feromond/budget_tracker_tui"],
 ["2026-09-19","devmegablaster/bashform"],
-["2026-09-19","remvze-org/lowfi"]
+["2026-09-19","remvze-org/lowfi"],
+["2026-09-26","drakvyn/oswriter"]
 ]
 }

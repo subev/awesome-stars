@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"322043d13519f403ccda4f9aea31d4b5d9e6908c"},
+"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"324a32db766a8ea36d3fca3fc6ab94ff5986b587"},
 "members": [
 "promptfoo/promptfoo",
 "promptslab/Promptify",
@@ -133,11 +133,13 @@
 "Orchestra-Research/AI-Research-SKILLs",
 "WecoAI/aideml",
 "aiming-lab/AutoResearchClaw",
+"OpenLAIR/dr-claw",
 "OpenRaiser/NanoResearch",
 "kaust-ark/ARK",
 "wanshuiyin/Auto-claude-code-research-in-sleep",
 "skyllwt/AutoSci",
 "Sibyl-Research-Team/AutoResearch-SibylSystem",
+"wjc2830/Easy-AutoResearch-for-DeepLearning",
 "eimenhmdt/autoresearcher",
 "hyperspaceai/agi",
 "Human-Agent-Society/CORAL",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🧇 A curated list of awesome JavaScript data grid and spreadsheet libraries","defaultBranch":"main","topics":["javascript","react","vue","vuejs","angular","angularjs","typescript","nextjs","grid","spreadsheet"],"readmeSha":"dc1b163f662e784c5d66d0594b84f03e717f224f"},
+"meta": {"description":"🧇 A curated list of awesome JavaScript data grid and spreadsheet libraries","defaultBranch":"main","topics":["javascript","react","vue","vuejs","angular","angularjs","typescript","nextjs","grid","spreadsheet"],"readmeSha":"5a935e063dc92083c19d7a1f6c75beac543017b2"},
 "members": [
 "sindresorhus/awesome",
 "bw-ui/bw-datatable",

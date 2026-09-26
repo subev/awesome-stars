@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of open-source quantum software projects.","defaultBranch":"master","topics":["quantum-computing","quantum-algorithms","quantum-chemistry","quantum-computer-simulator","quantum-annealing","quantum-programming-language","compilers","quantum-compiler","quantum-computer","quantum-circuits"],"readmeSha":"042c09f431e7f5708598e29f03b06eb8e640221b"},
+"meta": {"description":"Curated list of open-source quantum software projects.","defaultBranch":"master","topics":["quantum-computing","quantum-algorithms","quantum-chemistry","quantum-computer-simulator","quantum-annealing","quantum-programming-language","compilers","quantum-compiler","quantum-computer","quantum-circuits"],"readmeSha":"31d7838787799ba611ef8f6c96964ffa190682a9"},
 "members": [
 "desireevl/awesome-quantum-computing",
 "avalon-lang/avaloni",
@@ -24,6 +24,7 @@
 "artificial-brain/quantumcat",
 "qiboteam/qibo",
 "eclipse-qrisp/Qrisp",
+"official-dvl/zksf",
 "quantumos-org/quantum-os",
 "XanaduAI/strawberryfields",
 "sandbox-quantum/Tangelo",
@@ -58,7 +59,7 @@
 "gwroblew/Quantum-Computing-Playground",
 "Quantum-Flytrap/quantum-tensors",
 "benoitseron/BosonSampling.jl",
-"BBN-Q/Cliffords.jl",
+"QuantumSavory/QuantumClifford.jl",
 "HaeffnerLab/IonSim.jl",
 "NonequilibriumDynamics/KadanoffBaym.jl",
 "nicolasloizeau/PauliStrings.jl",
@@ -184,6 +185,8 @@
 "qucontrol/krotov",
 "baidu/Quanlse",
 "NeuralDreamResearch/DigitalSoul",
+"official-dvl/pennylane-zksf",
+"official-dvl/qiskit-zksf",
 "scikit-quant/scikit-quant",
 "quantumlib/tesseract-decoder",
 "esabo/CodingTheory",
@@ -252,6 +255,7 @@
 "QUARK-framework/QUARK",
 "Qyusu/qxmt",
 "vprusso/toqito",
+"official-dvl/zksf-zcc-verify",
 "zxcalc/zxlive",
 "eperrier/QDataSet",
 "quprep/quprep",
@@ -281,5 +285,8 @@
 "dwavesystems/dwave_sapi_dimod",
 "jeffwass/Squankum",
 "Spooky-Manufacturing/8Q"
+],
+"dropped": [
+["2026-09-26","BBN-Q/Cliffords.jl"]
 ]
 }

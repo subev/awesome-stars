@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A ready-to-use curated list of Spectral Indices for Remote Sensing applications.","defaultBranch":"main","topics":["python","gis","raster","remote-sensing","satellite-imagery","google-earth-engine","earth-engine","geographic-information-systems","javascript","awesome"],"readmeSha":"cbe6ab3e2244835f2afadc5b5ef7274dab8e5fba"},
+"meta": {"description":"A ready-to-use curated list of Spectral Indices for Remote Sensing applications.","defaultBranch":"main","topics":["python","gis","raster","remote-sensing","satellite-imagery","google-earth-engine","earth-engine","geographic-information-systems","javascript","awesome"],"readmeSha":"cee900d9b0e4f9bef07879ffbf4f5139e9a9544f"},
 "members": [
 "sindresorhus/awesome",
 "psf/black",
