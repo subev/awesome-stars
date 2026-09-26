@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"62af89d5e2d95c565e23927923f2ef0244b7fe34"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"658c176e824ce9959d3332b40d7b9e6ff24a8927"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -52,6 +52,7 @@
 "datacharter/datacharter",
 "paulmupeters/pondview-bi",
 "tobilg/duckdb-api",
+"bejaouibechir/Hydra",
 "narwhals-dev/narwhals",
 "eakmanrq/sqlframe",
 "fugue-project/fugue",
@@ -61,7 +62,7 @@
 "kraina-ai/quackosm",
 "DataZooDE/flapi",
 "deepseek-ai/smallpond",
-"BemiHQ/BemiDB",
+"pgstack-io/BemiDB",
 "starlake-ai/jsqltranspiler",
 "dkioroglou/omilayers",
 "TraberSoftware/Unleasharp.DB.DuckDB",
@@ -92,6 +93,9 @@
 "uwegeercken/datagenerator2",
 "xtrustinfo/overture-places-ua",
 "Ddscully/dlt-dbt-duckdb-evidence",
+"SixSentences/sixsentences",
+"ChelseaKR/gtfs-scorecard",
+"sarthakagrawal927/ph-catalog",
 "duckdb/dbt-duckdb",
 "turbolytics/sql-flow",
 "nextflow-io/nf-sqldb",
@@ -111,6 +115,8 @@
 "sonhn85/DuckDBExcelAddin",
 "bruin-data/bruin",
 "bruin-data/ingestr",
+"panodata/omniload",
+"rbmuller/scherlok",
 "apecloud/myduckserver",
 "paradedb/pg_analytics",
 "duckdb/pg_duckdb",
@@ -119,6 +125,7 @@
 "TFMV/porter",
 "Snowflake-Labs/pg_lake",
 "alibaba/AliSQL",
+"villagesql/vsql-duckdb",
 "duckdb/arrow",
 "duckdb/duckdb-avro",
 "duckdb/duckdb-aws",
@@ -176,5 +183,8 @@
 "habedi/template-duckdb-extension-zig",
 "firetiger-oss/go-duckfs",
 "mehd-io/duckdb-extension-radar"
+],
+"dropped": [
+["2026-09-26","BemiHQ/BemiDB"]
 ]
 }

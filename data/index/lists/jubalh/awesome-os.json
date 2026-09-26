@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"dde5b610222a55e005453733339bb9643dec3e04"},
+"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"842fcfa96a0f57ea08a152953b7b09bd6d604f40"},
 "members": [
 "PauloMigAlmeida/AlmeidaOS",
 "frednora/gramado",
@@ -14,6 +14,7 @@
 "CorruptedByCPU/Cyjon",
 "CorruptedByCPU/Fern-Night",
 "DragonOS-Community/DragonOS",
+"amnottdevv/Equinox-os",
 "sasdallas/Ethereal",
 "xt-sys/exectos",
 "mikaku/Fiwix",

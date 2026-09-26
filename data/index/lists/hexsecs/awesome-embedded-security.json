@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of embedded security tools and resources: firmware analysis, reverse engineering, hardware hacking, IoT security, fuzzing, secure boot, side-channel analysis, and SDR.","defaultBranch":"main","topics":["awesome","awesome-list","embedded","embedded-security","security","security-tools"],"readmeSha":"af7f6c60cf2bf14f8bf8c08d9390ca11d4e9697e"},
+"meta": {"description":"Curated list of embedded security tools and resources: firmware analysis, reverse engineering, hardware hacking, IoT security, fuzzing, secure boot, side-channel analysis, and SDR.","defaultBranch":"main","topics":["awesome","awesome-list","embedded","embedded-security","security","security-tools"],"readmeSha":"9b761101bd64deb6d2c65d9e2c721f68f79fa4cc"},
 "members": [
 "projectbtle/argXtract",
 "ReFirmLabs/binwalk",
@@ -50,6 +50,7 @@
 "de4dot/de4dot",
 "dnSpyEx/dnSpy",
 "icsharpcode/ILSpy",
+"infinition/Bjorn",
 "cruise-automation/fwanalyzer",
 "OWASP/IoTGoat",
 "a13xp0p0v/kernel-hardening-checker",
@@ -101,6 +102,7 @@
 "pr0me/SAFIREFUZZ",
 "MCUSec/microAFL",
 "MCUSec/uEmu",
+"LxveAce/cyber-controller",
 "geo-tp/ESP32-Bit-Pirate",
 "tigard-tools/tigard",
 "cyphunk/JTAGenum",

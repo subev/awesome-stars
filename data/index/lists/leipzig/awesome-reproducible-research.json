@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"6f5992e15a4901d866f71ae9fe6b28b700872e6d"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"cf113f6572576fdadeb87cdc8b130130f7d5eee4"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -18,6 +18,7 @@
 "JimmyXtesla/BILN",
 "lennart-rth/server-spy",
 "Continuum-AI-Corp/OrcaReplay",
+"Continuum-AI-Corp/OrcaPromptVault",
 "wedo911/citeguard",
 "heidihelena/citevahti",
 "RetrogradeLabs/lune-mcp-server",

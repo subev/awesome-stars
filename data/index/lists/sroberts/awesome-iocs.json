@@ -1,19 +1,19 @@
 {
-"meta": {"description":"A collection of sources of indicators of compromise.","defaultBranch":"master","topics":["awesome","awesome-list","ioc","signature","yara-rules"],"readmeSha":"e58350d8c76059db8f9b7e6d3daa6228ec8b19c7"},
+"meta": {"description":"A collection of sources of indicators of compromise.","defaultBranch":"master","topics":["awesome","awesome-list","ioc","signature","yara-rules"],"readmeSha":"1c839cfe4148a464f90eb1d1e925bcee8995d734"},
 "members": [
 "sindresorhus/awesome",
 "0x27/linux.mirai",
 "Neo23x0/signature-base",
+"PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information",
 "aptnotes/data",
 "botherder/targetedthreats",
 "citizenlab/malware-indicators",
 "eset/malware-ioc",
-"mandiant/iocs",
 "jasonmiacono/IOCs",
-"thirdeyeintelligence/IOCs-in-CSV-format",
+"mandiant/iocs",
 "nshc-threatrecon/IoC-List",
-"pan-unit42/iocs",
 "swisscom/detections",
+"thirdeyeintelligence/IOCs-in-CSV-format",
 "kingtuna/Signatures",
 "0pc0deFR/YaraRules",
 "InQuest/yara-rules",
@@ -24,13 +24,16 @@
 "kevthehermit/YaraRules",
 "reversinglabs/reversinglabs-yara-rules",
 "x64dbg/yarasigs",
+"Neo23x0/yarGen",
+"YahooArchive/PyIOCe",
+"mandiant/ioc_writer",
+"ninoseki/mitaka",
 "pedramamini/ThreatIngestor",
 "pedramamini/iocextract",
-"Neo23x0/yarGen",
-"mandiant/ioc_writer",
-"YahooArchive/PyIOCe",
-"ninoseki/mitaka",
 "MISP/misp-rfc",
 "fireeye/OpenIOC_1.1"
+],
+"dropped": [
+["2026-09-26","pan-unit42/iocs"]
 ]
 }

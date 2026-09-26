@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"883d257748ff59c77691d85941285f883fc30f99"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"ef99a881957ba3d86b3e22d1c2d6809afa867299"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",
@@ -12,8 +12,10 @@
 "EthicalML/awesome-production-machine-learning",
 "capeprivacy/cape-dataframes",
 "Myr-Aya/darr-deployer-ai-risk-register",
+"michalszymanski-ai/ai-regulation-deadlines",
 "OpenEthicsAI/OEDP",
 "OpenEthicsAI/OEL",
+"Continuum-AI-Corp/Orca-AI-Incident-Archive",
 "OrchardHarmonics/orchard-kit",
 "moxno/privacyscrubber-mcp",
 "nelsambrose/ISO-42001-Visual-Library"

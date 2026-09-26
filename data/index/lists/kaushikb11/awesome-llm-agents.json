@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"56c40d89b751c11d9c2887a9e7a0a1845cc3f96e"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"aac6e51586c0976e52fa28f62ca435a5336bf98a"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -17,8 +17,8 @@
 "the-open-agent/openagent",
 "ag2ai/ag2",
 "Josh-XT/AGiXT",
-"trpc-group/trpc-agent-go",
 "rlaope/oh-my-hermes",
+"trpc-group/trpc-agent-go",
 "openonion/connectonion",
 "razzant/ouroboros",
 "wanxingai/LightAgent",
@@ -58,8 +58,8 @@
 "clawfleet/ClawFleet",
 "daxaur/openpaw",
 "oxgeneral/ORCH",
-"5dive-ai/5dive",
 "HCF-STUDIOS/openhermit",
+"5dive-ai/5dive",
 "AutoResearch-Factory/Agon",
 "sagiyaacoby/TeamHero",
 "CelaenoIndustry/OpenSepia",

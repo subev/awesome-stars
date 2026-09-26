@@ -1,10 +1,11 @@
 {
-"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"5857d6e602be809239906f1b342a1670d0623510"},
+"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"6307900db8a39d0c33cecb82035b48615d5d0937"},
 "members": [
 "Danielskry/Awesome-RAG-Agent-Plugin",
 "Danielskry/LangChain-Chroma-RAG-demo-2024",
 "NirDiamant/RAG_Techniques",
 "ather-techie/rag-interview-system",
+"milvus-io/bootcamp",
 "Ayanami0730/arag",
 "microsoft/graphrag",
 "vitali87/code-graph-rag",
@@ -30,6 +31,7 @@
 "mlfoundations/open_clip",
 "ekimetrics/adaptive-chunking",
 "GoogleCloudPlatform/generative-ai",
+"nokia-applied-research/AnyJev",
 "langfuse/langfuse",
 "comet-ml/opik",
 "onestardao/WFGY",
@@ -38,7 +40,7 @@
 "chroma-core/chroma",
 "milvus-io/milvus",
 "pgvector/pgvector",
-"Intelligent-Internet/II-42",
+"Intelligent-Internet/Evoke",
 "neo4j/neo4j",
 "surrealdb/surrealdb",
 "weaviate/weaviate",
@@ -46,6 +48,7 @@
 ],
 "dropped": [
 ["2026-09-19","truefoundry/cognita"],
-["2026-09-19","Intelligent-Internet/psql_bm25s"]
+["2026-09-19","Intelligent-Internet/psql_bm25s"],
+["2026-09-26","Intelligent-Internet/II-42"]
 ]
 }

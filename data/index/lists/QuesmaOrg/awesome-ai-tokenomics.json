@@ -1,6 +1,7 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"b131cab4a3534f26e2e50468b9270d5c89d6df62"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"da60454121483f599a8632eae3292079e15625ce"},
 "members": [
+"antiburn/antiburn",
 "ccusage/ccusage",
 "Maciek-roboblog/Claude-Code-Usage-Monitor",
 "phuryn/claude-usage",
@@ -30,6 +31,7 @@
 "microsoft/LLMLingua",
 "fkiene/llmtrim",
 "rtk-ai/rtk",
+"edouard-claude/snip",
 "toon-format/toon",
 "openai/codex",
 "yamadashy/repomix",
@@ -72,6 +74,7 @@
 "NVIDIA/TensorRT-LLM",
 "vllm-project/vllm",
 "withcoral/coral",
+"OptimNow/cloud-finops-skills",
 "eunomia-bpf/ActPlane",
 "Justin0504/Aegis",
 "facebook/mcpguard-dynamic",
@@ -86,6 +89,7 @@
 "RouteWorks/RouterArena",
 "SWE-bench/SWE-bench",
 "alumet-dev/alumet",
+"gwittebolle/claude-carbon",
 "mlco2/codecarbon",
 "mlco2/ecologits",
 "Piebald-AI/claude-code-system-prompts",

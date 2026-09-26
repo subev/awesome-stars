@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"96d6b958eb1085517ed6ac6fb55cffd267eed53b"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"bdc15766f2588ea89158294e3c6bcd5890b26a06"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -27,6 +27,7 @@
 "arach/Termini",
 "prime-radiant-inc/ts-libghostty",
 "neurosnap/zmx",
+"rambocode/aster",
 "jossephus/chuchu",
 "mahdiarfrm/conterm",
 "hualet/deepin-terminal-ghostty",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"303c7391d019c79bfa1b9d963e315773493b72c8"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"ba45dd3254f1b23e71a18d9d31c2f553e58c4cad"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -144,8 +144,8 @@
 "tomto66/Topiary-Beatz",
 "tomto66/Topiary-Riffz",
 "tomto66/Topiary-Presetz",
-"surge-synthesizer/tuning-workbench-synth",
 "vsicurella/SuperVirtualKeyboard",
+"surge-synthesizer/tuning-workbench-synth",
 "vsicurella/everytone-tuner",
 "vsicurella/ScaleStructureComponent",
 "ffAudio/foleys_gui_magic",

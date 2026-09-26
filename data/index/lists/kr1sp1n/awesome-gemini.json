@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things regarding the gemini protocol ecosystem.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-protocol"],"readmeSha":"289ede0d03d582979075e68083db978bfb8ac00c"},
+"meta": {"description":"A collection of awesome things regarding the gemini protocol ecosystem.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-protocol"],"readmeSha":"f25d9ec244bf85fa23ab08a586453bda6ff5ef67"},
 "members": [
 "makew0rld/amfora",
 "blmayer/ereandel",
@@ -79,6 +79,7 @@
 "jackdoe/net-gemini",
 "jahzielv/titan",
 "panicbit/twinstar",
+"wallawood/wallawood",
 "gemrest/windmark",
 "marek22k/StaticGeminiServer",
 "ambyshframber/kepler",
@@ -92,6 +93,7 @@
 "YGGverse/titanit",
 "YGGverse/Pulsar",
 "YGGverse/btracker-gemini",
+"alexwennerberg/flounder",
 "marty1885/tlgs",
 "kvazar-network/geminiapp",
 "zzo38/scorpion",

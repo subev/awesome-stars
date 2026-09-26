@@ -1,15 +1,15 @@
 {
-"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"0fb8cb989780d8155d37b7ce56226bb8fc758b06"},
+"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"38ca0166b82d946c53b0d0c43b4d93574e56e0da"},
 "members": [
 "wenhwu/awesome-remote-sensing-change-detection",
 "chickenbestlover/awesome-scene-change-detections",
 "MinZHANG-WHU/Change-Detection-Review",
+"Henryeh310101/towards-practical-scene-change-detection",
 "Chumsy0725/3DGS-Uncertainty",
 "AutoCompSysLab/C3-Bench",
 "almogfri/GOLDILOCS",
 "Chumsy0725/GS-DIFF",
-"ai4ce/LangSCD",
-"HaitianWang/IEEE-Sensor-Journal-Changing-Detection",
+"ai4ce/SCD4VPR",
 "Chumsy0725/O-SCD",
 "WZ-CS/VGGT-CD",
 "AutoCompSysLab/TERDNet",
@@ -41,5 +41,9 @@
 "leonardoaraujosantos/ChangeNet",
 "ethz-asl/change_detection_ds",
 "Viky397/TorWICDataset"
+],
+"dropped": [
+["2026-09-26","ai4ce/LangSCD"],
+["2026-09-26","HaitianWang/IEEE-Sensor-Journal-Changing-Detection"]
 ]
 }

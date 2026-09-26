@@ -1,5 +1,5 @@
 {
-"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"500f06b274e1d4ae7e7d8bec3e62e4d5ad578267"},
+"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"bae41e76e8169bc1ee37a8c45617ac8e7c0372d1"},
 "members": [
 "hanjuku-kaso/awesome-offline-rl",
 "seohongpark/HILP",
