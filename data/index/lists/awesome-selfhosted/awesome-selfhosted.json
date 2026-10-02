@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"5849a9b003dc4f0460b54ddb06221950f2bf0269"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"3bcb36726299a1196f607ede3e4d3040d76b24d1"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -29,7 +29,7 @@
 "getredash/redash",
 "rybbit-io/rybbit",
 "taleshape-com/shaper",
-"socioboard/Socioboard-5.0",
+"Socioboard-developers/Socioboard-5.0",
 "robiningelbrecht/statistics-for-strava",
 "apache/superset",
 "Swetrix/selfhosting",
@@ -122,6 +122,8 @@
 "jeremyckahn/chitchatter",
 "balzack/databag",
 "element-hq/element-web",
+"fluxerapp/fluxer",
+"awesome-fluxer/awesome-fluxer",
 "globaleaks/globaleaks-whistleblowing-software",
 "gotify/server",
 "gotify/android",
@@ -133,6 +135,8 @@
 "binwiederhier/ntfy",
 "binwiederhier/ntfy-android",
 "onetimesecret/onetimesecret",
+"rmyndharis/OpenWA",
+"rmyndharis/OpenWA-plugins",
 "Luzifer/ots",
 "pushbits/server",
 "RetroShare/RetroShare",
@@ -310,6 +314,7 @@
 "dbeaver/cloudbeaver",
 "LaWebcapsule/d9",
 "securitybunker/databunker",
+"datannur/datannur",
 "simonw/datasette",
 "evidence-dev/evidence",
 "libredb/libredb-studio",
@@ -1141,6 +1146,7 @@
 ["2026-09-18","toeverything/AFFiNE"],
 ["2026-09-18","reactive-resume/app"],
 ["2026-09-25","danny-avila/LibreChat"],
-["2026-09-25","GauthierNelkinsky/ShipShipShip"]
+["2026-09-25","GauthierNelkinsky/ShipShipShip"],
+["2026-10-02","socioboard/Socioboard-5.0"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome LÖVE libraries, resources and shiny things.","defaultBranch":"master","topics":["lua","love2d","awesome-list","game-development","awesome"],"readmeSha":"f513fb88a4e10972de28fd85ec6c133f7b8bacea"},
+"meta": {"description":"A curated list of amazingly awesome LÖVE libraries, resources and shiny things.","defaultBranch":"master","topics":["lua","love2d","awesome-list","game-development","awesome"],"readmeSha":"c5d83637a827d9ef5b4a1cffcd3d4fc41823cba7"},
 "members": [
 "sindresorhus/awesome",
 "3dreamengine/3DreamEngine",
@@ -62,11 +62,12 @@
 "EngineerSmith/Runtime-TextureAtlas",
 "Oval-Tutu/shove",
 "JanWerder/soelar",
+"challacade/sunscreen",
 "globalcitizen/svglover",
 "sysl-dev/Sysl-Pixel",
 "arthurealike/turtle.lua",
 "JosephShering/adorbs",
-"Keyslam-Group/Concord",
+"Concord-Studio/Concord",
 "nidorx/ecs-lua",
 "BlackMATov/evolved.lua",
 "airstruck/knife",
@@ -262,5 +263,8 @@
 "LewisJEllis/awesome-lua",
 "pico-8/awesome-PICO-8",
 "bayandin/awesome-awesomeness"
+],
+"dropped": [
+["2026-10-02","Keyslam-Group/Concord"]
 ]
 }

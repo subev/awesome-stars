@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"d5abb83d846adf03af088aa2f563887778349365"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"263b7be8ad64279002aa9704189c7d92d6157b41"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -38,6 +38,7 @@
 "questdb/questdb",
 "chaos-genius/chaos_genius",
 "volkanalkilic/ThingsOn.MQTT.Bench",
+"keyp-dev/mqttkit",
 "reductstore/reductstore",
 "tphakala/birdnet-go",
 "yoelf22/electrum",

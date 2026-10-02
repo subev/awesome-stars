@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"f1c2486a6164c9968421e7b8f97720af85b53e79"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"d3c6c53bf8c4ee85a6f68e4c353b2bfda73549dc"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -97,6 +97,7 @@
 "balanced/rentmybikes-rails",
 "YaleSTC/reservations",
 "Retrospring/retrospring",
+"rex-9/rexone-core",
 "rubygems/rubygems.org",
 "kaznum/sanataro",
 "psu-libraries/scholarsphere",
@@ -215,6 +216,7 @@
 "subflag/sdk",
 "tidewave-ai/tidewave_rails",
 "spohlenz/tinymce-rails",
+"yashika279/transaction_guard",
 "transloadit/rails-sdk",
 "ankane/trove",
 "hotwired/turbo-rails",

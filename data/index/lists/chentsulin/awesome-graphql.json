@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"48a44ab99ce07f75eecf19eb1874651af778c3d3"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"a34eac69ba858e0e90a01c950f5dc2737b910143"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -140,7 +140,11 @@
 "profusion/sgqlc",
 "graphql-python/swapi-graphene",
 "graphql-java/graphql-java",
+"graphql-java/java-dataloader",
 "Netflix/dgs-framework",
+"microprofile/microprofile-graphql",
+"smallrye/smallrye-graphql",
+"micronaut-projects/micronaut-graphql",
 "graphql-java/graphql-java-type-generator",
 "bpatters/schemagen-graphql",
 "Enigmatis/graphql-java-annotations",
@@ -155,6 +159,7 @@
 "engagingspaces/vertx-dataloader",
 "leangen/graphql-spqr",
 "networknt/light-graphql-4j",
+"introproventures/graphql-jpa-query",
 "graphql-java/graphql-java-extended-validation",
 "setchy/dgs-extended-formatters",
 "tailrocks/graphql-java-datetime",

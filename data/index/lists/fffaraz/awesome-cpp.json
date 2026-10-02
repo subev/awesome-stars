@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"8f7addfb48d9232b739c2daacc14dfd2e569981f"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"f1abea3f4f6dd974ae920708786e4b4a0e52b466"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",
@@ -287,7 +287,7 @@
 "SouravRoy-ETL/slothdb",
 "SOCI/soci",
 "speedb-io/speedb",
-"getml/sqlgen",
+"munich-data-engineering/sqlgen",
 "SRombauts/SQLiteCpp",
 "SqliteModernCpp/sqlite_modern_cpp",
 "fnc12/sqlite_orm",
@@ -585,7 +585,6 @@
 "miracl/MIRACL",
 "dpilger26/NumCpp",
 "ashvardanian/NumKong",
-"orange-cpp/omath",
 "libtom/libtommath",
 "datenwolf/linmath.h",
 "OpenMathLib/OpenBLAS",
@@ -829,6 +828,7 @@
 "wfrest/wfrest",
 "boazsegev/facil.io",
 "lpereira/lwan",
+"machframework/mach",
 "oatpp/oatpp",
 "jlaine/qdjango",
 "treefrogframework/treefrog-framework",
@@ -1032,6 +1032,8 @@
 "r-lyeh/single_file_libs"
 ],
 "dropped": [
-["2026-09-04","eoan-ermine/cpp-conferences"]
+["2026-09-04","eoan-ermine/cpp-conferences"],
+["2026-10-02","getml/sqlgen"],
+["2026-10-02","orange-cpp/omath"]
 ]
 }

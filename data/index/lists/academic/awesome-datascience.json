@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"dd0cde98707467a3dfbbb81f8d40482a0a4e42f4"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"d53b856442bb5002766812ee677a0f542b862447"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -11,8 +11,13 @@
 "Agnuxo1/CAJAL",
 "future-agi/agent-learning-kit",
 "zenml-io/kitaru",
+"socai-io/jev-social",
+"yylo-dev/yylo-benchmark",
+"yylo-dev/yylo",
+"yylo-dev/yylo-ledger",
 "shantanu-deshmukh/chunktuner",
 "Intelligent-Internet/II-Commons-Skills",
+"sparkcpark/synthetic_hospital",
 "rfordatascience/tidytuesday",
 "jadianes/data-science-your-way",
 "kevinschaich/pyspark-cheatsheet",
@@ -152,6 +157,7 @@
 "jakevdp/PythonDataScienceHandbook",
 "benedekrozemberczki/shapley",
 "chaos-genius/chaos_genius",
+"selimfirat/pysad",
 "towhee-io/towhee",
 "LineaLabs/lineapy",
 "tensorchord/envd",
@@ -204,7 +210,9 @@
 "juanmoisesd/latamdata-py",
 "artakulov/us-water-quality-data",
 "erinheit451/verified-supplement-evidence",
+"npiwho/us-provider-payments",
 "whatfontis/WhatFontIs-Bench",
+"checkdutyrates/us-tariff-data",
 "bayandin/awesome-awesomeness",
 "josephmisiti/awesome-machine-learning",
 "jnv/lists",
@@ -233,6 +241,7 @@
 "veb-101/Data-Science-Projects",
 "PavelGrigoryevDS/awesome-data-analysis",
 "evidencesynthesis-tools/awesome-evidence-synthesis",
+"VascoSch92/awesome-python-math-packages",
 "ad-si/awesome-music-production"
 ],
 "dropped": [

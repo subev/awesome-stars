@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"12d4a9fd845da24ee5ac2eda8d19fba2cf28f2f0"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"0a3bc02e51dab674eb5f38a1999ffa893e41406f"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -170,6 +170,7 @@
 "rubocop/rails-style-guide",
 "betterspecs/betterspecs",
 "rubocop/ruby-style-guide",
+"rubyzip/rubyzip",
 "ruby-concurrency/concurrent-ruby",
 "eventmachine/eventmachine",
 "ahoward/forkoff",
@@ -430,6 +431,7 @@
 "ruby-gnome/ruby-gnome",
 "mvz/happymapper",
 "gjtorikian/html-pipeline",
+"flavorjones/loofah",
 "serpapi/nokolexbor",
 "ohler55/ox",
 "Empact/roxml",
@@ -536,13 +538,14 @@
 "SamSaffron/fast_blank",
 "fatkodima/fast_count",
 "kddnewton/fast_underscore",
+"ohler55/oj",
 "fatkodima/pluck_in_batches",
 "brianmario/yajl-ruby",
 "mongodb/mongoid",
 "NoBrainerORM/nobrainer",
 "soveran/ohm",
 "nateware/redis-objects",
-"rom-rb/rom",
+"hanakai-rb/rom",
 "jeremyevans/sequel",
 "westonganger/active_snapshot",
 "expectedbehavior/acts_as_archival",
@@ -605,6 +608,7 @@
 "prawnpdf/prawn",
 "shairontoledo/rghost",
 "claudiob/squid",
+"actsasflinn/typst-rb",
 "mileszs/wicked_pdf",
 "Instrumental/instrumental_agent-ruby",
 "newrelic/newrelic-ruby-agent",
@@ -731,6 +735,7 @@
 "thredded/thredded",
 "caxlsx/caxlsx",
 "randym/axlsx",
+"Paxa/fast_excel",
 "roo-rb/roo",
 "westonganger/spreadsheet_architect",
 "aasm/aasm",
@@ -865,6 +870,7 @@
 ],
 "dropped": [
 ["2026-09-11","ably/ably-ruby"],
-["2026-09-11","vifreefly/kimuraframework"]
+["2026-09-11","vifreefly/kimuraframework"],
+["2026-10-02","rom-rb/rom"]
 ]
 }

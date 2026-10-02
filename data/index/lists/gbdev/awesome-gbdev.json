@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.","defaultBranch":"master","topics":["gameboy","gameboy-emulator","documentation","retrogaming","nintendo","dmg","gameboy-color-emulator","resources","tools","awesome-list"],"readmeSha":"10e99508c2153cda53e47b97f3e554736bda46f3"},
+"meta": {"description":"A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.","defaultBranch":"master","topics":["gameboy","gameboy-emulator","documentation","retrogaming","nintendo","dmg","gameboy-color-emulator","resources","tools","awesome-list"],"readmeSha":"ceee40d1262565738e0cf65651312fdbe982ea09"},
 "members": [
 "sindresorhus/awesome",
 "gbadev-org/awesome-gbadev",

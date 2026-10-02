@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"cd19c3d9c4571d2b149e29f2b7e994e6fb27bd7c"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"896fad7252b59f25d87b401a2b9642ed1958a0c1"},
 "members": [
 "alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
@@ -12,6 +12,7 @@
 "wsdjeg/nvim-plug",
 "piersolenski/plugin-addict.nvim",
 "zuqini/zpack.nvim",
+"okram78/vahti.nvim",
 "batoaqaa/nvim-pio",
 "romus204/referencer.nvim",
 "Dan7h3x/signup.nvim",
@@ -822,7 +823,9 @@
 "paulburgess1357/nvim-mcp",
 "dpezto/chezmoi-template.nvim",
 "7KiLL/copybara.nvim",
+"justinhj/battery.nvim",
 "rifen/timescope",
+"ChrisGVE/docshelf.nvim",
 "VidocqH/data-viewer.nvim",
 "theKnightsOfRohan/csvlens.nvim",
 "YS-L/csvlens",
@@ -888,6 +891,7 @@
 "fschaal/azfunc.nvim",
 "evanmcpheron/rocketlog.nvim",
 "NickTsaizer/splitasm.nvim",
+"JarnDev/autodap.nvim",
 "kevinhwang91/nvim-bqf",
 "yorickpeterse/nvim-pqf",
 "ashfinal/qfview.nvim",
@@ -1103,6 +1107,7 @@
 "gorbit99/codewindow.nvim",
 "lewis6991/satellite.nvim",
 "wsdjeg/scrollbar.nvim",
+"mihovilrak/scroll.nvim",
 "DrKJeff16/boolean-toggle.nvim",
 "DrKJeff16/shebang.nvim",
 "nxhung2304/lastplace.nvim",
@@ -1213,7 +1218,7 @@
 "malbertzard/inline-fold.nvim",
 "netmute/foldchanged.nvim",
 "netmute/foldsigns.nvim",
-"markosnarinian/fold-logging.nvim",
+"markosnarinian/distill.nvim",
 "TheLazyCat00/simple-format",
 "mhartington/formatter.nvim",
 "sbdchd/neoformat",
@@ -1243,6 +1248,7 @@
 "gelguy/wilder.nvim",
 "vzze/cmdline.nvim",
 "juniorsundar/cling.nvim",
+"wurli/servery.nvim",
 "rmagatti/auto-session",
 "gennaro-tedesco/nvim-possession",
 "olimorris/persisted.nvim",
@@ -1421,6 +1427,7 @@
 ["2026-09-04","mikeboiko/nvim-flow"],
 ["2026-09-11","0xstepit/flow.nvim"],
 ["2026-09-11","mrjones2014/smart-splits.nvim"],
-["2026-09-25","mistweaverco/kulala.nvim"]
+["2026-09-25","mistweaverco/kulala.nvim"],
+["2026-10-02","markosnarinian/fold-logging.nvim"]
 ]
 }

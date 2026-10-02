@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"7bf8462325a5ecde3ad2e79b4602ea744606f3e0"},
+"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"3fc89ead2576e84432d11b27477ea7ccba5268b5"},
 "members": [
 "jsakamoto/awesome-blazor-browser",
 "dotnet/eShop",
@@ -54,6 +54,7 @@
 "davidfowl/TodoApp",
 "Jinjinov/Ididit",
 "Jinjinov/OpenHabitTracker",
+"lukislp/studylife",
 "fullstackhero/blazor-starter-kit",
 "danroth27/BlazorSSR",
 "aspnet/samples",
@@ -88,7 +89,6 @@
 "microsoft/fast",
 "blazorblueprintui/ui",
 "dotnetcore/BootstrapBlazor",
-"ant-design-blazor/ant-design-blazor",
 "MudBlazor/MudBlazor",
 "SamProf/MatBlazor",
 "Megabit/Blazorise",
@@ -126,6 +126,7 @@
 "plotly/plotly.js",
 "erossini/BlazorChartjs",
 "unlockeddataltd/UnlockedData.Chartist.Blazor",
+"EdoParis/BlazorCharts",
 "EdCharbeneau/BlazorSize",
 "wihrl/RazorStyle",
 "b-straub/DexieNET",
@@ -185,6 +186,7 @@
 "reactjs/react-transition-group",
 "PSCourtney/BlazorGravatar",
 "iolitetech/IOSwipeView",
+"joadan/Linq2Dashboard",
 "mrpmorris/Fluxor",
 "Blazored/LocalStorage",
 "TimeWarpEngineering/timewarp-state",
@@ -258,5 +260,8 @@
 "DevExpress/blazor-training-samples",
 "ILoveDotNet/ilovedotnet",
 "dodyg/practical-aspnetcore"
+],
+"dropped": [
+["2026-10-02","ant-design-blazor/ant-design-blazor"]
 ]
 }

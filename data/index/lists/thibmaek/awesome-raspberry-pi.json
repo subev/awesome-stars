@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📝 A curated list of awesome Raspberry Pi tools, projects, images and resources","defaultBranch":"main","topics":["awesome","raspberry-pi","resources","list","awesome-list","rpi"],"readmeSha":"5a7be4f0174f010b9f1a026b3ed6f87476d24137"},
+"meta": {"description":"📝 A curated list of awesome Raspberry Pi tools, projects, images and resources","defaultBranch":"main","topics":["awesome","raspberry-pi","resources","list","awesome-list","rpi"],"readmeSha":"634f4501a9a8100f83b91217aebef9867abc498c"},
 "members": [
 "sindresorhus/awesome",
 "jareware/chilipie-kiosk",

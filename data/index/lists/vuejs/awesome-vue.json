@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"c126bd8cb75f5e7fd0fe6803caba38e159954b27"},
+"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"4fc17055ffdd083c94987a4678b6ed1b5f10e8fe"},
 "members": [
 "sindresorhus/awesome",
 "vuejs/core",
@@ -109,6 +109,7 @@
 "ifer47/markeron",
 "yarin-zhang/AI-Gist",
 "dentalpin/dentalpin",
+"vixl-ai/vixl",
 "nxshell/nxshell",
 "nocodb/nocodb",
 "IgorHalfeld/v-notes",
@@ -269,7 +270,8 @@
 "nolimits4web/swiper",
 "jambonn/vue-concise-carousel",
 "ismail9k/vue3-carousel",
-"bartdominiak/vue-snap",
+"brtdom/vue-snap",
+"KonstantinKai/reelkit",
 "apertureless/vue-chartjs",
 "ankane/vue-chartkick",
 "apexcharts/vue-apexcharts",
@@ -446,7 +448,7 @@
 "posva/unplugin-vue-router",
 "awdr74100/vite-plugin-vue-middleware",
 "Kassaila/vue-router-citadel",
-"bartdominiak/vue-lazy",
+"brtdom/vue-lazy",
 "jambonn/vue-lazyload",
 "alziqziq/vue-paginate-al",
 "coderdiaz/vue-tiny-pagination",
@@ -472,6 +474,7 @@
 "MMF-FE/svgicon",
 "shrpne/vue-inline-svg",
 "respeak-io/lucide-motion-vue",
+"rootasjey/tronche",
 "vinayakkulkarni/v-github-icon",
 "vue-gl/vue-gl",
 "Tresjs/tres",
@@ -587,6 +590,8 @@
 ["2026-09-18","byteboomers/vue-autofocus-directive"],
 ["2026-09-18","byteboomers/vue-lpage"],
 ["2026-09-18","askbudi/roundtable"],
-["2026-09-25","elreco/vue-tailwind-datepicker"]
+["2026-09-25","elreco/vue-tailwind-datepicker"],
+["2026-10-02","bartdominiak/vue-snap"],
+["2026-10-02","bartdominiak/vue-lazy"]
 ]
 }

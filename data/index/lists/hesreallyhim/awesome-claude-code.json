@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"592ad37fa6c7831c0de6aea9570a525871445201"},
+"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"4d60ea72031f8d351de7981deb770c15178aedcc"},
 "members": [
 "anthropics/claude-code",
 "multica-ai/andrej-karpathy-skills",
@@ -80,6 +80,7 @@
 "robertguss/claude-code-toolkit",
 "andrewroxby/claude-style-patch",
 "glacierphonk/naming",
+"elithril/blender-kiln",
 "renezander030/capcut-cli",
 "es617/claude-replay",
 "iart-ai/motion-skills",
@@ -95,7 +96,7 @@
 "inoX-Network/claude-code-safety-guard",
 "kenryu42/cc-safety-net",
 "cleatdev/cleat",
-"mensfeld/code-on-incus",
+"coipond/coi",
 "dshakes/compass",
 "dagger/container-use",
 "ldayton/Dippy",
@@ -131,6 +132,7 @@
 "zircote/workflows-plugin",
 "JuliusBrussee/caveman",
 "diet103/claude-code-infrastructure-showcase",
+"dailydotdev/daily",
 "mrtooher/fable-mode",
 "obra/superpowers",
 "inhouseseo/superseo-skills",
@@ -194,6 +196,7 @@
 ],
 "dropped": [
 ["2026-09-04","zyx77550/sparda"],
-["2026-09-11","arturogarrido/claudinho"]
+["2026-09-11","arturogarrido/claudinho"],
+["2026-10-02","mensfeld/code-on-incus"]
 ]
 }

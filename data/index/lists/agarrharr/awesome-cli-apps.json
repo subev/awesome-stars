@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"aac2eceb5559b5c3bcd29ea3873bba14e8310827"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"3af2719ec0b1b4c7e0edccc8adbaf7fb4eda8e00"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -23,6 +23,7 @@
 "peternaame-boop/ytm-player",
 "tsirysndr/tunein-cli",
 "bjarneo/cliamp",
+"FurqanHun/mpv-music",
 "ytdl-org/youtube-dl",
 "streamlink/streamlink",
 "mps-youtube/yewtube",
@@ -42,6 +43,8 @@
 "irssi/irssi",
 "mcpcpc/kirc",
 "chojs23/concord",
+"AsamK/signal-cli",
+"tlgrcli/tlgr",
 "captainsafia/legit",
 "cezaraugusto/mklicense",
 "shobrook/rebound",
@@ -161,6 +164,7 @@
 "roeyazroel/linear-tui",
 "whyisdifficult/jiratui",
 "boolean-maybe/tiki",
+"kouhxp/yapsnap",
 "samg/timetrap",
 "GothenburgBitFactory/timewarrior",
 "jazzband/Watson",
@@ -213,6 +217,7 @@
 "clevercli/clevercli",
 "mahlquistj/octotype",
 "unhappychoice/gittype",
+"kanakOS01/gravitype",
 "alexdlaird/amazon-orders",
 "albinekb/open-pip-cli",
 "danyshaanan/osx-wifi-cli",
@@ -236,6 +241,7 @@
 "domcyrus/rustnet",
 "sshuttle/sshuttle",
 "brandonyoungdev/tldx",
+"Harry-kp/vortix",
 "rawnly/splash-cli",
 "sindresorhus/wallpaper-cli",
 "mjswensen/themer",
@@ -462,6 +468,7 @@
 "dolsup/cli-fireplace",
 "unhappychoice/gitlogue",
 "phlx0/drift",
+"clainstone/cbirds",
 "danyshaanan/cli-mandelbrot",
 "sindresorhus/sparkly-cli",
 "sharkdp/pastel",
@@ -483,7 +490,7 @@
 "roboticforce/sugar",
 "shep-ai/shep",
 "Narcooo/inkos",
-"mensfeld/code-on-incus",
+"coipond/coi",
 "MonadWorks/agentify",
 "actionbook/actionbook",
 "yvgude/lean-ctx",
@@ -506,5 +513,8 @@
 "sindresorhus/awesome-nodejs",
 "stevemao/awesome-git-addons",
 "x-cmd/x-cmd"
+],
+"dropped": [
+["2026-10-02","mensfeld/code-on-incus"]
 ]
 }

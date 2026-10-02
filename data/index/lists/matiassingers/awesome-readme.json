@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"d3f7257e0fdcd0d139587ad79d7899b07d64f95c"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"00089f35d2d543d68637739f7fb8f9bbbfeee25d"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",
@@ -52,6 +52,8 @@
 "igorantun/node-chat",
 "iharsh234/WebApp",
 "ivanperez-keera/Yampa",
+"JoyHak/MarkdownToBBCode",
+"JoyHak/QuickSwitch",
 "karan/joe",
 "kopach/karma-sabarivka-reporter",
 "LunarWerxs/FastColabCopy",

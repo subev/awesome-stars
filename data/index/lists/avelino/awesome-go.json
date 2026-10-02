@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"d3816c274368328c65505defe6a5704d7d17b804"},
+"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"ec473b419943d343af05f15025624995551915e1"},
 "members": [
 "sindresorhus/awesome",
 "gobridge/about-us",
@@ -16,6 +16,7 @@
 "JoakimCarlsson/ai",
 "ferro-labs/ai-gateway",
 "philippgille/chromem-go",
+"lancekrogers/claude-code-go",
 "rhgs/crewai-go",
 "cynative/cynative",
 "Dakera-AI/dakera-go",
@@ -280,6 +281,7 @@
 "subpop/go-ini",
 "ianlopshire/go-ssm-config",
 "ufoscout/go-up",
+"Yakwilik/go-yamlvalidator",
 "Jagerente/gocfg",
 "fulldump/goconfig",
 "joho/godotenv",
@@ -556,6 +558,7 @@
 "nullism/bqb",
 "arthurkushman/buildsqlx",
 "cristalhq/builq",
+"kran/dba",
 "rocketlaunchr/dbq",
 "qustavo/dotsql",
 "didi/gendry",
@@ -897,6 +900,7 @@
 "rjNemo/underscore",
 "phelmkamp/valor",
 "mlange-42/ark",
+"dobyte/due",
 "hajimehoshi/ebiten",
 "andygeiss/ecs",
 "EngoEngine/engo",
@@ -940,6 +944,7 @@
 "dave/jennifer",
 "oapi-codegen/oapi-codegen",
 "MUlt1mate/protoc-gen-httpgo",
+"easyp-tech/protoc-gen-mcp",
 "xiaoxin01/typeregistry",
 "kpfaulkner/borders",
 "AlexG695/geo-engine-go",
@@ -1539,6 +1544,7 @@
 "songgao/ether",
 "mdlayher/ethernet",
 "cheng-zhongliang/event",
+"kernelshard/expose",
 "valyala/fasthttp",
 "vinod-morya/fibersse",
 "fortio/fortio",
@@ -1765,6 +1771,7 @@
 "mvmaasakkers/certificates",
 "caddyserver/certmagic",
 "corazawaf/coraza",
+"stardothosting/coraza-rule-validator",
 "crenoxhq/crenox",
 "aliengiraffe/deidentify",
 "dromara/dongle",
@@ -2402,6 +2409,7 @@
 "marrow16/valix",
 "Oudwins/zog",
 "colinhacks/zod",
+"sevlyar/vx",
 "jfrog/froggit-go",
 "bmf-san/ggc",
 "blak0p/git-courer",
@@ -2650,7 +2658,7 @@
 "abiosoft/colima",
 "getanteon/anteon",
 "s0rg/decompose",
-"centerorbit/depcharge",
+"OffPeakEngineer/DepCharge",
 "thevxn/dish",
 "x1unix/docker-go-mingw",
 "offen/docker-volume-backup",
@@ -2878,6 +2886,7 @@
 ["2026-09-11","d3fvxl/di"],
 ["2026-09-18","us/den"],
 ["2026-09-25","floatdrop/di"],
-["2026-09-25","mgechev/revive"]
+["2026-09-25","mgechev/revive"],
+["2026-10-02","centerorbit/depcharge"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome PHP libraries, resources and shiny things.","defaultBranch":"master","topics":["php","php-framework","php-library","php-applications","php-installation","awesome-lists","awesome"],"readmeSha":"85f4fdae4b206f10cde92723d9d0d291c76a877a"},
+"meta": {"description":"A curated list of amazingly awesome PHP libraries, resources and shiny things.","defaultBranch":"master","topics":["php","php-framework","php-library","php-applications","php-installation","awesome-lists","awesome"],"readmeSha":"94ad0c00354f0e951edd6f31a4f69dbea8dc5d7c"},
 "members": [
 "sindresorhus/awesome",
 "composer/installers",
@@ -262,6 +262,7 @@
 "paragonie/paseto",
 "daviddesberg/PHPoAuthLib",
 "abraham/twitteroauth",
+"markup-carve/carve-php",
 "cebe/markdown",
 "thephpleague/commonmark",
 "milesj/decoda",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"57a836339d32bb97127422582527e8632f86877a"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"0adb0e2f2deed2daa7612de622a069c1460a8fe7"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -35,6 +35,7 @@
 "retraigo/la-classy",
 "denosaurs/netsaur",
 "manyuanrong/deno-smtp",
+"domaincanary/dmarc-rua",
 "tuures/LiteMarkup",
 "denosaurs/neo",
 "lumeland/lume",
