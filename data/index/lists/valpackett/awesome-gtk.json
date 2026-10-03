@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"cb0865ac07bd2911b7dc4cf41bceefbe17c2475c"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"3a78327496536a67aa66f64c36374fef41b8b4c6"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -17,6 +17,7 @@
 "SoongNoonien/plattenalbum",
 "multani/sonata",
 "thekvs/radiotray-lite",
+"1vecera/Mluva",
 "gkarsay/parlatype",
 "hardcoeur/recast",
 "zrythm/zrythm",
@@ -47,6 +48,7 @@
 "elementary/videos",
 "pojntfx/multiplex",
 "DYefremov/TVDemon",
+"subtitleeditor/subtitleeditor",
 "henrywoo/kazam",
 "SeaDve/Kooha",
 "stronnag/wayfarer",
@@ -99,6 +101,7 @@
 "elementary/mail",
 "jdobonb/datafall",
 "gabutakut/gabutdm",
+"getodm/open-download-manager",
 "bleakgrey/Transporter",
 "davidmhewitt/torrential",
 "giantpinkrobots/varia",

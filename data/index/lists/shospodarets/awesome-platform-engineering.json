@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"5ec90251f6a1485f253cb4dc4945c6695183b229"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"8a5883d6bce24aafdbf34003ce3efd6dbed95b3a"},
 "members": [
 "sindresorhus/awesome",
 "ota-run/ota",

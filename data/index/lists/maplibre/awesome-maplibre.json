@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"55e17ebdd0c126efc81a7b187f530c791b06bd43"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"dcc804d82f314247359d7b9245527a1e3f6b74a0"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -104,6 +104,7 @@
 "indus/maplibre-merge-protocol",
 "willcohen/backproj",
 "willcohen/clj-proj",
+"c0nsumer/maplibre-gl-lanes",
 "allmaps/allmaps",
 "zwang-geog/mapbox-exif-layer",
 "rowanwins/mapbox-gl-arcgis-featureserver",

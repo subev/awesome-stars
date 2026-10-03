@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"7dc13d5933e058dd87a5ceb90d172123bd4d3cc5"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"410a39dec7df5f55ae8a07f7b0072d17ad28f5de"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -28,8 +28,9 @@
 "runapi-ai/mcp",
 "Bevel-Software/Hexis",
 "cohesivity-org/cohesivity-plugin",
-"kyisaiah47/compound-gemini-extension",
+"kyisaiah47/parserail-gemini-extension",
 "minosin/gtdbrain-gemini-extension",
+"AddisonHoff/sendsets",
 "SurefireStudios/tldr",
 "thoreinstein/gemini-notifier",
 "MohamedAbdallah-14/unslop",
@@ -64,6 +65,8 @@
 "hermes-labs-ai/lintlang",
 "hermes-labs-ai/little-canary",
 "kgaidev/kgai-gemini",
+"supercorp-ai/supercov",
+"moneytool/aegis-devops",
 "gemini-cli-extensions/gcloud",
 "gemini-cli-extensions/genkit",
 "gemini-cli-extensions/mcp-toolbox",
@@ -90,6 +93,7 @@
 "minds-ai-co/minds-mcp"
 ],
 "dropped": [
-["2026-09-26","feder-cr/AIHawk"]
+["2026-09-26","feder-cr/AIHawk"],
+["2026-10-03","kyisaiah47/compound-gemini-extension"]
 ]
 }

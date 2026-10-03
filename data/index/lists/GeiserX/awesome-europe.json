@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","european-union","open-source","eu","gdpr","open-data","eidas","digital-services-act"],"readmeSha":"c1ec9444309344b9cf6ee1281e2725179d35513a"},
+"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"8a4c91a6dcad8f513337527105b15ffaa5423715"},
 "members": [
 "act-rules/act-rules.github.io",
 "Siteimprove/alfa",
@@ -561,7 +561,8 @@
 "laravel/vat-calculator",
 "ibericode/vat-rates",
 "DragonBe/vies",
-"zapadi/vies-dotnet"
+"zapadi/vies-dotnet",
+"GeiserX/awesome-lint-extra"
 ],
 "dropped": [
 ["2026-08-28","OpenPEPPOL/peppol-bis-invoice-3"]

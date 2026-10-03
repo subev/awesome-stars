@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome GitHub tools, libraries, resources, and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"8c5252ca650e5b9e3129e2b001cd0f698d9c32b6"},
+"meta": {"description":"A curated list of awesome GitHub tools, libraries, resources, and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"a099ddadaaf097ad779f88a2fa7a91cdefcbca9c"},
 "members": [
 "pluralsight/git-internals-pdf",
 "tiimgreen/github-cheat-sheet",
@@ -7,6 +7,7 @@
 "mariorodeghiero/git-commands",
 "github/teach.github.com",
 "unixorn/git-extra-commands",
+"loki-inu/relnote",
 "grayghostvisuals/practice-git",
 "igrigorik/gharchive.org",
 "IonicaBizau/github-contributions",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"585aca58b8c0712b6e64e86a7b8f594b5e73b85b"},
+"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"777256b1043c518da82dfafed27c247588b3eaf8"},
 "members": [
 "uxlfoundation/scikit-learn-intelex",
 "Data-Centric-AI-Community/fg-data-profiling",
@@ -510,8 +510,9 @@
 "google/tf-quant-finance",
 "ranaroussi/quantstats",
 "dcajasn/Riskfolio-Lib",
-"OpenBB-finance/OpenBB",
+"openbq-org/OpenBB",
 "matplotlib/mplfinance",
+"eulerpool/eulerpool-python",
 "quantopian/pyfolio",
 "quantopian/zipline",
 "quantopian/alphalens",
@@ -699,5 +700,8 @@
 "MenghaoGuo/Awesome-Vision-Attentions",
 "dk-liang/Awesome-Visual-Transformer",
 "d3/d3-3.x-api-reference"
+],
+"dropped": [
+["2026-10-03","OpenBB-finance/OpenBB"]
 ]
 }

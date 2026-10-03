@@ -1,5 +1,5 @@
 {
-"meta": {"description":"awesome llvm security [Welcome to PR]","defaultBranch":"main","topics":["llvm","ollvm","clang","obfuscate","security","msvc","windows","windowsdriver","driver","awesome"],"readmeSha":"e821e97b01a75567998340d7db8cb38a905aa620"},
+"meta": {"description":"awesome llvm security [Welcome to PR]","defaultBranch":"main","topics":["llvm","ollvm","clang","obfuscate","security","msvc","windows","windowsdriver","driver","awesome"],"readmeSha":"b809e9e949e5f945018f046143607821d7c86670"},
 "members": [
 "HyunCafe/contribute-practice",
 "openai/codex",
@@ -226,6 +226,7 @@
 "MaxXSoft/sigma-vm",
 "LPC4/Triton-64",
 "anthropics/claudes-c-compiler",
+"edgcpp/compiler",
 "argotorg/solidity",
 "gagliardetto/golang-lana",
 "swiftlang/llvm-project",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"343db10679fcabd8307283564820edb0f445c1bd"},
+"meta": {"description":":sparkles::sparkles:Latest Advances on Multimodal Large Language Models","defaultBranch":"main","topics":["instruction-tuning","instruction-following","large-vision-language-model","visual-instruction-tuning","multi-modality","in-context-learning","large-language-models","large-vision-language-models","multimodal-chain-of-thought","multimodal-in-context-learning"],"readmeSha":"f5fbc3646299ddc57efa04c73d4071b8fb4ae31c"},
 "members": [
 "VITA-MLLM/VITA",
 "VITA-MLLM/VITA-Audio",
@@ -99,7 +99,7 @@
 "Yuliang-Liu/Monkey",
 "OpenGVLab/all-seeing",
 "OpenMOSS/AnyGPT",
-"DCDmllm/Momentor",
+"ZJU4EmbodiedAI/Momentor",
 "FreedomIntelligence/ALLaVA",
 "ByungKwanLee/CoLLaVO",
 "TRI-ML/prismatic-vlms",
@@ -154,7 +154,7 @@
 "OpenBMB/VisCPM",
 "icoz69/StableLLAVA",
 "mlpc-ucsd/BLIVA",
-"DCDmllm/Cheetah",
+"ZJU4EmbodiedAI/Cheetah",
 "JIA-Lab-research/LISA",
 "wenhaochai/MovieChat",
 "UMass-Embodied-AGI/3D-LLM",
@@ -340,6 +340,8 @@
 "VityaVitalich/IMAD"
 ],
 "dropped": [
-["2026-09-19","apple/ml-ferret"]
+["2026-09-19","apple/ml-ferret"],
+["2026-10-03","DCDmllm/Momentor"],
+["2026-10-03","DCDmllm/Cheetah"]
 ]
 }

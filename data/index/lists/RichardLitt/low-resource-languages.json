@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of resources for the conservation, development, and documentation of low resource (human) languages.","defaultBranch":"main","topics":["endangered-languages","natural-language","language-resources","human-language","natural-language-processing","language-learning","language-documentation","resourced-languages","awesome-list","awesome"],"readmeSha":"53080d37ec2bcd57afd3b0d5fdee0b62c3eb1e8c"},
+"meta": {"description":"A curated list of resources for the conservation, development, and documentation of low resource (human) languages.","defaultBranch":"main","topics":["endangered-languages","natural-language","language-resources","human-language","natural-language-processing","language-learning","language-documentation","resourced-languages","awesome-list","awesome"],"readmeSha":"9c821b943619508d5f3ed8229025f021ae13a4f5"},
 "members": [
 "thlorenz/doctoc",
 "apertium/apertium-languages",
@@ -365,10 +365,12 @@
 "pld-linux/aspell-gd",
 "tobiasbayer/briathrachan",
 "kscanne/gaidhlig",
-"wojtekdz/gd-fcfg",
 "colinbatchelor/gdbank",
 "kscanne/hunspell-gd",
 "neskie/secwepemctsnem",
 "mikahama/uralicNLP"
+],
+"dropped": [
+["2026-10-03","wojtekdz/gd-fcfg"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"a6e181b93c7cfc8ef45a92f6b75bebb565d42090"},
+"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"789cfea37d035befdb71558dafed69f9018dbb7f"},
 "members": [
 "langchain-ai/langchain",
 "langchain-ai/langchainjs",
@@ -52,6 +52,7 @@
 "stepanogil/autonomous-hr-chatbot",
 "orgexyz/BlockAGI",
 "langchain-ai/deepagents",
+"samugit83/redamon",
 "vercel/ai",
 "zckly/create-t3-turbo-ai",
 "hwchase17/langchain-streamlit-template",

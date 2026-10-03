@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome JSON Schema resources, tutorials, tools, and more","defaultBranch":"master","topics":["awesome","awesome-list","json","json-schema","jsonschema","openapi","openapi3","asyncapi","schema-registry","jsonapi"],"readmeSha":"f190de3a4ee15750fe7a7798b8a4782447ce0ce8"},
+"meta": {"description":"A curated list of awesome JSON Schema resources, tutorials, tools, and more","defaultBranch":"master","topics":["awesome","awesome-list","json","json-schema","jsonschema","openapi","openapi3","asyncapi","schema-registry","jsonapi"],"readmeSha":"5e50c067fb8ac9351c12105cd214368ffeb6d002"},
 "members": [
 "sindresorhus/awesome",
 "sourcemeta/jsonschema",

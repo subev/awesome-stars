@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"1c114f35212d0632bd65cc21ba3f709c311fa11f"},
+"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"0761d56c922998421101795086185b2b5091bb72"},
 "members": [
 "sindresorhus/awesome",
 "kubernetes-sigs/krew",
@@ -106,6 +106,7 @@
 "meshery-extensions/kubectl-kanvas-snapshot",
 "predatorray/kubectl-tmux-exec",
 "comboshreddies/kubectl-line",
+"danielgaskins/cnpg-drill",
 "jordanwilson230/kubectl-plugins",
 "ahmetb/kubectl-extras",
 "FikaWorks/kubectl-plugins",

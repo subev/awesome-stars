@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Create, Read, Update and Delete benchmarks at crude hardware speeds for embedded engines and database servers, the Rust successor to UCSB & YCSB","defaultBranch":"main","topics":["benchmark","rocksdb","leveldb","ycsb","wiredtiger","mongodb","lsm-tree","google-benchmark","valgrind","terabyte"],"readmeSha":"319cee472a55b4d01de750009a8f818514afcbb9"},
+"members": [
+"ashvardanian/ashvardanian",
+"ashvardanian/RetriEval",
+"facebook/rocksdb"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"3779cbd2babcec8e166966843aeb21b06a98c216"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"b388ae2dd7807bfe4c639a0abab5817c6c8a2738"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -1639,6 +1639,7 @@
 "osmcode/osmcoastline",
 "SatelliteShorelines/CoastSeg",
 "CoastalModellingEnvironment/coastalme",
+"marola-dev/marola",
 "hyriver/hyriver.github.io",
 "hyriver/pydaymet",
 "euroargodev/argopy",
