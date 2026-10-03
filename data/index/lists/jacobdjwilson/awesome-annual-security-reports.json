@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of annual cyber security reports","defaultBranch":"main","topics":["awesome","awesome-list","reporting","cybersecurity","cyber-security","threat-intelligence","threat-hunting"],"readmeSha":"e5e522ae0b188924f3ba2de5ad89e148811462af"},
+"meta": {"description":"A curated list of annual cyber security reports","defaultBranch":"main","topics":["awesome","awesome-list","reporting","cybersecurity","cyber-security","threat-intelligence","threat-hunting"],"readmeSha":"6232b7b83615e6fbd49b4e9159d374358b2bdbf4"},
 "members": [
 "cncf/tag-security"
 ]

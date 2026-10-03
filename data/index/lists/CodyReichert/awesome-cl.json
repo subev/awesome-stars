@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"783abdb769f9cd03a25d02d5b689a3a62a65422f"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"ade228b1295084a29f8ff743f4b95e9500c8e52b"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
@@ -419,6 +419,7 @@
 "fferrere/cl-cas",
 "fferrere/cas-middleware",
 "fferrere/cas-demo",
+"phoe/the-great-rouclere",
 "vindarel/cl-cookieweb",
 "container-lisp/make-like",
 "rajasegar/cl-webapp-seed",
@@ -478,6 +479,7 @@
 "ajberkley/plotly-user",
 "moneylobster/cl-text-plot",
 "tkych/cl-spark",
+"ruricolist/infix-math",
 "quil-lang/cmu-infix",
 "mrcdr/polisher",
 "sharplispers/lparallel",

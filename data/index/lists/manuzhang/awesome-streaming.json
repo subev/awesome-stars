@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"9cd6fa45848bf416f4f26e037810b194fb3dc5f5"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"2159c39f9d97787483797f2767fdffbb21b78be5"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -76,6 +76,7 @@
 "monix/monix",
 "numaproj/numalogic",
 "quantmind/pulsar",
+"selimfirat/pysad",
 "quixio/quix-streams",
 "online-ml/river",
 "romseygeek/samza-luwak",

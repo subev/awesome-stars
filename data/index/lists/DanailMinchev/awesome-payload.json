@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sunglasses: A curated list of awesome Payload resources for users and developers.","defaultBranch":"main","topics":["awesome","awesome-list","payload","payloadcms"],"readmeSha":"ded044e28a5649b60fc6ada085f2d0a685c62838"},
+"meta": {"description":":sunglasses: A curated list of awesome Payload resources for users and developers.","defaultBranch":"main","topics":["awesome","awesome-list","payload","payloadcms"],"readmeSha":"f4f2af8410e23d27db5c85134758f0fca82270d4"},
 "members": [
 "payloadcms/payload",
 "payloadcms/website",
@@ -14,6 +14,8 @@
 "AdrianMaj/payload-lexical-typography",
 "rilrom/payload-bites",
 "shefing/payload-tools",
-"Crayonan/payload-plugin-ai-localization"
+"Crayonan/payload-plugin-ai-localization",
+"s1awek/payload-ecommerce-tpay",
+"relative23/payload-live-preview"
 ]
 }

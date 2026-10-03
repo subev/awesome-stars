@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"5f2e2b6bc810cfc97a4458371b710a679e4c8cca"},
+"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"74d7ec1e3fecf34e0db9837c3057249589857f20"},
 "members": [
 "lit/lit",
 "gracile-web/starter-projects",

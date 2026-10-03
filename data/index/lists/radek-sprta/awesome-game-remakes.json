@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"2137f835ebb461a030694d5a116f407b975e1173"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"024a515d1e9dabd856b3f5c818aca398265b9e8b"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
@@ -72,7 +72,7 @@
 "StevenSYS/DOOM64EXUltra",
 "bradharding/doomretro",
 "skyjake/Doomsday-Engine",
-"kraflab/dsda-doom",
+"dsda-org/dsda-doom",
 "ericwa/ericw-tools",
 "edge-classic/EDGE-classic",
 "QW-Group/ezquake-source",
@@ -214,7 +214,7 @@
 "scp-fs2open/fs2open.github.com",
 "Librelancer/Librelancer",
 "endless-sky/endless-sky",
-"lordbasilaiassistant-sudo/aeon",
+"tymsky/OpenGG",
 "1oom-fork/1oom",
 "FreezingMoon/AncientBeast",
 "arescentral/antares",
@@ -303,7 +303,6 @@
 "MustaphaTR/Romanovs-Vengeance",
 "sourcehold/Sourcehold",
 "terraconcordiagame/terra-concordia-public",
-"Towhidul-Islam5797/TheOldWorld",
 "induktio/thinker",
 "SembeiNorimaki/Transarctica-2",
 "triplea-game/triplea",
@@ -314,7 +313,7 @@
 "TheAssemblyArmada/Vanilla-Conquer",
 "VaultSparkStudios/vaultfront",
 "vcmi/vcmi",
-"Yrvera/vera20k",
+"YuriPlanet/vera20k",
 "suhteevah/wages-of-war",
 "acoto87/war1",
 "qFlavius/War8",
@@ -322,10 +321,15 @@
 "skyteks/WarKingdoms",
 "Warzone2100/warzone2100",
 "ItsWazzaP/wazzaps-boss-generals",
+"olcayseygan/CnCGeneralsZH-Reforged",
 "ZeroK-RTS/Zero-K"
 ],
 "dropped": [
 ["2026-09-11","LixieWulf/Allure"],
-["2026-09-11","Kamikitte/DungeonKeeper"]
+["2026-09-11","Kamikitte/DungeonKeeper"],
+["2026-10-03","kraflab/dsda-doom"],
+["2026-10-03","lordbasilaiassistant-sudo/aeon"],
+["2026-10-03","Towhidul-Islam5797/TheOldWorld"],
+["2026-10-03","Yrvera/vera20k"]
 ]
 }

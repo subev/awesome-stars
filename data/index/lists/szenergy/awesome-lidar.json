@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"df00d98ba68d4f3f3b90d5904fb50611dda32387"},
+"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"e8896d2cd14889e8e82a5ee9081b08632736e19f"},
 "members": [
 "ros-drivers/velodyne",
 "valgur/velodyne_decoder",
@@ -15,6 +15,7 @@
 "daavoo/pyntcloud",
 "virtual-vehicle/pointcloudset",
 "LAStools/LAStools",
+"bloom256/lasrs-cpp",
 "ApolloAuto/apollo",
 "alfa-project/alfa-framework",
 "pglira/simpleICP",

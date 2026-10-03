@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"161bdfaa39a634c71d199f0b61a5f4edb700acc7"},
+"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"07761458cfd2f0fac12f2d6563dc5ebae80a5c27"},
 "members": [
 "goauthentik/authentik",
 "dexidp/dex",
@@ -20,6 +20,7 @@
 "coreos/go-oidc",
 "zitadel/oidc",
 "googleapis/google-oauth-java-client",
+"pac4j/pac4j",
 "panva/openid-client",
 "panva/oauth4webapi",
 "authts/oidc-client-ts",

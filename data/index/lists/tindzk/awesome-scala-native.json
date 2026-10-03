@@ -1,5 +1,5 @@
 {
-"meta": {"description":" Compilation of Scala Native resources and libraries ","defaultBranch":"master","topics":["scala-native","libraries","awesome-list","awesome"],"readmeSha":"5571d01ce2ea0dd5f82bbfb4387a5ee5eb43f86a"},
+"meta": {"description":" Compilation of Scala Native resources and libraries ","defaultBranch":"master","topics":["scala-native","libraries","awesome-list","awesome"],"readmeSha":"de822669707036bf50c9d40d6fec7dd6f0e8aae3"},
 "members": [
 "scala-native/scala-native.g8",
 "MasseGuillaume/hands-on-scala-native",
@@ -77,6 +77,7 @@
 "lolgab/snunit",
 "scala-native/scala-native-loop",
 "com-lihaoyi/castor",
+"devlaam/Leucine",
 "outr/scribe",
 "jokade/slogging",
 "scala-garden/scala-logging",

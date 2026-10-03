@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"d6f8967ec9483b6ad2883d369011f34bd69e5ed3"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"c2079842de4aabee2207b5d2011659f672c0f0ae"},
 "members": [
 "web-platform-tests/wpt",
 "praveenpuglia/shadow-dom-in-depth",
@@ -88,7 +88,7 @@
 "kherrick/x-weather",
 "RocketCommunicationsInc/astro",
 "Esri/calcite-design-system",
-"carbon-design-system/carbon-web-components",
+"carbon-design-system/carbon-for-ibm-dotcom",
 "freshworks-oss/crayons",
 "microsoft/fluentui",
 "tyler-technologies-oss/forge",
@@ -167,6 +167,7 @@
 ["2026-09-04","outpostHQ/numl"],
 ["2026-09-04","tyler-technologies-oss/forge-core"],
 ["2026-09-04","heapwolf/giant"],
-["2026-09-11","slimjs/slim.js"]
+["2026-09-11","slimjs/slim.js"],
+["2026-10-03","carbon-design-system/carbon-web-components"]
 ]
 }

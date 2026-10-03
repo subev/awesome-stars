@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An Open Source Machine Learning Framework for Everyone","defaultBranch":"master","topics":["tensorflow","machine-learning","python","deep-learning","deep-neural-networks","neural-network","ml","distributed"],"readmeSha":"67a682a1fa641ed21f1709c131a92a30895107af"},
+"meta": {"description":"An Open Source Machine Learning Framework for Everyone","defaultBranch":"master","topics":["tensorflow","machine-learning","python","deep-learning","deep-neural-networks","neural-network","ml","distributed"],"readmeSha":"0397f17f615637ef1622dfe825ad9ba1b347ffee"},
 "members": [
 "tensorflow/build",
 "tensorflow/models",

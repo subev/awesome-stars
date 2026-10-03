@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Geospatial resources for web development :earth_africa: 🗺️","defaultBranch":"main","topics":["frontend","geo","geographic-data","geographical-information-system","geography","geospatial","gis","open-source","webgl","awesome"],"readmeSha":"d26c56753c4903902b8122c38ab47ff34138fb32"},
+"meta": {"description":"Geospatial resources for web development :earth_africa: 🗺️","defaultBranch":"main","topics":["frontend","geo","geographic-data","geographical-information-system","geography","geospatial","gis","open-source","webgl","awesome"],"readmeSha":"d198e365ee6a85b98d271359ba27085acb499622"},
 "members": [
 "sindresorhus/awesome",
 "eurostat/gridviz",

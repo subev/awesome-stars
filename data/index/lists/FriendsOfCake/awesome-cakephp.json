@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"fbf71523851024110acff71a7794319c8c3e3f2d"},
+"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"37e225d6628bdd4e1abea38c0323fa76252a6cb0"},
 "members": [
 "ziadoz/awesome-php",
 "bayandin/awesome-awesomeness",
@@ -29,6 +29,7 @@
 "dereuromark/cakephp-cache",
 "CakeDC/cakephp-cached-routing",
 "CakeDC/cakephp-phpstan",
+"Crustum/structarmed-cakephp",
 "dereuromark/cakephp-ide-helper",
 "dereuromark/cakephp-ide-helper-extra",
 "LordSimal/cakephp-psalm",
@@ -68,6 +69,7 @@
 "CakeDC/Enum",
 "dereuromark/cakephp-dto",
 "zunnu/cake-htmx",
+"cpierce/cakephp-claude-skill",
 "dereuromark/cakephp-calendar",
 "mirko-pagliai/cakephp-database-backup",
 "orca-services/cakephp-feature-flags",
@@ -77,9 +79,9 @@
 "cnizzardini/cakephp-preloader",
 "dereuromark/cakephp-shim",
 "dereuromark/cakephp-workflow",
+"dereuromark/cakephp-menu",
 "icings/menu",
 "KnpLabs/KnpMenu",
-"dereuromark/cakephp-menu",
 "Crustum/Broadcasting",
 "Crustum/Notification",
 "josbeir/cakephp-mercure",

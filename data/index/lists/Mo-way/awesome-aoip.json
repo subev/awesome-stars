@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Audio over IP and AES67 tools and resources","defaultBranch":"main","topics":["awesome","aes67","audio","awesome-list","layer3","network","smpte-2110","audio-over-ip","dante"],"readmeSha":"5d895ee845b8946e95085542595ac93e10753546"},
+"meta": {"description":"A curated list of awesome Audio over IP and AES67 tools and resources","defaultBranch":"main","topics":["awesome","aes67","audio","awesome-list","layer3","network","smpte-2110","audio-over-ip","dante"],"readmeSha":"d9b3e42e8a9a3ce870e6e3eeb8beb2e43b702643"},
 "members": [
 "chris-ritsen/network-audio-controller",
 "bondagit/aes67-linux-daemon",

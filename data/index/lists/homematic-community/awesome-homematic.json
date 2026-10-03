@@ -1,11 +1,11 @@
 {
-"meta": {"description":"A curated list of Homematic related links :sparkles:","defaultBranch":"master","topics":["homematic","smarthome","awesome-list","awesome","list"],"readmeSha":"c0408c449423c54ec8dace375cc020b5dfbe7c43"},
+"meta": {"description":"A curated list of Homematic related links :sparkles:","defaultBranch":"master","topics":["homematic","smarthome","awesome-list","awesome","list"],"readmeSha":"e72e8222cf99667781a08badb6d5ed68344a2fb1"},
 "members": [
 "sindresorhus/awesome",
 "homematic-community/ccu-addon-howto",
 "OpenCCU/OpenCCU",
 "alexreinert/debmatic",
-"eq-3/occu",
+"hobbyquaker/openccu-lite",
 "alexreinert/piVCCU",
 "jp112sdl/Beispiel_AskSinPP",
 "pa-pa/AskSinPP",
@@ -16,8 +16,8 @@
 "jens-maus/cuxd",
 "homematic-community/CUxD-Highcharts",
 "homematic-community/hm_email",
-"thkl/hap-homematic",
-"thkl/homebridge-homematic",
+"hobbyquaker/hm2mqtt.js",
+"mqtt-smarthome/mqtt-smarthome",
 "cthil/hm-influxdb2",
 "homematic-community/hm-print",
 "homematic-community/hm-sonos",
@@ -39,7 +39,7 @@
 "mdzio/ccu-ai-mcp",
 "mdzio/ccu-jack",
 "claymore666/ccu-mcp",
-"hobbyquaker/hm2mqtt.js",
+"thkl/homebridge-homematic",
 "homebridge/homebridge",
 "marcsowen/homebridge-homematicip",
 "Ediminator/homematicip-hcu",
@@ -72,11 +72,13 @@
 "hahn-th/homematicip-rest-api",
 "hobbyquaker/homematic-rega",
 "hobbyquaker/homematic-xmlrpc",
+"hobbyquaker/occulite-client",
 "SukramJ/openccu-loom-client",
 "LarsMichelsen/pmatic",
 "ioBroker/ioBroker.hm-rpc",
 "ioBroker/ioBroker.hm-rega",
 "iobroker-community-adapters/ioBroker.hmip",
+"hobbyquaker/she",
 "smarthomeNG/plugins",
 "jp112sdl/AskSinAnalyzer",
 "psi-4ward/AskSinAnalyzerXS",
@@ -86,6 +88,8 @@
 ["2026-09-11","angelnu/docker-ccu"],
 ["2026-09-11","j-a-n/raspberrymatic-addon-rmupdate"],
 ["2026-09-11","thkl/Homematic-Virtual-Interface"],
-["2026-09-11","coreGreenberet/homematicip-rest-api"]
+["2026-09-11","coreGreenberet/homematicip-rest-api"],
+["2026-10-03","eq-3/occu"],
+["2026-10-03","thkl/hap-homematic"]
 ]
 }

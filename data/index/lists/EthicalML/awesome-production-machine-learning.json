@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"ca70a3757d055cba7408a415bd74541b8d20cd37"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"6937431bcecd5f70f9d6f03f14f3dc3bd96bdfe2"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -175,6 +175,7 @@
 "google-ai-edge/LiteRT",
 "google-ai-edge/LiteRT-LM",
 "Lightning-AI/LitServe",
+"feder-cr/jev",
 "jina-ai/serve",
 "Kiln-AI/Kiln",
 "kserve/kserve",
@@ -307,7 +308,6 @@
 "weecology/DeepForest",
 "facebookresearch/detectron2",
 "kornia/kornia",
-"salesforce/LAVIS",
 "bcmi/libcom",
 "lightly-ai/lightly-train",
 "open-mmlab/mmcv",
@@ -316,7 +316,6 @@
 "NUS-HPC-AI-Lab/VideoSys",
 "Marker-Inc-Korea/AutoRAG",
 "FlagOpen/FlagEmbedding",
-"docarray/docarray",
 "StarlightSearch/EmbedAnything",
 "facebookresearch/faiss",
 "microsoft/graphrag",
@@ -400,7 +399,6 @@
 "Farama-Foundation/Minigrid",
 "Farama-Foundation/Miniworld",
 "Unity-Technologies/ml-agents",
-"facebookresearch/MLGym",
 "MushroomRL/mushroom-rl",
 "PKU-Alignment/omnisafe",
 "OpenRLHF/OpenRLHF",
@@ -451,7 +449,6 @@
 "poloclub/transformer-explainer",
 "vega/altair",
 "Data-Centric-AI-Community/fg-data-profiling",
-"amundsen-io/amundsen",
 "apache/atlas",
 "datahub-project/datahub",
 "MarquezProject/marquez",
@@ -550,6 +547,10 @@
 ["2026-09-04","facebookresearch/fairseq"],
 ["2026-09-04","casper-hansen/AutoAWQ"],
 ["2026-09-04","AutoGPTQ/AutoGPTQ"],
-["2026-09-11","dbt-labs/dbt-core"]
+["2026-09-11","dbt-labs/dbt-core"],
+["2026-10-03","salesforce/LAVIS"],
+["2026-10-03","docarray/docarray"],
+["2026-10-03","facebookresearch/MLGym"],
+["2026-10-03","amundsen-io/amundsen"]
 ]
 }

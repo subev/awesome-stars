@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"384a8f95b7bc1fa1bf42dd02e498591eb3cad6d9"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"3f5a4e264810731c12fc5580a8c2746f50a6b41f"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -22,6 +22,7 @@
 "Sigil-Wen/VisionCraft",
 "efremidze/Alarm",
 "fulldecent/8-ball-answer",
+"Significant-Hobbies/anchor",
 "belm/BaiduFM-Swift",
 "bither/bither-ios",
 "JohnWong/bus-today",
@@ -32,6 +33,7 @@
 "elkiwy/KHabit",
 "nightscout/nightguard",
 "chockenberry/NowPlayingPlus",
+"denis-kolchev/Paint-Anytime",
 "dropbox/PhotoWatch",
 "stevenselcuk/Pomosh-iOS-watchOS",
 "SaiBalaji-PSS/Quote-Today",
@@ -137,6 +139,7 @@
 "matomo-org/matomo-mobile-2",
 "noodlewerk/NWPusher",
 "nathanfallet/ocaml",
+"zaiqltd/palm",
 "ColdGrub1384/Pisth",
 "RishabhTayal/Unofficial-iTC",
 "dl-alexandre/SymbolGrid",
@@ -261,6 +264,7 @@
 "chrisheninger/matchimals.fun",
 "matiasvillaverde/mobile-ios-vipergame",
 "Anuken/Mindustry",
+"Significant-Hobbies/motion",
 "splinesoft/MUDRammer",
 "artem-shimanski/Neocom",
 "ppy/osu",
@@ -326,6 +330,7 @@
 "vermont42/RaceRunner",
 "rob-miller/rTracker",
 "basarsubasi/simplefitnessapp",
+"ihvou/subskills",
 "home-assistant/iOS",
 "openhab/openhab-ios",
 "sobri909/ArcMini",
@@ -422,7 +427,6 @@
 "256Arts/Sprite-Pencil",
 "SherlockQi/HeavenMemoirs",
 "b5i/Atwy",
-"MrAdamBoyd/DownTube",
 "VishwaiOSDev/Loadify-iOS",
 "eerimoq/moblin",
 "verback2308/Opaline",
@@ -828,6 +832,7 @@
 ["2026-09-18","Brimizer/Slidden"],
 ["2026-09-25","claration/Feather"],
 ["2026-09-25","alexruperez/MADBike"],
-["2026-09-25","wvabrinskas/PokePal"]
+["2026-09-25","wvabrinskas/PokePal"],
+["2026-10-03","MrAdamBoyd/DownTube"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🕶️ A curated list of resources around the topic: visual regression testing","defaultBranch":"master","topics":["awesome","test-automation","testing","testing-tools"],"readmeSha":"5f313a9e8d3961637d9a973066a32097be13141f"},
+"meta": {"description":"🕶️ A curated list of resources around the topic: visual regression testing","defaultBranch":"master","topics":["awesome","test-automation","testing","testing-tools"],"readmeSha":"217c6cf7979259d208ff80caf6f702391ab661b3"},
 "members": [
 "sindresorhus/awesome",
 "TheJambo/awesome-testing",
@@ -18,7 +18,6 @@
 "neg-0/diffgoblin-action",
 "Cropster/ember-visual-test",
 "bitovi/funcunit",
-"Robocular/frostbyte-screenshot-action",
 "galenframework/galen",
 "gabrielrotbart/gatling",
 "stefanjudis/grunt-photobox",
@@ -67,5 +66,8 @@
 "sdesalas/trifleJS",
 "xebia/VisualReview",
 "webdriverio-boneyard/webdrivercss"
+],
+"dropped": [
+["2026-10-03","Robocular/frostbyte-screenshot-action"]
 ]
 }

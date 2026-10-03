@@ -1,5 +1,5 @@
 {
-"meta": {"description":":gem: A collection of awesome Crystal libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","crystal","shards","list","awesome-list"],"readmeSha":"12936be944ca897863b309c5a7ba3e7eeea050a4"},
+"meta": {"description":":gem: A collection of awesome Crystal libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","crystal","shards","list","awesome-list"],"readmeSha":"479d1577dc2782945b64ffa6318ba01d96e71db8"},
 "members": [
 "vshymanskyy/StandWithUkraine",
 "sindresorhus/awesome",
@@ -162,9 +162,10 @@
 "crystal-loot/exception_page",
 "graphql-crystal/graphql",
 "ziprandom/graphql-crystal",
+"urunsiyabend/kemal-identity",
 "kemalcr/kemal-session",
-"AndiLavera/mochi",
-"AndiLavera/motion.cr",
+"andilavera/mochi",
+"andilavera/motion.cr",
 "msa7/multi_auth",
 "ilanusse/praetorian",
 "systatum/rbacr",
@@ -419,5 +420,9 @@
 "crystal-lang-tools/scry",
 "Val/crun",
 "veelenga/crystal-zsh"
+],
+"dropped": [
+["2026-10-03","AndiLavera/mochi"],
+["2026-10-03","AndiLavera/motion.cr"]
 ]
 }

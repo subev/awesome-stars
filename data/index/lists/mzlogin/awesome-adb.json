@@ -1,5 +1,5 @@
 {
-"meta": {"description":"ADB Usage Complete / ADB 用法大全","defaultBranch":"master","topics":["android-adb","android-debug-bridge","android"],"readmeSha":"e75e599932b0bdbc6743cdfe72813675fadffc76"},
+"meta": {"description":"ADB Usage Complete / ADB 用法大全","defaultBranch":"master","topics":["android-adb","android-debug-bridge","android"],"readmeSha":"53ad09bad95c2c7949d6d928462a3e1cbbd51c68"},
 "members": [
 "aosp-mirror/platform_frameworks_base",
 "senzhk/ADBKeyBoard",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"0b4b03457cb7a056b574f16e6a2d28fbcde99992"},
+"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"be4e1743ba62b971c9b97f5f35022618ac9b5694"},
 "members": [
 "sindresorhus/awesome",
 "kdeldycke/awesome-iam",

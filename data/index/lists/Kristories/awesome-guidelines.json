@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Programming style, best practices, and coding conventions.","defaultBranch":"main","topics":["awesome","guidelines","coding-conventions","style-conventions","awesome-guidelines","awesome-list","code-quality","style-guide","hacktoberfest"],"readmeSha":"3b52c53cf92af7b9a7afc7c8e9e8b1b8fee1268c"},
+"meta": {"description":"Programming style, best practices, and coding conventions.","defaultBranch":"main","topics":["awesome","guidelines","coding-conventions","style-conventions","awesome-guidelines","awesome-list","code-quality","style-guide","hacktoberfest"],"readmeSha":"a2b70923d9fbf3bc12bb6be43a591fde0ab72a49"},
 "members": [
 "kodecocodes/c-sharp-style-guide",
 "bbatsov/clojure-style-guide",

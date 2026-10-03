@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"bbdbe11f1c795e08f01bde15385aa09b93c9a045"},
+"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"b19bf41863a321f8fdfdf78fa53d8128cf0ba986"},
 "members": [
 "rust-embedded/wg",
 "rust-embedded/rust-raspberrypi-OS-tutorials",
@@ -59,21 +59,22 @@
 "xmc-rs/xmc4500",
 "xmc-rs/xmc4700",
 "xmc-rs/xmc4800",
-"us-irs/zynq7000-rs",
-"us-irs/vorago-rs",
+"ustgt-irs/zynq7000-rs",
+"ustgt-irs/vorago-rs",
 "ra-rs/ra",
 "Rahix/avr-hal",
 "riscv-rust/e310x-hal",
 "stm32-rs/stm32f1xx-hal",
 "rust-embedded-community/tm4c-hal",
 "esp-rs/esp-hal",
-"esp-rs/esp-idf-hal",
+"esp-rs/esp-idf",
 "fudanchii/imtomu-rs",
 "im-tomu/toboot",
 "david-sawatzke/xmc1100-hal",
 "xmc-rs/xmc4-hal",
 "riscv-rust/gd32vf103xx-hal",
 "gd32v-rust/gd32vf103-hal",
+"Szizoid/gd32e2-hal",
 "rust-embedded/cortex-a",
 "rust-embedded/cortex-m",
 "rust-embedded/riscv",
@@ -221,6 +222,9 @@
 "ferrous-systems/embedded-trainings"
 ],
 "dropped": [
-["2026-09-11","drogue-iot/embedded-tls"]
+["2026-09-11","drogue-iot/embedded-tls"],
+["2026-10-03","us-irs/zynq7000-rs"],
+["2026-10-03","us-irs/vorago-rs"],
+["2026-10-03","esp-rs/esp-idf-hal"]
 ]
 }

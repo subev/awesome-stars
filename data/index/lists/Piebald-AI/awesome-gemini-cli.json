@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"3acf0a396ebe7e2a3ba75e87531d0fabc860b36f"},
+"meta": {"description":"A curated list of awesome tools, extensions, and resources for Gemini CLI.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gemini","gemini-api","gemini-cli","awesome-gemini-cli","llxprt","qwen","qwen-code"],"readmeSha":"f1215e3ef1aa0da3fc7694e744f4b34e177ba2e0"},
 "members": [
 "Piebald-AI/.github",
 "google-gemini/gemini-cli",
@@ -66,7 +66,7 @@
 "plasma-ai/wiki",
 "armoriq/armorGemini",
 "Maksim-Burtsev/punchcard",
-"sergeyizmailov/knowledge-delta-skills",
+"slilbudget/knowledge-delta-skills",
 "Nagarjuna2997/ios-agent-skill",
 "hermes-labs-ai/lintlang",
 "cohesivity-org/cohesivity-plugin",
@@ -76,6 +76,8 @@
 "minosin/gtdbrain-gemini-extension",
 "hermes-labs-ai/supersearch",
 "getclera/mcp",
+"hermes-labs-ai/hermeneutic",
+"MohammadHijjawi97/since-cutoff",
 "shinshin86/oh-my-logo",
 "SurefireStudios/tldr",
 "agent-sh/agnix",
@@ -121,6 +123,7 @@
 "Intelligent-Internet/gemini-cli-mcp-openai-bridge",
 "maximhq/bifrost",
 "harish-garg/gemini-cli-prompt-library",
+"Continuum-AI-Corp/OrcaPromptVault",
 "kaorii-ako/Shiori-v1",
 "Vortx-AI/emem",
 "lusha-oss/lusha-mcp-plugin",
@@ -151,6 +154,7 @@
 "minds-ai-co/minds-mcp",
 "samvallad33/vestige",
 "samvallad33/vestige-gemini",
+"ateymoori/oh-my-android",
 "gutsavgupta/nvim-gemini-companion",
 "JonRoosevelt/gemini-cli.nvim",
 "JunYang-tes/agents-parter.nvim",
@@ -171,6 +175,7 @@
 ],
 "dropped": [
 ["2026-08-28","ofekron/better-agent"],
-["2026-09-25","feder-cr/AIHawk"]
+["2026-09-25","feder-cr/AIHawk"],
+["2026-10-03","sergeyizmailov/knowledge-delta-skills"]
 ]
 }

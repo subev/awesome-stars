@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, content and projects using k6","defaultBranch":"main","topics":["load-testing","performance-monitoring","performance-testing","test-automation","testing","testing-tools","awesome","awesome-list","k6"],"readmeSha":"52c24d6ce88976f0ec5d7c4ba7fb51af85539480"},
+"meta": {"description":"A curated list of awesome tools, content and projects using k6","defaultBranch":"main","topics":["load-testing","performance-monitoring","performance-testing","test-automation","testing","testing-tools","awesome","awesome-list","k6"],"readmeSha":"3a83a13fe5351e3927f977dac5b3a590fe5ffa26"},
 "members": [
 "grafana-cold-storage/k6-learn",
 "grafana-cold-storage/k6-oss-workshop",
@@ -41,7 +41,7 @@
 "anycable/xk6-cable",
 "golioth/xk6-coap",
 "szkiba/xk6-dotenv",
-"distributedlabs/xk6-ethereum",
+"dvlden/xk6-ethereum",
 "grafana/xk6-faker",
 "avitalique/xk6-file",
 "szkiba/xk6-g0",
@@ -61,8 +61,12 @@
 "phymbert/xk6-sse",
 "NAlexandrov/xk6-tcp",
 "szkiba/xk6-top",
+"Dmitry-Fedotov-Dev/xk6-sip",
 "aliesbelik/how-they-load",
 "aliesbelik/load-testing-toolkit",
 "denji/awesome-http-benchmark"
+],
+"dropped": [
+["2026-10-03","distributedlabs/xk6-ethereum"]
 ]
 }

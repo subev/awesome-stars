@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"3c5b8adba41e0fe1d277f67bdc36ea6e387e15ff"},
+"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"ada52c3fb69ed915867acf9a63d02c93c7cdca7c"},
 "members": [
 "agentgateway/agentgateway",
 "maximhq/bifrost",
@@ -10,8 +10,6 @@
 "mcpjungle/MCPJungle",
 "obot-platform/obot",
 "Portkey-AI/gateway",
-"gravitee-io/gravitee-api-management",
-"wso2/product-apim",
 "ApicurioArchive/apicurio-studio",
 "apiaryio/dredd",
 "microsoft/kiota",
@@ -48,6 +46,8 @@
 "spring-cloud/spring-cloud-gateway",
 "traefik/traefik",
 "TykTechnologies/tyk",
+"gravitee-io/gravitee-api-management",
+"wso2/product-apim",
 "usebruno/bruno",
 "curl/curl",
 "rs/curlie",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Grist is the evolution of spreadsheets.","defaultBranch":"main","topics":["awesome","database","spreadsheet"],"readmeSha":"b17e25fd5f4e434152a7421b7e37e12b1c35888b"},
+"meta": {"description":"Grist is the evolution of spreadsheets.","defaultBranch":"main","topics":["awesome","database","spreadsheet"],"readmeSha":"20ce281668a7d59b8ef5115899bec257a9127bb2"},
 "members": [
 "gristlabs/grist-desktop",
 "gristlabs/grist-static",

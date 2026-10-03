@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"70120e8d8ca1c674dfc952bd53bee39c1499a5ed"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"0c3deee170b4aa3b23c53c1498a285c17c17f098"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -12,6 +12,7 @@
 "golikovichev/postman2pytest",
 "zaproxy/zaproxy",
 "projectdiscovery/nuclei",
+"ASCIT31/Dark-Moon",
 "promptfoo/promptfoo",
 "tenro-ai/tenro-python",
 "voicetestdev/voicetest",
@@ -22,12 +23,12 @@
 "dmsehgal/aiexpect",
 "Continuum-AI-Corp/OrcaReplay",
 "xag/flight-recorder",
+"Continuum-AI-Corp/OrcaPromptVault",
 "xnbox/DeepfakeHTTP",
 "faiscadev/fakecloud",
 "getmockd/mockd",
 "mock-server/mockserver-monorepo",
 "wiremock/wiremock",
-"Robocular/frostbyte-screenshot-action",
 "testdriverai/goodlooks",
 "retest/recheck-web",
 "sherlo-io/sherlo",
@@ -84,6 +85,7 @@
 "TheJambo/ToDoInterviewTest"
 ],
 "dropped": [
-["2026-09-25","altansayan/mock-jutsu-api"]
+["2026-09-25","altansayan/mock-jutsu-api"],
+["2026-10-03","Robocular/frostbyte-screenshot-action"]
 ]
 }

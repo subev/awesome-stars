@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"5eacd7c4ef8151f696355a1abe41865ede7609b1"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"7a84c40671973deb33b006d1d3c445ae080b13f0"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -21,6 +21,7 @@
 "promaaa/sync-calendar-omarchy",
 "mryll/claudebar",
 "rosakodu/omarchy-dock",
+"mtolhuys/fathom",
 "robzolkos/omarchy-github",
 "konradk/hass",
 "GreyforgeLabs/omarchy-hotbar",
@@ -38,11 +39,13 @@
 "AlexZeitler/omalibre",
 "huacnlee/omamail",
 "fross100/omaplug",
+"grichard99/omaproton-vpn",
 "onlyVishesh/omarchy-power-manager",
 "stappmus/Omarchy-Spotify",
 "zzwong/omarchy-stage",
 "bjarneo/omarchy-shell-plugins",
 "jkoestinger/omarchy-vpn",
+"dmitry-solomadin/omastocks",
 "momoi-labs/omarchy-pane-manager",
 "husamemadH/omarchy-quattro-prayer-times",
 "28allday/Quattrolitaire",

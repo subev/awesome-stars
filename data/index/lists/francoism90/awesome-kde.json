@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"c062bbe83663e21219a45a01a1a791e16e0ab51f"},
+"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"be4a1ee32cf13f76f462baba73b44241a80e9aec"},
 "members": [
 "Agundur-KDE/KCast",
 "TimInTech/blitztext-linux",
@@ -58,6 +58,7 @@
 "lingtjien/Grid-Tiling-Kwin",
 "anametologin/krohnkite",
 "kwin-scripts/kwin-tiling",
+"iacosta3994/panel-dodge",
 "MarianArlt/kde-plasma-chili",
 "stuomas/delicious-sddm-theme",
 "shalva97/kde-configuration-files"

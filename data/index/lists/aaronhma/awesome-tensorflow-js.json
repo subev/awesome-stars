@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js","defaultBranch":"master","topics":["awesome-list","awesome","tensorflow","tfjs","machine-learning"],"readmeSha":"3c8c5ee3f680b8ce8a90a98411979e07d29aa216"},
+"meta": {"description":"Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js","defaultBranch":"master","topics":["awesome-list","awesome","tensorflow","tfjs","machine-learning"],"readmeSha":"b833d6e947ecf7dfbd3c0679af46798becffc38a"},
 "members": [
 "tensorflow/tfjs",
 "tensorflow/tfjs-models",

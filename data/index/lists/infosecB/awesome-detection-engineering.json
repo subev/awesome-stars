@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.","defaultBranch":"main","topics":["detection-engineering","splunk","mitre","awesome-list","awesome","cybersecurity","threat-detection"],"readmeSha":"7442ebc59c182bd057cc69c70a77959d8124c10e"},
+"meta": {"description":"Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.","defaultBranch":"main","topics":["detection-engineering","splunk","mitre","awesome-list","awesome","cybersecurity","threat-detection"],"readmeSha":"4d1e373f337567c503aa36308ad1a54e635be7e7"},
 "members": [
 "palantir/alerting-detection-strategy-framework",
 "splunk/salo",

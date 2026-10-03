@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open source resources related to broadcast technologies","defaultBranch":"master","topics":["broadcast","broadcasting","awesome-list"],"readmeSha":"cc937a1bb8a77c3522ff8f3aa41a4ba726344df3"},
+"meta": {"description":"A curated list of amazingly awesome open source resources related to broadcast technologies","defaultBranch":"master","topics":["broadcast","broadcasting","awesome-list"],"readmeSha":"a2c77d600c62cf6a5084a1cf9c778442af0e5963"},
 "members": [
 "sindresorhus/awesome",
 "thaytan/aurena",
@@ -69,6 +69,7 @@
 "njh/rotter",
 "x42/silan",
 "njh/silentjack",
+"AlexandreLicinio/streampilot",
 "Netflix/vmaf",
 "MarcAntoine-Arnaud/wisual",
 "avTranscoder/avTranscoder",

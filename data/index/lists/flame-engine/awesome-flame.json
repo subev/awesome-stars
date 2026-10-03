@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.","defaultBranch":"main","topics":["flame","flutter","awesome","game","game-development","awesome-list","lists","resources"],"readmeSha":"658f3b2056b947351611c01c6e88879daa92cbe6"},
+"meta": {"description":"An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.","defaultBranch":"main","topics":["flame","flutter","awesome","game","game-development","awesome-list","lists","resources"],"readmeSha":"75805a8fb847f57647fbabf9d3bb7567f5ba1e4e"},
 "members": [
 "sindresorhus/awesome",
 "Dannark/FlameExamples",
@@ -8,6 +8,7 @@
 "Brixto/flame_texturepacker",
 "kurtome/leap",
 "misha/flame_fuse",
+"pleiondev/flutter3d",
 "lucasnlm/antimine-flutter",
 "cherrybit-studios/bob_box",
 "lucasnlm/snaake-flutter",

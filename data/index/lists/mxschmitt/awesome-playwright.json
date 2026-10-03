@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"f4b77df10e050984675b6b6684c0191343939696"},
+"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"ee87c6e67ea9c2273642ac2de7ad5584003ee108"},
 "members": [
 "microsoft/playwright",
 "artilleryio/artillery",
@@ -41,6 +41,7 @@
 "DetachHead/playwright-xpath",
 "DyHex/POMWright",
 "alcounit/selenosis",
+"supercorp-ai/supercov",
 "antibrow/antibrow",
 "browserless/browserless",
 "techinz/browsers-benchmark",
@@ -49,6 +50,7 @@
 "figranium/figranium",
 "feder-cr/invisible_playwright",
 "techinz/playwright-captcha",
+"half144/cutaway",
 "microsoft/playwright-mcp",
 "agentrhq/webcmd",
 "allure-framework/allure-js",
@@ -57,6 +59,7 @@
 "cenfun/monocart-reporter",
 "PiwiTests/platform",
 "ctrf-io/playwright-ctrf-json-reporter",
+"endformdev/playwright-opentelemetry",
 "ryanrosello-og/playwright-slack-report",
 "tesults/playwright-tesults-reporter",
 "inluxc/playwright-xray",
