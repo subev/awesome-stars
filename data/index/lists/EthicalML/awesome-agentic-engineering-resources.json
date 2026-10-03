@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"896b99d989c536bfb6b977c90205b00e4bfe9950"},
+"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"29a3f0f5ff5820bf0984c5196479f7682da4f0f3"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "EthicalML/awesome-production-machine-learning",
@@ -75,7 +75,8 @@
 "fixie-ai/ultravox",
 "assistant-ui/assistant-ui",
 "open-webui/open-webui",
-"vercel/ai"
+"vercel/ai",
+"Continuum-AI-Corp/Orca-AI-Incident-Archive"
 ],
 "dropped": [
 ["2026-09-05","QuivrHQ/quivr"]

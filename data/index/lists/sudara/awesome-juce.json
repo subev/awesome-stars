@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"ba45dd3254f1b23e71a18d9d31c2f553e58c4cad"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"6001a9c351f92fdcb827e7f6418a9a7a95c94458"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -111,8 +111,8 @@
 "DanielRudrich/ABComparisonPlugin",
 "dbaylies/JUCEVocoder",
 "lukemcraig/OvertoneFilter",
-"joonastuo/Delay",
 "ImJimmi/Contrast",
+"joonastuo/Delay",
 "joonastuo/Filter",
 "joonastuo/VibraFlanger",
 "AudioTK/ATK-MT2",

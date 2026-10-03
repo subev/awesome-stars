@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"ff16bae92c2b468667ad0aea551938e4da48bbe0"},
+"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"f5b34267f6034560b85673396e2f72896f0d7f95"},
 "members": [
 "lissy93/AdGuardian-Term",
 "tessus/apachetop",
@@ -144,6 +144,7 @@
 "SquareWaveSystems/opcilloscope",
 "anomalyco/opencode",
 "paololazzari/play",
+"carban/postbear",
 "darrenburns/posting",
 "Oloruntobi1/pproftui",
 "emanuele-em/proxelar",
@@ -207,6 +208,7 @@
 "andreybleme/lazycontainer",
 "jesseduffield/lazydocker",
 "owenrumney/lazytrivy",
+"janosmiko/lfk",
 "mrjackwills/oxker",
 "pommee/Pocker",
 "containers/podman-tui",
@@ -263,7 +265,7 @@
 "ilyakurdyukov/brickgame-4bit",
 "tmewett/BrogueCE",
 "thomas-mauran/chess-tui",
-"trevorbayless/cli-chess",
+"trb346/cli-chess",
 "ajeetdsouza/clidle",
 "nielssp/csol",
 "wojciech-graj/doom-ascii",
@@ -271,6 +273,7 @@
 "unhappychoice/gittype",
 "sachaos/go-life",
 "nathanieltooley/gokemon",
+"kanakOS01/gravitype",
 "antoniovazquezaraujo/LeTrain",
 "itchyny/maze",
 "agl-alexglopez/maze-tui",
@@ -419,6 +422,7 @@
 "imsnif/diskonaut",
 "Byron/dua-cli",
 "phanirithvij/distrobox-tui",
+"KenyonY/dtflow",
 "karimz1/dupster",
 "aws/amazon-ec2-instance-selector",
 "dmsc/emu2",
@@ -505,6 +509,7 @@
 "josueBarretogit/manga-tui",
 "schooldanlp6/marstui-rustio",
 "mps-youtube/yewtube",
+"FurqanHun/mpv-music",
 "gmt4/mpvc",
 "hrkfdn/ncspot",
 "trizen/pipe-viewer",
@@ -629,6 +634,7 @@
 "mrusme/zeit",
 "zellij-org/zellij",
 "da-luce/astroterm",
+"clainstone/cbirds",
 "unhappychoice/gitlogue",
 "st3w/neo",
 "inunix3/rxpipes",
@@ -662,6 +668,7 @@
 ],
 "dropped": [
 ["2026-09-19","simonmichael/hledger"],
-["2026-09-19","Horldsence/tuiserial"]
+["2026-09-19","Horldsence/tuiserial"],
+["2026-10-03","trevorbayless/cli-chess"]
 ]
 }

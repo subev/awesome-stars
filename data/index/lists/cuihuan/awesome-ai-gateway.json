@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"c0b009d9847d6b0d1abda4109cdde96fb3e63a60"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"b567153aaf956c415de0646305c3cfb824424301"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -133,6 +133,8 @@
 "MoonshotAI/K2-Vendor-Verifier",
 "toby-bridges/api-relay-audit",
 "cuihuan/modelprobe",
+"mnfst/llm-gateway",
+"btsouth/toolport",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",

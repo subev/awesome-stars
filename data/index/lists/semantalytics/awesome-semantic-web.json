@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"ba6c16b6b7ffb296494094507235c5a60728680b"},
+"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"f01eb77194de6a3f0cd567b84ed27acee4303b92"},
 "members": [
 "rollxx/manchester-syntax-owl2",
 "ontola/hextuples",
@@ -74,7 +74,7 @@
 "AKSW/SPARQL2NL",
 "clarkparsia/sparql-proxy",
 "AskNowQA/AutoSPARQL",
-"Matdata-eu/Yasgui",
+"Matdata-eu/MatGUI",
 "rdfjs/Yasgui",
 "TriplyDB/Yasgui",
 "Triply-Dev/YASGUI.legacy",
@@ -364,6 +364,7 @@
 "usc-isi-i2/ontology-visualization",
 "sparna-git/Sparnatural",
 "xdobry/rdfglance",
+"jhisse/metabase-sparql-driver",
 "lorenae/qb4olap-tools",
 "opencube-toolkit/OpenCube-Expander",
 "AKSW/cubeviz.ontowiki",
@@ -573,5 +574,8 @@
 "FAIR-IMPACT/MOD",
 "eXascaleInfolab/StaTIX",
 "klotzbenjamin/vss-ontology"
+],
+"dropped": [
+["2026-10-03","Matdata-eu/Yasgui"]
 ]
 }

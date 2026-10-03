@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Everything about Apache Kafka","defaultBranch":"master","topics":["awesome","kafka","awsome-list"],"readmeSha":"2ec1753f32c613a01f102a2eae5b9db37ed4c0b1"},
+"meta": {"description":"Everything about Apache Kafka","defaultBranch":"master","topics":["awesome","kafka","awsome-list"],"readmeSha":"665f9c011bea6a36477ebb2764a781c96c03d6f5"},
 "members": [
 "IBM/sarama",
 "jdamick/kafka",
@@ -64,6 +64,7 @@
 "karatelabs/karate-examples",
 "embeddedkafka/embedded-kafka",
 "devshawn/kafka-gitops",
+"avison9/cdclint",
 "cruise-control-for-kafka/cruise-control",
 "pinterest/DoctorK",
 "pinterest/orion",
@@ -130,6 +131,7 @@
 "redpanda-data/console",
 "zz85/kafka-streams-viz",
 "provectus/kafka-ui",
+"libredb/libredb-studio",
 "krallistic/kafka-operator",
 "strimzi/strimzi-kafka-operator",
 "lwolf/konsumerator",

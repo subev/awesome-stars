@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.","defaultBranch":"main","topics":["awesome","awesome-list","cli","cli-tools","command-line","developer-tools","modern-unix","rust","terminal","terminal-tools"],"readmeSha":"1b5823b63cb7de29e234ea617fb68aa8ae728060"},
+"meta": {"description":"A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.","defaultBranch":"main","topics":["awesome","awesome-list","cli","cli-tools","command-line","developer-tools","modern-unix","rust","terminal","terminal-tools"],"readmeSha":"677b669152ea5b20dac5c9fd2fc7cd9e9d55e610"},
 "members": [
 "sharkdp/bat",
 "aristocratos/btop",
@@ -175,6 +175,7 @@
 "janosmiko/lfk",
 "tconbeer/harlequin",
 "laixintao/iredis",
+"Ivy-Interactive/Ivy-Tendril",
 "jorgerojas26/lazysql",
 "dbcli/mycli",
 "dbcli/pgcli",
@@ -210,6 +211,7 @@
 "gomuks/gomuks",
 "pimalaya/himalaya",
 "newsboat/newsboat",
+"tlgrcli/tlgr",
 "anufrievroman/calcure",
 "Slackadays/Clipboard",
 "savedra1/clipse",

@@ -1,9 +1,10 @@
 {
-"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"38ca0166b82d946c53b0d0c43b4d93574e56e0da"},
+"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"a90b6764616e16282604834c334cc62f4d840593"},
 "members": [
 "wenhwu/awesome-remote-sensing-change-detection",
 "chickenbestlover/awesome-scene-change-detections",
 "MinZHANG-WHU/Change-Detection-Review",
+"yuqunw/scene_diff",
 "Henryeh310101/towards-practical-scene-change-detection",
 "Chumsy0725/3DGS-Uncertainty",
 "AutoCompSysLab/C3-Bench",
@@ -15,7 +16,6 @@
 "AutoCompSysLab/TERDNet",
 "AutoCompSysLab/VSCD",
 "C-NeRF/C-NeRF",
-"yuqunw/scene_diff",
 "ChadLin9596/Robust-Scene-Change-Detection",
 "520xyxyzq/3DGS-CD",
 "Timalph/EMPLACE",

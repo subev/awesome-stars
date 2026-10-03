@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"e3cc53f0c7f7ffadc112e227a374d474bdbad56a"},
+"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"c0e87587bd20bd0fbcd4569c5be11b4a7eaf0b14"},
 "members": [
 "COMBINE-lab/alevin-fry",
 "YeoLab/anchor",
@@ -7,6 +7,7 @@
 "IMB-Computational-Genomics-Lab/ascend",
 "Danko-Lab/BayesPrism",
 "dfajar2/bigSCale",
+"GregorLueg/bixverse",
 "YeoLab/bonvoyage",
 "BUStools/bustools",
 "gao-lab/Cell_BLAST",
@@ -52,13 +53,14 @@
 "scverse/rapids-singlecell",
 "genialis/RNAnorm",
 "asmagen/robustSingleCell",
-"mohuangx/SAVER",
+"nzhanglab/SAVER",
 "naikai/sake",
 "yuchaojiang/SCALE",
 "ayyucedemirbas/scAnalyzer",
 "scverse/scanpy",
 "jhu99/scbean",
 "SCCAF/sccaf",
+"TaylorResearchLab/scedar",
 "Neurosurgery-Brain-Tumor-Center-DiazLab/scell",
 "jamesjcai/scGEAToolbox",
 "dawe/schist",
@@ -116,6 +118,7 @@
 "kdkorthauer/scDD",
 "hms-dbmi/scde",
 "KChen-lab/SCMarker",
+"Sculptor815/scrnaseq-gene-specificity-screen",
 "zji90/SEPA",
 "linnarsson-lab/BackSPIN",
 "debsin/dropClust",
@@ -127,6 +130,7 @@
 "epierson9/ZIFA",
 "JSB-UCLA/scDEED",
 "NogaMudrik/PSNE-Poisson-Stochastic-Neighbor-Embedding",
+"shmohammadi86/ACTIONet",
 "AprilYuge/scAAnet",
 "catavallejos/BASiCS",
 "nghiavtr/BPSC",
@@ -348,5 +352,8 @@
 "crazyhottommy/RNA-seq-analysis",
 "scRNA-tools/scRNA-tools",
 "agitter/single-cell-pseudotime"
+],
+"dropped": [
+["2026-10-03","mohuangx/SAVER"]
 ]
 }

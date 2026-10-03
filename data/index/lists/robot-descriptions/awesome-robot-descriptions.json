@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome robot descriptions (URDF, MJCF)","defaultBranch":"main","topics":["awesome","awesome-list","urdf-descriptions","urdf-models","biped","humanoid","quadruped","robot","urdf","legged-robots"],"readmeSha":"cee004d4ee79774d61ec52220975517289a5d4b8"},
+"meta": {"description":"A curated list of awesome robot descriptions (URDF, MJCF)","defaultBranch":"main","topics":["awesome","awesome-list","urdf-descriptions","urdf-models","biped","humanoid","quadruped","robot","urdf","legged-robots"],"readmeSha":"6f9a9de8117de3170bd7fbdb7736154f91151a39"},
 "members": [
 "ianathompson/eDO_description",
 "google-deepmind/mujoco_menagerie",

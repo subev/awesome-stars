@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🎁 A collection of utilities for LeRobot.","defaultBranch":"main","topics":["openx","rlds","robomind","utils","agibot","robotics","lerobot","awesome","libero","robocasa"],"readmeSha":"262092a942598a24ece4997be16b485299fb705a"},
+"meta": {"description":"🎁 A collection of utilities for LeRobot.","defaultBranch":"main","topics":["openx","rlds","robomind","utils","agibot","robotics","lerobot","awesome","libero","robocasa"],"readmeSha":"0fe12f61e01ca4c655b1d365aa1cc1383ae71733"},
 "members": [
 "huggingface/lerobot",
 "EO-Robotics/EO1",
@@ -37,6 +37,7 @@
 "RoboticsData/score_lerobot_episodes",
 "masato-ka/lero",
 "huggingface/lerobot-dataset-visualizer",
+"noteflowai/robot-reel",
 "liorbenhorin/lerobot_so101_teleop",
 "fracapuano/robot-learning-tutorial",
 "learnsyslab/crisp_controllers"

@@ -1,13 +1,16 @@
 {
-"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"75bc471ba4000580f39969be0373b39e935e733b"},
+"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"52a8ff50a8a45df1bed441216163dccb5d507a3a"},
 "members": [
+"vostride/agent-qa",
 "avajs/ava",
+"PramodDutta/browserbash",
 "smartystreets/goconvey",
 "jumpstarter-dev/jumpstarter",
 "karatelabs/karate",
 "asmyshlyaev177/test-proxy-recorder",
 "TestStack/White",
 "sherlo-io/sherlo",
+"jo-duchan/tapflow",
 "dequelabs/axe-core",
 "restqa/restqa"
 ]

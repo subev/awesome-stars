@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets","defaultBranch":"master","topics":[],"readmeSha":"782f34fa64ff5e7bd6f3f53994de1feeb63f3168"},
+"meta": {"description":"A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets","defaultBranch":"master","topics":[],"readmeSha":"ecde4d031c090c21e1e9e8001fa2e309496e65c7"},
 "members": [
 "planetopendata/awesome-world",
 "openfootball/awesome-football",

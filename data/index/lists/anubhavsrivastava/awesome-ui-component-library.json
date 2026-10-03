@@ -1,11 +1,12 @@
 {
-"meta": {"description":"Curated list of framework component libraries for UI styles/toolkit","defaultBranch":"master","topics":["components","library","component-library","toolkit","ui-components","ui-kit","ui-toolkit","awesome","awesome-list","framework"],"readmeSha":"90c88b9f80850801b2ce89e31fb64645da1d3e78"},
+"meta": {"description":"Curated list of framework component libraries for UI styles/toolkit","defaultBranch":"master","topics":["components","library","component-library","toolkit","ui-components","ui-kit","ui-toolkit","awesome","awesome-list","framework"],"readmeSha":"5e0e0ed2a0830e65af466c0d9ad44f9a1e11d0d7"},
 "members": [
 "anubhavsrivastava/awesome-ux-design-styles",
 "arwes/arwes",
 "ant-design/ant-design",
 "ant-design/ant-design-pro",
 "nikgraf/belle",
+"allxsmith/bestax",
 "appearhere/bloom",
 "helpscout/hsds-react",
 "palantir/blueprint",
@@ -43,6 +44,7 @@
 "textkernel/oneui",
 "OnsenUI/OnsenUI",
 "kiwicom/orbit",
+"syeddhasnainn/pastaui",
 "patternfly/patternfly-react",
 "patternfly/patternfly-design-kit",
 "pivotal-cf/pivotal-ui",
@@ -141,7 +143,7 @@
 "Semantic-UI-Vue/Semantic-UI-Vue",
 "guilhermewaess/SemVue",
 "vuejs/ui",
-"uiv-lib/uiv",
+"wxsms/uiv",
 "youzan/vant",
 "vuetifyjs/vuetify",
 "chenz24/vue-blu",
@@ -249,9 +251,11 @@
 "morkro/vue-a11y-dialog",
 "AgnosticUI/svelte-a11y-dialog",
 "AgnosticUI/a11y-tabs",
-"scottaohara/accessible_components"
+"scottaohara/accessible_components",
+"reactivepixels/riffle"
 ],
 "dropped": [
-["2026-08-29","Radian-os/radianui"]
+["2026-08-29","Radian-os/radianui"],
+["2026-10-03","uiv-lib/uiv"]
 ]
 }

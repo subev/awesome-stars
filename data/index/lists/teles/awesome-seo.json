@@ -1,6 +1,21 @@
 {
-"meta": {"description":":star2: A curated list of SEO (Search Engine Optimization) links.","defaultBranch":"main","topics":["seo","hacktoberfest"],"readmeSha":"db0056c3b249af2fe64bda7918d51a5f7c80e9ea"},
+"meta": {"description":":star2: A curated list of SEO (Search Engine Optimization) links.","defaultBranch":"main","topics":["seo","hacktoberfest"],"readmeSha":"5d1f9e2c81ec9514fcd151809ad4074b961e1f41"},
 "members": [
-
+"toolsura/gsc-indexer",
+"dannwaneri/seo-agent",
+"testedmedia/seo-command-center",
+"JosephDoUrden/vercel-seo-audit",
+"TryGeoSuite/ai-crawler-bots",
+"lourdespaul/chatgpt-citation-checker",
+"WorkSmartAI-alt/citable",
+"iliasabk/geolint",
+"Auriti-Labs/geo-optimizer-skill",
+"danishashko/geo-aeo-tracker",
+"thomasmerlaud/mesure-citations",
+"nowork-studio/notfair-plugin",
+"nowork-studio/notfair-plugin",
+"henu-wang/wordpress-geo-optimizer",
+"ZensInk/zens-ink-seo-package",
+"Aghefendi/nextjs-jsonld-schema"
 ]
 }

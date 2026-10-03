@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"d6104adc94b5f663b272ee88a96fd2256b38609c"},
+"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"5322a05bf9abfddb612492bb777f40b12c624370"},
 "members": [
 "sindresorhus/awesome",
 "adam-p/markdown-here",
@@ -31,6 +31,7 @@
 "AtlantsEmbedded/IntelliPi",
 "sccn/labstreaminglayer",
 "shiva16/Adam-EEG",
+"carlos-lorenzo/neurodaq",
 "OpenEIT/EIT_EE",
 "meagmohit/EEG-Datasets",
 "NeuroTechX/bci-workshop",

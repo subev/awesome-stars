@@ -1,8 +1,8 @@
 {
-"meta": {"description":"A list of awesome projects that use the Buttplug Sex Toy Control Library","defaultBranch":"buttplugs","topics":[],"readmeSha":"ce75b52d82cf1275d931361d5b31fd819cbb7bb0"},
+"meta": {"description":"A list of awesome projects that use the Buttplug Sex Toy Control Library","defaultBranch":"buttplugs","topics":[],"readmeSha":"ae3f02a60a059d779fc1beff1aa6d362b2ddaaee"},
 "members": [
 "intiface/intiface-central",
-"intiface/buttplug-playground",
+"buttplugio/buttplug-playground",
 "MaidKun/buttplug-editor",
 "kyrahabattoir/ToyWebBridge",
 "jackmg2/ToyControl",
@@ -28,6 +28,7 @@
 "denendaden/vibe-rs",
 "cyongjin37/LLMBTPLG",
 "feel8-fun/f8studio",
+"PsychoSmiley/cumpredict",
 "jerrymakefun/remotetoys",
 "notSafeForDev/flash-toy-sync-v3",
 "ConAcademy/buttplug-mcp",
@@ -103,7 +104,7 @@
 "buttplugio/buttplug-unity",
 "RemotelyChaotic/JOIPEngine",
 "Das-L1/Buttplug-Says",
-"ashy0019/HapticScape",
+"birdturtle/HapticScape",
 "SuhEugene/plug13",
 "Grinless/StealthWank",
 "SaekoM/Fap-Hero-Journey",
@@ -298,6 +299,8 @@
 "nekowinston/intiface-nix"
 ],
 "dropped": [
-["2026-09-05","MinLL/GameInterfaceForToys"]
+["2026-09-05","MinLL/GameInterfaceForToys"],
+["2026-10-03","intiface/buttplug-playground"],
+["2026-10-03","ashy0019/HapticScape"]
 ]
 }

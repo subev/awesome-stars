@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"842fcfa96a0f57ea08a152953b7b09bd6d604f40"},
+"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"457bbe81882319880013c2e9048c90d9ede43899"},
 "members": [
 "PauloMigAlmeida/AlmeidaOS",
 "frednora/gramado",
@@ -107,6 +107,7 @@
 "cfenollosa/os-tutorial",
 "s-matyukevich/raspberry-pi-os",
 "flydeoo/mya",
+"Cryogenicboom/Amunix",
 "sam4k/linux-kernel-resources",
 "xairy/linux-kernel-exploitation",
 "sysprog21/fibdrv",

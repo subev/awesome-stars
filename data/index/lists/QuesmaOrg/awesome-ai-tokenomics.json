@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"da60454121483f599a8632eae3292079e15625ce"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"d01ec59f48c56945afcc88906c6fe9dfcf6c1702"},
 "members": [
 "antiburn/antiburn",
 "ccusage/ccusage",
@@ -33,6 +33,7 @@
 "rtk-ai/rtk",
 "edouard-claude/snip",
 "toon-format/toon",
+"nguyenvuthientrang/cliffcompaction",
 "openai/codex",
 "yamadashy/repomix",
 "NVIDIA/RULER",
@@ -74,6 +75,7 @@
 "NVIDIA/TensorRT-LLM",
 "vllm-project/vllm",
 "withcoral/coral",
+"roy-tong/AgentMeasure",
 "OptimNow/cloud-finops-skills",
 "eunomia-bpf/ActPlane",
 "Justin0504/Aegis",

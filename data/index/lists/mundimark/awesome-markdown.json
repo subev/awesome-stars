@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)","defaultBranch":"master","topics":[],"readmeSha":"74472911d3f267a69401bab041d0b63eed5deb98"},
+"meta": {"description":"A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)","defaultBranch":"master","topics":[],"readmeSha":"55d30ea473c09a7a5a0c997de0d2fa7ef0dc27d1"},
 "members": [
 "mundimark/awesome-markdown-editors",
 "jgm/djot",
@@ -7,6 +7,7 @@
 "texti/texti.github.io",
 "markup-carve/carve",
 "markup-carve/awesome-carve",
+"geml-spec/geml",
 "WebpageFX/emoji-cheat-sheet.com",
 "fletcher/MMD-Test-Suite",
 "fletcher/MultiMarkdown",

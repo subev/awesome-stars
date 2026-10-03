@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"cf113f6572576fdadeb87cdc8b130130f7d5eee4"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"c6f9defdeb26e90539ee3b398e81871541972873"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -29,6 +29,7 @@
 "pachterlab/sleuth_paper_analysis",
 "pachterlab/MBGBLHGP_2019",
 "pachterlab/CWGFLHGCCHAP_2021",
+"TheFutureEdge/open-forecast-receipt",
 "pditommaso/awesome-pipeline",
 "veggiemonk/awesome-docker",
 "qinwf/awesome-R",
