@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"ff52c41f4111036fff26f56c73f65158bb9a386a"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"87d18ece2f0e8c8210ac113fbb1c7cc6668fb993"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -405,6 +405,7 @@
 "qubvel-org/segmentation_models.pytorch",
 "qubvel/segmentation_models",
 "ml-explore/mlx",
+"ILYAGRISH/yolo-annotator",
 "lancopku/pkuseg-python",
 "clips/pattern",
 "machinalis/quepy",

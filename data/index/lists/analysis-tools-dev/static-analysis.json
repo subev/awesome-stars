@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"17a97a87ebf3203d714948ac179946e4a1a299ad"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"b6f76b474a2bb36dcaae95c78f27db5906f5e1f5"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -119,6 +119,7 @@
 "purcell/sqlint",
 "tsqllint/tsqllint",
 "scapegoat-scala/scapegoat",
+"openstack/bashate",
 "anordal/shellharden",
 "nicklockwood/SwiftFormat",
 "ActiveState/tdk",
@@ -203,6 +204,7 @@
 "ossf/scorecard",
 "google/tsunami-security-scanner",
 "crytic/slither",
+"ember-template-lint/ember-template-lint",
 "sds/haml-lint",
 "sds/slim-lint",
 "mozilla/dennis",
@@ -217,7 +219,6 @@
 ["2026-08-27","designsecurity/progpilot"],
 ["2026-08-27","nrempel/sleek"],
 ["2026-08-27","SAP-archive/credential-digger"],
-["2026-08-27","ember-template-lint/ember-template-lint"],
 ["2026-09-04","MetricsGrimoire/CMetrics"],
 ["2026-09-04","dspinellis/cqmetrics"],
 ["2026-09-04","NASA-SW-VnV/ikos"],
@@ -260,7 +261,6 @@
 ["2026-09-04","iomentum/cargo-breaking"],
 ["2026-09-04","japaric/cargo-call-stack"],
 ["2026-09-04","rust-lang/rustfix"],
-["2026-09-04","openstack/bashate"],
 ["2026-09-04","ediardo/kmdr-cli"],
 ["2026-09-04","koknat/callGraph"],
 ["2026-09-04","Tencent/TscanCode"],

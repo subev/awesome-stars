@@ -1,8 +1,9 @@
 {
-"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"c39b2a4ae47bae34682278f8d6e18ba94e314c5e"},
+"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"2e4bc9ff5cd3019ab5291ce8416c855f26b8ed43"},
 "members": [
 "Godot-Languages-Support/godot-lang-support",
 "TinyTakinTeller/GodotProjectZero",
+"sourceofmana/sourceofmana",
 "unknown-horizons/godot-port",
 "max99x/wutw-public",
 "GaidamakUA/blipshift",
@@ -48,6 +49,7 @@
 "MewPurPur/GodSVG",
 "mbrlabs/Lorien",
 "RodZill4/material-maker",
+"sachinthankachan/msdf-atlas-studio",
 "Orama-Interactive/Pixelorama",
 "protongraph/protongraph",
 "alfredbaudisch/Godello",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"c8278c15367584c4f5e8911f4d9a7f5ae9e54b8b"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"3c017ed6dca5ebd983b10faad8630db197ae926c"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "getsentry/skills",

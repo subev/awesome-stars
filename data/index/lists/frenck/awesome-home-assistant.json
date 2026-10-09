@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"5c397bd2ee299bc15b570cd70ecfd99d22b3b3ec"},
+"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"5763e90c95ba44001df6dd459884f98cb2d2022d"},
 "members": [
 "blakeblackshear/frigate",
 "Koenkk/zigbee2mqtt",
@@ -196,21 +196,21 @@
 "hassio-addons/app-unifi",
 "hassio-addons/app-node-red",
 "hassio-addons/app-plex",
-"hassio-addons/addon-influxdb",
-"hassio-addons/addon-grafana",
+"hassio-addons/app-influxdb",
+"hassio-addons/app-grafana",
 "hassio-addons/app-tor",
 "hassio-addons/app-spotify-connect",
 "AppDaemon/appdaemon",
-"hassio-addons/addon-tasmoadmin",
+"hassio-addons/app-tasmoadmin",
 "hassio-addons/app-aircast",
 "hassio-addons/app-airsonos",
 "hassio-addons/addon-log-viewer",
-"hassio-addons/addon-tautulli",
-"hassio-addons/addon-motioneye",
-"hassio-addons/addon-jupyterlab",
+"hassio-addons/app-tautulli",
+"hassio-addons/app-motioneye",
+"hassio-addons/app-jupyterlab",
 "hassio-addons/app-glances",
 "hassio-addons/app-adguard-home",
-"hassio-addons/addon-traccar",
+"hassio-addons/app-traccar",
 "sabeechen/hassio-google-drive-backup",
 "hassio-addons/app-grocy",
 "crowdsecurity/home-assistant-addons",
@@ -235,5 +235,14 @@
 "HQarroum/awesome-iot",
 "awesome-mqtt/awesome-mqtt",
 "awesome-selfhosted/awesome-selfhosted"
+],
+"dropped": [
+["2026-10-09","hassio-addons/addon-influxdb"],
+["2026-10-09","hassio-addons/addon-grafana"],
+["2026-10-09","hassio-addons/addon-tasmoadmin"],
+["2026-10-09","hassio-addons/addon-tautulli"],
+["2026-10-09","hassio-addons/addon-motioneye"],
+["2026-10-09","hassio-addons/addon-jupyterlab"],
+["2026-10-09","hassio-addons/addon-traccar"]
 ]
 }

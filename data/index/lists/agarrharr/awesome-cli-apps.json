@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"3af2719ec0b1b4c7e0edccc8adbaf7fb4eda8e00"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"c349390606ab8390659b1a669f0b2ca010995c7d"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",
@@ -62,6 +62,7 @@
 "pycontribs/mk",
 "Chrilleweb/dotenv-diff",
 "ota-run/ota",
+"persiyanov/herdr-reviewr",
 "emacs-mirror/emacs",
 "vim/vim",
 "neovim/neovim",

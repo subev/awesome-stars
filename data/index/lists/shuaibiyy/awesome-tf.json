@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"2dbaa53488650bab7a00a8809c364ad89ff16571"},
+"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"170cae6df570c1ee9e29eb7a9cd6022c82edfe3b"},
 "members": [
 "sindresorhus/awesome",
 "antonbabenko/terraform-docs-as-pdf",
@@ -55,7 +55,6 @@
 "terraform-aws-modules/terraform-aws-transit-gateway",
 "terraform-aws-modules/terraform-aws-vpc",
 "terraform-aws-modules/terraform-aws-vpn-gateway",
-"kjanshair/terraform-azurerm-aks",
 "ghostinthewires/terraform-azurerm-iis-install",
 "foreverXZC/terraform-azurerm-mysql",
 "rahulkhengare/terraform-azurerm-redis",
@@ -173,6 +172,7 @@
 "rogerwelin/cfnctl",
 "bridgecrewio/checkov",
 "gebalamariusz/cloud-audit",
+"towardsthecloud/cloudburn",
 "coretech/terrafile",
 "cynative/cynative",
 "schrieksoft/demonolith",
@@ -348,5 +348,8 @@
 "jvirtanen/vim-hcl",
 "juliosueiras/vim-terraform-completion",
 "hashivim/vim-terraform"
+],
+"dropped": [
+["2026-10-09","kjanshair/terraform-azurerm-aks"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"875081533d2758785f329b2692b218c42ea32cb7"},
+"meta": {"description":"A curated list of awesome Jupyter projects, libraries and resources","defaultBranch":"master","topics":["jupyter-notebook","jupyter","jupyterhub","jupyterlab","awesome","awesome-list","python","visualization","frontend","jupyterlab-extension"],"readmeSha":"e209fa9df19683bbfde616475fa307b29b4f8a2f"},
 "members": [
 "jupyter/docker-stacks",
 "nteract/hydrogen",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"896fad7252b59f25d87b401a2b9642ed1958a0c1"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"d3e271ee3396993394c6e31e414dc77a38e79742"},
 "members": [
 "alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
@@ -484,11 +484,13 @@
 "ThorstenRhau/token",
 "oskarnurm/koda.nvim",
 "yonatanperel/lake-dweller.nvim",
+"daaanny90/zed.nvim",
 "silentium-theme/silentium.nvim",
 "serhez/teide.nvim",
 "harukikuri/yoda.nvim",
 "wurli/cobalt.nvim",
 "datsfilipe/min-theme.nvim",
+"daaanny90/claude-desktop.nvim",
 "github-main-user/lytmode.nvim",
 "datsfilipe/vesper.nvim",
 "sontungexpt/witch",
@@ -583,6 +585,7 @@
 "judaew/ronny.nvim",
 "ribru17/bamboo.nvim",
 "cryptomilk/nightcity.nvim",
+"daaanny90/iterm2-dark-background.nvim",
 "polirritmico/monokai-nightasty.nvim",
 "oxfist/night-owl.nvim",
 "sdras/night-owl-vscode-theme",
@@ -628,6 +631,9 @@
 "mitander/flume.nvim",
 "aadielpr/bono.nvim",
 "art220/dancheong.nvim",
+"jonestristand/dune.nvim",
+"2giosangmitom/nightfall.nvim",
+"oxidescheme/nvim",
 "tjdevries/colorbuddy.nvim",
 "norcalli/nvim-base16.lua",
 "rktjmp/lush.nvim",
@@ -906,6 +912,7 @@
 "nvim-neotest/neotest-jest",
 "MisanthropicBit/neotest-busted",
 "mr-u0b0dy/crazy-coverage.nvim",
+"nghiant03/jove.nvim",
 "wurli/jet.nvim",
 "rafcamlet/nvim-luapad",
 "michaelb/sniprun",
@@ -1351,7 +1358,6 @@
 "pgosar/CyberNvim",
 "sontungexpt/stinvim",
 "Abstract-IDE/Abstract",
-"syl20bnr/spacemacs",
 "CosmicNvim/CosmicNvim",
 "artart222/CodeArt",
 "LazyVim/LazyVim",
@@ -1428,6 +1434,7 @@
 ["2026-09-11","0xstepit/flow.nvim"],
 ["2026-09-11","mrjones2014/smart-splits.nvim"],
 ["2026-09-25","mistweaverco/kulala.nvim"],
-["2026-10-02","markosnarinian/fold-logging.nvim"]
+["2026-10-02","markosnarinian/fold-logging.nvim"],
+["2026-10-09","syl20bnr/spacemacs"]
 ]
 }

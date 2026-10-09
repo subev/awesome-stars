@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"0a3bc02e51dab674eb5f38a1999ffa893e41406f"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"e1b69cefe64bfa7ac698daeb9604fbd8cffc4666"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -677,6 +677,7 @@
 "jekyll/classifier-reborn",
 "SciRuby/daru",
 "SciRuby/daru-view",
+"ankane/ruby-polars",
 "monora/rgl",
 "SciRuby/nmatrix",
 "ruby-numo/numo-narray",
@@ -737,6 +738,7 @@
 "randym/axlsx",
 "Paxa/fast_excel",
 "roo-rb/roo",
+"woahdae/simple_xlsx_reader",
 "westonganger/spreadsheet_architect",
 "aasm/aasm",
 "piotrmurach/finite_machine",

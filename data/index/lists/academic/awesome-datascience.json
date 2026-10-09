@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"d53b856442bb5002766812ee677a0f542b862447"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"0ec4f2faa3bb14c8ff4efc29f6339663856b3223"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",

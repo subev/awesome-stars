@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"c8e47f8d996181cafbadff0baf5403cc6aefeda9"},
+"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"3cb4e6d7be940d367a17c04870dae8014487a7b8"},
 "members": [
 "maaaaz/androwarn",
 "sonyxperiadev/ApkAnalyser",
@@ -52,7 +52,7 @@
 "federicodotta/Brida",
 "ByteSnipers/mobile-pentest-toolkit",
 "den4uk/andriller",
-"vwww-droid/Mira",
+"vw2x/Mira",
 "script-or-script/FlutterTap",
 "blackfoxxx/Mobix",
 "JesusFreke/smali",
@@ -128,5 +128,8 @@
 "tanprathan/MobileApp-Pentest-Cheatsheet",
 "ashishb/android-malware",
 "B3nac/Android-Reports-and-Resources"
+],
+"dropped": [
+["2026-10-09","vwww-droid/Mira"]
 ]
 }

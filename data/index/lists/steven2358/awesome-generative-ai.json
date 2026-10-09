@@ -1,11 +1,11 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"21627e0f36df67f12700040df8082ed09cdbab01"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"cf90ffc013d1a47e91ba06081827e2e2c5203179"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
 "MoonshotAI/Kimi-K2",
 "zai-org/GLM-5",
-"danny-avila/LibreChat",
+"LibreChat-AI/LibreChat",
 "mckaywrigley/chatbot-ui",
 "zylon-ai/private-gpt",
 "The-Vibe-Company/quivr",
@@ -112,6 +112,7 @@
 ],
 "dropped": [
 ["2026-09-04","QuivrHQ/quivr"],
-["2026-09-18","mnfst/manifest"]
+["2026-09-18","mnfst/manifest"],
+["2026-10-09","danny-avila/LibreChat"]
 ]
 }

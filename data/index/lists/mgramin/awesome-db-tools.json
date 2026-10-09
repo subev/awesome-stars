@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Everything that makes working with databases easier","defaultBranch":"master","topics":["awesome","awesome-list","database","monitoring","sql-client","visualization","database-management","cross-database","ide"],"readmeSha":"a396ad11264bf9409ad57229f0a66c3c6bd4cdd4"},
+"meta": {"description":"Everything that makes working with databases easier","defaultBranch":"master","topics":["awesome","awesome-list","database","monitoring","sql-client","visualization","database-management","cross-database","ide"],"readmeSha":"3d895a54b981e89867df06d4ac887ab76999aca4"},
 "members": [
 "multiprocessio/datastation",
 "dbeaver/dbeaver",
@@ -194,7 +194,7 @@
 "dataegret/pg-utils",
 "NikolayS/postgres_dba",
 "tanelpoder/tpt-oracle",
-"dbt-labs/dbt-core",
+"dbt-labs/dbt",
 "amundsen-io/amundsen",
 "datahub-project/datahub",
 "MarquezProject/marquez",
@@ -217,5 +217,8 @@
 "mgramin/database-as-code",
 "mindsdb/mindshub",
 "sql-machine-learning/sqlflow"
+],
+"dropped": [
+["2026-10-09","dbt-labs/dbt-core"]
 ]
 }

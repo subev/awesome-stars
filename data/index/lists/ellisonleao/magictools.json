@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"f365cc1927af51eb9e9a1a12f620e560a3e4af6b"},
+"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"dc6cc1987674318bb66bae29987c3443c21242f5"},
 "members": [
 "sindresorhus/awesome",
 "nidorx/matcaps",
@@ -62,7 +62,6 @@
 "OpenXRay/xray-16",
 "braedonsaunders/parlour",
 "PixelVision8/PixelVision8",
-"kitao/pyxel",
 "Rajawali/Rajawali",
 "ColleagueRiley/RGFW",
 "attackgoat/vk-graph",
@@ -80,7 +79,6 @@
 "ericjohnson/canabalt-ios",
 "id-Software/DOOM-3",
 "id-Software/DOOM",
-"Scottcjn/legend-of-elya-n64",
 "NetHack/NetHack",
 "OpenRA/OpenRA",
 "OpenTTD/OpenTTD",
@@ -93,5 +91,9 @@
 "TerryCavanagh/VVVVVV",
 "miloyip/game-programmer",
 "lettier/3d-game-shaders-for-beginners"
+],
+"dropped": [
+["2026-10-09","kitao/pyxel"],
+["2026-10-09","Scottcjn/legend-of-elya-n64"]
 ]
 }

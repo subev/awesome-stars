@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"a34eac69ba858e0e90a01c950f5dc2737b910143"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"3a2dff8fec8a5ba6fb1c79b29b161c44b734960e"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -228,6 +228,7 @@
 "apollographql/apollo-ios",
 "manicmaniac/ApolloDeveloperKit",
 "nerdsupremacist/Graphaello",
+"shergin/baton",
 "apollographql/frontpage-ios-app",
 "oliyh/re-graph",
 "apollographql/reason-apollo",
