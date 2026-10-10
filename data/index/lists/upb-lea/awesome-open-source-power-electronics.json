@@ -1,9 +1,10 @@
 {
-"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"c1aa3028b6f6ce65a29eab70a46af4f768488d15"},
+"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"d29a33c552abb9a99627fc30397ba21fdc7fb752"},
 "members": [
 "FOSSEE/eSim",
 "geckocircuits/GeckoCIRCUITS",
 "Aalto-Electric-Drives/motulator",
+"lonaparte/PESLite",
 "upb-lea/pygeckocircuits2",
 "upb-lea/transistordatabase",
 "AJEngineering/circuit-calcs",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"8a5883d6bce24aafdbf34003ce3efd6dbed95b3a"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"38fe4e78fbe020077c8b8f45f0fda69a9622d179"},
 "members": [
 "sindresorhus/awesome",
 "ota-run/ota",
@@ -21,7 +21,6 @@
 "ASCIT31/Dark-Moon",
 "aquasecurity/kube-bench",
 "opcr-io/policy",
-"AndrewDryga/emisar",
 "agynio/platform",
 "kubestellar/console",
 "skyhook-io/radar",
@@ -46,5 +45,8 @@
 "Permify/permify",
 "toptechevangelist/awesome-platform-engineering",
 "jakob-pennington/awesome-devsecops"
+],
+"dropped": [
+["2026-10-10","AndrewDryga/emisar"]
 ]
 }

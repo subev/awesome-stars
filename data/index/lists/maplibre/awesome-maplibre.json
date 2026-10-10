@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"dcc804d82f314247359d7b9245527a1e3f6b74a0"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"be6dec47b664a954bea19c0386bbe8bd855a4fc7"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -135,6 +135,7 @@
 "mvt-proj/maplibre-legend",
 "bjperson/maplibre-gl-video-export",
 "amine-a11/mapbox-expr-lang",
+"francoisbl/stipple",
 "mapbox/mapbox-gl-framerate",
 "MazeMap/mapbox-gl-fps",
 "maplibre/maplibre-gl-inspect",
@@ -158,6 +159,7 @@
 "gramps-project/gramps-web",
 "dominicm2023/groundwatercast-uk",
 "tinykite/herb-atlas",
+"egmalt/house-planner",
 "vria-consulting/vria-fire-detect",
 "elastic/kibana",
 "digidem/maplibre-storymap",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"44db600af7071731c5cbf6c4b7d5e0724327f915"},
+"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"69c5bca7c4c249ec86a825a417c9fa3a15fb03bd"},
 "members": [
 "planetjekyll/awesome-jekyll-themes",
 "planetjekyll/awesome-jekyll-plugins",

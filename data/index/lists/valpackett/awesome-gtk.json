@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"3a78327496536a67aa66f64c36374fef41b8b4c6"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"772ac2ea5544c539283627215e12bb661dafa219"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -49,7 +49,6 @@
 "pojntfx/multiplex",
 "DYefremov/TVDemon",
 "subtitleeditor/subtitleeditor",
-"henrywoo/kazam",
 "SeaDve/Kooha",
 "stronnag/wayfarer",
 "soyersoyer/cameractrls",
@@ -98,6 +97,7 @@
 "diamondburned/dissent",
 "paper-plane-developers/paper-plane",
 "hyprlab/hylki",
+"stalvatero/letter",
 "elementary/mail",
 "jdobonb/datafall",
 "gabutakut/gabutdm",
@@ -223,7 +223,6 @@
 "zesterer/vulcan",
 "linuxmint/xed",
 "eyelash/xi-gtk",
-"nilgradisnik/markdown-rs",
 "fabiocolacio/Marker",
 "Mandarancio/scidown",
 "lainsce/quilter",
@@ -317,6 +316,8 @@
 "sp1ritCS/fidei"
 ],
 "dropped": [
-["2026-09-19","hyprlab/vireo"]
+["2026-09-19","hyprlab/vireo"],
+["2026-10-10","henrywoo/kazam"],
+["2026-10-10","nilgradisnik/markdown-rs"]
 ]
 }

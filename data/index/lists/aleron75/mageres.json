@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of useful Magento technical resources","defaultBranch":"master","topics":["magento","magento2","awesome-list"],"readmeSha":"31a005ce946c89884b061ce97f47df8084f43110"},
+"meta": {"description":"A list of useful Magento technical resources","defaultBranch":"master","topics":["magento","magento2","awesome-list"],"readmeSha":"764f30476002e73b6cabb5038ee53f1b6f1c90b7"},
 "members": [
 "magento/magento2",
 "magento-l10n/i18n",

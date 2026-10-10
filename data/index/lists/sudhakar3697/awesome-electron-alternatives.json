@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"602bcc377b9ddafae55178d472b4ddc9e1ef6df1"},
+"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"367c1b9a65ac9b4d1198971b2cace52b1b523a90"},
 "members": [
 "Elanis/web-to-desktop-framework-comparison",
 "tealsnow/awesome-electron-alternatives",
@@ -13,6 +13,7 @@
 "InfiniLore/InfiniFrame",
 "webview/webview",
 "saucer/saucer",
+"ivanvoyager/PhotinoX.Cpp",
 "Rafi993/tiny",
 "Ravbug/UnityHubNative",
 "spur27/RenWeb-Engine",

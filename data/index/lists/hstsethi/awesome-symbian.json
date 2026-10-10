@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["n-gage","ngage","nokia","symbian","awesome","awesome-list","cpp","j2me","midp","qt"],"readmeSha":"39b8dc4d59e4e4c47e688a8fcee5665ed19db729"},
+"meta": {"description":"An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["n-gage","ngage","nokia","symbian","awesome","awesome-list","cpp","j2me","midp","qt"],"readmeSha":"f8e6b7e0244e5e2464ad436571e8ccc683ec9dc4"},
 "members": [
 "fedor4ever/GCC4Symbian",
 "djbozkosz/Symbian-HomeScreen-Widget-QML",

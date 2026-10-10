@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"41924d73f905cf510d44fecf99e06d11ecab67e2"},
+"meta": {"description":"A curated list of projects related to the reMarkable tablet","defaultBranch":"master","topics":["remarkable-tablet","awesome-list","awesome"],"readmeSha":"9fd66a4a55bcc35508d8fb08b90b822f02d38eb0"},
 "members": [
 "sindresorhus/awesome",
 "ddvk/remarkable2-framebuffer",
@@ -27,11 +27,12 @@
 "fsniper/ReBook",
 "tenJirka/reGenda",
 "dps/remarkable-keywriter",
+"iacobucci/rm-ssh-explorer",
 "dps/remarkable-wikipedia",
 "Davide95/remarkaBot",
 "fenollp/reMarkable-tools",
 "bjornte/Writerdeck-for-reMarkable",
-"hafaio/repub",
+"hafacc/repub",
 "jrockwar/repubfox",
 "LinusCDE/chessmarkable",
 "LinusCDE/doomarkable",
@@ -179,5 +180,8 @@
 "pl-semiotics/rM-vnc-server",
 "Merovius/srvfb",
 "matteodelabre/vnsee"
+],
+"dropped": [
+["2026-10-10","hafaio/repub"]
 ]
 }

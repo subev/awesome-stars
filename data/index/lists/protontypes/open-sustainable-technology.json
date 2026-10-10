@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"b388ae2dd7807bfe4c639a0abab5817c6c8a2738"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"42af8d8f2426d2aeb2d729e18d9ec8c6591e55ce"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -2436,6 +2436,7 @@
 "bcgov/NRPTI",
 "dataforgoodfr/quotaclimat",
 "earthrise-media/mining-detector",
+"Sam-r-passmore/energy-icons",
 "eea/geonetwork-eea",
 "resource-watch/resource-watch",
 "piersyork/owidR",

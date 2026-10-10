@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"32cdb873e256b9d12d0e73c5851a5e6731783662"},
+"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"8585142c7de47891fce47f072fbda5ece1e78d88"},
 "members": [
 "sindresorhus/awesome",
 "vt-digital-libraries-platform/aws-batch-iiif-generator",
@@ -50,6 +50,7 @@
 "ryanfb/iiif-dl",
 "jbhoward-dublin/iiif-imageManipulation",
 "yale-web-technologies/IIIF-Manifest-Generator",
+"KiarashMinoo/IIIF.Manifest.Serializer.Net",
 "IIIF-Commons/iiif-builder",
 "IIIF-Commons/parser",
 "IIIF-Commons/iiif-helpers",

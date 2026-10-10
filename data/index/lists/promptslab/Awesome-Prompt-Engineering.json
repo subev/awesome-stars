@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"e1bfc4ea78fcd61dce0c046c107ee7285ed41abc"},
+"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"233439265cf26df28d67ad14bf9dc73f5fe263f3"},
 "members": [
 "promptfoo/promptfoo",
 "promptslab/Promptify",

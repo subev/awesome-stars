@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"8a4c91a6dcad8f513337527105b15ffaa5423715"},
+"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"ff1e78f8a90b9102b5d0dacbe39bcae97348ae62"},
 "members": [
 "act-rules/act-rules.github.io",
 "Siteimprove/alfa",
@@ -44,7 +44,7 @@
 "CIRCL/bgp-ranking",
 "TheHive-Project/Cortex",
 "TheHive-Project/Cortex-Analyzers",
-"gocsaf/csaf",
+"csaf-poc/csaf_distribution",
 "CyberismoCom/module-eu-cra",
 "CERT-Polska/drakvuf-sandbox",
 "flowintel/flowintel",
@@ -551,6 +551,7 @@
 "UnionInternationalCheminsdeFer/UIC-barcode",
 "DriveX-devs/VaN3Twin",
 "riebl/vanetza",
+"vatnode/eu-vat-rates-data",
 "pH-7/eu-vat-validator",
 "ibericode/vat",
 "OCA/intrastat-extrastat",
@@ -565,6 +566,7 @@
 "GeiserX/awesome-lint-extra"
 ],
 "dropped": [
-["2026-08-28","OpenPEPPOL/peppol-bis-invoice-3"]
+["2026-08-28","OpenPEPPOL/peppol-bis-invoice-3"],
+["2026-10-10","gocsaf/csaf"]
 ]
 }

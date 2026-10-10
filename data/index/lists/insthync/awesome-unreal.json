@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"535fe6e1d299289364dac9db194577910a69b98a"},
+"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"30f5942a15ebc74fe68083d6b158472beb3665dd"},
 "members": [
 "RemRemRemRe/RemAbilityUtility",
 "OversizedSunCoreDev/ArtilleryEco",
@@ -86,6 +86,7 @@
 "Chrizey91/RuntimeMeshLoader",
 "BraceYourselfGames/UE-BYGLocalization",
 "zompi2/UE4EasyLocalizationTool",
+"DmVergasov/LocHub",
 "getnamo/TensorFlow-Unreal",
 "Allysony/tensorflow2-ue4-ar",
 "mika314/UELlama",
