@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"06c108ba736c2c4839e761dca650616c279934ed"},
+"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"20b1b2cbb11046176d4bd291c4bea0f24d0f1537"},
 "members": [
 "geomatico/qgis-sigpac",
 "dan96ct/sigpac-client",
@@ -148,6 +148,7 @@
 "NeoRazorX/facturascripts",
 "OCA/l10n-spain",
 "sramos/LibreTPV",
+"francodesystems/n8n-nodes-holded",
 "luxeon/spanish-tax-calculators",
 "TiagoCortinhal/cita-checker",
 "nyanja/cita-previa-checker",
@@ -172,7 +173,6 @@
 "aldoborrero/hacienda-gpt",
 "paumrch/larenta",
 "gabela-io/puntoBOE",
-"mpuig/rentagpt",
 "akrck02/salary",
 "gisce/sii",
 "invopop/gobl.es.ticketbai",
@@ -181,6 +181,7 @@
 "ecommerce-ventures/ticketbai",
 "binovo/verifactu-xmlgen",
 "codeccoop/autoverifactu",
+"cristianemek/go-verifactu",
 "invopop/gobl.es.verifactu",
 "squareetlabs/LaravelVerifactu",
 "mindset-code/pyverifactu-huella",
@@ -441,6 +442,7 @@
 ["2026-10-03","invopop/gobl.facturae"],
 ["2026-10-03","invopop/gobl.verifactu"],
 ["2026-10-03","AjuntamentdeBarcelona/bustia-etica-bcn"],
-["2026-10-03","cripsisxyz/osbex"]
+["2026-10-03","cripsisxyz/osbex"],
+["2026-10-10","mpuig/rentagpt"]
 ]
 }

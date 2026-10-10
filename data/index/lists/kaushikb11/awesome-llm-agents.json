@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"cafc46c407cfc003e8a621162aa4198e2fdb5845"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"fe5e8690e6516e0bc836b7045f7c280b14a872a9"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -30,10 +30,8 @@
 "axar-ai/axar",
 "Muvon/octomind",
 "juspay/neurolink",
-"nMaroulis/protolink",
 "NetMindAI-Open/NarraNexus",
-"Scottcjn/shaprai",
-"Scottcjn/trashclaw",
+"nMaroulis/protolink",
 "barun-saha/kodeagent",
 "FoundationAgents/MetaGPT",
 "microsoft/autogen",
@@ -89,7 +87,6 @@
 "Text2SqlAgent/text2sql-framework",
 "Liu-Hy/GenoMAS",
 "wq19901103wq/wechat-mac-rpa",
-"WayneJin0918/Omni-Rewriter",
 "shmlkv/dna-claude-analysis",
 "futuresearch/futuresearch-python",
 "mirror29/inalpha",
@@ -113,6 +110,9 @@
 "dropped": [
 ["2026-08-29","EvoAgentX/EvoAgentX"],
 ["2026-09-12","Perseus-Computing-LLC/perseus"],
-["2026-09-19","Fzkuji/OpenProgram"]
+["2026-09-19","Fzkuji/OpenProgram"],
+["2026-10-10","Scottcjn/shaprai"],
+["2026-10-10","Scottcjn/trashclaw"],
+["2026-10-10","WayneJin0918/Omni-Rewriter"]
 ]
 }

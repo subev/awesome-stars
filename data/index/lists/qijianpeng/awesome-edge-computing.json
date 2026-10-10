@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"73f17fbe15b737259dd27e48c2763ed4bc48fd46"},
+"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"9787f6aa50161b2f8a57ce2d927df4d9e5388f5e"},
 "members": [
 "CausalSim/Unbiased-Trace-Driven-Simulation",
 "Cloudslab/cloudsim",

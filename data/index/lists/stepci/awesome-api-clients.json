@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome API clients. Postman and Insomnia alternatives","defaultBranch":"main","topics":["api-client","api-rest","api-testing","http-client","kong","postman","insomnia"],"readmeSha":"f9705b4fb1a15b9cf404e4d9ed1a57cbea131fd3"},
+"meta": {"description":"List of awesome API clients. Postman and Insomnia alternatives","defaultBranch":"main","topics":["api-client","api-rest","api-testing","http-client","kong","postman","insomnia"],"readmeSha":"b8e5b3668f9d3ae7a89865bc2104bbb23599b4bc"},
 "members": [
 "flawiddsouza/Restfox",
 "hoppscotch/hoppscotch",
@@ -23,7 +23,7 @@
 "pashky/restclient.el",
 "federicotdn/verb",
 "rest-nvim/rest.nvim",
-"mistweaverco/kulala.nvim",
+"dont-be-evil-company/kulala.nvim",
 "unkn0wn-root/resterm",
 "curl/curl",
 "httpie/cli",
@@ -38,6 +38,7 @@
 "Julien-cpsn/ATAC",
 "DeprecatedLuar/better-curl-saul",
 "LucasPickering/slumber",
+"abdfnx/resto",
 "stepci/stepci",
 "Orange-OpenSource/hurl",
 "karatelabs/karate",
@@ -52,5 +53,8 @@
 "httprunner/httprunner",
 "grafana/k6",
 "artilleryio/artillery"
+],
+"dropped": [
+["2026-10-10","mistweaverco/kulala.nvim"]
 ]
 }

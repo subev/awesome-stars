@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"f01eb77194de6a3f0cd567b84ed27acee4303b92"},
+"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"a78a13584e24dca4adbd8a4a259ede312e4ad277"},
 "members": [
 "rollxx/manchester-syntax-owl2",
 "ontola/hextuples",
@@ -365,6 +365,7 @@
 "sparna-git/Sparnatural",
 "xdobry/rdfglance",
 "jhisse/metabase-sparql-driver",
+"soheilabadifard/TTL_to_3D",
 "lorenae/qb4olap-tools",
 "opencube-toolkit/OpenCube-Expander",
 "AKSW/cubeviz.ontowiki",

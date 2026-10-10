@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"5322a05bf9abfddb612492bb777f40b12c624370"},
+"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"5cdd55bff80845b560d8514e08c0942eec8d96ba"},
 "members": [
 "sindresorhus/awesome",
 "adam-p/markdown-here",
@@ -35,6 +35,7 @@
 "OpenEIT/EIT_EE",
 "meagmohit/EEG-Datasets",
 "NeuroTechX/bci-workshop",
+"shrut10/intentlab-bci",
 "neuralcubes/musephero",
 "jmanart/smartphone-bci",
 "katie356/BrainwaveAnalyzer",

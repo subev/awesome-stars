@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"684404c05bd59aeea1ee4b63a35db9e3a2d71c8a"},
+"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"65a7c1c3901f97119221dbb991f0b3a2efa93fdf"},
 "members": [
 "planetjekyll/awesome-jekyll",
 "planetjekyll/awesome-jekyll-themes",
@@ -20,6 +20,7 @@
 "phothinmg/jekykll-pagefind",
 "jekyll/jekyll-feed",
 "feedreader/planet.rb",
+"JuanVqz/jekyll-devto",
 "inukshuk/jekyll-scholar",
 "rjoberon/bibsonomy-jekyll",
 "mslinn/jekyll_quote",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of embedded security tools and resources: firmware analysis, reverse engineering, hardware hacking, IoT security, fuzzing, secure boot, side-channel analysis, and SDR.","defaultBranch":"main","topics":["awesome","awesome-list","embedded","embedded-security","security","security-tools"],"readmeSha":"c111725fcb887004effecf0be27366c3508d2893"},
+"meta": {"description":"Curated list of embedded security tools and resources: firmware analysis, reverse engineering, hardware hacking, IoT security, fuzzing, secure boot, side-channel analysis, and SDR.","defaultBranch":"main","topics":["awesome","awesome-list","embedded","embedded-security","security","security-tools"],"readmeSha":"74e5b6459c28e005141922c952d5fc6f3d15ff9c"},
 "members": [
 "projectbtle/argXtract",
 "ReFirmLabs/binwalk",
@@ -25,6 +25,7 @@
 "emsec/hal",
 "keystone-engine/keystone",
 "cea-sec/miasm",
+"morluto/rea",
 "uxmal/reko",
 "avast/retdec",
 "JonathanSalwan/Triton",

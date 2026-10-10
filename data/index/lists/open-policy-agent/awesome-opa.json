@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"99dea58487c6679382a74477092daf49fc80a078"},
+"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"23ecdc4dcae0149a82ac5fc5814f91074395ef3b"},
 "members": [
 "sindresorhus/awesome",
 "open-policy-agent/opa",
@@ -70,7 +70,7 @@
 "open-policy-agent/opa-envoy-plugin",
 "mxab/nacp",
 "antonbabenko/awesome-terraform-compliance",
-"StyraOSS/opa-kafka-plugin",
+"open-policy-agent/opa-kafka-plugin",
 "opencredo/opa-single-message-transformer",
 "jferrater/opa-data-filter-spring-boot-starter",
 "open-policy-agent/contrib",
@@ -84,7 +84,6 @@
 "scopatz/nanorc",
 "FallenAngel97/tree-sitter-rego",
 "HZMonama/codemirror-lang-rego",
-"StyraOSS/opa-aws-cloudformation-hook",
 "terraform-linters/tflint-ruleset-opa",
 "infracost/infracost",
 "fugue/regula",
@@ -120,6 +119,7 @@
 "Void3110/rego-skill",
 "StyraOSS/mcov",
 "HZMonama/regolab",
+"kanywst/mcp-opa-authz",
 "Snowflake-Labs/sansshell",
 "m-mizutani/goast",
 "cisagov/ScubaGear",
@@ -129,5 +129,9 @@
 "anderseknert/colorized",
 "open-policy-agent/community",
 "sangkeon/opaguide_src"
+],
+"dropped": [
+["2026-10-10","StyraOSS/opa-kafka-plugin"],
+["2026-10-10","StyraOSS/opa-aws-cloudformation-hook"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of nice hosting providers","defaultBranch":"master","topics":[],"readmeSha":"a8b8009caeb7fe785267268bfd323f4f762a462f"},
+"meta": {"description":"A list of nice hosting providers","defaultBranch":"master","topics":[],"readmeSha":"2880d5fe6e9b8fe94979a6a0bce86e9826b0bedf"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted",

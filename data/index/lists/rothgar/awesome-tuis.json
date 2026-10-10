@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"f5b34267f6034560b85673396e2f72896f0d7f95"},
+"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"5291ab347c3579923997ebea28f2ba59efc5943b"},
 "members": [
 "lissy93/AdGuardian-Term",
 "tessus/apachetop",
@@ -401,6 +401,7 @@
 "mrusme/superhighway84",
 "FedericoBruzzone/tgt",
 "ihabunek/toot",
+"JFreegman/toxic",
 "sugyan/tuisky",
 "pythops/tuix",
 "RasmusLindroth/tut",

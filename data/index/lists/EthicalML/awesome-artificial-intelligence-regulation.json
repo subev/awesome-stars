@@ -1,12 +1,12 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"7ff456bdecbb4137ad3a7b15b3f68b685bd173f3"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"7dc14f7bef604c38af81df96cad8bdf301aabe60"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",
 "id-levi/eu-ai-act-ressourcen",
-"certian-register/ai-governance-manifest",
 "OpenEthicsAI/OETP",
 "IBM/ai-atlas-nexus",
+"modusensus/ai-governance-compare",
 "airblackbox/air-blackbox-mcp",
 "SeldonIO/alibi",
 "EthicalML/awesome-production-machine-learning",
@@ -19,6 +19,10 @@
 "Continuum-AI-Corp/OrcaPromptVault",
 "OrchardHarmonics/orchard-kit",
 "moxno/privacyscrubber-mcp",
-"nelsambrose/ISO-42001-Visual-Library"
+"nelsambrose/ISO-42001-Visual-Library",
+"attahwonder/faias-standard"
+],
+"dropped": [
+["2026-10-10","certian-register/ai-governance-manifest"]
 ]
 }

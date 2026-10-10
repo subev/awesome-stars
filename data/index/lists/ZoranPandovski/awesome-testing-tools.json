@@ -1,16 +1,24 @@
 {
-"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"52a8ff50a8a45df1bed441216163dccb5d507a3a"},
+"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"70516ba84d32f519bd3ab079dbde9ad3349ad7db"},
 "members": [
 "vostride/agent-qa",
 "avajs/ava",
 "PramodDutta/browserbash",
+"SinhyeokKang/bugshot-2",
+"sekharsdet/five46",
 "smartystreets/goconvey",
 "jumpstarter-dev/jumpstarter",
 "karatelabs/karate",
+"holistis/muraqib",
+"prufa-dev/prufa-mcp",
+"Allura-Gensin/public-path-evidence-audit-starter",
 "asmyshlyaev177/test-proxy-recorder",
+"jiongfeng/waterfall-ai-test-platform",
 "TestStack/White",
 "sherlo-io/sherlo",
 "jo-duchan/tapflow",
+"cbrown350/flaketrack",
+"henriqueyuri00/a11y-matrix",
 "dequelabs/axe-core",
 "restqa/restqa"
 ]

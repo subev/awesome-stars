@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"6001a9c351f92fdcb827e7f6418a9a7a95c94458"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"b5f42249a5694a0d72eae9ada505a4387796bcd0"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -24,8 +24,8 @@
 "ImJimmi/create-juce-app",
 "BespokeSynth/BespokeSynth",
 "surge-synthesizer/surge",
-"helio-fm/helio-sequencer",
 "asb2m10/dexed",
+"helio-fm/helio-sequencer",
 "mtytel/helm",
 "mtytel/vital",
 "monocasual/giada",
@@ -129,7 +129,7 @@
 "AudioTK/Andromeda",
 "ffAudio/Frequalizer",
 "ffAudio/ff_meters",
-"egor-sm/equalize_it",
+"egor-sm/even",
 "SoundDevelopment/sound_meter",
 "gbevin/ShowMIDI",
 "gbevin/SendMIDI",
@@ -283,5 +283,8 @@
 "Celemony/JUCE_ARA",
 "soundradix/JUCE",
 "Casperaki/juce_emscripten"
+],
+"dropped": [
+["2026-10-10","egor-sm/equalize_it"]
 ]
 }

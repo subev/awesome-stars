@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"661c40f8207fef92b480351168afdf222e221bb3"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"962f2fa646390ff130fb3711d28717c4d0975183"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -17,6 +17,7 @@
 "pytorch/pytorch",
 "SeldonIO/seldon-core",
 "tensorflow/tensorflow",
+"Viavcious-cloud/vivacious-cli",
 "lensesio/fast-data-dev",
 "pachyderm/pachyderm",
 "apache-spark-on-k8s/spark",
@@ -157,6 +158,7 @@
 "datastack-net/dockerized",
 "buildpacks-community/kpack",
 "flavio/kuberlr",
+"r0lfi/layersmith",
 "hashicorp/packer",
 "podman-container-tools/skopeo",
 "krallin/tini",
@@ -265,6 +267,7 @@
 "solo-io/squash",
 "godaddy/terminus",
 "jumpstarter-dev/jumpstarter",
+"keploy/keploy",
 "kubernetes-sigs/kwok",
 "cakehappens/seaworthy",
 "vmware-tanzu/sonobuoy",

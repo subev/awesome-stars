@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Mutation testing resources: how to make better code by introducing bugs","defaultBranch":"main","topics":["mutation-testing","mutation-analysis","awesome","awesome-list"],"readmeSha":"df2f3444435c0159a846f48313d728f8b582bee0"},
+"meta": {"description":"Mutation testing resources: how to make better code by introducing bugs","defaultBranch":"main","topics":["mutation-testing","mutation-analysis","awesome","awesome-list"],"readmeSha":"ea83f06090f2739540864c6bd727b53adba3ada1"},
 "members": [
 "kaiyuanw/MuAlloy",
 "gpetiot/Frama-C-Mutation",
@@ -52,6 +52,8 @@
 "CodeEnPlace/bough",
 "seer-lab/VisMAn",
 "simin-yuan/greencheck",
+"supercorp-ai/supercov",
+"keyboardsamurai/mutagate",
 "nicojs/presentations",
 "mbj/developers-bicycles",
 "hcoles/slides",

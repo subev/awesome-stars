@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"6307900db8a39d0c33cecb82035b48615d5d0937"},
+"meta": {"description":"😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.","defaultBranch":"main","topics":["artificial-intelligence","generative-ai","large-language-models","retrieval-augmented-generation","rag"],"readmeSha":"57d489bd94038a37fb07e2fd750d3f31b30a6f5f"},
 "members": [
 "Danielskry/Awesome-RAG-Agent-Plugin",
 "Danielskry/LangChain-Chroma-RAG-demo-2024",

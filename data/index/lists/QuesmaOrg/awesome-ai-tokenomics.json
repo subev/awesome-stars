@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"d01ec59f48c56945afcc88906c6fe9dfcf6c1702"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"c41572143a142a6006a0e16a0e8f2aab9c8961b2"},
 "members": [
 "antiburn/antiburn",
 "ccusage/ccusage",
@@ -49,8 +49,6 @@
 "letta-ai/letta",
 "mem0ai/mem0",
 "supermemoryai/supermemory",
-"getzep/graphiti",
-"getzep/zep",
 "crewAIInc/crewAI",
 "langchain-ai/langchain",
 "langchain-ai/langgraph",
@@ -62,9 +60,7 @@
 "google-antigravity/antigravity-cli",
 "musistudio/claude-code-router",
 "yeliu84/pi-model-router",
-"marco-jardim/opencode-model-router",
 "NadirRouter/NadirClaw",
-"mihneaptu/opencode-fusion",
 "katanemo/plano",
 "ruvnet/ruflo",
 "vllm-project/semantic-router",
@@ -99,7 +95,7 @@
 "asgeirtj/system_prompts_leaks",
 "kenn-io/agentsview",
 "opencost/opencost",
-"headroomlabs-ai/tokview",
+"chopratejas/tokview",
 "alexgreensh/token-optimizer",
 "Hannibal046/Awesome-LLM",
 "tensorchord/Awesome-LLMOps",
@@ -108,6 +104,11 @@
 ],
 "dropped": [
 ["2026-09-05","workweave/router"],
-["2026-09-05","opensquilla/claw-swe-bench"]
+["2026-09-05","opensquilla/claw-swe-bench"],
+["2026-10-10","getzep/graphiti"],
+["2026-10-10","getzep/zep"],
+["2026-10-10","marco-jardim/opencode-model-router"],
+["2026-10-10","mihneaptu/opencode-fusion"],
+["2026-10-10","headroomlabs-ai/tokview"]
 ]
 }

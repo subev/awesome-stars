@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"c6f9defdeb26e90539ee3b398e81871541972873"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"cd5c81976693cf5cb3890776fb3d8ec8bb3e4536"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -14,6 +14,10 @@
 "mrc-ide/orderly",
 "heidihelena/auditlite",
 "Tom409114/research-repo-doctor",
+"suguobin2021/backtest-integrity-guard",
+"suguobin2021/causal-backtest-harness",
+"suguobin2021/canonical-ledger-schema",
+"suguobin2021/strategy-stability-report",
 "MaxWellApexLab/pit-audit-registry",
 "JimmyXtesla/BILN",
 "lennart-rth/server-spy",

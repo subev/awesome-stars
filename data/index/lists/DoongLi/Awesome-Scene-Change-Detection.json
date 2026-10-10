@@ -1,9 +1,10 @@
 {
-"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"a90b6764616e16282604834c334cc62f4d840593"},
+"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"e90c3c850cd307e9c00ed305200da03eeded6769"},
 "members": [
 "wenhwu/awesome-remote-sensing-change-detection",
 "chickenbestlover/awesome-scene-change-detections",
 "MinZHANG-WHU/Change-Detection-Review",
+"kyusik-cho/ECD",
 "yuqunw/scene_diff",
 "Henryeh310101/towards-practical-scene-change-detection",
 "Chumsy0725/3DGS-Uncertainty",
@@ -25,6 +26,8 @@
 "zr-zhou0o0/SCaR-3D",
 "IMRL/UMAD",
 "zmoka-zht/CDMamba",
+"nasa/isaac",
+"hollydinkel/astrobeecd",
 "ragavsachdeva/CYWS-3D",
 "ragavsachdeva/The-Change-You-Want-to-See",
 "DoctorKey/C-3PO",

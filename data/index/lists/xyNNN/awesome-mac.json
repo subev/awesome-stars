@@ -1,12 +1,15 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"5d1501ea146eda953e94283677674e69db0e2106"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"4b7ecf77b52c503f93bd72dbadfb9accf8b708fb"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
+"sorkila/tintpad",
 "TeamHypersomnia/Hypersomnia",
 "stonesam92/ChitChat",
 "jnordberg/irccloudapp",
+"Orkas-AI/Orkas-VideoStudio",
 "yagcioglutoprak/dusty",
-"aqua5230/usage"
+"aqua5230/usage",
+"royalpinto007/boardeject"
 ]
 }

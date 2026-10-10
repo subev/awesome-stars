@@ -1,11 +1,12 @@
 {
-"meta": {"description":"An awesome list of Platform Engineering 平台工程列表","defaultBranch":"main","topics":["awesome-list","engineering","platform","pe","platform-engineering","idp","dx","internal-developer-platform","cicd","developer-experience"],"readmeSha":"6f2367360cf6c9365c0b639ca68ccad98b7b43eb"},
+"meta": {"description":"An awesome list of Platform Engineering 平台工程列表","defaultBranch":"main","topics":["awesome-list","engineering","platform","pe","platform-engineering","idp","dx","internal-developer-platform","cicd","developer-experience"],"readmeSha":"af3ebc2a18fb3065e8a65736519e06c761f01bfb"},
 "members": [
 "PECommunity/platform-engineering-glossary",
 "syntasso/kratix",
 "efekaya-devops/demo-developer-platform",
 "kubestellar/console",
 "AndrewDryga/emisar",
+"yylo-dev/yylo",
 "salaboy/platforms-on-k8s"
 ]
 }
