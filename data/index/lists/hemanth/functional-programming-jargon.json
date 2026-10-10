@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Jargon from the functional programming world in simple terms!","defaultBranch":"master","topics":["functional-programming","fp","awesome-list","education","glossary","javascript"],"readmeSha":"11849ed50c8a2d096b088a0bd15af5322c6317e3"},
+"meta": {"description":"Jargon from the functional programming world in simple terms!","defaultBranch":"master","topics":["functional-programming","fp","awesome-list","education","glossary","javascript"],"readmeSha":"c96fa8ba38b3fe0855ba3e9c49bcb759ebab3d5a"},
 "members": [
 "fantasyland/fantasy-land",
 "alexmoreno/jargoes-programacao-funcional",

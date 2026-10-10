@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Curated list of awesome OpenSteetMap-projects","defaultBranch":"main","topics":["osm","openstreetmap","openstreetmap-data","awesome","awesome-list","opendata"],"readmeSha":"77e778194836520e1b97e04a6291e53485006291"},
+"meta": {"description":"😎 Curated list of awesome OpenSteetMap-projects","defaultBranch":"main","topics":["osm","openstreetmap","openstreetmap-data","awesome","awesome-list","opendata"],"readmeSha":"0e8a4b3207e7b8e181c964d83acc25659a2eaa05"},
 "members": [
 "openstreetmap/iD",
 "Zverik/Level0",
@@ -23,7 +23,7 @@
 "OSM-de/WebToOSMOH",
 "bellingcat/osm-search",
 "labexp/osmtracker-android",
-"apache/incubator-baremaps",
+"baremaps/baremaps",
 "deevroman/better-osm-org",
 "Zverik/osmtags-editor",
 "ZeLonewolf/osm-wikidata-greasemonkey",
@@ -52,6 +52,7 @@
 "organicmaps/organicmaps",
 "hholzgra/maposmatic",
 "fieldpapers/fieldpapers",
+"ianho7/maptoposter-online",
 "stamen/terrain-classic",
 "adam-lynch/back-of-your-hand",
 "PraxisMapper/PraxisMapper",
@@ -59,6 +60,7 @@
 "osmcode/libosmium",
 "Project-OSRM/osrm-backend",
 "mapnik/mapnik",
+"valhalla/valhalla",
 "osmcode/node-osmium",
 "mapnik/node-mapnik",
 "Leaflet/Leaflet",
@@ -86,5 +88,8 @@
 "woodpeck/postpass-ops",
 "johanmorganti/osm-datadog",
 "maplibre/awesome-maplibre"
+],
+"dropped": [
+["2026-10-10","apache/incubator-baremaps"]
 ]
 }

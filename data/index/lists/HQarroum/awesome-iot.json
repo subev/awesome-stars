@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"263b7be8ad64279002aa9704189c7d92d6157b41"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"a0c89c2121f35133b83874b63c8750cf2fec4559"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -27,7 +27,6 @@
 "lf-edge/ekuiper",
 "mathcoll/t6",
 "IoTSharp/IoTSharp",
-"aklivity/zilla",
 "pnoker/iot-dc3",
 "devicechain-io/devicechain",
 "leaberg69/aem-modbus-simulator",
@@ -44,6 +43,10 @@
 "yoelf22/electrum",
 "authbroker/authbroker",
 "volkanalkilic/Mqtt-File-Uploader",
-"gioblu/PJON"
+"gioblu/PJON",
+"3liAf/awesome-nfc"
+],
+"dropped": [
+["2026-10-10","aklivity/zilla"]
 ]
 }

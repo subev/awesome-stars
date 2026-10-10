@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"be4a1ee32cf13f76f462baba73b44241a80e9aec"},
+"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"f730a2a9ff8b3b7063bacc29597a74a3679a34ba"},
 "members": [
 "Agundur-KDE/KCast",
 "TimInTech/blitztext-linux",
@@ -19,6 +19,7 @@
 "peterfajdiga/karousel",
 "lubdhak7414/KDoit",
 "ruizhi-lab/latte-dock-ng",
+"isac322/krema",
 "Agundur-KDE/EZMonitor",
 "Agundur-KDE/KClaude",
 "Agundur-KDE/kfritz",

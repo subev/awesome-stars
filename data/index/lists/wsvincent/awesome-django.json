@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"c456df5f4ea42f9c539a35c1f394a9d2915460ce"},
+"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"7fa22f3e3d9440ca5e81dabd6256849122efa2e7"},
 "members": [
 "sindresorhus/awesome",
 "django-hijack/django-hijack",
@@ -225,6 +225,7 @@
 "venueless/venueless",
 "pretix/pretix",
 "pretalx/pretalx",
+"zhtyyx/ioe",
 "nioperas06/awesome-django-rest-framework"
 ],
 "dropped": [

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of resources covering different aspects of JMeter usage.","defaultBranch":"main","topics":["awesome","jmeter","jmeter-plugin","load-testing","awesome-list","performance-testing","apache-jmeter","benchmarking"],"readmeSha":"584ac0a532632f03b929f0368fdf39102784b730"},
+"meta": {"description":"A collection of resources covering different aspects of JMeter usage.","defaultBranch":"main","topics":["awesome","jmeter","jmeter-plugin","load-testing","awesome-list","performance-testing","apache-jmeter","benchmarking"],"readmeSha":"0dfb3e506b43b94a9306457efe13bb8e5e137739"},
 "members": [
 "sindresorhus/awesome",
 "apache/jmeter",

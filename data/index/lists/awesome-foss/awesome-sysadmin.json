@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"7a38e5a1033d0c74f8781423f1d711c7dca1be12"},
+"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"a98b02eea725561ddc5dfb02c44d06077891761c"},
 "members": [
 "sindresorhus/awesome",
 "awesome-foss/awesome-sysadmin-data",
@@ -98,11 +98,11 @@
 "yadifa/yadifa",
 "atom-community/atom",
 "atom/atom",
-"brackets-cont/brackets",
 "geany/geany",
 "emacs-mirror/emacs",
 "micro-editor/micro",
 "notepad-plus-plus/notepad-plus-plus",
+"phcode-dev/phoenix",
 "vim/vim",
 "VSCodium/vscodium",
 "389ds/389-ds-base",
@@ -238,6 +238,7 @@
 ],
 "dropped": [
 ["2026-09-18","dmarcguardhq/dmarcguard"],
-["2026-09-18","OpenTSDB/tcollector"]
+["2026-09-18","OpenTSDB/tcollector"],
+["2026-10-10","brackets-cont/brackets"]
 ]
 }

@@ -1,15 +1,15 @@
 {
-"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"229992b6c365c43b5ff2d48a9f46a0e19d0e3129"},
+"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"38816f13a96aa0d12dcfcb3f9b8a2921ed30eb8f"},
 "members": [
 "Fluxer-py/fluxer.py",
 "beennnii/fluxerpy3",
 "Eschryn/Fluxify",
 "zeroxs/fluxer.ts",
+"tinsever/talos",
 "fluxergo/fluxergo",
 "disgoorg/disgo",
 "fluxer-flo/flo",
 "go-fluxer/gofluxer",
-"vesaber/Fluxer-Rust",
 "DeviMorris/Fluxer.RUST",
 "PilkeySEK/fluxer-neptunium",
 "fluxerapp/dart_sdk",
@@ -39,5 +39,8 @@
 "KartoffelChipss/bifrost",
 "bizojs/fluxer-selfhost-pangolin",
 "bizojs/fluxer-dev-cheatsheet"
+],
+"dropped": [
+["2026-10-10","vesaber/Fluxer-Rust"]
 ]
 }

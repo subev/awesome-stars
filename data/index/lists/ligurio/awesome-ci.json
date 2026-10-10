@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The list of continuous integration services and tools","defaultBranch":"master","topics":["comparison","ci","continuous-integration","development","developer-tools","devops","awesome"],"readmeSha":"419b013b7f0ca23bc08f4c9a749ed5270a0ad624"},
+"meta": {"description":"The list of continuous integration services and tools","defaultBranch":"master","topics":["comparison","ci","continuous-integration","development","developer-tools","devops","awesome"],"readmeSha":"d02dbd940b1bfe5bbb1ce6a42015a28ee0edfc5b"},
 "members": [
 "sindresorhus/awesome",
 "bleenco/abstruse",

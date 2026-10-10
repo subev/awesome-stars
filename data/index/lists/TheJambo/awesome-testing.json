@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"0c3deee170b4aa3b23c53c1498a285c17c17f098"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"b7606352a5daba7a45dd2bb18f706b37ccd2030b"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -32,6 +32,7 @@
 "testdriverai/goodlooks",
 "retest/recheck-web",
 "sherlo-io/sherlo",
+"TestChimp/ai-wright",
 "SharminSirajudeen/drengr-runner",
 "rubycdp/ferrum",
 "ai-dashboad/flutter-skill",
@@ -43,6 +44,7 @@
 "Nikita-Filonov/ui-coverage-scenario-tool",
 "jiongfeng/waterfall-ai-test-platform",
 "vostride/agent-qa",
+"awss1i/assay",
 "kiwitcms/Kiwi",
 "get-skipper/skipper",
 "TestLinkOpenSourceTRMS/testlink-code",
@@ -56,6 +58,7 @@
 "VertaaUX/cli",
 "Nikita-Filonov/load-testing-hub-panel",
 "grafana/k6",
+"AbdelrhmanHamouda/locust-k8s-operator",
 "foundry-rs/foundry",
 "jg8481/Robot-Framework-Solidity-Testing-Toolkit",
 "bats-core/bats-core",

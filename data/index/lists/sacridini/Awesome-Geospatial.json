@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"b9a7ea80f31c3f2c7a0732731f585a8611e0cb35"},
+"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"daab5dcd7d9cff9eb49a112f67e6090ec55f010b"},
 "members": [
 "crisbez/atlas4d-base",
 "ahuarte47/duckdb-raster",
@@ -173,6 +173,7 @@
 "Vortx-AI/emem",
 "netloc8/netloc8-mcp",
 "skywinder/osm-edit-mcp",
+"Khoshkhah/roadstyle",
 "muend/geoai-skills",
 "e-n-f/datamaps",
 "davidfrantz/force",
@@ -528,7 +529,6 @@
 "mapbox/rio-hist",
 "cogeotiff/rio-tiler",
 "corteva/rioxarray",
-"Khoshkhah/roadstyle",
 "routingpy/routingpy",
 "centreborelli/s2p",
 "ytarazona/scikit-eo",

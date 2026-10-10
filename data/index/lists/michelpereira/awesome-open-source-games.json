@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"b27f7aba3564842605dbb087dbef852bcff7763d"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"5204bc96c003f928342f50de91a139c86e318d87"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
@@ -10,6 +10,7 @@
 "binarymax/kriegspiel",
 "jonradoff/chessmata",
 "lichess-org/lila",
+"braedonsaunders/parlour",
 "playpip/pip-web",
 "oil-oil/wolfcha",
 "Dave-and-Mike/game-off-2012",
@@ -200,7 +201,6 @@
 "00-Evan/shattered-pixel-dungeon",
 "solarus-games/zsdx",
 "ValyriaTear/ValyriaTear",
-"Scottcjn/legend-of-elya-n64",
 "divVerent/aaaaxy",
 "gerstrong/Commander-Genius",
 "ddnet/ddnet",
@@ -415,6 +415,7 @@
 "Blizzard/api-wow-docs"
 ],
 "dropped": [
-["2026-09-25","city41/breakouts"]
+["2026-09-25","city41/breakouts"],
+["2026-10-10","Scottcjn/legend-of-elya-n64"]
 ]
 }

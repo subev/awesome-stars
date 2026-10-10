@@ -1,8 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"c2079842de4aabee2207b5d2011659f672c0f0ae"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"adb302116abdffcc7a078e0c65519669d2d33c70"},
 "members": [
-"web-platform-tests/wpt",
 "praveenpuglia/shadow-dom-in-depth",
+"web-platform-tests/wpt",
 "webcomponents/gold-standard",
 "thepassle/generic-components",
 "GoogleChromeLabs/howto-components",
@@ -37,6 +37,7 @@
 "vime-js/vime",
 "stefanjudis/web-vitals-element",
 "GoogleChrome/web-vitals",
+"Accesserty/UI-Kit",
 "AgnosticUI/agnosticui",
 "ampproject/amphtml",
 "adaleks/anywhere-ui",
@@ -61,6 +62,7 @@
 "ing-bank/lion",
 "haxtheweb/webcomponents",
 "lume/lume",
+"marvelous-ui/marvelous-ui",
 "medblocks/medblocks-ui",
 "romshark/morpheus",
 "stryker-mutator/mutation-testing-elements",

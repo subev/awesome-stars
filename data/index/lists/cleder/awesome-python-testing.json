@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"3914a3dc67e68dd40c57091c9aaf1a20dde1e502"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"66bf4265123cd8a6d074147c9e375dfb5ad2e2b3"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -17,6 +17,7 @@
 "wemake-services/coverage-conditional-plugin",
 "Bachmann1234/diff_cover",
 "plasma-umass/slipcover",
+"supercorp-ai/supercov",
 "life4/deal",
 "Parquery/icontract",
 "pact-foundation/pact-python",
@@ -62,6 +63,7 @@
 "getsentry/responses",
 "adamchainz/time-machine",
 "python-trio/trustme",
+"Sanflow10/adversary-gate",
 "CodeEnPlace/bough",
 "sixty-north/cosmic-ray",
 "Jott2121/crucible",
@@ -119,6 +121,7 @@
 "PyCQA/pyflakes",
 "pylint-dev/pylint",
 "dosisod/refurb",
+"00200200/repro-lens",
 "astral-sh/ruff",
 "ariebovenberg/slotscheck",
 "emmatyping/python-typecheckers",
@@ -145,8 +148,9 @@
 "darrenburns/ward",
 "Erotemic/xdoctest",
 "pschanely/CrossHair",
-"hermes-labs-ai/csv-quality-gate",
+"roli-lpci/csv-quality-gate",
 "zxyasfas/greenproof",
+"royalpinto007/import-effects",
 "google/importlab",
 "usagitoneko97/klara",
 "etianen/logot",
@@ -156,13 +160,14 @@
 "dannysepler/pytestify",
 "pksol/pytest-mock-generator",
 "shakhov-dmitrii/pytest-test-observer",
-"hermes-labs-ai/quick-gate-python",
+"roli-lpci/quick-gate-python",
 "golikovichev/secure-log2test",
 "isidentical/teyit",
 "Mormolykos/ttsproof",
 "Quality-Max/9lives",
 "vostride/agent-qa",
 "t-strings/aria-testing",
+"awss1i/assay",
 "ctripcorp/flybirds",
 "golemhq/golem",
 "mherrmann/helium",
@@ -188,6 +193,8 @@
 ["2026-08-28","pytest-dev/pytest-incremental"],
 ["2026-09-25","hermes-labs-ai/agent-convergence-scorer"],
 ["2026-09-25","Agent-Hellboy/mcp-server-fuzzer"],
-["2026-09-25","simin-yuan/self-auditing-agent"]
+["2026-09-25","simin-yuan/self-auditing-agent"],
+["2026-10-10","hermes-labs-ai/csv-quality-gate"],
+["2026-10-10","hermes-labs-ai/quick-gate-python"]
 ]
 }

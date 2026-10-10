@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"7ab9415d2074f4ecbc195993fbac3079af76b32e"},
+"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"61f84b04e36d557775bdfb84e35dbf0083c141f0"},
 "members": [
 "opentofu/opentofu",
 "opentofu/registry",
@@ -19,17 +19,23 @@
 "Ant0wan/tfam",
 "Ant0wan/tfexe",
 "claranet/tfwrapper",
+"c3xdev/c3x",
 "drifthoundhq/drifthound",
 "drumandbytes/opentofu-updater-action",
 "OP5dev/TF-via-PR",
 "tofuutils/pre-commit-opentofu",
+"antonbabenko/pre-commit-terraform",
 "opentofu/setup-opentofu",
 "dflook/terraform-github-actions",
 "flux-iac/tofu-controller",
 "65156/tofUI",
+"bridgecrewio/checkov",
+"Checkmarx/kics",
 "gruntwork-io/terratest",
 "minamijoyo/tfmigrate",
 "coolapso/tfimport",
+"busser/tfautomv",
+"idoavrah/terraform-tui",
 "minamijoyo/tfschema",
 "diggerhq/digger",
 "terrakube-io/terrakube",
@@ -51,6 +57,7 @@
 "env0/terratag",
 "minamijoyo/tfupdate",
 "bare-devcontainer/templates",
-"bare-devcontainer/images"
+"bare-devcontainer/images",
+"patrickchugh/terravision"
 ]
 }

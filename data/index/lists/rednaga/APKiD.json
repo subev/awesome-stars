@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android","defaultBranch":"master","topics":["android","antivirus","machine-learning","malware-detection","malware-analysis","malware-research","yara","yara-forensics","packers","android-protection"],"readmeSha":"124cbaca989b9b1652e6d0bf009f9722faac282a"},
+"meta": {"description":"Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android","defaultBranch":"master","topics":["android","antivirus","machine-learning","malware-detection","malware-analysis","malware-research","yara","yara-forensics","packers","android-protection"],"readmeSha":"19d7a6125b417ba642de776be7e56db8c86da2fb"},
 "members": [
 "enovella/cve-bio-enovella",
 "MobSF/yara-python-dex"

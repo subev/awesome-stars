@@ -1,10 +1,13 @@
 {
-"meta": {"description":"Python sample codes and textbook for robotics algorithms.","defaultBranch":"master","topics":["python","robotics","algorithm","path-planning","control","animation","localization","slam","cvxpy","ekf"],"readmeSha":"5037fca2a32a7542ceccf5b355c9816172f38460"},
+"meta": {"description":"Python sample codes and textbook for robotics algorithms.","defaultBranch":"master","topics":["python","robotics","algorithm","path-planning","control","animation","localization","slam","cvxpy","ekf"],"readmeSha":"9b8f766fb0a30ef1bcdfb8be3c644537c23a42da"},
 "members": [
 "AtsushiSakai/PythonRoboticsPaper",
 "AtsushiSakai/PythonRoboticsGifs",
-"MahanFathi/LQR-RRTstar",
+"mahanfathi/LQR-RRTstar",
 "ghliu/pyReedsShepp",
 "1Password/for-open-source"
+],
+"dropped": [
+["2026-10-10","MahanFathi/LQR-RRTstar"]
 ]
 }

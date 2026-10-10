@@ -1,5 +1,5 @@
 {
-"meta": {"description":":gem: A collection of awesome Crystal libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","crystal","shards","list","awesome-list"],"readmeSha":"479d1577dc2782945b64ffa6318ba01d96e71db8"},
+"meta": {"description":":gem: A collection of awesome Crystal libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","crystal","shards","list","awesome-list"],"readmeSha":"3294297e8ea5cca83d33a5002debcf907d754f40"},
 "members": [
 "vshymanskyy/StandWithUkraine",
 "sindresorhus/awesome",
@@ -309,6 +309,7 @@
 "hugopl/sidekiq.cr",
 "obsidian/orion",
 "tbrand/router.cr",
+"jbox-web/cronaute",
 "hugoabonizio/schedule.cr",
 "spider-gazelle/tasker",
 "nin93/alea",

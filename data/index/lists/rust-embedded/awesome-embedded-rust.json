@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"b19bf41863a321f8fdfdf78fa53d8128cf0ba986"},
+"meta": {"description":"Curated list of resources for Embedded and Low-level development in the Rust programming language","defaultBranch":"master","topics":["awesome-list","awesome","rust","embedded","embedded-systems","libraries"],"readmeSha":"0f2acd0c2065d64bc7d93b8bcceada8ee80ee737"},
 "members": [
 "rust-embedded/wg",
 "rust-embedded/rust-raspberrypi-OS-tutorials",
@@ -34,6 +34,7 @@
 "dysonltd/commitment-issues",
 "matheuswhite/scope-rs",
 "tomrford/mint",
+"ref42/npnp",
 "hashmismatch/freertos.rs",
 "lobaro/FreeRTOS-rust",
 "oxidecomputer/hubris",
@@ -219,6 +220,7 @@
 "willamhou/hypervisor",
 "TheMaxMur/RS-Key",
 "vaulttec-dev/vaulttec-key",
+"oreboot/oreboot",
 "ferrous-systems/embedded-trainings"
 ],
 "dropped": [

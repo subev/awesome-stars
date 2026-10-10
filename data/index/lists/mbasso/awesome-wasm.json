@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.","defaultBranch":"master","topics":["wasm","webassembly","awesome","awesome-wasm","awesome-list","awesome-webassembly","resources","lists","list"],"readmeSha":"f0dc36bb3b7688454aad87a368291d5472833027"},
+"meta": {"description":"😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.","defaultBranch":"master","topics":["wasm","webassembly","awesome","awesome-wasm","awesome-list","awesome-webassembly","resources","lists","list"],"readmeSha":"53771da949e4bef52e9583d1d8139046e769486b"},
 "members": [
 "MaxGraey/Assembleash",
 "unoplatform/workshops",

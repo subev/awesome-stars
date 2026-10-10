@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"d3c6c53bf8c4ee85a6f68e4c353b2bfda73549dc"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"84cb25530058bc3159100efe82950cbd2e07d189"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -206,6 +206,7 @@
 "shakacode/shakapacker",
 "sidemail/sidemail-sdk-ruby",
 "heartcombo/simple_form",
+"cardmagic/solid-objects-ruby",
 "rails/solid_queue",
 "solidusio/solidus",
 "chanzuckerberg/sorbet-rails",

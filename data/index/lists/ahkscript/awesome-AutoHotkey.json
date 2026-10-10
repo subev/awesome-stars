@@ -1,9 +1,10 @@
 {
-"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"a906b83692e0466535fbf9002713499c0a5cbd6e"},
+"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"66162c89f944d7a1a9f726d182a83590ddaffd6e"},
 "members": [
 "sindresorhus/awesome",
 "bayandin/awesome-awesomeness",
 "dkhamsing/awesome_bot",
+"TheArkive/WinClip_ahk2",
 "G33kDude/Console",
 "joedf/LibCon.ahk",
 "hoppfrosch/AHK_cTable",
@@ -62,6 +63,7 @@
 "aviaryan/Clipjump",
 "adampash/belvedere",
 "JnLlnd/QuickAccessPopup",
+"spicykeys/spicykeys.github.io",
 "Uberi/Autocomplete",
 "tiuub/DateHotkey",
 "marius-sucan/KeyPress-OSD",

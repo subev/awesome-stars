@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Babylon.js","defaultBranch":"main","topics":["babylonjs","awesome","awesome-list","game-engine","webgl","webgpu"],"readmeSha":"f8f12874d02a1d778b8a18d74673d925df7cb238"},
+"meta": {"description":"A curated list of awesome things related to Babylon.js","defaultBranch":"main","topics":["babylonjs","awesome","awesome-list","game-engine","webgl","webgpu"],"readmeSha":"4abb7c30f72845eb3bd0193645c8f977a1683824"},
 "members": [
 "BabylonJS/Babylon.js",
 "BabylonJS/Website",
@@ -50,12 +50,12 @@
 "Kimoen/Christmas-runner",
 "Divine-Star-Software/DivineVoxelEngine",
 "simonihmig/ecsy-babylon",
+"alemart/encantar-js",
 "Kimoen/Babylon.js-FPS",
 "armomu/ergoudan",
 "imerso/facecap",
 "Raigyo/fps-babylon-js",
 "eoineoineoin/glTF_Physics_Babylon",
-"csarkosh/html5-fps",
 "ertugrulcetin/immersa",
 "Kimoen/kicker",
 "BabylonJSGames/BabylonJS-Platformer-Game-Prototype",
@@ -82,5 +82,8 @@
 "Narendra-Kamath/webxr-measuring-tape",
 "eldinor/yuka-babylonjs-examples",
 "jbousquie/OfficeGames"
+],
+"dropped": [
+["2026-10-10","csarkosh/html5-fps"]
 ]
 }

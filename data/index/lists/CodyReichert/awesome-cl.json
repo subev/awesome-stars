@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"ade228b1295084a29f8ff743f4b95e9500c8e52b"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"ef2bfd29ea43c3d0d3495491d3f37db911745ea1"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
@@ -233,6 +233,7 @@
 "rabbibotton/clog",
 "bohonghuang/sbcl-termux-build",
 "Gleefre/hello-alien",
+"atgreen/evergreen-compose",
 "quil-lang/sbcl-librarian",
 "sionescu/sbcl-goodies",
 "olnw/sbcl-builds",
@@ -240,6 +241,7 @@
 "lockie/sbcl-w7",
 "chee/eclweb",
 "clasp-developers/clasp",
+"atgreen/evergreen",
 "sharplispers/cormanlisp",
 "s-expressionists/Eclector",
 "atgreen/rewrite-cl",

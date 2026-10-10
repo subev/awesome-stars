@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"5be666df0554d6aed2c97ad7a6f0e333fe480358"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"ffb65f59d524aa67b616ae53329be6908237eb19"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -28,6 +28,8 @@
 "tejado/telegram-nearby-map",
 "hamodywe/telegram-scraper-TeleGraphite",
 "tsale/TeleTracker",
+"renkagod/tg-chat-dump",
+"axmaier/tme-s",
 "drego85/tosint",
 "Berchez/SteamReveal",
 "matiash26/steam-osint",
@@ -55,7 +57,7 @@
 "spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed",
 "WhiteBite/Domain-Hunter",
 "atenreiro/opensquat",
-"JMarchiori13/osint-recon",
+"contamuito/osint-recon",
 "david3107/squatm3gator",
 "cybersader/WebsiteTechMiner-py",
 "jsvine/waybackpack",
@@ -111,6 +113,7 @@
 "laramies/theHarvester",
 "tomnomnom/waybackurls",
 "s0md3v/Zen",
+"NPCmillionaire/dread-scraper",
 "s-rah/onionscan",
 "spmedia/PhishingSecLists",
 "taranis-ai/taranis-ai",
@@ -143,6 +146,7 @@
 "zbetcheckin/Security_list"
 ],
 "dropped": [
-["2026-09-11","p1ngul1n0/blackbird"]
+["2026-09-11","p1ngul1n0/blackbird"],
+["2026-10-10","JMarchiori13/osint-recon"]
 ]
 }

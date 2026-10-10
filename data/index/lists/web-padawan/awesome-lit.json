@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"74d7ec1e3fecf34e0db9837c3057249589857f20"},
+"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"04ddcc1da47cacb1e56bab84493c9bb49abbf55e"},
 "members": [
 "lit/lit",
 "gracile-web/starter-projects",
@@ -92,6 +92,7 @@
 "bridgetownrb/bridgetown-lit-renderer",
 "fable-compiler/Fable.Lit",
 "ruby2js/ruby2js",
+"pionjs/pion",
 "developit/htm",
 "hybridsjs/hybrids",
 "motss/lit-ntml",

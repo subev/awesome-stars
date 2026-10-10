@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"8737eb78a157081ea5da71dd82fcdf504afeeabf"},
+"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"d26ba542210b1ccb1ad95118644629d1aab614e9"},
 "members": [
 "kahun/awesome-sysadmin",
 "yadage/adage",
@@ -57,6 +57,7 @@
 "intentmedia/mario",
 "MD-Studio/MDStudio",
 "openstack/mistral",
+"XiaokaiCui/MLPipelineHolder",
 "mfiers/Moa",
 "NitorCreations/nflow",
 "nipy/nipype",

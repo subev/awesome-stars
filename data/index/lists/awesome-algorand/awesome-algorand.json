@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓","defaultBranch":"main","topics":["awesome","awesome-list","algorand","algorand-blockchain","algorand-standard-assets","blockchain","cryptocurrency","dapp","defi","blockchain-technology"],"readmeSha":"3435fa5c85e3958424bceb27a48ffd3a0205777b"},
+"meta": {"description":"⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓","defaultBranch":"main","topics":["awesome","awesome-list","algorand","algorand-blockchain","algorand-standard-assets","blockchain","cryptocurrency","dapp","defi","blockchain-technology"],"readmeSha":"bf49ed4dda74b985867050beca1f7947a21fd9d8"},
 "members": [
 "algorandfoundation/specs",
 "algorandfoundation/algokit-avm-vscode-debugger",
@@ -50,7 +50,7 @@
 "aorumbayev/algokit-tealish-template",
 "Wisdom-Labs/Algorand-CPlusPlus-SDK",
 "Wisdom-Labs/Algorand-Unreal-Engine-SDK",
-"vertices-network/c-vertices-sdk",
+"vertices-network/c-algorand-sdk",
 "algorand/conduit",
 "algorand/go-algorand",
 "algorand/go-algorand-sdk",
@@ -138,6 +138,7 @@
 ["2026-09-04","AlgoWorldNFT/algoworld-contracts"],
 ["2026-09-04","AlgoWorldNFT/algoworld-swapper"],
 ["2026-09-04","tenset-security/audits"],
-["2026-09-04","gabrielkuettel/vibekit"]
+["2026-09-04","gabrielkuettel/vibekit"],
+["2026-10-10","vertices-network/c-vertices-sdk"]
 ]
 }

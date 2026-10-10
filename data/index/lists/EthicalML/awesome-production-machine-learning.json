@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"6937431bcecd5f70f9d6f03f14f3dc3bd96bdfe2"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"a3463b5dd28d3fcce2478f373c659db8a8768ff3"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -197,6 +197,7 @@
 "mosecorg/mosec",
 "GeeeekExplorer/nano-vllm",
 "nndeploy/nndeploy",
+"nobodywho-ooo/nobodywho",
 "nuclio/nuclio",
 "bentoml/OpenLLM",
 "openvinotoolkit/openvino",
@@ -205,6 +206,8 @@
 "Tiiny-AI/PowerInfer",
 "neulab/prompt2model",
 "containers/ramalama",
+"raullenchai/Rapid-MLX",
+"Human-Agent-Society/reef",
 "RunanywhereAI/runanywhere-sdks",
 "SeldonIO/seldon-core",
 "sgl-project/sglang",
@@ -357,8 +360,8 @@
 "run-llama/llama_index",
 "meta-llama/llama",
 "hiyouga/LlamaFactory",
-"Alpha-VLLM/LLaMA2-Accessory",
 "RUCAIBox/LLMBox",
+"Alpha-VLLM/LLaMA2-Accessory",
 "OptimalScale/LMFlow",
 "NVIDIA/Megatron-LM",
 "candle-org/MindAct",

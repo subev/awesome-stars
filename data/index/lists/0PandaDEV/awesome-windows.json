@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"b2ef97711f3e1062f72a17bdaf8e1764ba2de8e4"},
+"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"ae84919c263132b68ab1fd158faa14d22d23e6fd"},
 "members": [
 "sindresorhus/awesome",
 "vleerapp/vleer",
@@ -117,6 +117,7 @@
 "flameshot-org/flameshot",
 "greenshot/greenshot",
 "ShareX/ShareX",
+"plinioseniore/capyknock",
 "Hakky54/certificate-ripper",
 "bailey27/cppcryptfs",
 "cryptomator/cryptomator",

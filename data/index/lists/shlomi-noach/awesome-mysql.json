@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"994977224a65821c1f6329df89c0aa67160ad4ca"},
+"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"2372721cc312a0fb15cf5a0185b31a20d7f3d552"},
 "members": [
 "sindresorhus/awesome",
 "box/Anemometer",
@@ -106,6 +106,7 @@
 "StirlingMarketingGroup/swoof",
 "twindb/undrop-for-innodb",
 "XD-DENG/SQL-exercise",
+"masumedb/masume",
 "villagesql/villagesql-server"
 ],
 "dropped": [

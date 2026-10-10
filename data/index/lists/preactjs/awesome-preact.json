@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"d77ef8ca177b11948de5960c08631c106fb4f603"},
+"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"ca1745c8f90dab053a1fc033eefcb5db0d0598ee"},
 "members": [
 "sindresorhus/awesome",
 "preactjs/preact",
@@ -24,6 +24,7 @@
 "PiyushSuthar/preact-webext",
 "Terminats/preact-neutralino-typescript-starter",
 "nesterow/minizavr",
+"extension-js/examples",
 "preactjs/preact-router",
 "mjanssen/preact-route-async",
 "molefrog/wouter",
@@ -80,6 +81,7 @@
 "kamod-ch/kamod-ui",
 "dimidd/preact-filter-builder",
 "s00d/nuxt-i18n-micro",
+"zikojs/console",
 "redux-zero/redux-zero",
 "developit/unistore",
 "jamesbirtles/fpreact",
@@ -94,7 +96,7 @@
 "Marcisbee/exome",
 "pmndrs/jotai",
 "EGAMAGZ/pretch",
-"zikojs/zikofy",
+"zikojs/console",
 "alloc/preact-in-motion",
 "developit/preact-jsx-chai",
 "mzgoddard/preact-render-spy",
@@ -136,5 +138,8 @@
 "infernojs/inferno",
 "alibaba/rax",
 "zikojs/ziko"
+],
+"dropped": [
+["2026-10-10","zikojs/zikofy"]
 ]
 }
