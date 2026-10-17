@@ -1,0 +1,9 @@
+{
+"meta": {"description":"shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing","defaultBranch":"main","topics":["obfuscator","shc","shell","shell-script","compiler","bash","drm","encryption","protection","musl"],"readmeSha":"80a66b6e3967b3fe6c221c987daab92d42530692"},
+"members": [
+"HimitsuShell/HimitsuShell",
+"yanncam/UnSHc",
+"Rem01Gaming/unshell",
+"HimitsuShell/HimitsuObfuscator"
+]
+}

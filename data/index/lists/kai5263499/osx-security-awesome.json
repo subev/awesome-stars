@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of OSX and iOS security resources","defaultBranch":"master","topics":["mac-osx","osx-security","malware","osx-incident-response","hacking-mac","awesome","awesome-list"],"readmeSha":"3af713c1dd083c2de8b776ccb92d74dfdb31a95e"},
+"meta": {"description":"A collection of OSX and iOS security resources","defaultBranch":"master","topics":["mac-osx","osx-security","malware","osx-incident-response","hacking-mac","awesome","awesome-list"],"readmeSha":"b762bf73d219344da0073c8cfd4d3f1e04387cb1"},
 "members": [
 "sindresorhus/awesome",
 "writeups/iOS",
@@ -49,7 +49,7 @@
 "herrbischoff/awesome-macos-command-line",
 "juuso/keychaindump",
 "threatstream/symhash",
-"IGRSoft/KisMac2",
+"Agnidia/KisMac2",
 "SilverMoonSecurity/PassiveFuzzFrameworkOSX",
 "munki/createOSXinstallPkg",
 "samyk/poisontap",
@@ -63,5 +63,8 @@
 "lucasjacks0n/EggShell",
 "Marten4n6/EvilOSX",
 "ashishb/osx-and-ios-security-awesome"
+],
+"dropped": [
+["2026-10-17","IGRSoft/KisMac2"]
 ]
 }

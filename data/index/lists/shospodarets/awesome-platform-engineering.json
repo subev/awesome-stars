@@ -1,7 +1,8 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"38fe4e78fbe020077c8b8f45f0fda69a9622d179"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"82c31ea5eec4ed3d3b7ff3cd97ee7b36d9162fa7"},
 "members": [
 "sindresorhus/awesome",
+"oxynote/oxynote",
 "ota-run/ota",
 "sandbaseai/sandbase-harness",
 "yylo-dev/yylo",

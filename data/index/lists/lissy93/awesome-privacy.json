@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"a0d04c0c551b2068520702c03d6f5e8e8d4e4f0b"},
+"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"c8f8926077b120c60a54e99b33a43f3cfedbe9c3"},
 "members": [
 "lissy93/personal-security-checklist",
 "dani-garcia/vaultwarden",
@@ -60,6 +60,7 @@
 "redlib-org/redlib",
 "libreddit/libreddit",
 "mendel5/alternative-front-ends",
+"jeffvli/feishin",
 "iCHAIT/awesome-macOS",
 "luong-komorebi/Awesome-Linux-Software",
 "dkhamsing/open-source-ios-apps",

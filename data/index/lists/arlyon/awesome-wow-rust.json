@@ -1,0 +1,23 @@
+{
+"meta": {"description":"Excellent resources for world of warcraft private servers in rust","defaultBranch":"main","topics":[],"readmeSha":"a8dcdc689047a927ac4a06ec01dfa76089354fe2"},
+"members": [
+"Victov/wrath-rs",
+"arlyon/azerust",
+"tokio-rs/console",
+"gtker/wow_vanilla_server",
+"gtker/wow_srp",
+"gtker/wow_messages",
+"ohchase/divert",
+"gtker/namigator-rs",
+"gtker/dev_wow_auth_server",
+"gtker/wow_dbc",
+"bigglesss/wow_chunky",
+"gtker/wowdbdefs-rs",
+"wowdev/WoWDBDefs",
+"zloy-tulen/image-blp",
+"wowemulation-dev/warcraft-rs",
+"bigglesss/forge",
+"tench-rt/tentacli",
+"nocthir/worgen-rs"
+]
+}

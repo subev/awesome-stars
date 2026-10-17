@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"30f5942a15ebc74fe68083d6b158472beb3665dd"},
+"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"b98f1e7ae5677ed0cc33262861a1a8066c0c13a2"},
 "members": [
 "RemRemRemRe/RemAbilityUtility",
 "OversizedSunCoreDev/ArtilleryEco",
@@ -46,6 +46,7 @@
 "KhArtNJava/SQLite3UE4",
 "RemRemRemRe/RemEditorUtilities",
 "JanSeliv/FunctionPicker",
+"CarlxsMG/UEAgent",
 "Andicraft/UE4-AuroraEffect",
 "SourySK/NiagaraUIRenderer",
 "ymt3d/UE5-StylizedPostProcess",

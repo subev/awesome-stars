@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"444f827d706e7fee1cd7184dbc8b3a2693d05aaa"},
+"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"f21fb9298d484f756597f952d2bd440be1c7c49c"},
 "members": [
 "DotNetAnalyzers/StyleCopAnalyzers",
 "Wintellect/Wintellect.Analyzers",
@@ -16,6 +16,7 @@
 "elmahio/Exceptionator",
 "philips-software/roslyn-analyzers",
 "agoda-com/AgodaAnalyzers",
+"Thorium/csharp-refactor",
 "security-code-scan/security-code-scan",
 "semihokur/AsyncFixer",
 "cezarypiatek/MultithreadingAnalyzer",
@@ -30,7 +31,7 @@
 "nsubstitute/NSubstitute.Analyzers",
 "nsubstitute/NSubstitute",
 "TestableIO/System.IO.Abstractions.Analyzers",
-"Testably/Testably.Abstractions",
+"TestableIO/System.IO.Abstractions",
 "fluentassertions/fluentassertions.analyzers",
 "fluentassertions/fluentassertions",
 "Suchiman/SerilogAnalyzer",
@@ -39,6 +40,7 @@
 "cezarypiatek/ExceptionAnalyzer",
 "DotNetAnalyzers/DocumentationAnalyzers",
 "DotNetAnalyzers/IDisposableAnalyzers",
+"sveinungf/succinct-linq",
 "code-cracker/code-cracker",
 "DustinCampbell/CSharpEssentials",
 "icsharpcode/RefactoringEssentials",
@@ -49,5 +51,8 @@
 "dotnet/csharplang",
 "cezarypiatek/MappingGenerator",
 "KirillOsenkov/RoslynQuoter"
+],
+"dropped": [
+["2026-10-17","Testably/Testably.Abstractions"]
 ]
 }

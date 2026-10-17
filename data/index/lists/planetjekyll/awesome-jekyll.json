@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"69c5bca7c4c249ec86a825a417c9fa3a15fb03bd"},
+"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"74e1b98d30d67b465a311b341fbf471a99725d7b"},
 "members": [
 "planetjekyll/awesome-jekyll-themes",
 "planetjekyll/awesome-jekyll-plugins",
@@ -15,6 +15,7 @@
 "cloud-gov/pages-core",
 "jeffreytse/jekyll-spaceship",
 "skatkov/jekyll-news-sitemap",
+"cmccomb/google-scholar-for-github-pages",
 "planetjekyll/snippets",
 "JesseHerrick/jekyll-angular",
 "Shopify/liquid",

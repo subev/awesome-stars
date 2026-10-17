@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"087869781caa47d863a3fcc055c249e06baa7008"},
+"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"1453113db9e7eb689ea239d2b681ae2d9ba54dac"},
 "members": [
 "godlikepanos/anki-3d-engine",
 "scallyw4g/bonsai",
@@ -28,13 +28,16 @@
 "enginmanap/limonEngine",
 "jmorton06/Lumos",
 "hexops/mach",
+"AngelMunoz/Mibo",
 "aerys/minko",
 "NauEngine/NauEnginePublic",
 "nCine/nCine",
 "gscept/nebula",
+"bryanedds/Nu",
 "antopilo/Nuake",
 "Overload-Technologies/Overload",
 "Kapendev/parin",
+"braedonsaunders/parlour",
 "RavEngine/RavEngine",
 "rbfx/rbfx",
 "skylicht-lab/skylicht-engine",

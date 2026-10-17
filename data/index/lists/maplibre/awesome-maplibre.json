@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"be6dec47b664a954bea19c0386bbe8bd855a4fc7"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"b694abc1d29e3e91ecceb4bc94168fba29d8c26b"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -114,6 +114,7 @@
 "mkeller3/mapbox-gl-ogc-feature-collection",
 "geomatico/maplibre-cog-protocol",
 "opengeos/maplibre-gl-lidar",
+"am2222/maplibre-landmarks",
 "traccar/maplibre-google-maps",
 "geoblocks/ol-maplibre-layer",
 "protomaps/PMTiles",
@@ -155,6 +156,7 @@
 "muimsd/tilefeed",
 "spider-hand/vector-tile-lab",
 "CodeStorm-Hub/maplibre_mcp",
+"GeiserX/biblical-atlas",
 "geolens-io/geolens",
 "gramps-project/gramps-web",
 "dominicm2023/groundwatercast-uk",

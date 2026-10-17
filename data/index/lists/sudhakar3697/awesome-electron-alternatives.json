@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"367c1b9a65ac9b4d1198971b2cace52b1b523a90"},
+"meta": {"description":"A curated list of awesome Electron alternatives.","defaultBranch":"main","topics":["electron-alternatives","electron","pwa","cross-platform-desktop-app-dev","awesome-list"],"readmeSha":"40d4f9dd8f4db2bd9ecf5f209f8fb443425eb175"},
 "members": [
 "Elanis/web-to-desktop-framework-comparison",
 "tealsnow/awesome-electron-alternatives",
@@ -107,6 +107,7 @@
 "gtk-rs/gtk4-rs",
 "tauri-apps/tauri",
 "zed-industries/zed",
+"tw93/Pake",
 "pisaiah/ui",
 "malisipi/mui",
 "kjlaw89/viup",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"233439265cf26df28d67ad14bf9dc73f5fe263f3"},
+"meta": {"description":"This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ","defaultBranch":"main","topics":["chatgpt","chatgpt-api","few-shot-learning","gpt","gpt-3","openai","prompt","promptengineering","text-to-image","text-to-speech"],"readmeSha":"1a5f1372b11f20c53b5a34f90614715a4c1d4fc4"},
 "members": [
 "promptfoo/promptfoo",
 "promptslab/Promptify",
@@ -137,7 +137,7 @@
 "OpenRaiser/NanoResearch",
 "kaust-ark/ARK",
 "wanshuiyin/Auto-claude-code-research-in-sleep",
-"skyllwt/AutoSci",
+"DAIR-AutoResearch/AutoSci",
 "Sibyl-Research-Team/AutoResearch-SibylSystem",
 "wjc2830/Easy-AutoResearch-for-DeepLearning",
 "eimenhmdt/autoresearcher",
@@ -186,5 +186,8 @@
 "HKUST-KnowComp/Awesome-LLM-Scientific-Discovery",
 "openags/Awesome-AI-Scientist-Papers",
 "WecoAI/awesome-autoresearch"
+],
+"dropped": [
+["2026-10-17","skyllwt/AutoSci"]
 ]
 }

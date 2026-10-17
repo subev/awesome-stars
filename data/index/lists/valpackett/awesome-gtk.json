@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"772ac2ea5544c539283627215e12bb661dafa219"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"af7bd2036e9b3f24cd845909497bd902fdf47d00"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -176,6 +176,7 @@
 "sgpthomas/hourglass",
 "efogdev/mpris-timer",
 "sonnyp/Retro",
+"hernantz/timezones",
 "tomatoers/tomato",
 "vikdevelop/timer",
 "dahenson/agenda",
@@ -199,7 +200,7 @@
 "ashafq/CheckWriter",
 "NickvisionApps/Denaro",
 "cjfloss/envelope",
-"tomasz-oponowicz/markets",
+"EETagent/markets",
 "fastrizwaan/WineCharm",
 "AtomsDevs/Atoms",
 "Dvlv/BoxBuddyRS",
@@ -318,6 +319,7 @@
 "dropped": [
 ["2026-09-19","hyprlab/vireo"],
 ["2026-10-10","henrywoo/kazam"],
-["2026-10-10","nilgradisnik/markdown-rs"]
+["2026-10-10","nilgradisnik/markdown-rs"],
+["2026-10-17","tomasz-oponowicz/markets"]
 ]
 }

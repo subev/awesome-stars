@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome, curated list of various software testing related blogs and similar resources.","defaultBranch":"main","topics":["testing","automation","blog","blogs","automated","test","test-automation","knowledge-base","awesome","awesome-list"],"readmeSha":"2eed467f11975cd70e4ee6fe7805451c8e28b970"},
+"meta": {"description":"An awesome, curated list of various software testing related blogs and similar resources.","defaultBranch":"main","topics":["testing","automation","blog","blogs","automated","test","test-automation","knowledge-base","awesome","awesome-list"],"readmeSha":"c0021364da740df3017dfe1049045a73b1c1754a"},
 "members": [
 "quii/learn-go-with-tests"
 ]

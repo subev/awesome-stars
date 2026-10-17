@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"a439e6d9b75e433fa6a41a7ec1ffea0b5b5fb443"},
+"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"fa454cfb537aa65166ed4dd1450a77f6d8641e67"},
 "members": [
 "HarbourMasters/Ghostship",
 "n64decomp/sm64",
@@ -22,6 +22,8 @@
 "HarbourMasters/Lighthouse",
 "BanjoRecomp/BanjoRecomp",
 "Vidanox/BanjoTooieRecompiled",
+"TheGh0stShip/BattleTanx-Global-Assault-PC-Port",
+"TheGh0stShip/BattleTanx-Global-Assault",
 "RevoSucks/BM64Recomp",
 "RevoSucks/BMHeroRecomp",
 "Rainchus/Quest64-Recomp",
@@ -56,6 +58,7 @@
 "enderandrew/sm_rewrite",
 "qurious-pixel/SMAS_Launcher",
 "snesrev/smw",
+"BlackLabelHQ/SymphonyRecomp",
 "CameronRedmore/Crash-Team-Racing-Turbocharged",
 "Rinnegatamante/Crash-Team-Racing-High-Octane",
 "CTR-tools/ctr-native",
@@ -70,6 +73,7 @@
 "novapowers0/BloodyRoar2Recomp",
 "Acranon/kf1-enhanced",
 "Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
+"arcanite24/pinyon-shift",
 "NoRain211/doaxvb-re",
 "portingpete/The-Darkness-Recomp",
 "LittleBitUA/DownpourRecomp",

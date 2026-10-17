@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"ef1b84de1a91950bb8b70edbf5e7f35f06da4ce2"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"16385733dd15393e3f0084c0493465995037b895"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -7,6 +7,8 @@
 "xprilion/gemini-cli-blender-extension",
 "MohamedAbdallah-14/prompt-to-asset",
 "Synthenova/infiknit-mcp",
+"dontpayfull/AInotate",
+"qrxcodes/qrx-mcp",
 "automateyournetwork/GeminiCLI_Vision_Extension",
 "automateyournetwork/GeminiCLI_Talk_Extension",
 "automateyournetwork/GeminiCLI_ComputerUse_Extension",
@@ -42,6 +44,11 @@
 "target1m/traderspy-mcp",
 "kubec/abuzzhive.com",
 "colibird-ai/local-mcp-releases",
+"nowork-studio/notfair-plugin",
+"SeleemS/grokbotwiki-gemini-extension",
+"SwapWallet/swapwallet-mcp",
+"metarun/metarun-skills",
+"loootai/looot-mcp",
 "SurefireStudios/tldr",
 "thoreinstein/gemini-notifier",
 "MohamedAbdallah-14/unslop",
@@ -107,7 +114,9 @@
 "GoogleCloudPlatform/knowledge-catalog-plugin",
 "GoogleCloudPlatform/looker-plugin",
 "minds-ai-co/minds-mcp",
-"daniel3303/stock-market-mcp-server"
+"daniel3303/stock-market-mcp-server",
+"Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+"waynehamadi/datacircle-plugin"
 ],
 "dropped": [
 ["2026-09-26","feder-cr/AIHawk"],

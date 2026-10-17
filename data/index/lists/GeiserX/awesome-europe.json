@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"ff1e78f8a90b9102b5d0dacbe39bcae97348ae62"},
+"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"193d87999eaf272f35164408aa18ce391209cc9c"},
 "members": [
 "act-rules/act-rules.github.io",
 "Siteimprove/alfa",
@@ -90,6 +90,7 @@
 "morganrcu/awesome-eu-ai-act",
 "compl-ai/compl-ai",
 "digital-services-act/transparency-database",
+"sebastianfoerste/eu-ai-act-classifier",
 "SonnyLabs/EU_AI_ACT_MCP",
 "Hiepler/EuConform",
 "Principled-Evolution/gopal",
@@ -241,9 +242,11 @@
 "BrelLibrary/brel",
 "open-risk/concentrationMetrics",
 "European-Securities-Markets-Authority/esma_data_py",
+"sebastianfoerste/eu-reg-mcp",
 "open-source-modelling/insurance_python",
 "kanedata/ixbrl-parse",
 "cybermaggedon/ixbrl-reporter",
+"sebastianfoerste/micar-whitepaper-linter",
 "open-source-modelling/Open_Source_Economic_Model",
 "open-risk/openNPL",
 "open-risk/portfolioAnalytics",
