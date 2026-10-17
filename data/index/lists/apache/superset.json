@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Apache Superset is a Data Visualization and Data Exploration Platform","defaultBranch":"master","topics":["superset","apache","apache-superset","data-visualization","data-viz","analytics","business-intelligence","data-science","data-engineering","asf"],"readmeSha":"0fdc90d39c79440f7f15ec8c8b81cc6e696efe7a"},
+"meta": {"description":"Apache Superset is a Data Visualization and Data Exploration Platform","defaultBranch":"master","topics":["superset","apache","apache-superset","data-visualization","data-viz","analytics","business-intelligence","data-science","data-engineering","asf"],"readmeSha":"5e8659850cc3cdd8f91394ddb0151dd89dca1cb4"},
 "members": [
 "apache/superset-site"
 ]

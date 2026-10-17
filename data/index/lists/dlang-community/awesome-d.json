@@ -1,5 +1,5 @@
 {
-"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"16799c3ed124fa421995ed7a0b5620c69e72cbc3"},
+"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"e9ad740b34feec3f9efb53bd39db9d3fdfdf9a69"},
 "members": [
 "sindresorhus/awesome",
 "vinta/awesome-python",
@@ -45,6 +45,7 @@
 "gedaiu/fluent-asserts",
 "higgsjs/Higgs",
 "adamdruppe/arsd",
+"evrlang/ever",
 "Rikarin/Trinix",
 "xomboverlord/xomb",
 "xomboverlord/xomb-legacy",

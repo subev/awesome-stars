@@ -1,5 +1,5 @@
 {
-"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"10307d5c59e7979947f50b36af4b14ce3b695003"},
+"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"c603b86baedd3decd76e31eb03d1a02d27cac651"},
 "members": [
 "expressjs/express",
 "valyala/fasthttp",
@@ -35,6 +35,7 @@
 "NarmadaWeb/limiter",
 "NarmadaWeb/gonify",
 "oaswrap/spec",
+"Guard-Core/fiber-guard",
 "gofiber/boilerplate",
 "thomasvvugt/fiber-boilerplate",
 "sujit-baniya/fiber-boilerplate",
@@ -63,6 +64,7 @@
 "oapi-codegen/oapi-codegen",
 "go-dawn/dawn",
 "gofiber/cli",
+"keploy/keploy",
 "MUlt1mate/protoc-gen-httpgo",
 "ryanbekhen/feserve",
 "tompston/gomakeme",

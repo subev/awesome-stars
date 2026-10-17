@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"2159c39f9d97787483797f2767fdffbb21b78be5"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"658909e212352ebaaaa4e68190e2e5e1db1c804e"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -18,6 +18,7 @@
 "uber-archive/AthenaX",
 "AutoMQ/automq",
 "bytewax/bytewax",
+"orhaugh/clink",
 "lf-edge/ekuiper",
 "espertechinc/esper",
 "fluvio-community/fluvio",
@@ -103,6 +104,7 @@
 "linkedin/databus",
 "faucet-hq/faucet-stream",
 "bruin-data/ingestr",
+"datazip-inc/olake",
 "pathwaycom/pathway",
 "redpanda-data/connect",
 "rudderlabs/rudder-server",
@@ -110,6 +112,7 @@
 "Netflix/suro",
 "JayJamieson/yasdb",
 "beava-dev/beava",
+"avison9/cdclint",
 "eventum-generator/eventum",
 "javactrl/javactrl-kafka",
 "TouK/nussknacker",
@@ -121,9 +124,11 @@
 "hortonworks/streamline",
 "brexhq/substation",
 "Netflix/Turbine",
-"aklivity/zilla",
 "tylertreat/Flotilla",
 "yahoo/storm-perf-test",
 "yahoo/streaming-benchmarks"
+],
+"dropped": [
+["2026-10-17","aklivity/zilla"]
 ]
 }

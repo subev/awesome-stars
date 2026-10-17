@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"8873ca870ffa2a8e3edbd44a2b8dab6dcb515cd7"},
+"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"c51355da579a83f52fc592405c6dbfa1b5241188"},
 "members": [
 "Aider-AI/aider",
 "cline/cline",
@@ -50,7 +50,8 @@
 "topoteretes/cognee",
 "meilisearch/meilisearch",
 "typesense/typesense",
-"Infisical/infisical"
+"Infisical/infisical",
+"keploy/keploy"
 ],
 "dropped": [
 ["2026-09-11","QuivrHQ/quivr"]

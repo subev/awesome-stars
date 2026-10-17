@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"d1e2aea68e30870a04f816a6f78f57277edfc6d5"},
+"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"673ffffc263bb5f1673be7af17d341d05c4bde9b"},
 "members": [
 "pnxenopoulos/csgo",
 "leomaurodesenv/smm-course-search",
@@ -32,10 +32,12 @@
 "lostdecade/onslaught_arena",
 "leomaurodesenv/TapAI",
 "cheahjs/bravefrontier_data",
+"gegewang774-hue/coop-game-night-data",
 "oganm/dnddata",
 "rajeshsureddi/GameScope",
 "NabajeetBarman/GamingHDRVideoSET",
 "oscarmcnulty/gta-3d-dataset",
+"odebo/planet-zoo-2-dataset",
 "Biuni/PokemonGO-Pokedex",
 "onzie9/Quackle_Self_Play",
 "TorchCraft/StarData",
@@ -48,6 +50,7 @@
 "cncplyr/datasets-games",
 "michelpereira/awesome-games-of-coding",
 "leereilly/games",
-"openai/gym"
+"openai/gym",
+"playersells/open-data"
 ]
 }

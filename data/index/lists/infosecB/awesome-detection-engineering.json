@@ -1,8 +1,9 @@
 {
-"meta": {"description":"Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.","defaultBranch":"main","topics":["detection-engineering","splunk","mitre","awesome-list","awesome","cybersecurity","threat-detection"],"readmeSha":"4d1e373f337567c503aa36308ad1a54e635be7e7"},
+"meta": {"description":"Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.","defaultBranch":"main","topics":["detection-engineering","splunk","mitre","awesome-list","awesome","cybersecurity","threat-detection"],"readmeSha":"0fcb50bf21ec230f44a39c89fcad76695fdac680"},
 "members": [
 "palantir/alerting-detection-strategy-framework",
 "splunk/salo",
+"gyubin02/control-assurance-lab",
 "anpa1200/adversarygraph",
 "ThreatRecall/zettelforge",
 "SigmaHQ/sigma",
@@ -12,11 +13,11 @@
 "elastic/protections-artifacts",
 "Agent-Threat-Rule/agent-threat-rules",
 "chronicle/detection-rules",
-"ExabeamLabs/Content-Library-CIM2",
 "panther-labs/panther-analysis",
 "anvilogic-forge/armory",
 "center-for-threat-informed-defense/security-stack-mappings",
 "west-wind/Threat-Hunting-With-Splunk",
+"ridgelinecyberdefence/Enterprise-Detection-Engineering",
 "GoogleCloudPlatform/security-analytics",
 "Bert-JanP/Hunting-Queries-Detection-Rules",
 "Khadinxc/Sigma2KQL",
@@ -31,5 +32,8 @@
 "jatrost/awesome-kubernetes-threat-detection",
 "0x4D31/detection-and-response-pipeline",
 "inodee/threathunting-spl"
+],
+"dropped": [
+["2026-10-17","ExabeamLabs/Content-Library-CIM2"]
 ]
 }

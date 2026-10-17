@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"66162c89f944d7a1a9f726d182a83590ddaffd6e"},
+"meta": {"description":"A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.","defaultBranch":"master","topics":[],"readmeSha":"02b21bd00f4e86356d13b1fa28519c5ca277957f"},
 "members": [
 "sindresorhus/awesome",
 "bayandin/awesome-awesomeness",
@@ -61,9 +61,11 @@
 "hi5/CL3",
 "536/my-startup-ahk-scripts",
 "aviaryan/Clipjump",
+"zhugecaomao/ALTRun",
 "adampash/belvedere",
 "JnLlnd/QuickAccessPopup",
 "spicykeys/spicykeys.github.io",
+"ryanduguid/au-accounting-hotkeys",
 "Uberi/Autocomplete",
 "tiuub/DateHotkey",
 "marius-sucan/KeyPress-OSD",

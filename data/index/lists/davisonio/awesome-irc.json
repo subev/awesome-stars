@@ -1,7 +1,7 @@
 {
-"meta": {"description":"A curated list of awesome IRC resources.","defaultBranch":"master","topics":["awesome","irc","awesome-list"],"readmeSha":"804448d281ceb9e61e806e6c5d765aa042a537dd"},
+"meta": {"description":"A curated list of awesome IRC resources.","defaultBranch":"master","topics":["awesome","irc","awesome-list"],"readmeSha":"976c7d28ae42c5551cba7d9c25f5f342e6ae471f"},
 "members": [
-"Codeux-Software/Textual",
+"blendbyte/Textual",
 "psychs/limechat",
 "hexchat/hexchat",
 "kiwiirc/kiwiirc",
@@ -79,5 +79,8 @@
 "ircdocs/parser-tests",
 "tommyrot/superseriousstats",
 "waveplate/img2irc"
+],
+"dropped": [
+["2026-10-17","Codeux-Software/Textual"]
 ]
 }

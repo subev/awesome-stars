@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Library of 45+ independent Lua modules improving Neovim experience with minimal effort","defaultBranch":"main","topics":["neovim","lua","neovim-plugin","mini-nvim"],"readmeSha":"d670bbbc1a993bec145251ef09b59a7a8a6c0f95"},
+"meta": {"description":"Library of 45+ independent Lua modules improving Neovim experience with minimal effort","defaultBranch":"main","topics":["neovim","lua","neovim-plugin","mini-nvim"],"readmeSha":"818262db86b4800953fabc70e73f497354f277db"},
 "members": [
 "neovim/neovim",
 "folke/lazy.nvim",

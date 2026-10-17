@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"04ddcc1da47cacb1e56bab84493c9bb49abbf55e"},
+"meta": {"description":"A curated list of awesome Lit resources.","defaultBranch":"main","topics":["lit-html","awesome","awesome-list"],"readmeSha":"89d3552bb877a4c409186d2a234ad3e95f699bf8"},
 "members": [
 "lit/lit",
 "gracile-web/starter-projects",
@@ -8,6 +8,7 @@
 "fernandopasik/hello-web-components",
 "e111077/lit-sass-js-starter",
 "e111077/lit-sass-ts-starter",
+"break-stuff/lit-starter-kit",
 "andrewlevada/webpack-lit-template",
 "pwa-builder/pwa-starter",
 "IBM/pwa-lit-template",
@@ -90,12 +91,15 @@
 "bennypowers/cem",
 "Matsuuu/web-component-devtools",
 "bridgetownrb/bridgetown-lit-renderer",
-"fable-compiler/Fable.Lit",
+"fable-hub/Fable.Lit",
 "ruby2js/ruby2js",
 "pionjs/pion",
 "developit/htm",
 "hybridsjs/hybrids",
 "motss/lit-ntml",
 "sindresorhus/awesome"
+],
+"dropped": [
+["2026-10-17","fable-compiler/Fable.Lit"]
 ]
 }

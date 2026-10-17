@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"d5f715ec00453b02128d026cf2353e41a00cc300"},
+"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"29e20a035d169a0a08a87ffd67e390adffd4782d"},
 "members": [
 "EmmaTheMartian/clockwork",
 "vlang/vab",
 "larpon/vab-sdl",
 "l1mey112/crepl",
+"gabytz777/dupfind",
 "gechandesu/fdup",
 "Dracks/repo-download-asset",
 "BafS/hn-top",
@@ -47,6 +48,7 @@
 "xjunko/kurarin",
 "ali-furkan/minesweeper-v",
 "larpon/puzzle_vibes",
+"gabytz777/vcraft",
 "hedgeg0d/vchess",
 "inxomnyaa/v-pong",
 "xjunko/mpv-v",
@@ -227,7 +229,7 @@
 "alexferl/vest",
 "nedpals/vex",
 "withs/vigest",
-"siguici/vite",
+"ske-ci/vite",
 "WolvesFortress/vxbl-oauth",
 "Dracks/West",
 "undivisible/tree-sitter-v",
@@ -287,6 +289,7 @@
 ["2026-08-28","tailsmails/vnm"],
 ["2026-08-28","tailsmails/velegram"],
 ["2026-08-28","tailsmails/vanadium"],
-["2026-08-28","tailsmails/vop"]
+["2026-08-28","tailsmails/vop"],
+["2026-10-17","siguici/vite"]
 ]
 }

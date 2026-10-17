@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"4fad910a2f1e5e4402ff850395042f5ec94299b9"},
+"meta": {"description":"Collections of awesome WezTerm plugins.","defaultBranch":"main","topics":["awesome","awesome-list","wezterm","wezterm-lua","wezterm-config","wezterm-plugin"],"readmeSha":"1aacade1edb83da0370872b9b91026bc930c15ee"},
 "members": [
 "sindresorhus/awesome",
 "wezterm/wezterm",
@@ -9,6 +9,7 @@
 "EdenGibson/wezterm-quota-limit",
 "Eric162/wezterm-agent-deck",
 "M-Marbouh/agent-quota.wezterm",
+"sethupavan12/commander.wezterm",
 "MLFlexer/modal.wezterm",
 "sravioli/chord.wz",
 "sei40kr/wez-pain-control",

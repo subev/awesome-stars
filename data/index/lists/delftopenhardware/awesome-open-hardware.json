@@ -1,9 +1,12 @@
 {
-"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"2bb5d91a3ca3ddd3e3fc25efc6a63afc3395ab07"},
+"meta": {"description":"🛠Helpful items for making open source hardware projects.","defaultBranch":"main","topics":["awesome-list","awesome","hardware","open-source-hardware","open-hardware"],"readmeSha":"11386435131d4218da23825d47a7a0fef99350fa"},
 "members": [
+"tomrodinger/servomotor",
 "nasa-jpl/open-source-rover",
+"roboninecom/SO-ARM-102",
 "GeiserX/PiSpot-Show",
 "GeiserX/PiSpot-Watch",
+"SuveenE/tiny-film-camera",
 "cheyao/icepi-zero",
 "sasodoma/nrf52840-promicro",
 "openmv/openmv",
@@ -19,6 +22,7 @@
 "google/skywater-pdk",
 "ajaymnk/open-electronics",
 "paulhendricks/awesome-open",
-"kitspace/awesome-electronics"
+"kitspace/awesome-electronics",
+"way2pramil/awesome-kicad-projects"
 ]
 }

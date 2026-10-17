@@ -1,5 +1,5 @@
 {
-"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"821e867bcae57d6ae532cfd561fd626e13fc707c"},
+"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"81f8b0be1bee5c4f1f729aa87e382f9f721a6cda"},
 "members": [
 "sindresorhus/awesome",
 "mongodb-developer/the-little-mongodb-book",
@@ -78,12 +78,14 @@
 "stefanprodan/mgob",
 "mongolab/mongoctl",
 "jwilder/mongodb-tools",
+"YigitCittan/mongorescue",
 "rueckstiess/mtools",
 "mdirolf/nginx-gridfs",
 "yougov/mongo-connector",
 "EnterpriseDB/mongo_fdw",
 "mongodb/mongo-hadoop",
 "ozlerhakan/mongolastic",
+"datazip-inc/olake",
 "UnderGreen/ansible-role-mongodb",
 "edelight/chef-mongodb",
 "helm/charts",
@@ -96,6 +98,7 @@
 "WebDB-App/app",
 "argon-lab/argon",
 "mongodb/mongo-csharp-analyzer",
+"keploy/keploy",
 "feliixx/mgodatagen",
 "seppevs/migrate-mongo",
 "feliixx/mongoplayground",
@@ -107,12 +110,14 @@
 "erh/mongo-munin",
 "mzupan/nagios-plugin-mongodb",
 "percona/pmm",
+"fclairamb/solidping",
 "mrsarm/mongotail",
 "appsmithorg/appsmith",
 "appwrite/appwrite",
 "Budibase/budibase",
 "illacloud/illa-builder",
 "ToolJet/ToolJet",
+"masumedb/masume",
 "mongodb/mongodb-atlas-cli",
 "mongodb-js/mongosh",
 "mrvautin/adminMongo",
@@ -126,7 +131,7 @@
 "errbit/errbit",
 "fictionco/fiction",
 "grandnode/grandnode",
-"jonradoff/lastsaas",
+"metavert-io/lastsaas",
 "leanote/leanote",
 "NodeBB/NodeBB",
 "reactioncommerce/reaction",
@@ -134,5 +139,8 @@
 "unchainedshop/unchained",
 "fzaninotto/uptime",
 "zone-eu/wildduck"
+],
+"dropped": [
+["2026-10-17","jonradoff/lastsaas"]
 ]
 }

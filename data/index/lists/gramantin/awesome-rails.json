@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"84cb25530058bc3159100efe82950cbd2e07d189"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"a6fd528415218fe82e095ed91311af80d8381d9c"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -146,7 +146,7 @@
 "presidentbeef/brakeman",
 "weppos/breadcrumbs_on_rails",
 "joshuajansen/bulma-rails",
-"CanCanCommunity/cancancan",
+"coorasse/cancancan",
 "carrierwaveuploader/carrierwave",
 "caxlsx/caxlsx_rails",
 "magnusvk/counter_culture",
@@ -185,6 +185,7 @@
 "koedame/rails-mermaid_erd",
 "huacnlee/rails-settings-cached",
 "railsadminteam/rails_admin",
+"aslam/rails-preflight",
 "reidmorrison/rails_semantic_logger",
 "brendon/ranked-model",
 "activerecord-hackery/ransack",
@@ -255,6 +256,7 @@
 ],
 "dropped": [
 ["2026-09-04","encrypt-to/encrypt.to"],
-["2026-09-25","BemiHQ/bemi-rails"]
+["2026-09-25","BemiHQ/bemi-rails"],
+["2026-10-17","CanCanCommunity/cancancan"]
 ]
 }

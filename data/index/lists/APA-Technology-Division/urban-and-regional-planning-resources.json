@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"92b9acaf263b971626771c7fffced14433265a2d"},
+"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"50269e6b3062b9021198c49139fb502ba97fdf52"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/USBuildingFootprints",
@@ -36,7 +36,7 @@
 "tariqshihadah/linref",
 "r-spatial/leafgl",
 "r-spatial/rgee",
-"ipeaGIT/r5r",
+"ipea/r5r",
 "codeforamerica/civic-tech-patterns",
 "global-healthy-liveable-cities/global-indicators",
 "chartjs/Chart.js",
@@ -56,6 +56,7 @@
 "ai-collection/ai-collection"
 ],
 "dropped": [
-["2026-09-25","APA-Technology-Division/urban-and-regional-planning-resources"]
+["2026-09-25","APA-Technology-Division/urban-and-regional-planning-resources"],
+["2026-10-17","ipeaGIT/r5r"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"ae84919c263132b68ab1fd158faa14d22d23e6fd"},
+"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"e84b85f30ef1e4d4ac3dd13e75cff7b3781f0858"},
 "members": [
 "sindresorhus/awesome",
 "vleerapp/vleer",
@@ -31,7 +31,6 @@
 "marm00/cinema",
 "fastfetch-cli/fastfetch",
 "mikf/gallery-dl",
-"Omibranch/gitty",
 "gerardog/gsudo",
 "PowerShell/PowerShell",
 "ScoopInstaller/Scoop",
@@ -158,6 +157,7 @@
 "desktop/desktop",
 "colinlienard/gitlight",
 "TortoiseGit/TortoiseGit",
+"WinMerge/winmerge",
 "Gaurox/FrameShift",
 "HandBrake/HandBrake",
 "mpv-player/mpv",
@@ -175,6 +175,7 @@
 ],
 "dropped": [
 ["2026-09-04","Talkdedsec1/tlk-visual"],
-["2026-09-04","0PandaDEV/Timelens"]
+["2026-09-04","0PandaDEV/Timelens"],
+["2026-10-17","Omibranch/gitty"]
 ]
 }

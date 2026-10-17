@@ -1,15 +1,17 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"ffb65f59d524aa67b616ae53329be6908237eb19"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"72bf316d4019002bc2e88f25d567b23cabd44cf6"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
 "juandresrodca/DorkCraft",
+"xPloits3c/DorkEye",
 "vflame6/leaker",
 "nox-project/nox-framework",
 "spmedia/Threat-Actor-Usernames-Scrape",
 "loseys/Oblivion",
 "cga-harvard/Data_Science_Big_Data_Projects",
 "n0kovo/fb_friend_list_scraper",
+"XD-MHLOO/facebook-gql-scraper",
 "sorenlouv/fb-sleep-stats",
 "misiektoja/instagram_monitor",
 "obitouka/InstagramPrivSniffer",
@@ -25,6 +27,7 @@
 "sockysec/Telerecon",
 "spmedia/Telegram-Channel-Joiner",
 "prose-intelligence-ltd/Telepathy-Community",
+"GeiserX/Telegram-Archive",
 "tejado/telegram-nearby-map",
 "hamodywe/telegram-scraper-TeleGraphite",
 "tsale/TeleTracker",
@@ -50,6 +53,7 @@
 "khast3x/h8mail",
 "megadose/holehe",
 "KatrielMoses/MailAccess",
+"Samyrrrrrr990/openleads",
 "atiilla/OsintEye",
 "hstsethi/in-mob-prefix",
 "sundowndev/phoneinfoga",
@@ -101,7 +105,6 @@
 "s0md3v/Orbit",
 "milo2012/osintstalker",
 "s0md3v/Photon",
-"NovaCode37/Prism-platform",
 "FauvidoTechnologies/pyba",
 "GreyNoise-Intelligence/pygreynoise",
 "six2dez/reconftw",
@@ -147,6 +150,7 @@
 ],
 "dropped": [
 ["2026-09-11","p1ngul1n0/blackbird"],
-["2026-10-10","JMarchiori13/osint-recon"]
+["2026-10-10","JMarchiori13/osint-recon"],
+["2026-10-17","NovaCode37/Prism-platform"]
 ]
 }

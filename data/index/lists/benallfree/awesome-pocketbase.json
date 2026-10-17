@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of PocketBase community resources.","defaultBranch":"main","topics":["awesome","awesome-list","golang","pocketbase"],"readmeSha":"4e93c909d6e51f9a3f0acc53d507d5adece97220"},
+"meta": {"description":"A collection of PocketBase community resources.","defaultBranch":"main","topics":["awesome","awesome-list","golang","pocketbase"],"readmeSha":"e9a88b58140c87b97de59562b4e6d51d2766b0ad"},
 "members": [
 "pocketbase/pocketbase",
 "pocketbase/js-sdk",
@@ -46,6 +46,7 @@
 "PRCV1/pocketbase-csharp-sdk",
 "sreedevk/pocketbase-sdk-rust",
 "Sov3rain/pocketbase-unity",
+"azmi2409/pocketbase-ruby",
 "metruzanca/pocketbase_railway",
 "boustanihani/pocketbase-lightsail-hosting",
 "kdpuvvadi/pocketbase",
@@ -80,6 +81,7 @@
 "tametsi/adnexos",
 "cobeo2004/pocketbase-libsql",
 "PocketTogether/pocket-chat",
+"jesposito/Facet",
 "benallfree/pocketbase-node",
 "mde/ejs",
 "benallfree/pocketbase-ejs",

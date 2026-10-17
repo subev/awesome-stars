@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome downloadable SVG/PNG/Font icon projects","defaultBranch":"master","topics":["awesome","awesome-list","icons","free-svg-icons","icon-set","logo"],"readmeSha":"20b98dd492239026e893fc722eb06f4971f75b80"},
+"meta": {"description":"A curated list of awesome downloadable SVG/PNG/Font icon projects","defaultBranch":"master","topics":["awesome","awesome-list","icons","free-svg-icons","icon-set","logo"],"readmeSha":"e0aeefefc1df71c11434ab97318337c5abbdef12"},
 "members": [
 "twbs/icons",
 "box-icons/boxicons",
 "danklammer/bytesize-icons",
 "astrit/css.gg",
+"Sam-r-passmore/energy-icons",
 "akveo/eva-icons",
 "evil-icons/evil-icons",
 "feathericons/feather",
@@ -20,7 +21,6 @@
 "Remix-Design/RemixIcon",
 "edent/SuperTinyIcons",
 "tabler/tabler-icons",
-"teenyicons/teenyicons",
 "Iconscout/unicons",
 "microsoft/vscode-icons",
 "erikflowers/weather-icons",
@@ -41,5 +41,8 @@
 "iconify/iconify",
 "react-icons/react-icons",
 "webrenew/unicon"
+],
+"dropped": [
+["2026-10-17","teenyicons/teenyicons"]
 ]
 }

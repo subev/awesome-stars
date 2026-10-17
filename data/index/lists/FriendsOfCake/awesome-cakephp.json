@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"e42d6df6cf7f477767428f9ce38ead8af29b50ca"},
+"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"ce699cf6378841ae5a615323ed155651a4be84bc"},
 "members": [
 "ziadoz/awesome-php",
 "bayandin/awesome-awesomeness",
@@ -54,6 +54,7 @@
 "dereuromark/cakephp-geo",
 "ADmad/cakephp-i18n",
 "cakephp/localized",
+"dereuromark/cakephp-i18n-lint",
 "dereuromark/cakephp-translate",
 "ADmad/cakephp-glide",
 "php-collective/file-storage-image-processor",

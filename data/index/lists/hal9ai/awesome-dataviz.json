@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome data visualization libraries and resources.","defaultBranch":"main","topics":["data-visualization","visualization","chart","dataviz","visualize-data","awesome-list"],"readmeSha":"85e112701f861f3b611a68587297e7889c83caee"},
+"meta": {"description":"A curated list of awesome data visualization libraries and resources.","defaultBranch":"main","topics":["data-visualization","visualization","chart","dataviz","visualize-data","awesome-list"],"readmeSha":"b279b1bdf81f58022f50f99f28c9c1fdc8d71a3c"},
 "members": [
 "sindresorhus/awesome",
 "vinta/awesome-python",
@@ -269,6 +269,7 @@
 "rstudio/leaflet",
 "thomasp85/patchwork",
 "plotly/plotly.R",
+"rstudio/r2d3",
 "tylermorganwall/rayshader",
 "r-tmap/tmap",
 "ankane/blazer",

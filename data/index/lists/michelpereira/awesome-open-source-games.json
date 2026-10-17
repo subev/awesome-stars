@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"5204bc96c003f928342f50de91a139c86e318d87"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"29734201572ff55470d855404b470dc3b50ad804"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
@@ -8,7 +8,7 @@
 "Loptr-Lab/duet-solo-hackathon",
 "danbeck/green-mahjong",
 "binarymax/kriegspiel",
-"jonradoff/chessmata",
+"metavert-io/chessmata",
 "lichess-org/lila",
 "braedonsaunders/parlour",
 "playpip/pip-web",
@@ -133,6 +133,7 @@
 "arturkot/the-house-game",
 "dominikwilkowski/beast",
 "lpinca/binb",
+"diogoseca/bjjgraph",
 "georgegognadze/Cyber-Pong",
 "cshepp/candyjam",
 "TomWHall/Descensus2",
@@ -416,6 +417,7 @@
 ],
 "dropped": [
 ["2026-09-25","city41/breakouts"],
-["2026-10-10","Scottcjn/legend-of-elya-n64"]
+["2026-10-10","Scottcjn/legend-of-elya-n64"],
+["2026-10-17","jonradoff/chessmata"]
 ]
 }

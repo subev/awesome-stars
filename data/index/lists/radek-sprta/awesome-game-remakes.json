@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"1625e598e48c7ab0ed2c8b959442344cceb42d91"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"0c7ba8ca685311e0e2c85a23399701d85d63d3bf"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
@@ -41,7 +41,8 @@
 "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
 "SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED",
 "GTTeancum/xmen-mutant-academy-2-pc",
-"MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp",
+"MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled",
+"michidk/cyrus",
 "benbaker76/DetectiveDS",
 "TwilitRealm/dusklight",
 "kroplabeskidu/flipendo",
@@ -351,7 +352,7 @@
 "Dzierzan/OpenSA",
 "OpenSAGE/OpenSAGE",
 "luann8331/opensage-adk",
-"nicholas-ochoa/OpenSC2K",
+"OpenSC2K/OpenSC2K",
 "OpenTPW/OpenTPW",
 "OpenTTD/OpenTTD",
 "OpenXcom/OpenXcom",
@@ -402,6 +403,8 @@
 ["2026-10-03","kraflab/dsda-doom"],
 ["2026-10-03","lordbasilaiassistant-sudo/aeon"],
 ["2026-10-03","Towhidul-Islam5797/TheOldWorld"],
-["2026-10-03","Yrvera/vera20k"]
+["2026-10-03","Yrvera/vera20k"],
+["2026-10-17","MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp"],
+["2026-10-17","nicholas-ochoa/OpenSC2K"]
 ]
 }

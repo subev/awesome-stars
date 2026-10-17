@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"a98b02eea725561ddc5dfb02c44d06077891761c"},
+"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"3d9ffefddfd386791ad46e832f0ca8a4acfb0fb8"},
 "members": [
 "sindresorhus/awesome",
 "awesome-foss/awesome-sysadmin-data",
@@ -8,6 +8,8 @@
 "apache/maven",
 "bazelbuild/bazel",
 "gradle/gradle",
+"openbao/openbao",
+"openbao/openbao-plugins",
 "OpenVoxProject/openbolt",
 "dmarcguardhq/parse-dmarc",
 "domainaware/parsedmarc",

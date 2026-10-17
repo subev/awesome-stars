@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open-source projects related to esports.","defaultBranch":"main","topics":["awesome","esports","awesome-list"],"readmeSha":"c63bcaca42fd97cdb21d4b99ef2609ca9eec05ac"},
+"meta": {"description":"A curated list of open-source projects related to esports.","defaultBranch":"main","topics":["awesome","esports","awesome-list"],"readmeSha":"d1ec7db3f7778026a90142d25fe3dee164814bff"},
 "members": [
 "benweier/blizzard.js",
 "discordjs/discord.js",
@@ -27,6 +27,7 @@
 "Pupix/rift-explorer",
 "techchrism/valorant-api-docs",
 "lootmarket/esport-team-logos",
+"bklaric/team-tavern",
 "boltgolt/boltobserv",
 "odota/core",
 "chhopsky/foldysheet",

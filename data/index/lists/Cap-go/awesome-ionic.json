@@ -1,10 +1,12 @@
 {
-"meta": {"description":"Awesome list of Ionic resources. Made by Capgo","defaultBranch":"main","topics":["ionic-framework","cordova","javascript","ionic2","awesome","awesome-list","ionic","ionic3"],"readmeSha":"b1569b51ef65ba31ef1e42ce6200905bf1186b1c"},
+"meta": {"description":"Awesome list of Ionic resources. Made by Capgo","defaultBranch":"main","topics":["ionic-framework","cordova","javascript","ionic2","awesome","awesome-list","ionic","ionic3"],"readmeSha":"292b4a49869b66d696c5293b4f5bb7caf8b40de3"},
 "members": [
 "danielsogl/awesome-cordova-plugins",
 "ionic-team/ionic-framework",
 "ionic-team/capacitor",
 "riderx/awesome-capacitor",
+"Cap-go/capgo-skills",
+"Cap-go/cursor-capgo-plugin",
 "EnappdLLC/Ionic-4-Twitter-auth",
 "Cap-go/capacitor-accelerometer",
 "Cap-go/capacitor-admob",

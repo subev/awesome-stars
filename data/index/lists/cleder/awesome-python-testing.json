@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"66bf4265123cd8a6d074147c9e375dfb5ad2e2b3"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"633f806c59a2824d318c8278a792ba5a1287e2e3"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -34,6 +34,7 @@
 "mcp-runtime/mcp-server-fuzzer",
 "Continuum-AI-Corp/OrcaReplay",
 "Jott2121/sabot",
+"Plexito-de/spantruth",
 "tenro-ai/tenro-python",
 "hseera/dynamic-workload-model",
 "alteryx/locust-grasshopper",
@@ -52,6 +53,7 @@
 "spulec/freezegun",
 "patrys/httmock",
 "gabrielfalcao/HTTPretty",
+"keploy/keploy",
 "NUTtech/Kesha",
 "alm0ra/mockafka-py",
 "mindflayer/python-mocket",
@@ -71,6 +73,7 @@
 "EvanKepner/mutatest",
 "boxed/mutmut",
 "mutpy/mutpy",
+"syntaxixr/receipts",
 "vrthra/xmutant.py",
 "FactoryBoy/factory_boy",
 "klen/mixer",
@@ -159,6 +162,7 @@
 "litestar-org/pytest-databases",
 "dannysepler/pytestify",
 "pksol/pytest-mock-generator",
+"MaciejZiel/pytest-queryguard",
 "shakhov-dmitrii/pytest-test-observer",
 "roli-lpci/quick-gate-python",
 "golikovichev/secure-log2test",

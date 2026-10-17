@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"d26ba542210b1ccb1ad95118644629d1aab614e9"},
+"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"5cabd71fd6976f629adf3edbd025c0c6ac11a5cf"},
 "members": [
 "kahun/awesome-sysadmin",
 "yadage/adage",
@@ -110,7 +110,6 @@
 "runabol/piper",
 "polyaxon/polyaxon",
 "reanahub/reana",
-"uzh/sushi",
 "klugem/watchdog",
 "windmill-labs/windmill",
 "common-workflow-language/common-workflow-language",
@@ -129,6 +128,7 @@
 "panodata/omniload",
 "pathwaycom/pathway",
 "brexhq/substation",
+"datazip-inc/olake",
 "argoproj/argo-workflows",
 "ovh/cds",
 "pydoit/doit",
@@ -140,5 +140,8 @@
 "manuzhang/awesome-streaming",
 "pawl/awesome-etl",
 "meirwah/awesome-workflow-engines"
+],
+"dropped": [
+["2026-10-17","uzh/sushi"]
 ]
 }

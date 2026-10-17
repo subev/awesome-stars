@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"aef2d327b9b7472ed1a7d23f10e3bfa5204f1e0c"},
+"meta": {"description":"📖  A curated list of Awesome Userscripts.","defaultBranch":"master","topics":["userscripts","greasemonkey","youtube","awesome","privacy","awesome-list","list","ad-blocking","chatgpt","chrome"],"readmeSha":"b14589c0e593d8276e0973858241940d78547eef"},
 "members": [
 "sindresorhus/awesome",
 "fork-maintainers/iceraven-browser",
@@ -26,6 +26,7 @@
 "qsniyg/maxurl",
 "tophf/mpiv",
 "hoothin/UserScripts",
+"YokoAC/reddit-scroller",
 "sinazadeh/userscripts",
 "immersive-translate/immersive-translate",
 "DREwX-code/Ultimate-Text-Selection-Translator",

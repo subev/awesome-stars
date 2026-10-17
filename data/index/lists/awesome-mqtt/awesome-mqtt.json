@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"7eada51b088d44d4ffc94cfafe79fa549b5feab8"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"91e94e80b9335d528155c5a577cb0c54fe949e9b"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -76,6 +76,7 @@
 "jamiei/Delphi-TMQTT2",
 "go-mqtt/mqtt",
 "jeffallen/mqtt",
+"ashtonian/mqttv5",
 "xHasKx/luamqtt",
 "novastone-media/MQTT-Client-Framework",
 "mobile-web-messaging/MQTTKit",
@@ -118,6 +119,7 @@
 "jpmens/mqtt-watchdir",
 "eschava/psmqtt",
 "msiedlarek/winthing",
+"fclairamb/solidping",
 "george-vice/ccusage-mqtt",
 "jpmens/check-mqtt",
 "DE-IBH/nag2mqtt",

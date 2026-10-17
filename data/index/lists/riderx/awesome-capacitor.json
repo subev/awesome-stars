@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome lists of capacitor plugins. Made by Capgo","defaultBranch":"main","topics":["awesome-list","awesome","capacitor","capacitor-plugin","ionic"],"readmeSha":"551181e4963f043db7aaa8c6f34f2de1c145a2d4"},
+"meta": {"description":"😎 Awesome lists of capacitor plugins. Made by Capgo","defaultBranch":"main","topics":["awesome-list","awesome","capacitor","capacitor-plugin","ionic"],"readmeSha":"8922562ca5a7ecb173cf1c55ed0f3fcfb6e48af4"},
 "members": [
 "ionic-team/capacitor",
 "ionic-team/capacitor-plugins",
@@ -275,6 +275,7 @@
 "ionic-team/capacitor-assets",
 "Cap-go/tailwind-capacitor",
 "icarus-itcs/lazycap",
+"Cap-go/capgo-skills",
 "AdrienADV/capstart",
 "Cap-go/CLI",
 "Cap-go/live-update-action",

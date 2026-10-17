@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"0adb0e2f2deed2daa7612de622a069c1460a8fe7"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"a94cefe32d56e72a87bcfad3d64af355d1247a33"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -17,7 +17,7 @@
 "eveningkid/denodb",
 "roonie007/dongoose",
 "josh-hemphill/maxminddb-wasm",
-"halvardssm/deno-nessie",
+"lmxrd/deno-nessie",
 "denodrivers/postgres",
 "denodrivers/redis",
 "yooneskh/yongo",
@@ -48,6 +48,7 @@
 "bgub/eta",
 "alosaur/handlebars",
 "lucacasonato/deno-puppeteer",
+"keploy/keploy",
 "izelnakri/qunitx",
 "drashland/rhum",
 "cmorten/superdeno",
@@ -111,6 +112,7 @@
 "ryo-ma/github-profile-trophy",
 "shopsavvy/deno-deploy-shopsavvy",
 "ekaragodin/clone",
+"siddiksawani/CompatLab",
 "denoflow/denoflow",
 "garronej/denoify",
 "joakimunge/denoliver",
@@ -133,5 +135,8 @@
 "crewdevio/Trex",
 "hayd/deno-udd",
 "denoland/vscode_deno"
+],
+"dropped": [
+["2026-10-17","halvardssm/deno-nessie"]
 ]
 }

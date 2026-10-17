@@ -1,14 +1,16 @@
 {
-"meta": {"description":"Curated list of fonts and everything","defaultBranch":"master","topics":["icon-font","free-fonts","google-fonts","programming-fonts","fonts","awesome","awesome-list","list"],"readmeSha":"8aa7070ac152388bb91dda97589bd0383af96e1a"},
+"meta": {"description":"Curated list of fonts and everything","defaultBranch":"master","topics":["icon-font","free-fonts","google-fonts","programming-fonts","fonts","awesome","awesome-list","list"],"readmeSha":"4a736b87dffba00caac661f486492248801afc3b"},
 "members": [
 "sindresorhus/awesome",
+"ayaanahad/font-contrast",
+"whatfontis/WhatFontIs-Bench",
 "qrpike/Web-Font-Load",
 "google/fonts",
 "notofonts/noto-fonts",
 "googlefonts/roboto-2",
 "mozilla/zilla-slab",
 "IBM/plex",
-"googlefonts/amstelvar",
+"googlefonts/amstelvar-beta",
 "aftertheflood/sparks",
 "jpt/barlow",
 "rsms/inter",
@@ -18,6 +20,7 @@
 "christiannaths/redacted-font",
 "RoelN/SansBullshitSans",
 "coreyhu/Urbanist",
+"vigilantkeno/vigilfont",
 "weiweihuanghuang/Work-Sans",
 "carlosgaldino/alfred-emoji-workflow",
 "ruppde/crypto_puzzles",
@@ -102,7 +105,10 @@
 "alexmyczko/fnt",
 "fontforge/fontforge",
 "powerline/fonts",
-"trufont/trufont",
-"willianjusten/awesome-svg"
+"trufont/trufont"
+],
+"dropped": [
+["2026-10-17","googlefonts/amstelvar"],
+["2026-10-17","willianjusten/awesome-svg"]
 ]
 }

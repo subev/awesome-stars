@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"6dd3116ba07f83a271a700ae2becd2e1a04f4855"},
+"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"ca8d6bd3a82ead992b797df0afa5efcd62ddabaa"},
 "members": [
 "sindresorhus/awesome",
 "run-as-root/awesome-magento2",
@@ -68,10 +68,10 @@
 "mageplaza/magento-2-slovak-language-pack",
 "Smile-SA/elasticsuite",
 "algolia/algoliasearch-magento-2",
-"run-as-root/Typesense-Magento-2",
 "firegento/FireGento_FastSimpleImport2",
 "zepgram/module-disable-search-engine",
 "walkwizus/magento2-module-meilisearch",
+"run-as-root/Typesense-Magento-2",
 "magefan/module-blog",
 "mageplaza/magento-2-blog",
 "mage-os/module-page-builder-widget",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources related to executable packing","defaultBranch":"main","topics":["list","awesome","awesome-list","executable-packing","malware-packers","packers","packing-detection","malware-analysis","malware-research","binary-analysis"],"readmeSha":"1b2bc1ef3dac38d5ecd3748d8735633c38bf3327"},
+"meta": {"description":"A curated list of awesome resources related to executable packing","defaultBranch":"main","topics":["list","awesome","awesome-list","executable-packing","malware-packers","packers","packing-detection","malware-analysis","malware-research","binary-analysis"],"readmeSha":"19a4e70239a203875aded715352e29fa6810483b"},
 "members": [
 "gmh5225/awesome-llvm-security",
 "aidansteele/osx-abi-macho-file-format-reference",
@@ -32,6 +32,7 @@
 "timhsutw/elfuck",
 "Eronana/packer",
 "guitmz/ezuri",
+"HimitsuShell/HimitsuShell",
 "akuafif/hXOR-Packer",
 "nullsecuritynet/tools",
 "johnsonjh/lzpack",
@@ -117,6 +118,7 @@
 "unipacker/unipacker",
 "s3team/VMHunt",
 "m417z/winbindex",
+"horsicq/XVolkolak",
 "Neo23x0/yarGen"
 ]
 }

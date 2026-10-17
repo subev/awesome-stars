@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"a0c89c2121f35133b83874b63c8750cf2fec4559"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"5140c100415f69fef44aad7d0aaef23f55aff5cd"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -29,6 +29,7 @@
 "IoTSharp/IoTSharp",
 "pnoker/iot-dc3",
 "devicechain-io/devicechain",
+"aimdb-dev/aimdb",
 "leaberg69/aem-modbus-simulator",
 "KristianP26/ble-scale-sync",
 "visoar/mqtt-acl-linter",
@@ -41,6 +42,7 @@
 "reductstore/reductstore",
 "tphakala/birdnet-go",
 "yoelf22/electrum",
+"onehumanbeing/esp32-iphone-agent",
 "authbroker/authbroker",
 "volkanalkilic/Mqtt-File-Uploader",
 "gioblu/PJON",

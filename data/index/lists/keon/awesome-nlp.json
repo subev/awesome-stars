@@ -1,5 +1,5 @@
 {
-"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"dd30442b22955d019ce316cb81ec1f5aca8024f4"},
+"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"34bae79627c2be73aaf5a1ab4a4ed8b7b399c0ae"},
 "members": [
 "sindresorhus/awesome",
 "keon/awesome-nlp",
@@ -139,8 +139,10 @@
 "Tiiiger/bert_score",
 "facebookresearch/DrQA",
 "allenai/document-qa",
+"AkariAsai/OpenScholar",
 "dair-iitd/openie6",
 "thunlp/DocRED",
+"fastino-ai/GLiNER2",
 "FlagOpen/FlagEmbedding",
 "openai/whisper",
 "facebookresearch/seamless_communication",
@@ -151,9 +153,11 @@
 "piskvorky/gensim-data",
 "togethercomputer/RedPajama-Data",
 "allenai/dolma",
+"huggingface/fineweb-2",
 "vincentkoc/tiny_qa_benchmark_pp",
 "adobe/NLP-Cube",
 "mikahama/uralicNLP",
+"JHU-CLSP/mmBERT",
 "facebookresearch/XNLI",
 "facebookresearch/flores",
 "beir-cellar/beir",
@@ -214,7 +218,6 @@
 "goru001/nlp-for-hindi",
 "NirantK/hindi2vec",
 "pnisarg/ABSA",
-"atik-05/Bangla_Datasets_ABSA",
 "Kyubyong/wordvectors",
 "HIT-SCIR/ELMoForManyLangs",
 "srvCodes/mt-dma",
@@ -297,5 +300,8 @@
 "Danielskry/Awesome-RAG",
 "promptslab/Awesome-Prompt-Engineering",
 "visenger/awesome-mlops"
+],
+"dropped": [
+["2026-10-17","atik-05/Bangla_Datasets_ABSA"]
 ]
 }

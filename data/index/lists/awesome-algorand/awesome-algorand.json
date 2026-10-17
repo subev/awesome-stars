@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓","defaultBranch":"main","topics":["awesome","awesome-list","algorand","algorand-blockchain","algorand-standard-assets","blockchain","cryptocurrency","dapp","defi","blockchain-technology"],"readmeSha":"bf49ed4dda74b985867050beca1f7947a21fd9d8"},
+"meta": {"description":"⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓","defaultBranch":"main","topics":["awesome","awesome-list","algorand","algorand-blockchain","algorand-standard-assets","blockchain","cryptocurrency","dapp","defi","blockchain-technology"],"readmeSha":"9b337b33ce58c85d55da9cfaa9f412b36c8548bd"},
 "members": [
 "algorandfoundation/specs",
 "algorandfoundation/algokit-avm-vscode-debugger",

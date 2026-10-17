@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"67fbd8ca80f62a105c443c177f28f35fac7e1a14"},
+"meta": {"description":"A curated list of awesome libraries, snippets, guides, and projects for GameMaker.","defaultBranch":"main","topics":["game-development","gamedev","games","gamemaker","gamemaker-studio-2","gamemaker-projects","awesome","awesome-list"],"readmeSha":"06c5069983d5e6dc52c7e60bf95beb396c177e79"},
 "members": [
 "aseprite/aseprite",
 "Mtax-Development/GML-OOP",
@@ -70,6 +70,7 @@
 "erkan612/GMVex",
 "sdelaughter/RunGML",
 "Kruger0/Tweeny",
+"erkan612/GMSmartAgent",
 "YellowAfterlife/GMEdit",
 "GameMakerDiscord/Rubber",
 "tinkerer-red/GMLC",

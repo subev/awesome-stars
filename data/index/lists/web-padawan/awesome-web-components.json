@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"adb302116abdffcc7a078e0c65519669d2d33c70"},
+"meta": {"description":"A curated list of awesome Web Components resources.","defaultBranch":"main","topics":["awesome","awesome-list","custom-elements","web-components","webcomponents","shadow-dom"],"readmeSha":"7a2766e05042b21b6fd71301ce67fcf1fcbe5fb7"},
 "members": [
 "praveenpuglia/shadow-dom-in-depth",
 "web-platform-tests/wpt",
@@ -43,6 +43,7 @@
 "adaleks/anywhere-ui",
 "apollo-elements/apollo-elements",
 "axa-ch-webhub-cloud/pattern-library",
+"awc-ui/core",
 "kjantzer/bui",
 "BlazeSoftware/atoms",
 "BrightspaceUI/core",
