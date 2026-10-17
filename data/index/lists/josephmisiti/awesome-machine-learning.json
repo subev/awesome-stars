@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"87d18ece2f0e8c8210ac113fbb1c7cc6668fb993"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"eb052175443b23c51b03676b07b09ae3348df57f"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -749,6 +749,7 @@
 "opendilab/DI-engine",
 "Daveonwave/gym4ReaL",
 "espnet/espnet",
+"alexkroman/tiny-audio",
 "arbox/nlp-with-ruby",
 "louismullie/treat",
 "aurelian/ruby-stemmer",

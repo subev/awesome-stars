@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"b6f76b474a2bb36dcaae95c78f27db5906f5e1f5"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"9ac1b53256b0d72dbb03c5add5bbd2bf884dfbd7"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -210,6 +210,7 @@
 "mozilla/dennis",
 "codespell-project/codespell",
 "amperser/proselint",
+"shenxianpeng/gitstats",
 "dominikh/go-tools",
 "mcandre/linters",
 "exakat/php-static-analysis-tools"

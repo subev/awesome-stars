@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"c349390606ab8390659b1a669f0b2ca010995c7d"},
+"meta": {"description":"🖥 📊 🕹 🛠 A curated list of command line apps","defaultBranch":"master","topics":["awesome-list","awesome","list","cli","cli-app"],"readmeSha":"2a1d6540068adabecdf8b5a41d738c9817a0ded0"},
 "members": [
 "sindresorhus/awesome",
 "newsboat/newsboat",

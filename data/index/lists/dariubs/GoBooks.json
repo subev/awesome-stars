@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of Golang books","defaultBranch":"master","topics":["go","book","awesome-list","golang","awesome","list","books","gobooks","awesome-go","awesome-golang"],"readmeSha":"2bc86e407bdf0e3b62f6c730c3c9f69ae1ae5dc6"},
+"meta": {"description":"List of Golang books","defaultBranch":"master","topics":["go","book","awesome-list","golang","awesome","list","books","gobooks","awesome-go","awesome-golang"],"readmeSha":"dfcc42c02f3c0077251f0bc63b8c4a118dbed8e3"},
 "members": [
 "sindresorhus/awesome",
 "quii/learn-go-with-tests",
@@ -13,6 +13,7 @@
 "golang/go",
 "tuxerrante/go_exercises",
 "devtoolsd/DevBooks",
+"tscollege/typescript-books",
 "minouou/JSBooks",
 "sara8086/PostgresBooks",
 "lara-west/PythonBooks",

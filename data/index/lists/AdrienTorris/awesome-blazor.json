@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"3fc89ead2576e84432d11b27477ea7ccba5268b5"},
+"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"0c4df4bfb2724bdb5df6a894d797f1581a673698"},
 "members": [
 "jsakamoto/awesome-blazor-browser",
 "dotnet/eShop",
@@ -89,6 +89,7 @@
 "microsoft/fast",
 "blazorblueprintui/ui",
 "dotnetcore/BootstrapBlazor",
+"ant-design-blazor/ant-design-blazor",
 "MudBlazor/MudBlazor",
 "SamProf/MatBlazor",
 "Megabit/Blazorise",
@@ -260,8 +261,5 @@
 "DevExpress/blazor-training-samples",
 "ILoveDotNet/ilovedotnet",
 "dodyg/practical-aspnetcore"
-],
-"dropped": [
-["2026-10-02","ant-design-blazor/ant-design-blazor"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"dde053ab684cd428944d1ac5e8f128214f380399"},
+"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"8e2928d422f3dd5353328078d4bf0b12ff1329c5"},
 "members": [
 "sindresorhus/awesome",
 "vercel/next.js",
@@ -89,6 +89,7 @@
 "a827681306/devtoolkit",
 "fim-ai/fim-one",
 "onur-ozkan/feednext",
+"loootai/looot-network",
 "auth0-blog/nextjs-got",
 "sedubois/relate",
 "dotcypress/password",

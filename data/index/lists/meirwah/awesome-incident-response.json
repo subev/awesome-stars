@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of tools for incident response","defaultBranch":"master","topics":["incident-response","security","cybersecurity","dfir","awesome-list","awesome","list","incident-response-tooling"],"readmeSha":"8ac642ed041f3b14ae89c26325182fa5c7536094"},
+"meta": {"description":"A curated list of tools for incident response","defaultBranch":"master","topics":["incident-response","security","cybersecurity","dfir","awesome-list","awesome","list","incident-response-tooling"],"readmeSha":"d3ab3e883a697bb6dfa6b9a408934afde275aab6"},
 "members": [
 "sindresorhus/awesome",
 "NextronSystems/APTSimulator",
@@ -58,7 +58,7 @@
 "MagnetForensics/dumpit-linux",
 "mbevilacqua/appcompatprocessor",
 "ahmedkhlief/APT-Hunter",
-"WithSecureLabs/chainsaw",
+"WithSecureOpenSource/chainsaw",
 "Yamato-Security/hayabusa",
 "jensvoid/lorg",
 "dogoncouch/logdissect",
@@ -145,5 +145,8 @@
 "Invoke-IR/PowerForensics",
 "gfoss/PSRecon",
 "keydet89/RegRipper3.0"
+],
+"dropped": [
+["2026-10-17","WithSecureLabs/chainsaw"]
 ]
 }

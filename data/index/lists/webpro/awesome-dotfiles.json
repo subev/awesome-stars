@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of dotfiles resources.","defaultBranch":"master","topics":["dotfiles-resources","dotfiles","bash","zsh","awesome-list","awesome","list","shell","tools","fish"],"readmeSha":"b077eb81516d0bb7a1bc375e9bc433aecf9eda06"},
+"meta": {"description":"A curated list of dotfiles resources.","defaultBranch":"master","topics":["dotfiles-resources","dotfiles","bash","zsh","awesome-list","awesome","list","shell","tools","fish"],"readmeSha":"75288066cf4990c212b4ecef0c749e8b374098f2"},
 "members": [
 "sindresorhus/awesome",
 "Bash-it/bash-it",

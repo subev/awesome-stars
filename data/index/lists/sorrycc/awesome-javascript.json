@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"080430eac09e9e5fad37f1a9b295cfdaf60b3cdc"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"58adea628ee34697c8b24d007c91c4fd4dca0810"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -98,7 +98,7 @@
 "riot/riot",
 "walmartlabs/thorax",
 "chaplinjs/chaplin",
-"marionettejs/backbone.marionette",
+"marionettejs/marionette",
 "ripplejs/ripple",
 "mikeric/rivets",
 "derbyjs/derby",
@@ -122,6 +122,7 @@
 "whatsup/whatsup",
 "remult/remult",
 "dy/sprae",
+"pionjs/pion",
 "keystonejs/keystone",
 "reactioncommerce/reaction",
 "TryGhost/Ghost",
@@ -485,7 +486,7 @@
 "select2/select2",
 "harvesthq/chosen",
 "blueimp/jQuery-File-Upload",
-"dropzone/dropzone",
+"enyo/dropzone",
 "flowjs/flow.js",
 "FineUploader/fine-uploader",
 "mailru/FileAPI",
@@ -563,6 +564,7 @@
 "strawdynamics/drift",
 "AndersDJohnson/magnificent.js",
 "pchen66/panolens.js",
+"zumerlab/snapdom",
 "hammerjs/hammer.js",
 "hammerjs/touchemulator",
 "bevacqua/dragula",
@@ -708,6 +710,8 @@
 "oven-sh/awesome-bun"
 ],
 "dropped": [
-["2026-09-04","prisma/prisma"]
+["2026-09-04","prisma/prisma"],
+["2026-10-17","marionettejs/backbone.marionette"],
+["2026-10-17","dropzone/dropzone"]
 ]
 }

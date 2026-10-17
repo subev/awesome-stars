@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"cf90ffc013d1a47e91ba06081827e2e2c5203179"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"8d15bb05f5e25ff2149187b169fda4c514132f80"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
@@ -29,7 +29,7 @@
 "Aider-AI/aider",
 "Kilo-Org/kilocode",
 "nomic-ai/gpt4all",
-"pathwaycom/llm-app",
+"pathwaycom/serviette",
 "ExtensityAI/symbolicai",
 "vanna-ai/vanna",
 "Agenta-AI/agenta",
@@ -113,6 +113,7 @@
 "dropped": [
 ["2026-09-04","QuivrHQ/quivr"],
 ["2026-09-18","mnfst/manifest"],
-["2026-10-09","danny-avila/LibreChat"]
+["2026-10-09","danny-avila/LibreChat"],
+["2026-10-17","pathwaycom/llm-app"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"3a2dff8fec8a5ba6fb1c79b29b161c44b734960e"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"5e2bc8912b3118ae95650098abdd5a1b04ba4da8"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -164,7 +164,6 @@
 "setchy/dgs-extended-formatters",
 "tailrocks/graphql-java-datetime",
 "graphql-java/graphql-java-extended-scalars",
-"networknt/light-example-4j",
 "leangen/graphql-spqr-samples",
 "manifold-systems/manifold-sample-graphql-app",
 "graphql-java-kickstart/samples",
@@ -325,6 +324,7 @@
 ["2026-09-25","hypermodeinc/modus"],
 ["2026-09-25","alan345/AI-Fullstack-SaaS-Boilerplate"],
 ["2026-09-25","teambit/bit"],
-["2026-09-25","graphql-hive/graphql-inspector"]
+["2026-09-25","graphql-hive/graphql-inspector"],
+["2026-10-17","networknt/light-example-4j"]
 ]
 }

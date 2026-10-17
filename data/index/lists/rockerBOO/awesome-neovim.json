@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"d3e271ee3396993394c6e31e414dc77a38e79742"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"00e042645ed5433cd6ab244a3b796bdb0d391f8f"},
 "members": [
 "alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
@@ -217,6 +217,7 @@
 "simonwinther/cppman.nvim",
 "redpierrot/ballerina.nvim",
 "jgonmor16/hdlsnip.nvim",
+"upyesp/epher.nvim",
 "romus204/go-tagger.nvim",
 "ray-x/go.nvim",
 "crusj/structrue-go.nvim",
@@ -293,7 +294,6 @@
 "sontungexpt/vietnamese.nvim",
 "doodleEsc/translator.nvim",
 "kiyoon/Korean-IME.nvim",
-"bennorichters/taal.nvim",
 "walkersumida/deepl.nvim",
 "acidsugarx/babel.nvim",
 "noir4y/comment-translate.nvim",
@@ -384,7 +384,6 @@
 "jvgrootveld/telescope-zoxide",
 "ajeetdsouza/zoxide",
 "axkirillov/easypick.nvim",
-"linrongbin16/fzfx.nvim",
 "fdschmidt93/telescope-egrepify.nvim",
 "nvim-telescope/telescope-media-files.nvim",
 "crispgm/telescope-heading.nvim",
@@ -480,6 +479,7 @@
 "wsdjeg/cpicker.nvim",
 "leolaurindo/tunnelvision.nvim",
 "cxwx/shadowMyName.nvim",
+"daaanny90/interlinked.nvim",
 "rezniqov/soviet.nvim",
 "ThorstenRhau/token",
 "oskarnurm/koda.nvim",
@@ -1026,7 +1026,7 @@
 "kokusenz/deltaview.nvim",
 "dandavison/delta",
 "StackInTheWild/headhunter.nvim",
-"teodord25/csc.nvim",
+"bahne-dev/csc.nvim",
 "404pilo/aicommits.nvim",
 "wsdjeg/git.nvim",
 "Mauritz8/gitstatus.nvim",
@@ -1321,6 +1321,7 @@
 "piersolenski/skifree.nvim",
 "xiangnongWu2233/rubiks-cube.nvim",
 "xeluxee/competitest.nvim",
+"FrancescoDerme/tuna.nvim",
 "kawre/leetcode.nvim",
 "2KAbhishek/exercism.nvim",
 "folke/drop.nvim",
@@ -1336,7 +1337,7 @@
 "mateuszwieloch/automkdir.nvim",
 "jghauser/mkdir.nvim",
 "aikhe/wrapped.nvim",
-"gisketch/triforce.nvim",
+"DrKJeff16/triforce.nvim",
 "QuentinGruber/pomodoro.nvim",
 "yal212/pomodoro.nvim",
 "raymondware/focusmode.nvim",
@@ -1435,6 +1436,10 @@
 ["2026-09-11","mrjones2014/smart-splits.nvim"],
 ["2026-09-25","mistweaverco/kulala.nvim"],
 ["2026-10-02","markosnarinian/fold-logging.nvim"],
-["2026-10-09","syl20bnr/spacemacs"]
+["2026-10-09","syl20bnr/spacemacs"],
+["2026-10-17","bennorichters/taal.nvim"],
+["2026-10-17","linrongbin16/fzfx.nvim"],
+["2026-10-17","teodord25/csc.nvim"],
+["2026-10-17","gisketch/triforce.nvim"]
 ]
 }

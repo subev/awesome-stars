@@ -1,11 +1,12 @@
 {
-"meta": {"description":"A topic-centric list of HQ open datasets.","defaultBranch":"master","topics":["opendata","aaron-swartz","awesome-public-datasets","datasets"],"readmeSha":"09018704c159f2f76d9d7ccddcce56ea493e510d"},
+"meta": {"description":"A topic-centric list of HQ open datasets.","defaultBranch":"master","topics":["opendata","aaron-swartz","awesome-public-datasets","datasets"],"readmeSha":"27eca08c31582661c5fa0165d4492766c6efa331"},
 "members": [
 "sindresorhus/awesome",
 "awesomedata/apd-core",
 "softwaremill/lemon-dataset",
 "yumaheymans/robot-lawn-mower-specs",
 "yudumnet/zeytinnet",
+"rebarcount/rebar-data",
 "biocore/American-Gut",
 "AndreySoloviev/dna-chip-coverage",
 "globalbioticinteractions/globalbioticinteractions",
@@ -41,6 +42,7 @@
 "shiftdylson1/marbella-price-data",
 "promo2you-lab/official-offers-dataset",
 "ConorsCode/open-jobs-data",
+"nils44344/india-cost-index",
 "softdevfz/polymarket-kalshi-price-gaps",
 "mustafa654/profitvana-fee-data",
 "clouddress/recentprofit-official-savings-data",
@@ -56,6 +58,7 @@
 "APVentureEngine/warn-act-notices",
 "snipeworkapp-oss/upwork-market-data",
 "jbbksam-ctrl/vpsticker-promo-radar",
+"Simpix/researched-prices",
 "Alessandro114/world-company-database",
 "nsamman/curatorsearch-salary-archive",
 "silentdirectivellc-hub/ebay-sold-comps",
@@ -77,9 +80,11 @@
 "quantanow/pakistan-fuel-prices",
 "LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting",
 "areinhardt/tracebase",
+"GMAntics/party-data",
 "odebo/planet-zoo-2-dataset",
 "lewismvaughan/tablejourney-food-festivals",
 "Blackjack-Verdict/blackjack-basic-strategy",
+"AllRates-Today/central-bank-exchange-rates",
 "bykarantelicom/crypto-datasets",
 "cambio-one/exchange-fee-data",
 "chaincosts/exchange-fees",
@@ -114,6 +119,7 @@
 "MLT-OSS/FirstData",
 "asafichaki/permittimelines",
 "MSeutin/digital-nomad-visa-data",
+"Vyzma-AI/india-land-data",
 "eoylab/jftc-actions",
 "eoylab/keihyo-cases",
 "reda-rochd/casablanca-protected-heritage-register-2021",
@@ -122,10 +128,12 @@
 "atlasprzetargow/polish-tenders-dataset",
 "civillizard/Saudi-Real-Estate-Data",
 "evangambit/JsonOfCounties",
+"perbowl/pet-food-recalls",
 "mixseomin/military-pay-data",
 "kirkwood-justin/park-atlas-data",
 "usacallerlookup/ftc-robocall-dataset",
 "receiptedit/us-sales-tax-2026",
+"odebo/us-traffic-ticket-data",
 "xjokerabab/visa-bulletin-cn",
 "mixseomin/visa-bulletin-history",
 "data-poems/dataset-us-disasters",
@@ -205,9 +213,9 @@
 "f4tihwin57/europe-emission-zones",
 "fivethirtyeight/uber-tlc-foil-response",
 "graphhopper/open-traffic-collection",
+"GeiserX/radares-anunciados-ha",
 "vzolot/machine-record-data",
 "bzsasson/traffic-camera-sources",
-"david025445/ankusi-wheel-fitment-data",
 "Flightmussy/trainrouter-atlas"
 ],
 "dropped": [
@@ -218,6 +226,7 @@
 ["2026-09-18","lukeslp/us-attention-data"],
 ["2026-09-18","lukeslp/accessibility-atlas-dataset"],
 ["2026-10-02","JacobiusMakes/lgd-import-monitor"],
-["2026-10-02","Shann5/bazi-nayin"]
+["2026-10-02","Shann5/bazi-nayin"],
+["2026-10-17","david025445/ankusi-wheel-fitment-data"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"0ec4f2faa3bb14c8ff4efc29f6339663856b3223"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"4695a02b8c6b8b0980e460dc2cd6ff5512cafb82"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -18,6 +18,8 @@
 "shantanu-deshmukh/chunktuner",
 "Intelligent-Internet/II-Commons-Skills",
 "sparkcpark/synthetic_hospital",
+"huynhtanan/amazon-bestsellers-tracker",
+"huynhtanan/walmart-deals-tracker",
 "rfordatascience/tidytuesday",
 "jadianes/data-science-your-way",
 "kevinschaich/pyspark-cheatsheet",
@@ -121,6 +123,7 @@
 "dslp/dslp-repo-template",
 "Diyago/Tabular-data-generation",
 "AstraZeneca/rexmex",
+"lucidcog/openbacktesting",
 "AstraZeneca/chemicalx",
 "FileShot/FileShotZKE",
 "benedekrozemberczki/pytorch_geometric_temporal",
@@ -213,6 +216,7 @@
 "npiwho/us-provider-payments",
 "whatfontis/WhatFontIs-Bench",
 "checkdutyrates/us-tariff-data",
+"odebo/us-traffic-ticket-data",
 "bayandin/awesome-awesomeness",
 "josephmisiti/awesome-machine-learning",
 "jnv/lists",
