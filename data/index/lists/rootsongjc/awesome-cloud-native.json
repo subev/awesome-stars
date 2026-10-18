@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"962f2fa646390ff130fb3711d28717c4d0975183"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"7eec9061d6c6c7263d281a56d61d124b17ead80d"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -621,6 +621,7 @@
 "searchlight/searchlight",
 "salesforce/sloop",
 "sofastack/sofa-lookout",
+"fclairamb/solidping",
 "tricorder-observability/Starship",
 "statsd/statsd",
 "cilium/tetragon",
@@ -731,6 +732,7 @@
 "open-hand/choerodon",
 "conjure-up/conjure-up",
 "kubernetes-retired/dashboard",
+"unxsist/jet-pilot",
 "AndrewVos/k100s",
 "KusionStack/karpor",
 "kdash-rs/kdash",

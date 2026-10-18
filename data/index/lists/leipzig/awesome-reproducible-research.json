@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"cd5c81976693cf5cb3890776fb3d8ec8bb3e4536"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"4ca40eb4031cd1ae072c7b615c64ee5de4ce04e5"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -19,6 +19,7 @@
 "suguobin2021/canonical-ledger-schema",
 "suguobin2021/strategy-stability-report",
 "MaxWellApexLab/pit-audit-registry",
+"luizfnsilva/closure_drift",
 "JimmyXtesla/BILN",
 "lennart-rth/server-spy",
 "Continuum-AI-Corp/OrcaReplay",
@@ -28,6 +29,7 @@
 "RetrogradeLabs/lune-mcp-server",
 "SixSentences/sixsentences",
 "studio-11-co/falsify",
+"extremal-values-registry/extremal-values-registry",
 "jupyter/jupyter",
 "poldrack/narps",
 "pachterlab/sleuth_paper_analysis",

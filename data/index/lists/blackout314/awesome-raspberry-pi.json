@@ -1,5 +1,5 @@
 {
-"meta": {"description":"curated list of projects with raspberry pi","defaultBranch":"master","topics":["raspberry-pi","3d-printing","kubernetes","cluster","energy"],"readmeSha":"ec7692d508b9447e8643db81c8a8e152cd006557"},
+"meta": {"description":"curated list of projects with raspberry pi","defaultBranch":"master","topics":["raspberry-pi","3d-printing","kubernetes","cluster","energy"],"readmeSha":"3efbc93530078057ba3a4fdabdde5c8f0393c2fb"},
 "members": [
 "LorenzoRogai/RaspberryRemoteControl",
 "gajjartejas/PiGo",
@@ -43,6 +43,7 @@
 "simonmonk/monk_raspberrypi",
 "simonmonk/raspberrypi_cookbook",
 "GeiserX/PiSpot-Show",
+"fclairamb/solidping",
 "haiwen/seafile-rpi",
 "RorschachUK/meArmPi",
 "willoc2023/rasrobot-tb6612fng-4wd",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"46a6832a18d47dc26bb9b318500dd31526b455bd"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"a6fbffada371de324537b3201ee8f001b391ff31"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -68,7 +68,6 @@
 "MartialBE/one-hub",
 "fruitbars/simple-one-api",
 "bestruirui/octopus",
-"Veloera/Veloera",
 "yym68686/uni-api",
 "HotRiceNoodles/CrossLink",
 "VoAPI/VoAPI",
@@ -145,6 +144,7 @@
 ["2026-09-05","tsouth89/toolport"],
 ["2026-09-05","workweave/router"],
 ["2026-09-12","mnfst/manifest"],
-["2026-09-12","envoyproxy/ai-gateway"]
+["2026-09-12","envoyproxy/ai-gateway"],
+["2026-10-18","Veloera/Veloera"]
 ]
 }

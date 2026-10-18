@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"20b1b2cbb11046176d4bd291c4bea0f24d0f1537"},
+"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"f9ed571143015a6e547b27da3a8b21e5a2548dff"},
 "members": [
 "geomatico/qgis-sigpac",
 "dan96ct/sigpac-client",
@@ -196,6 +196,7 @@
 "josemmo/Verifactu-PHP",
 "Eseperio/verifactu-php",
 "NemonInvocash/verifactu-php",
+"ldiazcuadrado/verifactu-python",
 "mybooking-es/verifactu-rb",
 "gabela-io/llave",
 "ctt-gob-es/MinervaChatBot",
@@ -320,7 +321,6 @@
 "joseluam97/Supermarket-Price-Scraper",
 "daniel-dona/askey_RTF3505VW_hacking",
 "ldotlopez/ha-pepephone",
-"mv12star/lista-telefonos-spam",
 "segura2010/LiveboxFibraExtractor",
 "Eitol/router-movistar",
 "GeiserX/search-by-surname",
@@ -443,6 +443,7 @@
 ["2026-10-03","invopop/gobl.verifactu"],
 ["2026-10-03","AjuntamentdeBarcelona/bustia-etica-bcn"],
 ["2026-10-03","cripsisxyz/osbex"],
-["2026-10-10","mpuig/rentagpt"]
+["2026-10-10","mpuig/rentagpt"],
+["2026-10-18","mv12star/lista-telefonos-spam"]
 ]
 }

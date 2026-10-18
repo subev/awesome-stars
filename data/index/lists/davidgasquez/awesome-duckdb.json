@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"a71e41daf636d897339634edcba75193af4e0292"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"9e40e4f2b7b602818ecb282f2a62354b1c4e42d0"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -73,6 +73,8 @@
 "nnnkkk7/snowflake-emulator",
 "skuirrels/DuckDB.EFCoreProvider",
 "AstroVela/vane",
+"udbhav-shrinet/ds-agent-playbook",
+"fsprojects/SQLProvider",
 "mattf96s/QuackDB",
 "caioricciuti/duck-ui",
 "StructuredLabs/preswald",

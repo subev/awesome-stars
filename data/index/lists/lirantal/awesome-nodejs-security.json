@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Node.js Security resources","defaultBranch":"main","topics":["nodejs","security","cybersecurity","web-security","owasp","vulnerabilities","pentest","infosec","hacktoberfest","awesome"],"readmeSha":"08b843aa3bdbd8883e345a11e0a38c653a6ad832"},
+"meta": {"description":"Awesome Node.js Security resources","defaultBranch":"main","topics":["nodejs","security","cybersecurity","web-security","owasp","vulnerabilities","pentest","infosec","hacktoberfest","awesome"],"readmeSha":"132ff9616b8d8a004eec3557b1dbdd2c6153db20"},
 "members": [
 "nlf/blankie",
 "hapijs/hapi",
@@ -24,6 +24,7 @@
 "Bearer/bearer",
 "DataDog/guarddog",
 "lirantal/repolyze",
+"ofri-peretz/eslint",
 "validatorjs/validator.js",
 "cure53/DOMPurify",
 "af/envalid",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"9787f6aa50161b2f8a57ce2d927df4d9e5388f5e"},
+"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"ebee92e292bd3b52773d0344bfca25222888c81f"},
 "members": [
 "CausalSim/Unbiased-Trace-Driven-Simulation",
 "Cloudslab/cloudsim",
@@ -77,6 +77,7 @@
 "marckoerner/oci",
 "openyurtio/openyurt",
 "AzeemIdrisi/PhoneSploit-Pro",
+"mulgadc/spinifex",
 "superedge/superedge",
 "mbasso/awesome-wasm",
 "wasm-micro-runtime/wasm-micro-runtime",

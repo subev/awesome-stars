@@ -1,15 +1,26 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"4b7ecf77b52c503f93bd72dbadfb9accf8b708fb"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"a0cf7b46bab160a747c0a5b1fe9ecbb9307fbf40"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
+"gitemre/device-hub-pro",
+"ateymoori/oh-my-android",
 "sorkila/tintpad",
+"viewer12/Nexus-Shell-Releases",
 "TeamHypersomnia/Hypersomnia",
 "stonesam92/ChitChat",
 "jnordberg/irccloudapp",
 "Orkas-AI/Orkas-VideoStudio",
+"cerebroapp/cerebro",
+"MindMacApp/MindMac",
 "yagcioglutoprak/dusty",
+"NeoPanic/Glim",
 "aqua5230/usage",
-"royalpinto007/boardeject"
+"wulkano/Kap",
+"royalpinto007/boardeject",
+"sorkila/lockpaw",
+"ParetoSecurity/pareto-mac",
+"arpitagarwal1301/wardlume",
+"ianyh/Amethyst"
 ]
 }

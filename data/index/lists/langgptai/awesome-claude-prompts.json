@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"d723c994962b16aac16de64479bfe80b72b6826e"},
+"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"bdf526286b61d3cab2faa368c4b69c7b3db7a3bc"},
 "members": [
 "EmbraceAGI/awesome-chatgpt-zh",
 "langgptai/awesome-claude-prompts",
@@ -7,6 +7,8 @@
 "wunderlabs-dev/claudebin.com",
 "yzfly/awesome-skills-zh",
 "EmbraceAGI/awesome-chatgpt-zh",
+"Continuum-AI-Corp/OrcaReplay",
+"eastling/awesome-opus-5.5-video-prompts",
 "Aider-AI/aider",
 "anthropics/claude-code",
 "langgptai/LangGPT",

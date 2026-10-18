@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"b5f42249a5694a0d72eae9ada505a4387796bcd0"},
+"meta": {"description":"A curated list of JUCE modules, templates, plugins, oh my!","defaultBranch":"main","topics":["awesome-list","juce","juce-framework"],"readmeSha":"75dded093896ca7e293ffcca94d2ac1d11c78394"},
 "members": [
 "FigBug/Gin",
 "Chowdhury-DSP/chowdsp_utils",
@@ -56,7 +56,6 @@
 "getdunne/SARAH",
 "getdunne/VanillaJuce",
 "Emmet-Hayes/BatSynth",
-"seclorum/SIMDsynth",
 "w-frank/juce-synth",
 "SilvinWillemsen/BowedStringJUCE",
 "mariusz96/blue-synthesiser",
@@ -285,6 +284,7 @@
 "Casperaki/juce_emscripten"
 ],
 "dropped": [
-["2026-10-10","egor-sm/equalize_it"]
+["2026-10-10","egor-sm/equalize_it"],
+["2026-10-18","seclorum/SIMDsynth"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"29a3f0f5ff5820bf0984c5196479f7682da4f0f3"},
+"meta": {"description":"A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering.","defaultBranch":"main","topics":[],"readmeSha":"8b7b0190b1918e061abb7c7b1fc14ae16ffb4a01"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "EthicalML/awesome-production-machine-learning",

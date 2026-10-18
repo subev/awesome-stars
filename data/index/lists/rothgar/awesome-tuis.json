@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"5291ab347c3579923997ebea28f2ba59efc5943b"},
+"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"17bb4ccd878aee03ee7b08323c93c1ac0034e88e"},
 "members": [
 "lissy93/AdGuardian-Term",
 "tessus/apachetop",
@@ -24,10 +24,12 @@
 "hashicorp/damon",
 "rasjonell/dashbrew",
 "charles-001/dolphie",
+"jvanbuel/flowrs",
 "grouzen/framework-tool-tui",
 "irishmaestro/fubar",
 "dlvhdr/gh-dash",
 "nicolargo/glances",
+"gloom-sh/gloomberb",
 "allinurl/goaccess",
 "TaKO8Ki/gobang",
 "control-theory/gonzo",
@@ -53,6 +55,7 @@
 "ymtdzzz/otel-tui",
 "mrusme/planor",
 "F1bonacc1/process-compose",
+"rekurt/prt",
 "psmux/psmux",
 "psmux/psnet",
 "psmux/pstop",
@@ -130,7 +133,6 @@
 "aannoo/hcom",
 "wcampbell0x2a/heretek",
 "noahgorstein/jqp",
-"kagan-sh/kagan",
 "jesseduffield/lazygit",
 "Lifailon/lazyjournal",
 "rshelekhov/lazymake",
@@ -352,11 +354,13 @@
 "Consolonia/Consolonia",
 "ambystechcom/Ambystech.Elaris.UI",
 "mitchdenny/hex1b",
+"RazorConsole/RazorConsole",
 "nickprotop/ConsoleEx",
 "spectreconsole/spectre.console",
 "tui-cs/Terminal.Gui",
 "ccbrown/iocraft",
 "ratatui/ratatui",
+"yexiyue/ratatui-kit",
 "sayanarijit/tui-input",
 "fdehau/tui-rs",
 "raphamorim/zaz",
@@ -670,6 +674,7 @@
 "dropped": [
 ["2026-09-19","simonmichael/hledger"],
 ["2026-09-19","Horldsence/tuiserial"],
-["2026-10-03","trevorbayless/cli-chess"]
+["2026-10-03","trevorbayless/cli-chess"],
+["2026-10-18","kagan-sh/kagan"]
 ]
 }

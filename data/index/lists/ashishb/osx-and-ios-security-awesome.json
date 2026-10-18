@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"7be9d9e7414ec666cc9af1a453b9710b027034f2"},
+"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"e9afeb54add500311ae711d6b481778bb29a479d"},
 "members": [
 "YelpArchive/osxcollector",
 "jipegit/OSXAuditor",
@@ -22,6 +22,7 @@
 "djadmin/fort",
 "thousandflowers/Raccoon",
 "jankesec/macharden",
+"morluto/rea",
 "etsy/MIDAS",
 "manasecurity/mana-security-app",
 "dmayer/idb",

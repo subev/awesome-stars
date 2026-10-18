@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"bdc15766f2588ea89158294e3c6bcd5890b26a06"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"4b75e63e2b069a1b33baa7ad497aa024c43937c2"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -24,10 +24,10 @@
 "wiedymi/restty",
 "royalapplications/RoyalTerminal",
 "megalithic/shade",
-"arach/Termini",
+"hudsonkit/Termini",
 "prime-radiant-inc/ts-libghostty",
 "neurosnap/zmx",
-"rambocode/aster",
+"OpenFabrica/aster",
 "jossephus/chuchu",
 "mahdiarfrm/conterm",
 "hualet/deepin-terminal-ghostty",
@@ -36,7 +36,6 @@
 "rwc9u/emacs-libgterm",
 "amanfromsolan/enso",
 "blaine/fantastty",
-"neurosnap/footty",
 "rsml/forge",
 "vikgmdev/forgetty",
 "daiimus/geistty",
@@ -85,10 +84,12 @@
 "g960059/agtmux-term",
 "aiyu-ai/AiyuTerm",
 "bradjenn/blink",
+"pilothouse/bosun",
 "yuuichieguchi/Calyx",
 "manaflow-ai/cmux",
 "brianrackle/codelima",
 "nowledge-co/con-terminal",
+"snowztech/farol",
 "lludlow/Forjara",
 "scgopi/GraphCode",
 "caspianchan31/in0",
@@ -105,6 +106,7 @@
 "OneNoted/taskers",
 "mwunsch/termscope",
 "shuv1337/tuimux",
+"SunRunAway/vertty",
 "milesxu/witty",
 "dedene/zentty",
 "HalFrgrd/evp",
@@ -121,6 +123,9 @@
 "mjpowersjr/vterm-mcp"
 ],
 "dropped": [
-["2026-09-19","BarutSRB/OmniWM"]
+["2026-09-19","BarutSRB/OmniWM"],
+["2026-10-18","arach/Termini"],
+["2026-10-18","rambocode/aster"],
+["2026-10-18","neurosnap/footty"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ","defaultBranch":"main","topics":["blockchain","ethereum","awesome-list","awesome","solidity","defi","roadmap","knowledge-base","smart-contracts","curated-list"],"readmeSha":"32e5626dabfac08f774827374fa7c3d7c5d590e3"},
+"meta": {"description":"DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ","defaultBranch":"main","topics":["blockchain","ethereum","awesome-list","awesome","solidity","defi","roadmap","knowledge-base","smart-contracts","curated-list"],"readmeSha":"5ec8afb82cb9ca0396e191b506fc52c460b9b000"},
 "members": [
 "OffcierCia/support",
 "ossu/computer-science",
@@ -49,8 +49,8 @@
 "transmissions11/solmate",
 "vrde/ethnode",
 "ConsenSys-archive/ganache",
-"Consensys/orion",
-"Consensys/teku",
+"Consensys-inc-archive/orion",
+"Consensys-Incorporated/teku",
 "f-o-a-m/cliquebait",
 "ConsenSysMesh/Local-Raiden",
 "Consensys/private-networks-deployment-scripts",
@@ -165,14 +165,15 @@
 "mana-ethereum/ethereumex",
 "HydroProtocol/ethereum-jsonrpc-gateway",
 "testtt8484/eth_contract",
+"enviodev/hyperindex",
 "erigontech/erigon",
 "NethermindEth/nethermind",
 "ethereum/py-evm",
 "ethereumjs/ethereumjs-client",
 "ethereumjs/ethereumjs-monorepo",
 "dapphub/dapptools",
-"Consensys/quorum",
-"Consensys/awesome-quorum",
+"Consensys-inc-archive/quorum",
+"Consensys-inc-archive/awesome-quorum",
 "dbpunk-labs/db3",
 "Consensys/Mahuta",
 "orbitdb/orbitdb",
@@ -203,5 +204,11 @@
 "meherett/pytest-solidity",
 "OffcierCia/On-Chain-Investigations-Tools-List",
 "sw33tLie/bbscope"
+],
+"dropped": [
+["2026-10-18","Consensys/orion"],
+["2026-10-18","Consensys/teku"],
+["2026-10-18","Consensys/quorum"],
+["2026-10-18","Consensys/awesome-quorum"]
 ]
 }
