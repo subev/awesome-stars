@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.","defaultBranch":"master","topics":["agentic-ai","ai-agents","ai-engineering","ai-projects","ai-resources","ai-tools","artificial-intelligence","awesome-lists","deep-learning","fine-tuning"],"readmeSha":"21e049fee2dde94bbd22cb9450f040a3254c6e59"},
+"meta": {"description":"🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.","defaultBranch":"master","topics":["agentic-ai","ai-agents","ai-engineering","ai-projects","ai-resources","ai-tools","artificial-intelligence","awesome-lists","deep-learning","fine-tuning"],"readmeSha":"84947b014c157dfbea7bfe589d07c4fe87bd62fa"},
 "members": [
 "dipakkr/awesome-ai-engineering",
 "dipakkr/awesome-ai-tools",

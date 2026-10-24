@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"c7bc62321f9b6fe08cbd321edc576db78104905e"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"af6db5dced0f5f91594e18d274dc6c81a7769965"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -36,8 +36,9 @@
 "sanjyay/Mirador",
 "Shavanced/omarchy-notification-center-plugin",
 "brianblakely/omarchy-plugins",
-"crmne/omacal",
+"crmne/omarchy-calendar",
 "jitendradara12/omaconnect",
+"L0adn9/omaface",
 "prettyletto/omagen",
 "bobby-nicholas/omaland",
 "AlexZeitler/omalibre",
@@ -59,6 +60,7 @@
 "lgse/sandman",
 "ax1g/quickshell-screentime-plugin",
 "HANCORE-linux/Shibumi-Shell",
+"rkocosmergon/shikigon",
 "Aryan-Techie/omarchy-todoist",
 "iamcheyan/omarchy-voxtype-enhance",
 "adsovetzky/Adsovetzky-Omarchy-s-Waybar",
@@ -75,6 +77,7 @@
 "erans/hyprmon",
 "crmne/hyprmoncfg",
 "t4t5/hypruler",
+"MayberryDT/ibara",
 "JaimeStill/omarchy-theme-generator",
 "blank-query/lazyVPN-for-Omarchy",
 "daurydicaprio/live-wallpaper-for-omarchy-linux",
@@ -267,6 +270,7 @@
 ["2026-08-28","gmunix/dotfiles"],
 ["2026-08-28","Alexx2/omarchy-themes"],
 ["2026-09-04","basecamp/omarchy"],
-["2026-09-04","HANCORE-linux/omarchy-plugin-marketplace"]
+["2026-09-04","HANCORE-linux/omarchy-plugin-marketplace"],
+["2026-10-24","crmne/omacal"]
 ]
 }

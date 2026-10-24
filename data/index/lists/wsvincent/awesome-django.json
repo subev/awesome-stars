@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"7fa22f3e3d9440ca5e81dabd6256849122efa2e7"},
+"meta": {"description":"A curated list of awesome things related to Django","defaultBranch":"main","topics":["awesome-list","django","awesome"],"readmeSha":"07fa0493b279a419db8961830b05e03556cc023b"},
 "members": [
 "sindresorhus/awesome",
 "django-hijack/django-hijack",
@@ -25,7 +25,7 @@
 "encode/django-rest-framework",
 "adamchainz/django-cors-headers",
 "iMerica/dj-rest-auth",
-"jazzband/django-rest-knox",
+"django-commons/django-rest-knox",
 "sunscrapers/djoser",
 "paul-wolf/djaq",
 "jazzband/djangorestframework-simplejwt",
@@ -50,7 +50,7 @@
 "candidco/confidential",
 "joke2k/django-environ",
 "wemake-services/django-split-settings",
-"jazzband/django-constance",
+"django-commons/django-constance",
 "jazzband/django-configurations",
 "fabiocaccamo/django-extra-settings",
 "ambient-innovation/django-removals",
@@ -77,10 +77,10 @@
 "un1t/django-cleanup",
 "matthewwithanm/django-imagekit",
 "codingjoe/django-pictures",
-"jazzband/sorl-thumbnail",
+"mariocesar/sorl-thumbnail",
 "django-crispy-forms/django-crispy-forms",
 "jazzband/django-floppyforms",
-"jazzband/django-formtools",
+"django-commons/django-formtools",
 "jazzband/django-widget-tweaks",
 "yourlabs/django-autocomplete-light",
 "Django-LiveView/liveview",
@@ -229,6 +229,10 @@
 "nioperas06/awesome-django-rest-framework"
 ],
 "dropped": [
-["2026-09-18","occipital/django-content-settings"]
+["2026-09-18","occipital/django-content-settings"],
+["2026-10-24","jazzband/django-rest-knox"],
+["2026-10-24","jazzband/django-constance"],
+["2026-10-24","jazzband/sorl-thumbnail"],
+["2026-10-24","jazzband/django-formtools"]
 ]
 }

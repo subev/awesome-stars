@@ -1,9 +1,10 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"0c7ba8ca685311e0e2c85a23399701d85d63d3bf"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"46a996c2b61751d782875ceac338f67094a263bb"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
 "Trilarion/opensourcegames",
+"alexgaoth/awesome-reverse-engineered",
 "xor2003/airborn-ranger",
 "Supermedo/bloodborne_pc",
 "codenamecpp/carnage3d",
@@ -17,7 +18,7 @@
 "nathanialf/ico-pc",
 "TekRantGaming/king-kong-recompiled",
 "elmasas/lcs-recomp",
-"nemo22/mdk-sdl",
+"nautilusbits/mdk-sdl",
 "999sian/melee-pc",
 "kznsq/metal-mutant-web",
 "Odrannnn/MetroidPrimePort",
@@ -61,6 +62,8 @@
 "joyrider3774/blips",
 "cxong/cdogs-sdl",
 "banteg/crimson",
+"Thorium/FsHockey",
+"Thorium/FsRocket",
 "openeggbert/galaxy-eggbert",
 "LaughingInPurgatory/guardian",
 "luisfae/GradiusRemake",
@@ -74,6 +77,7 @@
 "ssenegas/kickoff",
 "omf2097/openomf",
 "opentyrian/opentyrian",
+"Patm4nzzz/opentyrian-enhanced",
 "danywaked/Retro-Arcade-Remakes",
 "lostjared/SpaceRox.MX2",
 "taisei-project/taisei",
@@ -87,6 +91,7 @@
 "xtreme8000/BetterSpades",
 "lunarmeadow/barrett",
 "bibendovsky/bstone",
+"pragyaangaur/Can-It-Run-Minecraft",
 "ArnoAnsems/CatacombGL",
 "Panzerschrek/Chasm-Reverse",
 "chocolate-doom/chocolate-doom",
@@ -183,6 +188,7 @@
 "diasurgical/DevilutionX",
 "dgcor/DGEngine",
 "Sinan-Karakaya/DQ8-Recompiled",
+"JackRushante/DBZ-Super-Saiya-Densetsu-Rust",
 "rages4calm/earthbound-companion",
 "exult/exult",
 "falltergeist/falltergeist",
@@ -214,6 +220,7 @@
 "AliveTeam/alive_reversing",
 "BanjoRecomp/BanjoRecomp",
 "DahSidiAbdallah/ConkerBFDReloaded",
+"Thorium/FsLemming",
 "HarbourMasters/Ghostship",
 "open-goal/jak-project",
 "deathkiller/jazz2",
@@ -356,6 +363,7 @@
 "OpenTPW/OpenTPW",
 "OpenTTD/OpenTTD",
 "OpenXcom/OpenXcom",
+"playopenz/OpenZ",
 "dalerank/Ozymandias",
 "andreapavoni/parabellum",
 "eduard-permyakov/permafrost-engine",
@@ -405,6 +413,7 @@
 ["2026-10-03","Towhidul-Islam5797/TheOldWorld"],
 ["2026-10-03","Yrvera/vera20k"],
 ["2026-10-17","MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp"],
-["2026-10-17","nicholas-ochoa/OpenSC2K"]
+["2026-10-17","nicholas-ochoa/OpenSC2K"],
+["2026-10-24","nemo22/mdk-sdl"]
 ]
 }

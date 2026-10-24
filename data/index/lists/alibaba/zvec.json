@@ -1,9 +1,11 @@
 {
-"meta": {"description":"A lightweight, lightning-fast, in-process vector database","defaultBranch":"main","topics":["rag","agent-skills","embedded","faiss","hnsw","llm-memory","search-engine","semantic-search","similarity-search","vector-database"],"readmeSha":"ad14580bd246f169a5e1a6cbda7e6b53b238d493"},
+"meta": {"description":"A lightweight, lightning-fast, in-process vector database","defaultBranch":"main","topics":["rag","agent-skills","embedded","faiss","hnsw","llm-memory","search-engine","semantic-search","similarity-search","vector-database"],"readmeSha":"9bbb0b09d33be5a449864cfcc79119aab5e69faf"},
 "members": [
-"zvec-ai/zvec-grep",
-"agentscope-ai/ReMe",
 "zvec-ai/zvec-go",
+"zvec-ai/zvec-grep",
 "zvec-ai/zvec-studio"
+],
+"dropped": [
+["2026-10-24","agentscope-ai/ReMe"]
 ]
 }

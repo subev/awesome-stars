@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"c8f8926077b120c60a54e99b33a43f3cfedbe9c3"},
+"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"ad57b06ba9a6d15358fc188e859ff71ccdec7974"},
 "members": [
 "lissy93/personal-security-checklist",
 "dani-garcia/vaultwarden",
@@ -27,6 +27,7 @@
 "gorhill/uBlock",
 "StevenBlack/hosts",
 "nickspaargaren/no-google",
+"hagezi/dns-blocklists",
 "FossifyOrg/Calendar",
 "dongdongbh/Mindwtr",
 "webtorrent/instant.io",

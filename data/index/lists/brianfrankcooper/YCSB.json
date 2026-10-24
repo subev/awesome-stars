@@ -1,0 +1,7 @@
+{
+"meta": {"description":"Yahoo! Cloud Serving Benchmark","defaultBranch":"master","topics":[],"readmeSha":"bf8a2656ba2bc0d13293898d9a7e34593edb6736"},
+"members": [
+"nitsanw/HdrLogProcessing",
+"HdrHistogram/HdrHistogram"
+]
+}

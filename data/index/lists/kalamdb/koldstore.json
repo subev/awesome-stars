@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Open research project exploring tiered storage for PostgreSQL application tables—keep active rows in Postgres, move history to Parquet, and query both through the original table.","defaultBranch":"main","topics":["cold-storage","database","object-storage","postgresql-extension","tiered-storage","datalake","parquet","multi-tenant-database"],"readmeSha":"ed1728e605c783b0a6483e9120ae3dbe408f5c8c"},
+"members": [
+
+]
+}

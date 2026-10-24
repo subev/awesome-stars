@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Phalcon libraries and resources","defaultBranch":"master","topics":["phalcon-php-framework","phalcon-boilerplate","phalcon-skeleton","phalcon-libraries","phalcon-application","php","phalcon","awesome-list","phalcon-rest","phalcon-validators"],"readmeSha":"c83da2926a1331108629da3de34a16c51dd496d0"},
+"meta": {"description":"A curated list of awesome Phalcon libraries and resources","defaultBranch":"master","topics":["phalcon-php-framework","phalcon-boilerplate","phalcon-skeleton","phalcon-libraries","phalcon-application","php","phalcon","awesome-list","phalcon-rest","phalcon-validators"],"readmeSha":"ad623ea6055808c2c863ce7cfbd9e6b766292601"},
 "members": [
 "sindresorhus/awesome",
 "avelino/awesome-go",
@@ -31,6 +31,7 @@
 "snowair/phalcon-debugbar",
 "fabfuel/prophiler",
 "gmarty/xgettext",
+"wielorzeczownik/phalcon-inertia",
 "phalcon-orphanage/phalcon-logentries",
 "sergeyklay/breadcrumbs",
 "phalcon/incubator",

@@ -1,11 +1,13 @@
 {
-"meta": {"description":"AgensGraph, a transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb"],"readmeSha":"c57de37013d924f43dcd1fb1524b952b30cf6dd1"},
+"meta": {"description":"AgensGraph, a high performance transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb"],"readmeSha":"4fa823293bd8721ad3c5c4d4510275694651687a"},
 "members": [
 "skaiworldwide-oss/agensgraph-ai",
-"skaiworldwide-oss/agensgraph-jdbc",
-"skaiworldwide-oss/agensgraph-python",
-"skaiworldwide-oss/agensgraph-nodejs",
-"skaiworldwide-oss/agensgraph-golang",
-"skaiworldwide-oss/AGViewer"
+"skaiworldwide-oss/agensgraph-python"
+],
+"dropped": [
+["2026-10-24","skaiworldwide-oss/agensgraph-jdbc"],
+["2026-10-24","skaiworldwide-oss/agensgraph-nodejs"],
+["2026-10-24","skaiworldwide-oss/agensgraph-golang"],
+["2026-10-24","skaiworldwide-oss/AGViewer"]
 ]
 }

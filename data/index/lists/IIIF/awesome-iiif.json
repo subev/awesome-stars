@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"9ee29d389b00464023dbc78eda992ab01005dc9f"},
+"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"c673acec5d46aa3db268bb3265005366cc6eaf6e"},
 "members": [
 "sindresorhus/awesome",
 "vt-digital-libraries-platform/aws-batch-iiif-generator",
@@ -13,6 +13,7 @@
 "uoregon-libraries/rais-image-server",
 "sul-dlss/riiif",
 "dasch-swiss/sipi",
+"OMAS-IIIF/sipi-2",
 "britishlibrary/TremendousIIIF",
 "libops/triplet",
 "libvips/libvips",
@@ -23,6 +24,7 @@
 "inveniosoftware/flask-iiif",
 "mejackreed/shimmy",
 "Systemik-Solutions/glycerine-viewer",
+"nakamura196/iiif-kasane",
 "internetarchive/bookreader",
 "ProjectMirador/mirador-awesome",
 "TETRAS-IIIF/mirador-video",
@@ -109,6 +111,7 @@
 "zooniverse/iiif-annotations",
 "utlib/IiifItems",
 "Daniel-KM/Omeka-S-module-Mirador",
+"a-g-van-hamel-foundation/IIIF",
 "a-g-van-hamel-foundation/Mirador",
 "rsimon/tiny-iiif",
 "open-oni/open-oni",

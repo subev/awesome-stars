@@ -1,0 +1,9 @@
+{
+"meta": {"description":"OLake - Fastest Databases, Kafka & S3 Replication to Apache Iceberg with Table optimization (Called OLake Fusion). ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supported sources :  Postgres, MongoDB, MySQL, Oracle, MSSql, DB2, Kafka, S3.","defaultBranch":"master","topics":["cdc","change-data-capture","data-pipeline","database","elt","lakehouse","replication","apache-iceberg","parquet","s3"],"readmeSha":"45f2d6006e9d03325089474b99702e52a2b50e40"},
+"members": [
+"datazip-inc/olake-fusion",
+"datazip-inc/olake-ui",
+"datazip-inc/olake-helm",
+"datazip-inc/olake-docs"
+]
+}

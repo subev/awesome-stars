@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"633f806c59a2824d318c8278a792ba5a1287e2e3"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"028f3af4da6af3aee57f36e50290360ff3a42f6e"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -31,7 +31,8 @@
 "dbfixtures/pytest-mysql",
 "dbfixtures/pytest-rabbitmq",
 "roli-lpci/agent-convergence-scorer",
-"mcp-runtime/mcp-server-fuzzer",
+"tavric-labs/mcp-server-fuzzer",
+"mcp-box/mcpscore",
 "Continuum-AI-Corp/OrcaReplay",
 "Jott2121/sabot",
 "Plexito-de/spantruth",
@@ -88,6 +89,7 @@
 "timothycrosley/hypothesis-auto",
 "pschanely/hypothesis-crosshair",
 "mristin/icontract-hypothesis",
+"shpaker/curlify3",
 "ahmad212o/pytest-cloudreport",
 "reporterplus/pytest-html-plus",
 "abantos/behave-restful",
@@ -178,6 +180,7 @@
 "ziguiway/hmnextauto",
 "lost-pixel/lost-pixel",
 "erik-whiting/LuluTest",
+"mozarkai/optics-framework",
 "saritasa-nest/pomcorn",
 "asweigart/pyautogui",
 "moyu6027/pytest-ui-automatic",
@@ -199,6 +202,7 @@
 ["2026-09-25","Agent-Hellboy/mcp-server-fuzzer"],
 ["2026-09-25","simin-yuan/self-auditing-agent"],
 ["2026-10-10","hermes-labs-ai/csv-quality-gate"],
-["2026-10-10","hermes-labs-ai/quick-gate-python"]
+["2026-10-10","hermes-labs-ai/quick-gate-python"],
+["2026-10-24","mcp-runtime/mcp-server-fuzzer"]
 ]
 }

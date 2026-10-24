@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"99f00c0b816e5865ce680a554ac4747bce38c57f"},
+"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"060ab601b7a8f2dbf3d740272091092a4dca6515"},
 "members": [
 "sindresorhus/awesome",
 "R-CoderDotCom/calendR",
@@ -33,6 +33,7 @@
 "Sayani07/gghdr",
 "robin-foster-rf/gghinton",
 "dxsbiocc/ggideogram",
+"discindo/ggindex",
 "sharlagelfand/ggkeyboard",
 "aj-sykes92/ggmacc",
 "great-northern-diver/ggmulti",
@@ -155,6 +156,7 @@
 "jwdink/egg",
 "coolbutuseless/facetious",
 "zeehio/facetscales",
+"fniniv/ggaltdata",
 "MattCowgill/ggannotate",
 "nacnudus/ggbillboard",
 "YuLab-SMU/ggbreak",

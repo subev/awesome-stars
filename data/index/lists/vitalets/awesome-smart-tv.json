@@ -1,5 +1,5 @@
 {
-"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"968528c57f70d908e8523483f69050f8d52e4431"},
+"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"e258ddcf45f93a62755007bf9be13e185c158141"},
 "members": [
 "sindresorhus/awesome",
 "Samsung/Wits",
@@ -22,10 +22,12 @@
 "hobbyquaker/node-red-contrib-lgtv",
 "WeeJeWel/node-webos",
 "hobbyquaker/lgtv2mqtt",
+"enyojs/ares-webos-sdk",
 "TheRealLink/pylgtv",
 "klattimer/LGWebOSRemote",
 "merdok/homebridge-webos-tv",
 "supersaiyanmode/PyWebOSTV",
+"kaperys/go-webos",
 "raphamorim/react-tv",
 "immosmart/smartbox",
 "mautilus/sdk",
@@ -39,6 +41,7 @@
 "dead/react-key-navigation",
 "NoriginMedia/react-spatial-navigation",
 "stb-tester/stb-tester",
+"mozarkai/optics-framework",
 "linuxenko/awesome-smarttv",
 "vitalets/docker-tizen-webos-sdk"
 ]

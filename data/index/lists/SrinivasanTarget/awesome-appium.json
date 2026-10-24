@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of delightful Appium resources.","defaultBranch":"master","topics":["inspector","docker-appium","appium-tests","cloud-solution","appium-tutorials","appium","appium-android","appium-ios","awesome-appium"],"readmeSha":"22ad88557eda65e16a6197dcdf2527b78467da81"},
+"meta": {"description":"A curated list of delightful Appium resources.","defaultBranch":"master","topics":["inspector","docker-appium","appium-tests","cloud-solution","appium-tutorials","appium","appium-android","appium-ios","awesome-appium"],"readmeSha":"c19405ec4f75da6544d8cd6bc6bb2f0eadc12757"},
 "members": [
 "sindresorhus/awesome",
 "appium/appium",
@@ -24,6 +24,7 @@
 "priyankshah217/AppiumCucumberTest",
 "isonic1/Appium-Native-Crawler",
 "WasiqB/coteafs-appium",
+"mozarkai/optics-framework",
 "AppiumTestDistribution/PageObjectPatternAppium",
 "AppiumTestDistribution/AppiumTestDistribution",
 "zosmaai/zosma-qa",

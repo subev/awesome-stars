@@ -1,7 +1,8 @@
 {
-"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"f1975dc48eeb96b61b42ff8b8445de8cbfb6f32b"},
+"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"91c46be75d7edbb11ebc1a42477b145e42d5f59f"},
 "members": [
 "Pomax/the-cff-table",
+"harfbuzz/boring-expansion-spec",
 "typesupply/opentype-cookbook",
 "viler-int10h/Fontraption",
 "viler-int10h/CGA-font-compare",
@@ -70,7 +71,7 @@
 "MFEK/stroke",
 "MFEK/glifparser.rlib",
 "MFEK/glifrenderer.rlib",
-"harfbuzz/rustybuzz",
+"harfbuzz/harfrust",
 "pop-os/cosmic-text",
 "googlefonts/fontations",
 "googlefonts/fontc",
@@ -189,6 +190,7 @@
 "simoncozens/fontFeatures",
 "simoncozens/babelfont",
 "googlefonts/fontquant",
+"harfbuzz/uharfbuzz",
 "googlefonts/sfntly",
 "MitchTalmadge/Emoji-Tools",
 "Tehreer/Tehreer-Android",
@@ -295,6 +297,7 @@
 ],
 "dropped": [
 ["2026-10-10","tomchen/bdfparser-js"],
-["2026-10-10","tomchen/bdfparser"]
+["2026-10-10","tomchen/bdfparser"],
+["2026-10-24","harfbuzz/rustybuzz"]
 ]
 }

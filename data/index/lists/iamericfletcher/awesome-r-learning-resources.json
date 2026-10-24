@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).","defaultBranch":"main","topics":["r","learning-resources","awesome","awesome-list","resources","data-science"],"readmeSha":"61e731f0cbc00d077ef6ca8b672e35135d2bb6db"},
+"meta": {"description":"A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).","defaultBranch":"main","topics":["r","learning-resources","awesome","awesome-list","resources","data-science"],"readmeSha":"813c5b2f8273167f29b3a8fa55ffbb0ad00dc01c"},
 "members": [
 "grabear/awesome-rshiny",
 "erikgahner/awesome-ggplot2",

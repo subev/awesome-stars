@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome lists of capacitor plugins. Made by Capgo","defaultBranch":"main","topics":["awesome-list","awesome","capacitor","capacitor-plugin","ionic"],"readmeSha":"8922562ca5a7ecb173cf1c55ed0f3fcfb6e48af4"},
+"meta": {"description":"😎 Awesome lists of capacitor plugins. Made by Capgo","defaultBranch":"main","topics":["awesome-list","awesome","capacitor","capacitor-plugin","ionic"],"readmeSha":"80610064e854165ac1c179928778777b7ced2c6c"},
 "members": [
 "ionic-team/capacitor",
 "ionic-team/capacitor-plugins",
@@ -194,6 +194,7 @@
 "aparajita/capacitor-logger",
 "aparajita/capacitor-secure-storage",
 "aparajita/capacitor-ios-silent-notifications",
+"katamalabs/capacitor-plugin-apple-maps",
 "fresha/capacitor-plugin-applepay",
 "mahnuh/capacitor-plugin-app-tracking-transparency",
 "rdlabo-dev/capacitor-brotherprint",
@@ -213,6 +214,8 @@
 "Pantrist-dev/capacitor-firebase-dynamic-links",
 "EinfachHans/capacitor-firebase-push",
 "hinddeep/capacitor-file-selector",
+"byVik/capacitor-plugins",
+"erkamyaman/capacitor-foldable",
 "CodetrixStudio/CapacitorGoogleAuth",
 "cartona/capacitor-google-play-availability",
 "perfood/capacitor-google-fit",
@@ -283,6 +286,7 @@
 "Cap-go/vite-capacitor",
 "Cap-go/n8n-nodes-capgo",
 "Cap-go/standard-version-for-capacitor",
+"gitemre/device-hub-pro",
 "benoitlahoz/vue-capacitor-haptics",
 "ionic-team/capacitor-testapp",
 "Cap-go/demo-app",

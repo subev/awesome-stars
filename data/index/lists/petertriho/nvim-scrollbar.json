@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Extensible Neovim Scrollbar","defaultBranch":"main","topics":["neovim","neovim-plugin","neovim-lua-plugin","plugin","lua"],"readmeSha":"d1d211b74ddfc9a16415261430b5742dda9e0db0"},
+"meta": {"description":"Extensible Neovim Scrollbar","defaultBranch":"main","topics":["neovim","neovim-plugin","neovim-lua-plugin","plugin","lua"],"readmeSha":"e2c7c2a38775b978c86b325e6114da0b21876370"},
 "members": [
 "lewis6991/gitsigns.nvim",
 "kevinhwang91/nvim-hlslens",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"a3463b5dd28d3fcce2478f373c659db8a8768ff3"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"fddd9fabaeb7d139d7db5601f155574833d1ee6a"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -220,6 +220,7 @@
 "vercel/ai",
 "vespa-engine/vespa",
 "vllm-project/vllm",
+"weave-os/router",
 "tatsu-lab/alpaca_eval",
 "erikbern/ann-benchmarks",
 "stanford-futuredata/ARES",
@@ -344,7 +345,6 @@
 "upstash/context7",
 "langgenius/dify",
 "stanfordnlp/dspy",
-"dust-tt/dust",
 "espnet/espnet",
 "lm-sys/FastChat",
 "flairNLP/flair",
@@ -353,6 +353,7 @@
 "piskvorky/gensim",
 "meta-pytorch/gpt-fast",
 "deepset-ai/haystack",
+"heymrun/heym",
 "oughtinc/ice",
 "janhq/jan",
 "lamini-ai/lamini",
@@ -554,6 +555,7 @@
 ["2026-10-03","salesforce/LAVIS"],
 ["2026-10-03","docarray/docarray"],
 ["2026-10-03","facebookresearch/MLGym"],
-["2026-10-03","amundsen-io/amundsen"]
+["2026-10-03","amundsen-io/amundsen"],
+["2026-10-24","dust-tt/dust"]
 ]
 }

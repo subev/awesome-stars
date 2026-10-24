@@ -1,0 +1,6 @@
+{
+"meta": {"description":"DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.","defaultBranch":"main","topics":["ai-agents","business-intelligence","dashboard","semantic-layer"],"readmeSha":"9e0db0ec0bd1f7e49a87632e8aa1de5c6587c3a1"},
+"members": [
+"bruin-data/bruin"
+]
+}

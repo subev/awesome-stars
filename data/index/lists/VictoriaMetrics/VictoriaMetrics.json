@@ -1,5 +1,5 @@
 {
-"meta": {"description":"VictoriaMetrics: fast, cost-effective monitoring solution and time series database","defaultBranch":"master","topics":["tsdb","prometheus","promql","influxdb","graphite","opentsdb","database","thanos","observability","monitoring"],"readmeSha":"047ec3439153d5b0a4e381e0f0292be0828cb367"},
+"meta": {"description":"VictoriaMetrics: fast, cost-effective monitoring solution and time series database","defaultBranch":"master","topics":["tsdb","prometheus","promql","influxdb","graphite","opentsdb","database","thanos","observability","monitoring"],"readmeSha":"7cd43aa6ae1630659eed5e440fb502cde582ce46"},
 "members": [
 
 ]

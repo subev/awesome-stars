@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"0761d56c922998421101795086185b2b5091bb72"},
+"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"282db217bf14b32176a78243cae1895c2483eb80"},
 "members": [
 "sindresorhus/awesome",
 "kubernetes-sigs/krew",
@@ -56,7 +56,6 @@
 "imyuliz/kubectl-switch",
 "caas-one/kubectl-switch",
 "juanvallejo/kubectl-ns",
-"cststack/km",
 "corneliusweig/ketall",
 "guessi/kubectl-grep",
 "kajanth/kubectl-all",
@@ -107,11 +106,15 @@
 "predatorray/kubectl-tmux-exec",
 "comboshreddies/kubectl-line",
 "danielgaskins/cnpg-drill",
+"dimanovikov/datadiff",
 "jordanwilson230/kubectl-plugins",
 "ahmetb/kubectl-extras",
 "FikaWorks/kubectl-plugins",
 "thobiast/kubectl-plugins",
 "ripta/kubectl-plugins",
 "PeterGrace/kubectl-everything"
+],
+"dropped": [
+["2026-10-24","cststack/km"]
 ]
 }

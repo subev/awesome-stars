@@ -1,13 +1,12 @@
 {
-"meta": {"description":"  A curated list of awesome applications, softwares, tools and shiny things for macOS.","defaultBranch":"master","topics":["macos","mac","awesome-list","apple","awesome-lists","awesome","list"],"readmeSha":"600c7d5e00afada1c6c846918e8c0aa5c10e5fdb"},
+"meta": {"description":"  A curated list of awesome applications, softwares, tools and shiny things for macOS.","defaultBranch":"master","topics":["macos","mac","awesome-list","apple","awesome-lists","awesome","list"],"readmeSha":"a9e849a6b8e848794951a1005d21439a79d507a6"},
 "members": [
 "sindresorhus/awesome",
 "kyleneideck/BackgroundMusic",
 "pantafive/fader",
 "wulkano/Plug",
 "stonesam92/ChitChat",
-"overtake/TelegramSwift",
-"Codeux-Software/Textual",
+"blendbyte/Textual",
 "mmattozzi/cocoa-rest-client",
 "buresdv/Cork",
 "2ndalpha/gasmask",
@@ -83,6 +82,7 @@
 "johnste/finicky",
 "codykrieger/gfxCardStatus",
 "zenangst/Gray",
+"thsnkhn/harbor",
 "JadenGeller/Helium",
 "pedrovieira/Holeberry",
 "leonspok/Irvue-Screensaver",
@@ -151,5 +151,9 @@
 "google/santa",
 "Tunnelblick/Tunnelblick",
 "agarrharr/awesome-macos-screensavers"
+],
+"dropped": [
+["2026-10-24","overtake/TelegramSwift"],
+["2026-10-24","Codeux-Software/Textual"]
 ]
 }

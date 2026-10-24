@@ -1,11 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"7e9264a5bf51caded9c3befb9b1f42c159bfe131"},
+"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"6a0547f014dfa27da80d508e4a4666596cda597a"},
 "members": [
 "bloxstraplabs/bloxstrap",
 "AntiBoomz/BTRoblox",
 "MaximumADHD/Roblox-Studio-Mod-Manager",
 "vinegarhq/vinegar",
-"Fizzyhex/price-point",
+"fizzyhex/price-point",
 "littensy/slither",
 "flipbook-labs/flipbook",
 "MaximumADHD/Roblox-Plugins",
@@ -48,7 +48,7 @@
 "dphfox/Fusion",
 "Michael-48/Iris",
 "ocornut/imgui",
-"jsdotlua/react-lua",
+"Roblox/react-luau",
 "centau/vide",
 "howmanysmall/Janitor",
 "Quenty/NevermoreEngine",
@@ -70,5 +70,9 @@
 "rojo-rbx/rojo",
 "Roblox/foreman",
 "rojo-rbx/rokit"
+],
+"dropped": [
+["2026-10-24","Fizzyhex/price-point"],
+["2026-10-24","jsdotlua/react-lua"]
 ]
 }

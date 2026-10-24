@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Interactive data exploration that is extremely fast and agent-native","defaultBranch":"main","topics":["agent","dashboard","polars","python","visualization","exploratory-data-analysis","exploratory-data-visualizations","ai-agents","big-data","data-exploration"],"readmeSha":"7c5dd48b994dbf2766a4837466467bc4207eff39"},
+"members": [
+"pola-rs/polars",
+"fastapi/fastapi",
+"flex-analytics/flexviz-benchmarks",
+"uwdata/mosaic",
+"vega/vegafusion",
+"vega/falcon"
+]
+}

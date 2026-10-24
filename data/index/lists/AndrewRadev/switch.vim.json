@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A simple Vim plugin to switch segments of text with predefined replacements","defaultBranch":"main","topics":["cursor","substitutions","vim-plugin","text-manipulation"],"readmeSha":"9867694f7f55380622a535235bb0c2659ab32ead"},
+"meta": {"description":"A simple Vim plugin to switch segments of text with predefined replacements","defaultBranch":"main","topics":["cursor","substitutions","vim-plugin","text-manipulation"],"readmeSha":"889bbfd4b90bf94ff5665ff16c5d22faf74fe580"},
 "members": [
 "tpope/vim-speeddating",
 "zef/vim-cycle"

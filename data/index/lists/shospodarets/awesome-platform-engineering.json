@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"82c31ea5eec4ed3d3b7ff3cd97ee7b36d9162fa7"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"9133c6ab5005c23290fc6d785862515ab144134e"},
 "members": [
 "sindresorhus/awesome",
 "oxynote/oxynote",
@@ -23,13 +23,14 @@
 "aquasecurity/kube-bench",
 "opcr-io/policy",
 "agynio/platform",
+"cloud-in-a-bottle/cloud-in-a-bottle",
 "kubestellar/console",
 "skyhook-io/radar",
 "bunkerity/bunkerweb",
 "grafana/k6",
 "getanteon/anteon",
 "atinfo/awesome-test-automation",
-"microsoft/HydraLab",
+"microsoft/XStudio",
 "Continuum-AI-Corp/OrcaReplay",
 "jaegertracing/jaeger",
 "fluent/fluentd",
@@ -48,6 +49,7 @@
 "jakob-pennington/awesome-devsecops"
 ],
 "dropped": [
-["2026-10-10","AndrewDryga/emisar"]
+["2026-10-10","AndrewDryga/emisar"],
+["2026-10-24","microsoft/HydraLab"]
 ]
 }

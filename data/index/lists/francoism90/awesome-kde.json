@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications"],"readmeSha":"f730a2a9ff8b3b7063bacc29597a74a3679a34ba"},
+"meta": {"description":"A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.","defaultBranch":"master","topics":["awesome-list","awesome","kde","plasma","linux","qt","qt5","kde-desktop","applications","breeze"],"readmeSha":"5759d1c94a78077e9370cbed3a15b8fd593244f2"},
 "members": [
 "Agundur-KDE/KCast",
 "TimInTech/blitztext-linux",
@@ -31,6 +31,7 @@
 "vinceliuice/Canta-kde",
 "vinceliuice/ChromeOS-kde",
 "Rokin05/darkine-kde",
+"DeadIndian/fastfetch-kde-splash",
 "vinceliuice/Fluent-kde",
 "n4n0GH/hello",
 "vinceliuice/Layan-kde",

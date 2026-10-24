@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Open-source data quality tool: profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, and MCP server. 14 databases plus CSV, Parquet, and JSON files. Apache 2.0.","defaultBranch":"main","topics":["data-engineering","data-observability","data-quality","data-testing","self-hosted","dataops","mssql","postgresql","python","redshift"],"readmeSha":"6e73d1da7043d6da3c12a73b3a4fd616c09de911"},
+"members": [
+"DataKitchen/data-observability-installer"
+]
+}

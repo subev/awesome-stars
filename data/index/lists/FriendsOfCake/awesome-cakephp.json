@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"ce699cf6378841ae5a615323ed155651a4be84bc"},
+"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"d71f486f038cf12ed64c82aa212f4a4316fa6123"},
 "members": [
 "ziadoz/awesome-php",
 "bayandin/awesome-awesomeness",
@@ -64,6 +64,7 @@
 "alexandresalome/graphviz",
 "rocketeers/rocketeer",
 "dereuromark/cakephp-markup",
+"markup-carve/cakephp-carve",
 "cakephp/migrations",
 "cakephp/upgrade",
 "dereuromark/upgrade",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"1ebd57e5f67269d1f8ffa13cbaae43248acded84"},
+"meta": {"description":"A curated list of bitcoin services and tools for software developers","defaultBranch":"master","topics":[],"readmeSha":"701f7e318da1ed5ff87c363ff75a31653f9f53fb"},
 "members": [
 "sindresorhus/awesome",
 "vulpemventures/nigiri",
@@ -11,7 +11,6 @@
 "prettymuchbryce/hellobitcoin",
 "alexk111/HD-Wallet-Scanner",
 "bitjson/qr-code",
-"bennet-org/bitcoin-serverless-donations",
 "douvy/btc-tooling",
 "paranoid-qrypto/btc-airgap-bridge",
 "8144225309/superscalar-mcp",
@@ -73,5 +72,8 @@
 "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
 "chaincodelabs/bitcoin-curriculum",
 "chaincodelabs/lightning-curriculum"
+],
+"dropped": [
+["2026-10-24","bennet-org/bitcoin-serverless-donations"]
 ]
 }

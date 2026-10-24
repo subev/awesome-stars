@@ -1,12 +1,15 @@
 {
-"meta": {"description":"A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.","defaultBranch":"main","topics":["combinatorial-optimization","convex-optimization","discrete-optimization","integer-linear-programming","integer-programming","linear-optimization","linear-programming","mathematical-modelling","mathematical-optimization","mathematical-programming"],"readmeSha":"aa8eaa026b4c47d8ab9d34d6955de815e8208bf4"},
+"meta": {"description":"A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.","defaultBranch":"main","topics":["combinatorial-optimization","convex-optimization","discrete-optimization","integer-linear-programming","integer-programming","linear-optimization","linear-programming","mathematical-modelling","mathematical-optimization","mathematical-programming"],"readmeSha":"d3774c79de9b4a94afca9e9f9d5f3619d8f1b2be"},
 "members": [
 "chkwon/jpor_codes",
 "open-optimization/open-optimization-or-book",
 "Jason2Brownlee/CleverAlgorithms",
+"cmccomb/benchfun",
 "google/or-tools",
 "Axelwickm/or-tools-wasm",
 "metab0t/PyOptInterface",
+"cmccomb/jeans",
+"cmccomb/topopt-rs",
 "benalexkeen/Introduction-to-linear-programming",
 "cvxpy/cvxpy",
 "ANL-CEEESA/MIPLearn",

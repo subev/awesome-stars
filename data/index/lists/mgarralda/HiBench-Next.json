@@ -1,0 +1,7 @@
+{
+"meta": {"description":"HiBench Next: Apache Spark batch benchmarking with 24 Scala and PySpark workloads, reproducible data generation, integrated run comparisons, and unified experiment control through a Web UI, REST API, and CLI.","defaultBranch":"main","topics":["apache-spark","benchmarking","dataframes","distributed-computing","hadoop","hibench","performance-testing","reproducible-research","spark","spark-ml"],"readmeSha":"33344129a3b33d4cf67930d81ae7195ddb9cecfe"},
+"members": [
+"Intel-bigdata/HiBench",
+"mgarralda/hadoop-spark-cluster"
+]
+}

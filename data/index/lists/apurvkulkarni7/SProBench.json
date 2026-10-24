@@ -1,0 +1,7 @@
+{
+"meta": {"description":"SProBench: Stream Processing Benchmark for High Performance Computing","defaultBranch":"main","topics":[],"readmeSha":"dca0a2e8e1c3a92f3c8539130095c6538429c8ba"},
+"members": [
+"othneildrew/Best-README-Template",
+"ParaGroup/WindFlow"
+]
+}

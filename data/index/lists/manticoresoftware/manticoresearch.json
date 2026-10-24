@@ -1,0 +1,22 @@
+{
+"meta": {"description":"Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.","defaultBranch":"main","topics":["search-engine","search","mysql","sphinxsearch","cpp","stream-filtering","full-text-search","bm25","search-server","sql"],"readmeSha":"2f3d6cf634eb0126b7e3b66b5045253e94246ab4"},
+"members": [
+"manticoresoftware/docker",
+"db-benchmarks/db-benchmarks",
+"manticoresoftware/columnar",
+"manticoresoftware/manticoresearch-php",
+"manticoresoftware/manticoresearch-python",
+"manticoresoftware/manticoresearch-python-asyncio",
+"manticoresoftware/manticoresearch-javascript",
+"manticoresoftware/manticoresearch-typescript",
+"manticoresoftware/manticoresearch-java",
+"manticoresoftware/manticoresearch-elixir",
+"manticoresoftware/manticoresearch-go",
+"manticoresoftware/manticoresearch-rust",
+"manticoresoftware/kibana-demo",
+"manticoresoftware/manticoresearch",
+"EvilFreelancer/laravel-manticoresearch",
+"gordonbanderson/silverstripe-manticore-search",
+"dimv36/sphinxlink"
+]
+}

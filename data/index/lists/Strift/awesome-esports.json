@@ -1,8 +1,9 @@
 {
-"meta": {"description":"A curated list of open-source projects related to esports.","defaultBranch":"main","topics":["awesome","esports","awesome-list"],"readmeSha":"d1ec7db3f7778026a90142d25fe3dee164814bff"},
+"meta": {"description":"A curated list of open-source projects related to esports.","defaultBranch":"main","topics":["awesome","esports","awesome-list"],"readmeSha":"1460a8149cfaddbe05129288bd30f3cb1d0b3e26"},
 "members": [
 "benweier/blizzard.js",
 "discordjs/discord.js",
+"esportsodds/esportsodds-python",
 "gigobyte/HLTV",
 "c00kie17/liquipediapy",
 "ValvePython/steam",

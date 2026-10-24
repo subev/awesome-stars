@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"b694abc1d29e3e91ecceb4bc94168fba29d8c26b"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"aca4e2c40f5ad0fef4657379076371c4a202aa3e"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -8,6 +8,7 @@
 "maplibre/maplibre-plugins-android",
 "maplibre/maplibre-style-spec",
 "falseinput/expressive",
+"builtbyfield/maplibre-expr",
 "maplibre/maputnik",
 "marucjmar/maputnik-inline-plugin",
 "lhapaipai/maplibre-theme",
@@ -81,6 +82,7 @@
 "maplibre/maplibre-gl-geocoder",
 "stadiamaps/maplibre-search-box",
 "maptiler/maptiler-geocoding-control",
+"Mokto/opengeocoding-maplibre",
 "maplibre/maplibre-gl-leaflet",
 "visgl/deck.gl",
 "osm-americana/diplomat",

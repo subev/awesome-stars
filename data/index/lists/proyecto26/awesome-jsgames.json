@@ -1,13 +1,18 @@
 {
-"meta": {"description":"A curated list of awesome JavaScript Games  🎮","defaultBranch":"main","topics":["javascript-games","javascript-game","games","games-list","awesome-list","js-games","web-monetization","game-engines","game-development","open-source"],"readmeSha":"24b79fa02863b60342883ab5c5b8d0bf9eaf3f2c"},
+"meta": {"description":"A curated list of awesome JavaScript Games  🎮","defaultBranch":"main","topics":["javascript-games","javascript-game","games","games-list","awesome-list","js-games","web-monetization","game-engines","game-development","open-source"],"readmeSha":"9bafe4693b1ec4d28642f3b78541c91428dea3a3"},
 "members": [
 "mumuy/pacman",
 "RishabhDevbanshi/Pacman-Game",
 "ennorehling/jump-n-bump",
+"zfrv2/NeonSnakeAPK-Mobile-Game-",
+"zfrv2/QuantumAscentAPK-Mobile-Game-",
+"dersteppenwolf/glitch_duel",
 "Retronator/Pixel-Art-Academy",
+"Bash-Entertainment/bash-fighter",
 "gd4Ark/2048",
 "linrock/blitz-tactics",
 "AlexNisnevich/untrusted",
+"dffge552/block-blast",
 "FreezingMoon/AncientBeast",
 "ZeevKatz/scroll",
 "guilhermebkel/uno-game",
@@ -77,6 +82,7 @@
 "playcanvas/awesome-playcanvas",
 "DaRaFF/jsgamewiki",
 "leereilly/games",
+"lappemic/awesome-ai-built-games",
 "proyecto26/.github"
 ]
 }

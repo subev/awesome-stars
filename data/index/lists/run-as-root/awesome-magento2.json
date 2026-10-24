@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"ca8d6bd3a82ead992b797df0afa5efcd62ddabaa"},
+"meta": {"description":"Curated list of awesome Magento 2 Extensions, Resources and other Highlights","defaultBranch":"master","topics":["awesome","magento2","collection","magento-2","magento-extension","php","packages","awesome-list","documentation","documentation-tool"],"readmeSha":"b6a738abc92710aa2fa7def7145d7dab72db57fc"},
 "members": [
 "sindresorhus/awesome",
 "run-as-root/awesome-magento2",
@@ -30,7 +30,6 @@
 "DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search",
 "mage2tv/magento-cache-clean",
 "magewirephp/magewire",
-"avstudnitz/AvS_ScopeHint2",
 "semaio/Magento2-ConfigImportExport",
 "bitExpert/phpstan-magento",
 "yireo/Yireo_Whoops",
@@ -41,6 +40,7 @@
 "ho-nl/magento2-Ho_Templatehints",
 "sansecio/magevulndb",
 "ctidigital/magento2-configurator",
+"avstudnitz/AvS_ScopeHint2",
 "elgentos/magento2-cypress-testing-suite",
 "yireo/Yireo_AutoFlushCache",
 "zepgram/magento-dotenv",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"3d9ffefddfd386791ad46e832f0ca8a4acfb0fb8"},
+"meta": {"description":"A curated list of amazingly awesome open-source sysadmin resources.","defaultBranch":"master","topics":["awesome","awesome-list","sysadmin","list","devops","ops","software","sre","self-hosted"],"readmeSha":"13e689ebdbca1c3f16641447428c18bd6f079a36"},
 "members": [
 "sindresorhus/awesome",
 "awesome-foss/awesome-sysadmin-data",
@@ -8,8 +8,6 @@
 "apache/maven",
 "bazelbuild/bazel",
 "gradle/gradle",
-"openbao/openbao",
-"openbao/openbao-plugins",
 "OpenVoxProject/openbolt",
 "dmarcguardhq/parse-dmarc",
 "domainaware/parsedmarc",
@@ -24,6 +22,7 @@
 "databasus/databasus",
 "duplicati/duplicati",
 "mitoteam/mtsaver",
+"PlakarKorp/plakar",
 "Portabase/portabase",
 "rclone/rclone",
 "rdiff-backup/rdiff-backup",
@@ -121,6 +120,8 @@
 "OpenVPN/easy-rsa",
 "fusiondirectory/fusiondirectory",
 "LDAPAccountManager/lam",
+"openbao/openbao",
+"openbao/openbao-plugins",
 "pomerium/pomerium",
 "smallstep/certificates",
 "WrenSecurity/wrenidm",
