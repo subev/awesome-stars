@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"5e2bc8912b3118ae95650098abdd5a1b04ba4da8"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"3950d2009fdd296889e951a8b17c7788061ce841"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -269,6 +269,7 @@
 "marmelab/json-graphql-server",
 "alexstrat/supertest-graphql",
 "schemathesis/schemathesis",
+"SaaSy-Solutions/mockforge",
 "gsmith257-cyber/GraphCrawler",
 "Escape-Technologies/graphinder",
 "doyensec/inql",

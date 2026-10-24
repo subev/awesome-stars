@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"f714325b755dfef31990ca6e3a40d2d2fca7b313"},
+"meta": {"description":"A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins","defaultBranch":"main","topics":["anthropic","anthropic-claude","awesome","awesome-list","awesome-lists","awesome-resources","claude","claude-code","agentic-code","agentic-coding"],"readmeSha":"044490803cf14b35b75c49190028665617d39f12"},
 "members": [
 "anthropics/claude-code",
 "multica-ai/andrej-karpathy-skills",
@@ -79,13 +79,15 @@
 "leeguooooo/claude-code-usage-bar",
 "TevvvB/termagitchi",
 "LiveNL/tmux-claude-status-tabs",
+"NahumLitvin/prismantis",
+"SummerRiversound/review-inbox",
 "EthanY33/atelier",
 "szymdzum/browser-debugger-cli",
 "SawyerHood/dev-browser",
 "cathrynlavery/diagram-design",
 "i18next/i18next-cli",
 "neonwatty/logo-designer-skill",
-"gowtham012/pinpoint",
+"gowtham012/PinPoint",
 "rixinhahaha/snip",
 "bitjaru/styleseed",
 "educlopez/ui-craft",
@@ -101,6 +103,7 @@
 "elithril/blender-kiln",
 "renezander030/capcut-cli",
 "es617/claude-replay",
+"AmadeusBio-ai/Molecular_Animation",
 "iart-ai/motion-skills",
 "Alisa0808/vox-director",
 "akin-ozer/cc-devops-skills",
@@ -155,7 +158,7 @@
 "mikeyobrien/ralph-orchestrator",
 "ClaytonFarr/ralph-playbook",
 "zircote/workflows-plugin",
-"Ovich/charrette",
+"Ovich/swarmstorm",
 "haabe/mycelium",
 "tsmztech/napkin-to-blueprint",
 "savvasioakeim/OctoShell",
@@ -186,6 +189,7 @@
 "masondelan/selvedge",
 "nickelsec/bough",
 "lookfree/cc-harness",
+"rezored/cubicle-crew",
 "duqaXxX/seedeep",
 "minchenlee/c9watch",
 "patakuti/cc-semaphore",
@@ -231,7 +235,7 @@
 "ctxlint/Ctxlint",
 "Zandereins/schliff",
 "wei18/Upkeep",
-"maxritter/pilot-shell",
+"maxritter/qualitylayer",
 "pchalasani/claude-code-tools",
 "affaan-m/ECC",
 "Jeffallan/claude-skills",
@@ -242,6 +246,9 @@
 ["2026-09-04","zyx77550/sparda"],
 ["2026-09-11","arturogarrido/claudinho"],
 ["2026-10-02","mensfeld/code-on-incus"],
-["2026-10-09","JSONbored/awesome-claude"]
+["2026-10-09","JSONbored/awesome-claude"],
+["2026-10-24","gowtham012/pinpoint"],
+["2026-10-24","Ovich/charrette"],
+["2026-10-24","maxritter/pilot-shell"]
 ]
 }

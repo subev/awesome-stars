@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"58adea628ee34697c8b24d007c91c4fd4dca0810"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"5c59ca30ae8cccfa13f02f618dae4021feddb8f9"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -640,6 +640,7 @@
 "square/connect-nodejs-sdk",
 "openai/openai-node",
 "stripe/stripe-node",
+"opencoredev/social-sdk",
 "olivernn/lunr.js",
 "nextapps-de/flexsearch",
 "weixsong/elasticlunr.js",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"605a6b760cecef98b406d23905e8023289c9c2f3"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"6a334f352dc5048cb183a94cb9a7fcf9cb5f1105"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "K-Dense-AI/scientific-agent-skills",
@@ -30,7 +30,7 @@
 "ml-explore/mlx-lm",
 "vllm-project/vllm",
 "sgl-project/sglang",
-"BerriAI/litellm",
+"deepseek-ai/DeepInfer",
 "huggingface/diffusers",
 "huggingface/peft",
 "huggingface/trl",
@@ -556,6 +556,7 @@
 ["2026-10-02","linkedin/shiv"],
 ["2026-10-02","trustedsec/social-engineer-toolkit"],
 ["2026-10-17","browser-use/jev-ultrafast"],
-["2026-10-17","google/python-fire"]
+["2026-10-17","google/python-fire"],
+["2026-10-24","BerriAI/litellm"]
 ]
 }

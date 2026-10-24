@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"eb052175443b23c51b03676b07b09ae3348df57f"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"b1cad49c6d066f41c7d711211e3ddeb4199c2b6e"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -113,7 +113,7 @@
 "generateme/fastmath",
 "atisharma/matlib",
 "mathieulaporte/machine",
-"NeuraLegion/crystal-fann",
+"BrightSec/crystal-fann",
 "danielcamposramos/Knowledge3D",
 "fredwu/simple_bayes",
 "mrdimosthenis/emel",
@@ -468,6 +468,7 @@
 "yzhao062/pyod",
 "minerva-ml/steppy",
 "minerva-ml/steppy-toolkit",
+"mojolearn/mojolearn",
 "couler-proj/couler",
 "wannesm/dtaidistance",
 "arogozhnikov/einops",
@@ -603,6 +604,7 @@
 "clugen/pyclugen",
 "dhgefergfefruiwefhjhcduc/ML_Forgex",
 "doublewordai/autobatcher",
+"future-agi/future-agi",
 "capitalone/datacompy",
 "Shanky-21/Data_visualization",
 "AutoViML/AutoViz",
@@ -876,5 +878,8 @@
 "terrytangyuan/distributed-ml-patterns",
 "vinta/awesome-python",
 "gopherdata/resources"
+],
+"dropped": [
+["2026-10-24","NeuraLegion/crystal-fann"]
 ]
 }

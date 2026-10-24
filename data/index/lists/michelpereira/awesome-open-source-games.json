@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"29734201572ff55470d855404b470dc3b50ad804"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"32d3ce1e29b26c776f4cee4da0a403b37145584f"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
@@ -10,8 +10,10 @@
 "binarymax/kriegspiel",
 "metavert-io/chessmata",
 "lichess-org/lila",
+"SikamikanikoBG/patzer",
 "braedonsaunders/parlour",
 "playpip/pip-web",
+"playhex/playhex",
 "oil-oil/wolfcha",
 "Dave-and-Mike/game-off-2012",
 "cykod/AlienInvasion",
@@ -91,6 +93,7 @@
 "morozd/blk-game",
 "Nurgak/Cube-engine",
 "R74nCom/sandboxels",
+"1homsi/thehumanbox",
 "gabrielecirulli/2048",
 "hughsk/ludum-dare-27",
 "binarymax/anagramica",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":key: Curated list of awesome captcha libraries and crack tools.","defaultBranch":"master","topics":["captcha","captcha-solving","captcha-breaking","captcha-generator","captcha-image","awesome","awesome-list","captcha-library","captcha-break","captcha-solver"],"readmeSha":"86017855a2dacaba60c1408e622042fd3420ead3"},
+"meta": {"description":":key: Curated list of awesome captcha libraries and crack tools.","defaultBranch":"master","topics":["captcha","captcha-solving","captcha-breaking","captcha-generator","captcha-image","awesome","awesome-list","captcha-library","captcha-break","captcha-solver"],"readmeSha":"93fa8a8d731c1bcb2420823ead7c6f8a01753823"},
 "members": [
 "mewebstudio/captcha",
 "Gregwar/Captcha",

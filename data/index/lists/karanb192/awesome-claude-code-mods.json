@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community catalogue of public Claude Code mods (function hooks), scanned from GitHub with what each mod can read, write, run or send over the network. Browse https://mods.aidojo.si/","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"705724b34783fd8d969484d5d6c944b099794ffe"},
+"meta": {"description":"5,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"10a7327cdd00f482fd822396b30b677cfdc701d8"},
 "members": [
 "zenbu-labs/terminal-browser",
 "karanb192/cache-tax",

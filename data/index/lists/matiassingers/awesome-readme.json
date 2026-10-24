@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"b01f212ba874f4e9fa1362018baf22a444101c95"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"81a37f98356136c250a031059ba5f4f382838b8a"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",

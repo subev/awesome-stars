@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"2372721cc312a0fb15cf5a0185b31a20d7f3d552"},
+"meta": {"description":"A curated list of awesome MySQL software, libraries, tools and resources","defaultBranch":"master","topics":[],"readmeSha":"6ca20d0491356a4a7b01904407a75d5295b8c031"},
 "members": [
 "sindresorhus/awesome",
 "box/Anemometer",
@@ -24,6 +24,7 @@
 "tmcallaghan/iibench-mysql",
 "akopytov/sysbench",
 "Percona-Lab/tpcc-mysql",
+"dbtrail/dbtrail",
 "pingcap/tiflow",
 "flike/kingbus",
 "google/mysql-ripple",

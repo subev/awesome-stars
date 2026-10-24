@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"5140c100415f69fef44aad7d0aaef23f55aff5cd"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"35e301248619bddc652cfbac01ac4fc130d12719"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -41,6 +41,7 @@
 "keyp-dev/mqttkit",
 "reductstore/reductstore",
 "tphakala/birdnet-go",
+"ierolsen/coffee-edition-kit",
 "yoelf22/electrum",
 "onehumanbeing/esp32-iphone-agent",
 "authbroker/authbroker",

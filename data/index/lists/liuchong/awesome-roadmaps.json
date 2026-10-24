@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of roadmaps.","defaultBranch":"master","topics":["awesome-list","awesome","lists","resources","roadmap"],"readmeSha":"3397fe1ad743589a7069d93e8087e6bc549ded43"},
+"meta": {"description":"A curated list of roadmaps.","defaultBranch":"master","topics":["awesome-list","awesome","lists","resources","roadmap"],"readmeSha":"2dd3d3ebfd8af932f8cb8eb3eadb0676e4b9c1fa"},
 "members": [
 "salmer/CppDeveloperRoadmap",
 "darius-khll/golang-developer-roadmap",
@@ -23,6 +23,7 @@
 "BohdanOrlov/iOS-Developer-Roadmap",
 "milanm/DevOps-Roadmap",
 "mbianchidev/platform-engineering-roadmap",
+"Wyrcan-io/roadmap",
 "utilForever/game-developer-roadmap",
 "miloyip/game-programmer",
 "audi0417/agent-engineering-roadmap",
@@ -49,6 +50,7 @@
 "m3y54m/Embedded-Engineering-Roadmap",
 "m3y54m/FPGA-ASIC-Roadmap",
 "sundowndev/hacker-roadmap",
+"MohamedMuneerM/knowledge-navigator",
 "TalalAlrawajfeh/mathematics-roadmap",
 "AlaaAttya/software-architect-roadmap",
 "stemmlerjs/software-design-and-architecture-roadmap",

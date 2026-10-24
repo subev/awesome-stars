@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"00e042645ed5433cd6ab244a3b796bdb0d391f8f"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"6c4c7b976b807a6d731c0403629a90294a4562b0"},
 "members": [
 "alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
@@ -13,6 +13,7 @@
 "piersolenski/plugin-addict.nvim",
 "zuqini/zpack.nvim",
 "okram78/vahti.nvim",
+"Imngzx/resonance.nvim",
 "batoaqaa/nvim-pio",
 "romus204/referencer.nvim",
 "Dan7h3x/signup.nvim",
@@ -250,6 +251,7 @@
 "tednguyendev/recent_rails.nvim",
 "ankushbhagats/liveserver.nvim",
 "harukikuri/viteenv.nvim",
+"mcp1766/stylepeek.nvim",
 "the-mayankjha/fk_markdown.nvim",
 "iamcco/markdown-preview.nvim",
 "davidgranstrom/nvim-markdown-preview",
@@ -297,6 +299,7 @@
 "walkersumida/deepl.nvim",
 "acidsugarx/babel.nvim",
 "noir4y/comment-translate.nvim",
+"Imngzx/jisho.nvim",
 "nvim-treesitter/nvim-treesitter",
 "romus204/tree-sitter-manager.nvim",
 "nvim-treesitter/nvim-treesitter-textobjects",
@@ -479,6 +482,7 @@
 "wsdjeg/cpicker.nvim",
 "leolaurindo/tunnelvision.nvim",
 "cxwx/shadowMyName.nvim",
+"zacesshq/zacess.nvim",
 "daaanny90/interlinked.nvim",
 "rezniqov/soviet.nvim",
 "ThorstenRhau/token",
@@ -558,7 +562,7 @@
 "luisiacc/gruvbox-baby",
 "titanzero/zephyrium",
 "rebelot/kanagawa.nvim",
-"thesimonho/kanagawa-paper.nvim",
+"thesimonho/kanagawa-paper",
 "kevinm6/kurayami.nvim",
 "cpea2506/one_monokai.nvim",
 "phha/zenburn.nvim",
@@ -710,6 +714,7 @@
 "Kurama622/profile.nvim",
 "leo-alvarenga/homecoming.nvim",
 "Amansingh-afk/milli.nvim",
+"zdcthomas/sprout.nvim",
 "nvim-tree/nvim-web-devicons",
 "ryanoasis/vim-devicons",
 "2KAbhishek/nerdy.nvim",
@@ -950,6 +955,7 @@
 "wsdjeg/tasks.nvim",
 "JulOuellet/bzl.nvim",
 "pewpewnor/dove.nvim",
+"trimclain/builder.nvim",
 "saghen/blink.lib",
 "folke/lazydev.nvim",
 "lumen-oss/luarocks-tag-release",
@@ -1041,6 +1047,7 @@
 "chojs23/ec",
 "harrisoncramer/gitlab.nvim",
 "mm4cN/nvim-gitlab",
+"ryutaro-asada/partial-diff.nvim",
 "pwntester/octo.nvim",
 "ldelossa/gh.nvim",
 "topaxi/pipeline.nvim",
@@ -1440,6 +1447,7 @@
 ["2026-10-17","bennorichters/taal.nvim"],
 ["2026-10-17","linrongbin16/fzfx.nvim"],
 ["2026-10-17","teodord25/csc.nvim"],
-["2026-10-17","gisketch/triforce.nvim"]
+["2026-10-17","gisketch/triforce.nvim"],
+["2026-10-24","thesimonho/kanagawa-paper.nvim"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"9ac1b53256b0d72dbb03c5add5bbd2bf884dfbd7"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"df76d6bc3c209905b49a55dfc3273b4d0005193d"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -51,7 +51,6 @@
 "verifast/verifast",
 "bmitch/churn-php",
 "shipmonk-rnd/composer-dependency-analyser",
-"mihaeu/dephpend",
 "deptrac/deptrac",
 "squizlabs/PHP_CodeSniffer",
 "PHP-CS-Fixer/PHP-CS-Fixer",
@@ -95,6 +94,7 @@
 "rubysec/ruby-advisory-db",
 "djezzzl/database_consistency",
 "Shopify/erb_lint",
+"threedaymonk/htmlbeautifier",
 "troessner/reek",
 "whitesmith/rubycritic",
 "ruby-formatter/rufo",
@@ -255,7 +255,6 @@
 ["2026-09-04","nebulab/erb-formatter"],
 ["2026-09-04","DamirSvrtan/fasterer"],
 ["2026-09-04","CoralineAda/fukuzatsu"],
-["2026-09-04","threedaymonk/htmlbeautifier"],
 ["2026-09-04","codegram/pelusa"],
 ["2026-09-04","roodi/roodi"],
 ["2026-09-04","emad-elsaid/rubrowser"],
@@ -281,6 +280,7 @@
 ["2026-09-04","ConsenSysDiligence/mythril"],
 ["2026-09-04","uni-bremen-agst/libvcs4j"],
 ["2026-09-11","viva64/pvs-studio-check-list"],
-["2026-09-25","vlajos/misspell-fixer"]
+["2026-09-25","vlajos/misspell-fixer"],
+["2026-10-24","mihaeu/dephpend"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"📝 A curated list of awesome Raspberry Pi tools, projects, images and resources","defaultBranch":"main","topics":["awesome","raspberry-pi","resources","list","awesome-list","rpi"],"readmeSha":"634f4501a9a8100f83b91217aebef9867abc498c"},
+"meta": {"description":"📝 A curated list of awesome Raspberry Pi tools, projects, images and resources","defaultBranch":"main","topics":["awesome","raspberry-pi","resources","list","awesome-list","rpi"],"readmeSha":"a597aa824f124cc1359d16f6cbe6be90a3834eb1"},
 "members": [
 "sindresorhus/awesome",
 "jareware/chilipie-kiosk",
@@ -72,6 +72,7 @@
 "initialstate/pi-sensor-free-presence-detector",
 "bww/occu-pi",
 "RoganDawes/P4wnP1",
+"msalsas/philosopher",
 "khadkarajesh/Pi-Image-Capturer",
 "anshulahuja98/pi_payments",
 "pikvm/pikvm",
@@ -84,7 +85,6 @@
 "samyk/poisontap",
 "femto-code/Raspberry-Pi-Dashboard",
 "atao/raspberrypi-setup",
-"Scottcjn/Rustchain",
 "GraveEaterMadison/Raspberry_pi_telegram_bot",
 "rootzoll/raspiblitz",
 "leinir/relayboard-control",
@@ -97,6 +97,7 @@
 "sonic-pi-net/sonic-pi",
 "evancohen/sonus",
 "pageauc/speed-camera",
+"juricabi/sticktime-pi",
 "cyoung/stratux",
 "LelandSindt/teslacam",
 "cherifon/Ultimate-DNS-Shield",
@@ -110,5 +111,8 @@
 "uraimo/buildSwiftOnARM",
 "uraimo/SwiftyGPIO",
 "thomaspaulmann/Swish"
+],
+"dropped": [
+["2026-10-24","Scottcjn/Rustchain"]
 ]
 }

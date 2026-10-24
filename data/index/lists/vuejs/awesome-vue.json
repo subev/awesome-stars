@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"4fc17055ffdd083c94987a4678b6ed1b5f10e8fe"},
+"meta": {"description":"🎉 A curated list of awesome things related to Vue.js","defaultBranch":"master","topics":[],"readmeSha":"a4147b9edef93177b3cdf9496585c5eb602ff3f7"},
 "members": [
 "sindresorhus/awesome",
 "vuejs/core",
@@ -133,7 +133,7 @@
 "heyui/heyui",
 "balmjs/balm-ui",
 "carbon-design-system/carbon-components-vue",
-"inkline/inkline",
+"uxfront-com/inkline",
 "mdbootstrap/mdb-vue-ui-kit",
 "pgbross/vue-material-adapter",
 "coreui/coreui-vue",
@@ -270,7 +270,7 @@
 "nolimits4web/swiper",
 "jambonn/vue-concise-carousel",
 "ismail9k/vue3-carousel",
-"brtdom/vue-snap",
+"bartdominiak/vue-snap",
 "KonstantinKai/reelkit",
 "apertureless/vue-chartjs",
 "ankane/vue-chartkick",
@@ -394,6 +394,7 @@
 "ckeditor/ckeditor5-vue",
 "vue-quilly/vue-quilly",
 "JackUait/blok",
+"cyte-editor/cyteeditor-examples",
 "xyxiao001/vue-cropper",
 "jofftiquez/vue-croppie",
 "advanced-cropper/vue-advanced-cropper",
@@ -448,7 +449,7 @@
 "posva/unplugin-vue-router",
 "awdr74100/vite-plugin-vue-middleware",
 "Kassaila/vue-router-citadel",
-"brtdom/vue-lazy",
+"bartdominiak/vue-lazy",
 "jambonn/vue-lazyload",
 "alziqziq/vue-paginate-al",
 "coderdiaz/vue-tiny-pagination",
@@ -591,7 +592,8 @@
 ["2026-09-18","byteboomers/vue-lpage"],
 ["2026-09-18","askbudi/roundtable"],
 ["2026-09-25","elreco/vue-tailwind-datepicker"],
-["2026-10-02","bartdominiak/vue-snap"],
-["2026-10-02","bartdominiak/vue-lazy"]
+["2026-10-24","inkline/inkline"],
+["2026-10-24","brtdom/vue-snap"],
+["2026-10-24","brtdom/vue-lazy"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"91e94e80b9335d528155c5a577cb0c54fe949e9b"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"6de6bb08cb61290e66b08c03b5fe42f17ce7c6d2"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -29,6 +29,7 @@
 "ScottFelder/lazymqtt",
 "iotmertech/iot-data-generator",
 "getmockd/mockd",
+"SaaSy-Solutions/mockforge",
 "jvermillard/moxy",
 "flespi-software/MQTT-Board",
 "hobbyquaker/mqtt-admin",
@@ -40,6 +41,7 @@
 "etactica/mqtt-malaria",
 "4nte/mqtt-mirror",
 "rpdswtk/mqtt_recorder",
+"ToRexZ/mqtt-scope",
 "pidster-dot-org/mqtt-shell",
 "poggenpower/mqtt_tree",
 "dsell/mqtt-utils",

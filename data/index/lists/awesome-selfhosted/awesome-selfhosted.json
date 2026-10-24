@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"cd69b633e9d3737ee451ece35eaf40f1e974798f"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"5555bd5c35e146a2f5e5fd244f4ab24435177c3a"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -14,7 +14,7 @@
 "jortilles/EDA",
 "allinurl/goaccess",
 "arp242/goatcounter",
-"PascaleBeier/hitkeep",
+"HitKeep/hitkeep",
 "Litlyx/litlyx",
 "explodingcamera/liwan",
 "matomo-org/matomo",
@@ -75,10 +75,10 @@
 "ovh/utask",
 "awesome-foss/awesome-sysadmin",
 "antville/antville",
+"rikhuijzer/bloglite",
 "xenocrat/chyrp-lite",
 "lin-snow/Ech0",
 "flatpressblog/flatpress",
-"rikhuijzer/fx",
 "TryGhost/Ghost",
 "havenweb/haven",
 "danpros/htmly",
@@ -89,6 +89,7 @@
 "writefreely/writefreely",
 "alfio-event/alf.io",
 "calcom/cal.diy",
+"chobbledotcom/tickets",
 "alextselegidis/easyappointments",
 "HiEventsDev/Hi.Events",
 "LibreBooking/librebooking",
@@ -589,6 +590,7 @@
 "mainsail-crew/mainsail",
 "manyfold3d/manyfold",
 "OctoPrint/OctoPrint",
+"Kymr10n/orkyo-community",
 "osmlab/awesome-openstreetmap",
 "sshuair/awesome-gis",
 "seanmorley15/AdventureLog",
@@ -1160,6 +1162,8 @@
 ["2026-10-17","medama-io/medama"],
 ["2026-10-17","robiningelbrecht/statistics-for-strava"],
 ["2026-10-17","CaramelFur/Picsur"],
-["2026-10-17","openremote/openremote"]
+["2026-10-17","openremote/openremote"],
+["2026-10-24","PascaleBeier/hitkeep"],
+["2026-10-24","rikhuijzer/fx"]
 ]
 }

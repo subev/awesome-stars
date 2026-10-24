@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"dc4e80c84e6ffed440276a8879095de59485b39a"},
+"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"ade2f1bdc1e5ef1febc76b96bdaa246a6a35f160"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -58,6 +58,7 @@
 "xslogic/phoebus",
 "shunfei/indexr",
 "cswinter/LocustDB",
+"kalamdb/koldstore",
 "biokoda/actordb",
 "probcomp/BayesDB",
 "cockroachdb/cockroach",
@@ -94,11 +95,13 @@
 "LinkedInAttic/kamikaze",
 "LinkedInAttic/white-elephant",
 "Netflix/suro",
+"datazip-inc/olake",
 "pinterest/secor",
 "apache/gobblin",
 "skizzehq/skizze",
 "rudderlabs/rudder-server",
 "aklivity/zilla",
+"DataKitchen/dataops-testgen",
 "Hydrospheredata/mist",
 "mara/mara-pipelines",
 "spotify/luigi",
@@ -135,7 +138,12 @@
 "SWIMProjectUCB/SWIM",
 "estuary/estuary-warehouse-benchmark",
 "Intel-bigdata/HiBench",
-"unum-cloud/ucsb",
+"ashvardanian/CrudEval",
+"mgarralda/HiBench-Next",
+"delimitrou/DeathStarBench",
+"parsa-epfl/cloudsuite",
+"brianfrankcooper/YCSB",
+"apurvkulkarni7/SProBench",
 "shouc/daudit",
 "FileShot/FileShotZKE",
 "apache/incubator-retired-slider",
@@ -157,6 +165,7 @@
 "strapdata/elassandra",
 "LinkedInAttic/cleo",
 "senseidb/zoie",
+"manticoresoftware/manticoresearch",
 "facebookresearch/faiss",
 "spotify/annoy",
 "renecannao/proxysql",
@@ -166,6 +175,7 @@
 "krestenkrab/hanoidb",
 "google/leveldb",
 "ankane/blazer",
+"bruin-data/dac",
 "lightdash/lightdash",
 "metabase/metabase",
 "airbnb/airpal",
@@ -178,6 +188,7 @@
 "plotly/dash",
 "apache/echarts",
 "HumbleSoftware/envisionjs",
+"flex-analytics/flexviz",
 "Freeboard/freeboard",
 "gephi/gephi",
 "matplotlib/matplotlib",
@@ -206,5 +217,8 @@
 "monksy/awesome-kafka",
 "zrosenbauer/awesome-bigtable",
 "zenml-io/awesome-open-data-annotation"
+],
+"dropped": [
+["2026-10-24","unum-cloud/ucsb"]
 ]
 }

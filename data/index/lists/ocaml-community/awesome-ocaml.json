@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated collection of awesome OCaml tools, frameworks, libraries and articles.","defaultBranch":"master","topics":["ocaml","awesome","resources","programming-language"],"readmeSha":"626fde97c1350a024cbdd1c68f1237cf3ef1ef62"},
+"meta": {"description":"A curated collection of awesome OCaml tools, frameworks, libraries and articles.","defaultBranch":"master","topics":["ocaml","awesome","resources","programming-language"],"readmeSha":"bd4b7ea52de13763d50a4ada25b2559e5b1c0c0f"},
 "members": [
 "ocaml-community/awesome-ocaml",
 "backtracking/ocamlgraph",
@@ -119,6 +119,7 @@
 "owlbarn/owl_mask_rcnn",
 "LaurentMazare/ocaml-torch",
 "ck090/ocaml-nn",
+"Anonyfox/chatoyant",
 "IssuuArchive/ocaml-zmq",
 "rgrinberg/onanomsg",
 "didier-wenzek/ocaml-kafka",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome F# frameworks, libraries, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list","dotnet","fsharp"],"readmeSha":"b0474755327b0f0958eb04cb26bcf96a4180c073"},
+"meta": {"description":"A curated list of awesome F# frameworks, libraries, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list","dotnet","fsharp"],"readmeSha":"13ce0a834ca6b4a8657c6ca7ccae6cda634de246"},
 "members": [
 "dotnet/fsharp",
 "fsharp/fslang-suggestions",
@@ -87,6 +87,7 @@
 "cmeeren/Fling",
 "demystifyfp/FsToolkit.ErrorHandling",
 "tforkmann/Fumble",
+"Thorium/Linq.Expression.Optimizer",
 "Zaid-Ajaj/LiteDB.FSharp",
 "litedb-org/LiteDB",
 "Zaid-Ajaj/Npgsql.FSharp",

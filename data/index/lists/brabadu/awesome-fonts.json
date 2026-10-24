@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of fonts and everything","defaultBranch":"master","topics":["icon-font","free-fonts","google-fonts","programming-fonts","fonts","awesome","awesome-list","list"],"readmeSha":"4a736b87dffba00caac661f486492248801afc3b"},
+"meta": {"description":"Curated list of fonts and everything","defaultBranch":"master","topics":["icon-font","free-fonts","google-fonts","programming-fonts","fonts","awesome","awesome-list","list"],"readmeSha":"be54cd3675dffe0134a1cc049912cd5f487f1e53"},
 "members": [
 "sindresorhus/awesome",
 "ayaanahad/font-contrast",
@@ -10,6 +10,7 @@
 "googlefonts/roboto-2",
 "mozilla/zilla-slab",
 "IBM/plex",
+"uswds/public-sans",
 "googlefonts/amstelvar-beta",
 "aftertheflood/sparks",
 "jpt/barlow",
@@ -17,6 +18,7 @@
 "impallari/Libre-Franklin",
 "evilmartians/mono",
 "githubnext/monaspace",
+"klepas/open-baskerville",
 "christiannaths/redacted-font",
 "RoelN/SansBullshitSans",
 "coreyhu/Urbanist",

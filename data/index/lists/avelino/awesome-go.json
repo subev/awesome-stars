@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"7c98f606f300c7f1b9df9538ba2f7cc7207ee69c"},
+"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"1a23037175f31ec007921235021cdac878d1b0cf"},
 "members": [
 "sindresorhus/awesome",
 "gobridge/about-us",
@@ -136,8 +136,8 @@
 "go-telegram-bot-api/telegram-bot-api",
 "enetx/tg",
 "wabarc/wayback",
-"rekurt/ymsdk",
 "wisp-trading/wisp",
+"rekurt/ymsdk",
 "gopinath-langote/1build",
 "air-verse/air",
 "GuilhermeCaruso/anko",
@@ -183,6 +183,7 @@
 "phoenix-tui/phoenix",
 "schollz/progressbar",
 "pterm/pterm",
+"rummage-dev/rummage",
 "alexeyco/simpletable",
 "briandowns/spinner",
 "cheynewallace/tabby",
@@ -1188,7 +1189,7 @@
 "zerosnake0/jzon",
 "qntfy/kazaam",
 "ake-persson/mapslice-json",
-"HumanSecurity/marshmallow",
+"PerimeterX/marshmallow",
 "sanbornm/mp",
 "ohler55/ojg",
 "dedalqq/omg.jsonparser",
@@ -2936,6 +2937,7 @@
 ["2026-10-17","Arceus-7/chroma16"],
 ["2026-10-17","Arceus-7/matrix"],
 ["2026-10-17","Omibranch/gitty"],
-["2026-10-17","jonradoff/lightcms"]
+["2026-10-17","jonradoff/lightcms"],
+["2026-10-24","HumanSecurity/marshmallow"]
 ]
 }

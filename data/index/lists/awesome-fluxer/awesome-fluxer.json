@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"3d7885db721eb0b17b5be86be389fc6438e77ae6"},
+"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"a3840832c285765a1be45ad08c242134a0fe5a63"},
 "members": [
 "Fluxer-py/fluxer.py",
 "beennnii/fluxerpy3",
