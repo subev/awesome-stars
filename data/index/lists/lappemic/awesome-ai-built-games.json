@@ -1,0 +1,18 @@
+{
+"meta": {"description":"A curated list of vibe-coded games: playable games built with AI coding agents like Claude Code, Cursor, Codex, Gemini and Grok, with Three.js, Phaser, Godot and more.","defaultBranch":"main","topics":["ai-games","awesome","awesome-list","game-development","vibe-coding","ai-coding","ai-game-development","browser-games","claude-code","codex"],"readmeSha":"bd695238ca63d018f634d3e456b61e8f1d79576d"},
+"members": [
+"cleak/quasar-saz",
+"416rehman/spinlings",
+"Donchitos/Claude-Code-Game-Studios",
+"IvanMurzak/Godot-MCP",
+"krastranseu-lang/klyo-games-mcp",
+"typeonce-dev/ritmo",
+"IvanMurzak/Unity-MCP",
+"IvanMurzak/Unreal-MCP",
+"instructa/viber3d",
+"bowen-aigame/awesome-ai-game",
+"Anil-matcha/awesome-ai-game-generation",
+"aviaryan/awesome-ai-games",
+"filipecalegario/awesome-vibe-coding"
+]
+}

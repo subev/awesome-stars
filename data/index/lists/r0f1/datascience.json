@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"777256b1043c518da82dfafed27c247588b3eaf8"},
+"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"a3ba53f162886180ef13f2a6bb63845f713aa776"},
 "members": [
 "uxlfoundation/scikit-learn-intelex",
 "Data-Centric-AI-Community/fg-data-profiling",
@@ -559,6 +559,7 @@
 "bambinos/bambi",
 "google/neural-tangents",
 "erdogant/bnlearn",
+"TommasoBelluzzo/PyDTMC",
 "SheffieldML/GPyOpt",
 "GPflow/GPflow",
 "rasbt/mlxtend",

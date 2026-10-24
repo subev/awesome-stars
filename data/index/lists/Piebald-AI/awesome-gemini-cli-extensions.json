@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"16385733dd15393e3f0084c0493465995037b895"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"38ee8493203a46ae291a1d9bd89c9b1b1eeccc53"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -9,6 +9,7 @@
 "Synthenova/infiknit-mcp",
 "dontpayfull/AInotate",
 "qrxcodes/qrx-mcp",
+"Sagargupta16/orrery",
 "automateyournetwork/GeminiCLI_Vision_Extension",
 "automateyournetwork/GeminiCLI_Talk_Extension",
 "automateyournetwork/GeminiCLI_ComputerUse_Extension",
@@ -39,7 +40,6 @@
 "Lunarwerx/connections-gemini-extension",
 "linkmcp-io/linkmcp",
 "negm17111995/mcp-server",
-"thefiredev-cloud/meshvault-connectors",
 "sky-access/skyaccess-mcp",
 "target1m/traderspy-mcp",
 "kubec/abuzzhive.com",
@@ -49,6 +49,9 @@
 "SwapWallet/swapwallet-mcp",
 "metarun/metarun-skills",
 "loootai/looot-mcp",
+"KuudoAI/skills",
+"f-o-x11/deed-page-skill",
+"TaplioOfficial/taplio-linkedin-plugin",
 "SurefireStudios/tldr",
 "thoreinstein/gemini-notifier",
 "MohamedAbdallah-14/unslop",
@@ -56,7 +59,6 @@
 "automateyournetwork/GeminiCLI_Packet_Buddy_Extension",
 "vaddisrinivas/meanwhile",
 "RyanNSJ/notworking",
-"stevenAthompson/self-command",
 "thoreinstein/gemini-beads",
 "AsyncFuncAI/ralph-wiggum-extension",
 "gemini-cli-extensions/code-review",
@@ -90,6 +92,7 @@
 "ASCIT31/darkmoon-mcp-server",
 "WhiteBite/dejavu-gates",
 "allxsmith/bestax-skills",
+"salemalem/npmscan-mcp-plugin",
 "gemini-cli-extensions/gcloud",
 "gemini-cli-extensions/genkit",
 "GoogleCloudPlatform/mcp-toolbox-plugin",
@@ -115,8 +118,7 @@
 "GoogleCloudPlatform/looker-plugin",
 "minds-ai-co/minds-mcp",
 "daniel3303/stock-market-mcp-server",
-"Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-"waynehamadi/datacircle-plugin"
+"Tapetide-hq/nse-bse-indian-stock-market-data-mcp"
 ],
 "dropped": [
 ["2026-09-26","feder-cr/AIHawk"],
@@ -134,6 +136,9 @@
 ["2026-10-10","gemini-cli-extensions/sql-server"],
 ["2026-10-10","gemini-cli-extensions/bigquery-data-analytics"],
 ["2026-10-10","gemini-cli-extensions/knowledge-catalog"],
-["2026-10-10","gemini-cli-extensions/looker"]
+["2026-10-10","gemini-cli-extensions/looker"],
+["2026-10-24","thefiredev-cloud/meshvault-connectors"],
+["2026-10-24","stevenAthompson/self-command"],
+["2026-10-24","waynehamadi/datacircle-plugin"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"fa454cfb537aa65166ed4dd1450a77f6d8641e67"},
+"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"e3399e5d02424ebddf1cf1c0fe067c35d52ea390"},
 "members": [
 "HarbourMasters/Ghostship",
 "n64decomp/sm64",
@@ -93,7 +93,8 @@
 "djyt/cannonball",
 "doukutsu-rs/doukutsu-rs",
 "SirDiabo/GithubLauncher",
-"jessetbh/AkiLauncher"
+"jessetbh/AkiLauncher",
+"TanookiStudios/decomp-buddy"
 ],
 "dropped": [
 ["2026-10-10","HarbourMasters/2ship2harkinian"]

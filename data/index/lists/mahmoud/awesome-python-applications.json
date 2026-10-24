@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💿 Free software that works great, and also happens to be open-source Python. ","defaultBranch":"master","topics":["python","application","video","audio","graphics","gui","productivity","education","science","game"],"readmeSha":"670678fda842b8be761801c3d19b49cede627ad8"},
+"meta": {"description":"💿 Free software that works great, and also happens to be open-source Python. ","defaultBranch":"master","topics":["python","application","video","audio","graphics","gui","productivity","education","science","game"],"readmeSha":"1ae696eaa91ca93dc38c255471884dae35005461"},
 "members": [
 "mahmoud/apatite",
 "ArchiveBox/ArchiveBox",
@@ -339,7 +339,7 @@
 "conda/conda",
 "rpm-software-management/dnf",
 "pypa/pip",
-"jazzband/pip-tools",
+"pypa/pip-tools",
 "pypa/pipenv",
 "pypa/virtualenv",
 "python-poetry/poetry",
@@ -352,6 +352,7 @@
 "buildbot/buildbot",
 "buildout/buildout",
 "pydoit/doit",
+"chromium/gyp",
 "GNOME/jhbuild",
 "mesonbuild/meson",
 "pantsbuild/pants",
@@ -400,5 +401,8 @@
 "umap-project/umap",
 "gammu/wammu",
 "Xpra-org/xpra"
+],
+"dropped": [
+["2026-10-24","jazzband/pip-tools"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Git tools, resources and shiny things","defaultBranch":"master","topics":["awesome","awesome-list","awesome-lists","git"],"readmeSha":"5a58838aa4453d9a0de265a89a2fbd515ae8780c"},
+"meta": {"description":"A curated list of amazingly awesome Git tools, resources and shiny things","defaultBranch":"master","topics":["awesome","awesome-list","awesome-lists","git"],"readmeSha":"e34d07f467cdc2677f8306bae5006c0daeb0c708"},
 "members": [
 "jlord/git-it-electron",
 "arslanbilal/git-cheat-sheet",
@@ -13,6 +13,7 @@
 "stevemao/awesome-git-addons",
 "jesseduffield/lazygit",
 "Murmele/Gittyup",
+"Auto-Explore/GitComet",
 "roblillack/gitj",
 "phillipadsmith/awesome-github",
 "tiimgreen/github-cheat-sheet",

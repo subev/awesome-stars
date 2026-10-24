@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤩 A curated list of awesome Editor.js tools, libraries and resources.","defaultBranch":"master","topics":["awesome","awesome-list","editorjs","tools","libraries"],"readmeSha":"7e6be50449a4fc8f0f96488b940216b85cda7293"},
+"meta": {"description":"🤩 A curated list of awesome Editor.js tools, libraries and resources.","defaultBranch":"master","topics":["awesome","awesome-list","editorjs","tools","libraries"],"readmeSha":"0a2131da5c9dc5858dcc6fadbfafe94422b07ad3"},
 "members": [
 "sindresorhus/awesome",
 "editor-js/paragraph",
@@ -26,6 +26,7 @@
 "editor-js/image",
 "editor-js/simple-image",
 "editor-js/link",
+"smaranje/editorjs-unfurlr",
 "editor-js/attaches",
 "editor-js/embed",
 "PaulKinlan/simple-image",
