@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"a0cf7b46bab160a747c0a5b1fe9ecbb9307fbf40"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"06151449ac0a475110b206fe9d8401dd6f975e40"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -7,6 +7,7 @@
 "ateymoori/oh-my-android",
 "sorkila/tintpad",
 "viewer12/Nexus-Shell-Releases",
+"nuanu-ai/agent-payment-node",
 "TeamHypersomnia/Hypersomnia",
 "stonesam92/ChitChat",
 "jnordberg/irccloudapp",
@@ -14,13 +15,20 @@
 "cerebroapp/cerebro",
 "MindMacApp/MindMac",
 "yagcioglutoprak/dusty",
-"NeoPanic/Glim",
+"glimapp/glim",
+"AlexTkDev/MacOSCleaner",
 "aqua5230/usage",
 "wulkano/Kap",
 "royalpinto007/boardeject",
+"Kernel-Hunter/boost",
+"tamia6/AppDuo",
 "sorkila/lockpaw",
 "ParetoSecurity/pareto-mac",
 "arpitagarwal1301/wardlume",
-"ianyh/Amethyst"
+"ianyh/Amethyst",
+"tumingke0/LayoutKeeper"
+],
+"dropped": [
+["2026-10-25","NeoPanic/Glim"]
 ]
 }

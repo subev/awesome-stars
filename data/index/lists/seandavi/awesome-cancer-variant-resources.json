@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.","defaultBranch":"master","topics":["awesome-list","cancer","cancer-variants","cancer-genomics","mutations","clinical-trials","bioinformatics","u24ca289073"],"readmeSha":"c9c8c99675baedf532d25923df08f2843d43682f"},
+"meta": {"description":"A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.","defaultBranch":"master","topics":["awesome-list","cancer","cancer-variants","cancer-genomics","mutations","clinical-trials","bioinformatics","u24ca289073"],"readmeSha":"bd57c259b8d04a0eee3b998e871b5837fcdb8c14"},
 "members": [
 "seandavi/awesome-cancer-variant-resources",
 "vanallenlab/moalmanac-db",

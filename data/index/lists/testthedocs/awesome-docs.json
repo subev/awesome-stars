@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"baf8b4e56a6cb304feb625e51e268559c0db7902"},
+"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"176cef639068208b1b7b56102a3c14f3457be443"},
 "members": [
 "dequelabs/axe-cli",
 "JakePartusch/lumberjack",
@@ -27,6 +27,8 @@
 "technote-space/toc-generator",
 "alstr/todo-to-issue-action",
 "vale-cli/vale-action",
+"evergreen-it-dev/folio",
+"oxynote/oxynote",
 "littletuna4/reqlan",
 "plasma-ai/wiki",
 "alyssaxuu/animockup",
@@ -41,6 +43,7 @@
 "lycheeverse/lychee",
 "ingrid-owusu/mdoctest",
 "cisco-open/inclusive-language",
+"scarletkc/seiso",
 "vipulgupta2048/awesome-documentation",
 "mifi/editly",
 "wulkano/Kap",
@@ -85,6 +88,7 @@
 "rstcheck/rstcheck",
 "shipshapecode/shepherd",
 "alexandrascript/tech-writing-tools",
+"glimapp/glim",
 "charmbracelet/glow",
 "xrfang/mdv"
 ]

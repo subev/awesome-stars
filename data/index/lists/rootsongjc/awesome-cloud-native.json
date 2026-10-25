@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"7eec9061d6c6c7263d281a56d61d124b17ead80d"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"d49eaee53ee0e6e21cfe0ef47df0d0392722ea9b"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -168,6 +168,7 @@
 "micahhausler/container-transform",
 "datreeio/datree",
 "open-policy-agent/gatekeeper",
+"kadet-hub/registry",
 "kapicorp/kapitan",
 "bit-cloner/kcg",
 "ksonnet/ksonnet",
@@ -331,6 +332,7 @@
 "msiemens/tinydb",
 "xline-kv/Xline",
 "mixpeek/awesome-object-storage",
+"k3rnL/cagnard",
 "ceph/ceph",
 "cubefs/cubefs",
 "rancher/convoy",
@@ -468,6 +470,7 @@
 "google/gvisor",
 "hyperhq/hyperd",
 "genuinetools/img",
+"wes/jokku",
 "krustlet/krustlet",
 "kuasar-io/kuasar",
 "klts-io/kubernetes-lts",
@@ -651,7 +654,7 @@
 "apache/skywalking",
 "sofastack/sofa-tracer",
 "openzipkin/zipkin",
-"probityai/agent-evidence-admission",
+"probityai-archive/agent-evidence-admission",
 "probityai/agent-evidence-vectors",
 "kubernetes-sigs/aws-iam-authenticator",
 "anonrig/awacs",
@@ -691,6 +694,7 @@
 "controlplaneio/kubesec",
 "cyberark/KubiScan",
 "kyverno/kyverno",
+"sky-cloak/locke",
 "neuvector/neuvector",
 "notaryproject/notary",
 "open-policy-agent/opa",
@@ -704,6 +708,7 @@
 "anchore/syft",
 "gravitational/teleport",
 "aserto-dev/topaz",
+"Cygnux-Labs/Tracekit",
 "aquasecurity/trivy",
 "aquasecurity/trivy-action",
 "oleiade/trousseau",
@@ -777,6 +782,7 @@
 ],
 "dropped": [
 ["2026-10-03","jcmoraisjr/haproxy-ingress"],
-["2026-10-03","us/den"]
+["2026-10-03","us/den"],
+["2026-10-25","probityai/agent-evidence-admission"]
 ]
 }

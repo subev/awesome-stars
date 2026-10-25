@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🌍 A curated list of i18n resources for all kind of languages and frameworks","defaultBranch":"main","topics":["i18n","xl8","l10n","awesome","awesome-list","localization","internationalization","translation-management","ai-translate","llm"],"readmeSha":"54c2d654675aca6e9fb5de6b16a244734c39757a"},
+"meta": {"description":"🌍 A curated list of i18n resources for all kind of languages and frameworks","defaultBranch":"main","topics":["i18n","xl8","l10n","awesome","awesome-list","localization","internationalization","translation-management","ai-translate","llm"],"readmeSha":"09e4dea11d3891c9c07f575f6dbaca4d45f53e08"},
 "members": [
 "asmaelabid/date-formatter-i18n",
 "ibitcy/eo-locale",
@@ -14,8 +14,10 @@
 "schummar/schummar-translate",
 "messageformat/messageformat",
 "lukeed/rosetta",
+"s00d/nuxt-i18n-micro",
 "favkit/bazi-kit",
 "CodeinScrubs/BidiLens",
+"comvi-io/comvi-js",
 "andyearnshaw/Intl.js",
 "facebook/fbt",
 "generaltranslation/gt",
@@ -32,6 +34,7 @@
 "martinandert/react-translate-component",
 "Assembless/react-littera",
 "DoneDeal0/Talkr",
+"babelize/babelize-elements",
 "ngx-translate/core",
 "jsverse/transloco",
 "daniel-sc/ng-extract-i18n-merge",
@@ -39,15 +42,20 @@
 "kaisermann/svelte-i18n",
 "intlify/vue-i18n",
 "wood3n/i18n-parser",
-"s00d/nuxt-i18n-micro",
 "maximbilan/SwiftGoogleTranslate",
 "twitter/twitter-cldr-rb",
 "nidhaloff/deep-translator",
+"jnehring/languages-of-the-world",
 "kurtsson/jekyll-multiple-languages-plugin",
 "liamzebedee/jekyll-i18n",
 "google/libphonenumber",
 "kirilinsky/anywhen",
 "uxbyissa/ux-ui-audit",
+"getkirnu/arabic-core",
+"zzoraemon043/zhtw-guard",
+"edilec/hreflang-cluster-auditor",
+"rekurt/chislo",
+"rekurt/go-propisyu",
 "juliandreas/dire-cli",
 "nyavro/i18nPlugin",
 "crow-translate/crow-translate",
@@ -57,7 +65,7 @@
 "i18n-actions/ai-i18n",
 "theluckystrike/bln-i18n-checker",
 "create-aquarius/japan-ux-copy",
-"Shipi18n/shipi18n",
+"Mohamed-Almarag/locale-guard",
 "lokalise/i18n-ally",
 "thezuck/i18n-inline-editor-vite-demo",
 "niedev/RTranslator",
@@ -65,7 +73,11 @@
 "nickprotop/LocalizationManager",
 "i18n-agent/i18n-convert",
 "shijistar/enum-plus",
+"ateymoori/oh-my-android",
 "simplelocalize/simplelocalize-react-intl",
 "simplelocalize/simplelocalize-i18next"
+],
+"dropped": [
+["2026-10-25","Shipi18n/shipi18n"]
 ]
 }

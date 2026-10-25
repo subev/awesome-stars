@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"70516ba84d32f519bd3ab079dbde9ad3349ad7db"},
+"meta": {"description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","defaultBranch":"main","topics":["awesome","awesome-list","testing","testing-tools","test-automation","testing-framework","load-testing","penetration-testing","automated-testing","mobile-testing"],"readmeSha":"1d0f1c671526ce024a2c42dec9fcfe3512cb0875"},
 "members": [
 "vostride/agent-qa",
 "avajs/ava",
@@ -12,14 +12,17 @@
 "holistis/muraqib",
 "prufa-dev/prufa-mcp",
 "Allura-Gensin/public-path-evidence-audit-starter",
+"Quality-Max/qmax-mcp",
 "asmyshlyaev177/test-proxy-recorder",
 "jiongfeng/waterfall-ai-test-platform",
 "TestStack/White",
+"yylo-dev/yylo-benchmark",
 "sherlo-io/sherlo",
 "jo-duchan/tapflow",
 "cbrown350/flaketrack",
 "henriqueyuri00/a11y-matrix",
 "dequelabs/axe-core",
+"Bryandero98/cliguard",
 "restqa/restqa"
 ]
 }

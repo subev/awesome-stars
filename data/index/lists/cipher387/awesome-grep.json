@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of GREP modifications and alternatives for a variety of purposes","defaultBranch":"main","topics":["awesome-list","grep","grep-search","linux","awesome"],"readmeSha":"b73c386b07615fbe9b6b000243c237d469bf690b"},
+"meta": {"description":"List of GREP modifications and alternatives for a variety of purposes","defaultBranch":"main","topics":["awesome-list","grep","grep-search","linux","awesome"],"readmeSha":"b8f2c2c4fc4702aa0670a472bc8663f1d0ace3de"},
 "members": [
 "dwyl/esta",
 "phiresky/ripgrep-all",
@@ -27,10 +27,12 @@
 "alexgelman/WinGrep",
 "fulcrumgenomics/fqgrep",
 "vrothberg/vgrep",
-"HerringtonDarkholme/ast-grep",
 "briandfoy/wordpress-grep",
 "cado-security/cloudgrep",
 "learnbyexample/Command-line-text-processing",
 "cipher387/grep_for_osint"
+],
+"dropped": [
+["2026-10-25","HerringtonDarkholme/ast-grep"]
 ]
 }

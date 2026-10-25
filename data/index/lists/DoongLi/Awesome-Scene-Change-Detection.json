@@ -1,9 +1,10 @@
 {
-"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"e90c3c850cd307e9c00ed305200da03eeded6769"},
+"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"b317c49faade022fbc3cbf38467f42b8a416d939"},
 "members": [
 "wenhwu/awesome-remote-sensing-change-detection",
 "chickenbestlover/awesome-scene-change-detections",
 "MinZHANG-WHU/Change-Detection-Review",
+"Chumsy0725/O-SCD",
 "kyusik-cho/ECD",
 "yuqunw/scene_diff",
 "Henryeh310101/towards-practical-scene-change-detection",
@@ -12,7 +13,6 @@
 "almogfri/GOLDILOCS",
 "Chumsy0725/GS-DIFF",
 "ai4ce/SCD4VPR",
-"Chumsy0725/O-SCD",
 "WZ-CS/VGGT-CD",
 "AutoCompSysLab/TERDNet",
 "AutoCompSysLab/VSCD",

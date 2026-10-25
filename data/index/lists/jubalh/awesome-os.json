@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"457bbe81882319880013c2e9048c90d9ede43899"},
+"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"403db598c8d1bb7794ebb21604ddf76929a08351"},
 "members": [
 "PauloMigAlmeida/AlmeidaOS",
 "frednora/gramado",

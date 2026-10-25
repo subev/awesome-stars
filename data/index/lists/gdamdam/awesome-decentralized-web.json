@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.","defaultBranch":"master","topics":["decentralized-protocols","decentralized-applications","decentralized-web","decentralized","awesome","awesome-list"],"readmeSha":"bfa3e45b32d3eeb749074b90a604068dc5e6dcc0"},
+"meta": {"description":"A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.","defaultBranch":"master","topics":["decentralized-protocols","decentralized-applications","decentralized-web","decentralized","awesome","awesome-list"],"readmeSha":"3f973bccbc57841a24dfaa6451610a724ef5982d"},
 "members": [
 "bluesky-social/atproto",
 "forgefed/forgefed",
@@ -29,12 +29,15 @@
 "mozilla/libdweb",
 "mediachain/mediachain",
 "ssbc/patchwork",
+"peer-base/peer-pad",
+"ricochet-im/ricochet",
 "btrask/stronglink",
 "ethersphere/swarm",
 "ethersphere/bee",
 "sanity/tahrir",
 "TrsstProject/trsst",
 "oddsdk/ts-odd",
+"HelloZeroNet/ZeroNet",
 "zeronet-conservancy/zeronet-conservancy",
 "redecentralize/alternative-internet",
 "Decentralized-ID/decentralized-id.github.io",

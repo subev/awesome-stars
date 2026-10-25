@@ -1,10 +1,12 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"0184048ba1491ed9711c85be0264fdd781a19738"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"812961e1f04d67e45d8dc8d530b031e1018471a5"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",
 "id-levi/eu-ai-act-ressourcen",
 "OpenEthicsAI/OETP",
+"Declade/lucairn-ai-act-classifier",
+"Declade/ai-act-check",
 "IBM/ai-atlas-nexus",
 "modusensus/ai-governance-compare",
 "airblackbox/air-blackbox-mcp",

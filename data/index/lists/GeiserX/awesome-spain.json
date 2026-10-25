@@ -1,10 +1,9 @@
 {
-"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"f9ed571143015a6e547b27da3a8b21e5a2548dff"},
+"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"a75603f1278dfb90731a46c1446595b708607b4b"},
 "members": [
 "geomatico/qgis-sigpac",
 "dan96ct/sigpac-client",
 "KhaosResearch/sigpac-tools",
-"duhow/hass-aigues-barcelona",
 "miguelangel-nubla/homeassistant_canal_isabel_II",
 "dgomes/pyprosegur",
 "guerrerotook/securitas-direct-new-api",
@@ -115,7 +114,6 @@
 "rubenleon/rpttai",
 "marticliment/Selectivitapp",
 "preparatic/utilidadesdetests",
-"midudev/infojobs-hackathon",
 "ericrisco/infojobs-hackaton",
 "getmanfred/mac",
 "remote-es/remotes",
@@ -197,6 +195,7 @@
 "Eseperio/verifactu-php",
 "NemonInvocash/verifactu-php",
 "ldiazcuadrado/verifactu-python",
+"caseroclaw/verifactu-qr",
 "mybooking-es/verifactu-rb",
 "gabela-io/llave",
 "ctt-gob-es/MinervaChatBot",
@@ -355,6 +354,7 @@
 "legalize-dev/legalize-es",
 "hpalacio/leyes",
 "BquantFinance/licitaciones-espana",
+"saidcveltran/normawatch-boe",
 "JaimeObregon/observatoriospublicos.es",
 "vzdata-ch/osbex",
 "civio/presupuesto",
@@ -444,6 +444,8 @@
 ["2026-10-03","AjuntamentdeBarcelona/bustia-etica-bcn"],
 ["2026-10-03","cripsisxyz/osbex"],
 ["2026-10-10","mpuig/rentagpt"],
-["2026-10-18","mv12star/lista-telefonos-spam"]
+["2026-10-18","mv12star/lista-telefonos-spam"],
+["2026-10-25","duhow/hass-aigues-barcelona"],
+["2026-10-25","midudev/infojobs-hackathon"]
 ]
 }

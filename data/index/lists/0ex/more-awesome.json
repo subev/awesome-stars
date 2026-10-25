@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An extensive list of \"awesome\" lists to help you find resources and starting points on every topic.","defaultBranch":"main","topics":["awesome","awesome-list","lists","resources"],"readmeSha":"802ed14f2380c123fef7b512711446687fb9c877"},
+"meta": {"description":"An extensive list of \"awesome\" lists to help you find resources and starting points on every topic.","defaultBranch":"main","topics":["awesome","awesome-list","lists","resources"],"readmeSha":"a79881186e6bf70a64c1b1bbc0e904c55c7d142c"},
 "members": [
 "bayandin/awesome-awesomeness",
 "emijrp/awesome-awesome",
@@ -411,6 +411,7 @@
 "binhnguyennus/awesome-scalability",
 "pmuens/awesome-serverless",
 "festum/awesome-servicemesh",
+"donnemartin/system-design-primer",
 "shuaibiyy/awesome-tf",
 "phanan/htaccess",
 "iJackUA/awesome-vagrant",
@@ -577,7 +578,7 @@
 "Yonaba/awesome-one-person-games",
 "michelpereira/awesome-games-of-coding",
 "stetso/awesome-gideros",
-"godotengine/awesome-godot",
+"Calinou/awesome-godot",
 "Dvergar/awesome-haxe-gamedev",
 "rafaskb/awesome-libgdx",
 "love2d-community/awesome-love2d",
@@ -1160,5 +1161,8 @@
 "netlify/staticgen",
 "myles/awesome-static-generators",
 "fleveque/awesome-awesomes"
+],
+"dropped": [
+["2026-10-25","godotengine/awesome-godot"]
 ]
 }

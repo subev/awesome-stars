@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"5cdd55bff80845b560d8514e08c0942eec8d96ba"},
+"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"11488c3dda98327883274e8aad4f8282e3b78fd3"},
 "members": [
 "sindresorhus/awesome",
 "adam-p/markdown-here",
@@ -29,6 +29,7 @@
 "NeuroTechX/eeg-101",
 "BlinoTech/BlinoTech.github.io",
 "AtlantsEmbedded/IntelliPi",
+"stephan-biomedical-engineer/ads1299-linux",
 "sccn/labstreaminglayer",
 "shiva16/Adam-EEG",
 "carlos-lorenzo/neurodaq",

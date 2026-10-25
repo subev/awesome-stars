@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of API's for gathering information about phone numbers, addresses, domains etc","defaultBranch":"main","topics":["osint","information-gathering","api","api-rest","awesome","awesome-list","cybersecurity"],"readmeSha":"7cb61302e2c1c07d680ceb3da1ba0d3abbbb7703"},
+"meta": {"description":"List of API's for gathering information about phone numbers, addresses, domains etc","defaultBranch":"main","topics":["osint","information-gathering","api","api-rest","awesome","awesome-list","cybersecurity"],"readmeSha":"495424298ac5da6cc113bbe8f7c2f7374370e612"},
 "members": [
 "dwyl/esta",
 "netlas-io/netlas-cookbook",
@@ -19,7 +19,7 @@
 "ping/instagram_private_api",
 "discordjs/discord.js",
 "syaning/zhihu-api",
-"csu/quora-api",
+"christophersu/quora-api",
 "PaulSec/API-dnsdumpster.com",
 "sskender/pornhub-api",
 "ShyykoSerhiy/skyweb",
@@ -33,8 +33,12 @@
 "Ryuk-me/Torrent-Api-py",
 "JimmyLaurent/torrent-search-api",
 "sergiotapia/torrentinim",
+"tg12/phantomtide",
 "streaak/keyhacks",
 "daffainfo/all-about-apikey",
 "public-apis/public-apis"
+],
+"dropped": [
+["2026-10-25","csu/quora-api"]
 ]
 }

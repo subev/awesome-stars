@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"4b75e63e2b069a1b33baa7ad497aa024c43937c2"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"1446decd0a0432e07263ba1136b8a382cabf44f9"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -61,6 +61,8 @@
 "kitknox/rootshell",
 "karinushka/rumsh",
 "rendergraf/shellbar",
+"hivepaas/shellwing",
+"AlexW00/slate-term",
 "ocnc/spectty",
 "ensky0/tildaz",
 "charliesbot/umbra",
@@ -93,6 +95,7 @@
 "lludlow/Forjara",
 "scgopi/GraphCode",
 "caspianchan31/in0",
+"yangzichao/JustSessions",
 "nek0der/limpid",
 "modu-ai/moai-studio",
 "stickmy/moss",
