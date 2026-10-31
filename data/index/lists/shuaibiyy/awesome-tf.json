@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"170cae6df570c1ee9e29eb7a9cd6022c82edfe3b"},
+"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"bd964c27c8c4ce3ada90746bff5d7b8f31598121"},
 "members": [
 "sindresorhus/awesome",
 "antonbabenko/terraform-docs-as-pdf",
@@ -198,7 +198,7 @@
 "kapicorp/kapitan",
 "Checkmarx/kics",
 "briefercloud/layerform",
-"antonbabenko/modules.tf-lambda",
+"modulestf/modulestf",
 "paraterraform/para",
 "JamesWoolfenden/pike",
 "magodo/pipeform",
@@ -268,6 +268,7 @@
 "spilliams/terrascope",
 "rohinivsenthil/terrastate",
 "env0/terratag",
+"eurafaeldecarvalho/tf-exclude",
 "hayorov/terraform-init-booster",
 "datarootsio/tf-profile",
 "dineshba/tf-summarize",
@@ -350,6 +351,7 @@
 "hashivim/vim-terraform"
 ],
 "dropped": [
-["2026-10-09","kjanshair/terraform-azurerm-aks"]
+["2026-10-09","kjanshair/terraform-azurerm-aks"],
+["2026-10-31","antonbabenko/modules.tf-lambda"]
 ]
 }

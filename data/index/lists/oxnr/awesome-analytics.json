@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"ba7e8076f248da90ccd66980c9e6ad86928ab49b"},
+"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"0282167c811fc787504544e43b1df209804a1a1f"},
 "members": [
 "sindresorhus/awesome",
 "oxnr/awesome-bigdata",
@@ -45,6 +45,7 @@
 "writerslogic/facet",
 "soumydip/ucoder_insight_core",
 "scobb/beam.js",
+"AsoBeast/asobeast",
 "vizuh/clicktrail-js",
 "virling/virling",
 "Aliferous3/dev-ledger",

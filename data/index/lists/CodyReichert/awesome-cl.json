@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"ef2bfd29ea43c3d0d3495491d3f37db911745ea1"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"c218edcc9d7e054df62c3d98e53dbc20a7f3354b"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
@@ -527,6 +527,7 @@
 "nallen05/old-norse",
 "Plisp/uncursed",
 "neomacs-project/unix-in-lisp",
+"lambda-symbolics/cclsh",
 "ruricolist/cmd",
 "Neronus/clesh",
 "lisp-mirror/yew",

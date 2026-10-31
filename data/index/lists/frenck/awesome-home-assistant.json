@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"1a559eeab888358b149517e6bf590a7d947c4aef"},
+"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"301271ec0e0db4d6564a1b0cba6a579a48546326"},
 "members": [
 "blakeblackshear/frigate",
 "Koenkk/zigbee2mqtt",
@@ -139,6 +139,7 @@
 "MindFreeze/ha-sankey-chart",
 "selvalt7/modern-circular-gauge",
 "custom-cards/flex-table-card",
+"cdelaet/sensor-bar-card-plus",
 "thomasloven/lovelace-slider-entity-row",
 "maxwroc/battery-state-card",
 "nielsfaber/scheduler-card",

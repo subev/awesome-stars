@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"6de6bb08cb61290e66b08c03b5fe42f17ce7c6d2"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"5833beb9e1de2a1ce98e68b4cf3a14a5c5d1c378"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -15,6 +15,7 @@
 "moquette-io/moquette",
 "LabOverWire/mqtt-lib",
 "TheThingsIndustries/mystique",
+"straum-io/straum",
 "thingsboard/tbmq",
 "RainerGewalt/TrailMQ",
 "vert-x3/vertx-mqtt",
@@ -54,6 +55,7 @@
 "EdJoPaTo/mqttui",
 "bapowell/python-mqtt-client-shell",
 "visoar/mqtt-acl-linter",
+"unipsycho/topicbench",
 "menudoproblema/Wireshark-MQTT",
 "rpdswtk/vsmqtt",
 "emqx/MQTTX",
@@ -153,6 +155,7 @@
 "svrooij/ipcam2mqtt",
 "pakerfeldt/knx-mqtt-bridge",
 "owagner/knx2mqtt",
+"hobbyquaker/mqtt2matter",
 "cgHome/mqtt-dss-bridge",
 "terafin/mqtt-unifi-protect-bridge",
 "forty2/mqtt2homekit",
@@ -174,6 +177,7 @@
 "hobbyquaker/hue2mqtt.js",
 "hobbyquaker/mqtt-dmx-controller",
 "hobbyquaker/mqtt-dmx-sequencer",
+"boesec/nanoleaf2mqtt",
 "magcode/sunricher-wifi-mqtt",
 "hardillb/TRADFRI2MQTT",
 "hobbyquaker/airtunes2mqtt",

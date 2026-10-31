@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"6f11eca1fea215be1eae4b06e0ae4dc6abeb2e7b"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"ac6cb4342279fdf79bd529fb30446c5a4010c5d5"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -50,7 +50,7 @@
 "scikit-image/scikit-image",
 "guofei9987/scikit-opt",
 "maximtrp/scikit-posthocs",
-"initial-d/me_fasttext",
+"initial-d/ngram-store",
 "pystruct/pystruct",
 "aksnzhy/xlearn",
 "NVIDIA/cuml",
@@ -253,6 +253,7 @@
 "ad-si/awesome-music-production"
 ],
 "dropped": [
-["2026-09-11","dbt-labs/dbt-core"]
+["2026-09-11","dbt-labs/dbt-core"],
+["2026-10-31","initial-d/me_fasttext"]
 ]
 }

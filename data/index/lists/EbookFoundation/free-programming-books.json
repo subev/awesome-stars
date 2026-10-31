@@ -1,5 +1,5 @@
 {
-"meta": {"description":":books: Freely available programming books","defaultBranch":"main","topics":["education","books","list","resource","hacktoberfest"],"readmeSha":"ee845715951cecae85c31359d809980934c769fc"},
+"meta": {"description":":books: Freely available programming books","defaultBranch":"main","topics":["education","books","list","resource","hacktoberfest"],"readmeSha":"ab3b834561b6a8b486b9da70675c67f1847e234b"},
 "members": [
 "sindresorhus/awesome"
 ]

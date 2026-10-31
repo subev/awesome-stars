@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"8d15bb05f5e25ff2149187b169fda4c514132f80"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"837befb55ede5c7f255a086dc72bc51ed2b36cfd"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
@@ -52,6 +52,7 @@
 "modelcontextprotocol/modelcontextprotocol",
 "steel-dev/steel-browser",
 "maximhq/bifrost",
+"morluto/rea",
 "ollama/ollama",
 "open-webui/open-webui",
 "janhq/jan",

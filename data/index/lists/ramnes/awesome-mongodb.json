@@ -1,5 +1,5 @@
 {
-"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"938a727d72d626c0336d94dffcec253c0c1b7047"},
+"meta": {"description":":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications","defaultBranch":"master","topics":["awesome","awesome-list","list","mongodb","mongodb-resources"],"readmeSha":"b4c555d1ff37f22c1c3b522721e97607f74b33fb"},
 "members": [
 "sindresorhus/awesome",
 "mongodb-developer/the-little-mongodb-book",
@@ -95,6 +95,7 @@
 "mongodb-js/mongodb-mcp-server",
 "jeromelebel/MongoHub-Mac",
 "mqlens/mqlens-mongodb",
+"TabularisDB/tabularis-mongodb-plugin",
 "WebDB-App/app",
 "argon-lab/argon",
 "mongodb/mongo-csharp-analyzer",

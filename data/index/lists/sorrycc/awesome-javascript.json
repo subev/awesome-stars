@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"5c59ca30ae8cccfa13f02f618dae4021feddb8f9"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"834d844ac78c387fb070f9e136bd580dd247af24"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -409,6 +409,7 @@
 "tobiasahlin/SpinKit",
 "hakimel/Ladda",
 "lukehaas/css-loaders",
+"ajwann/svg-loaders-react",
 "guillaumepotier/Parsley.js",
 "jquery-validation/jquery-validation",
 "validatorjs/validator.js",
@@ -630,7 +631,7 @@
 "google/traceur-compiler",
 "gatsbyjs/gatsby",
 "gridsome/gridsome",
-"facebook/docusaurus",
+"meta/docusaurus",
 "vercel/next.js",
 "lumeland/lume",
 "withastro/astro",
@@ -713,6 +714,7 @@
 "dropped": [
 ["2026-09-04","prisma/prisma"],
 ["2026-10-17","marionettejs/backbone.marionette"],
-["2026-10-17","dropzone/dropzone"]
+["2026-10-17","dropzone/dropzone"],
+["2026-10-31","facebook/docusaurus"]
 ]
 }

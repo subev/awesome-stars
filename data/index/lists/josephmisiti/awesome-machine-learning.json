@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"b1cad49c6d066f41c7d711211e3ddeb4199c2b6e"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"3ab4e745101453800af154b7f22b9ec3494a4fb1"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -875,6 +875,7 @@
 "vuics/h9y",
 "Bread-Technologies/Bread-Dataset-Viewer",
 "Bread-Technologies/Bread-WandB-Viewer",
+"lightly-ai/lightly-studio",
 "terrytangyuan/distributed-ml-patterns",
 "vinta/awesome-python",
 "gopherdata/resources"

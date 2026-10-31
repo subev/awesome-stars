@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"df76d6bc3c209905b49a55dfc3273b4d0005193d"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"8e9265a63bb9f08b57d17715143cb46aaec21230"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -124,7 +124,6 @@
 "nicklockwood/SwiftFormat",
 "ActiveState/tdk",
 "angular-eslint/angular-eslint",
-"whyboris/TypeScript-Call-Graph",
 "typescript-eslint/typescript-eslint",
 "palantir/tslint",
 "dalance/svls",
@@ -137,12 +136,14 @@
 "mennanov/blockwatch",
 "classgraph/classgraph",
 "github/codeql",
+"codeque-co/codeque",
 "multilang-depends/depends",
 "microsoft/DevSkim",
 "ayarotsky/diesel-guard",
 "dotnet/format",
 "glato/emerge",
 "eslint/eslint",
+"lambdasec/frame",
 "terryyin/lizard",
 "RoloBits/nestjs-doctor",
 "Alcatecablee/Neurolint-CLI",
@@ -281,6 +282,7 @@
 ["2026-09-04","uni-bremen-agst/libvcs4j"],
 ["2026-09-11","viva64/pvs-studio-check-list"],
 ["2026-09-25","vlajos/misspell-fixer"],
-["2026-10-24","mihaeu/dephpend"]
+["2026-10-24","mihaeu/dephpend"],
+["2026-10-31","whyboris/TypeScript-Call-Graph"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"2e4bc9ff5cd3019ab5291ce8416c855f26b8ed43"},
+"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"f3f67169f93ba054defa3a710fcb97bbf70bc886"},
 "members": [
 "Godot-Languages-Support/godot-lang-support",
 "TinyTakinTeller/GodotProjectZero",
@@ -132,6 +132,7 @@
 "Zylann/godot_heightmap_plugin",
 "nklbdev/godot-4-importality",
 "nathanhoad/godot_input_helper",
+"codevogel/godot_instance_log",
 "Rubonnek/inventory-manager",
 "Kelpekk/Juicee",
 "godothub/konado",

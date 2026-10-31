@@ -1,0 +1,8 @@
+{
+"meta": {"description":"A curated list of awesome resources for adversarial examples in deep learning","defaultBranch":"master","topics":["deep-learning","security","adversarial-examples","machine-learning","computer-vision"],"readmeSha":"2069c89f27ceda61c43dbc8df94785911be19680"},
+"members": [
+"kennysong/adversarial.js",
+"bethgelab/foolbox",
+"BorealisAI/advertorch"
+]
+}

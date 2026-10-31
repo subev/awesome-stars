@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome things related to Tailwind CSS","defaultBranch":"master","topics":["tailwindcss","awesome","awesome-list","css","postcss","resources","apps","websites","tailwind"],"readmeSha":"1c98a88dfb038076805409311304389edb5b152f"},
+"meta": {"description":"😎 Awesome things related to Tailwind CSS","defaultBranch":"master","topics":["tailwindcss","awesome","awesome-list","css","postcss","resources","apps","websites","tailwind"],"readmeSha":"b6afbc9828f11169d57e4c161f4c2f7f4df9b1f9"},
 "members": [
 "sindresorhus/awesome",
 "sindresorhus/awesome-lint",
@@ -8,6 +8,7 @@
 "merrickluo/lsp-tailwindcss",
 "theron-wang/Tailwind-CSS-for-Visual-Studio",
 "tailwindlabs/prettier-plugin-tailwindcss",
+"prosazhin/tailwind-dictionary",
 "avencera/rustywind",
 "vardan-arm/tailwind-to-inline",
 "nuxt-modules/tailwindcss",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"a6fd528415218fe82e095ed91311af80d8381d9c"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"fece155717be2ea107efaaee295075c8b2cafaf6"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -8,6 +8,7 @@
 "automaticmode/active_workflow",
 "codeforamerica/adopt-a-hydrant",
 "HabitatMap/AirCasting",
+"AixleHQ/flow",
 "mysociety/alaveteli",
 "sudara/alonetone",
 "davidesantangelo/api.rss",
@@ -170,6 +171,7 @@
 "enjaku4/kreds",
 "kreeti/kt-paperclip",
 "ankane/lockbox",
+"LogBrewCo/sdk",
 "roidrage/lograge",
 "ankane/mailkick",
 "basecamp/marginalia",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"5,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"10a7327cdd00f482fd822396b30b677cfdc701d8"},
+"meta": {"description":"6,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"380ebd3ab3c0cf4989fb211519ea179695a7247b"},
 "members": [
 "zenbu-labs/terminal-browser",
 "karanb192/cache-tax",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"6a334f352dc5048cb183a94cb9a7fcf9cb5f1105"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"1000fc9894585f976d9c660262b448bdeda63dba"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "K-Dense-AI/scientific-agent-skills",
@@ -57,7 +57,7 @@
 "dmlc/xgboost",
 "lightgbm-org/LightGBM",
 "catboost/catboost",
-"facebook/prophet",
+"meta/prophet",
 "Nixtla/statsforecast",
 "sktime/sktime",
 "google-research/timesfm",
@@ -281,7 +281,7 @@
 "python/mypy",
 "astral-sh/ty",
 "microsoft/pyright",
-"facebook/pyrefly",
+"meta/pyrefly",
 "cleder/awesome-python-testing",
 "pytest-dev/pytest",
 "augustogoulart/awesome-pytest",
@@ -557,6 +557,8 @@
 ["2026-10-02","trustedsec/social-engineer-toolkit"],
 ["2026-10-17","browser-use/jev-ultrafast"],
 ["2026-10-17","google/python-fire"],
-["2026-10-24","BerriAI/litellm"]
+["2026-10-24","BerriAI/litellm"],
+["2026-10-31","facebook/prophet"],
+["2026-10-31","facebook/pyrefly"]
 ]
 }

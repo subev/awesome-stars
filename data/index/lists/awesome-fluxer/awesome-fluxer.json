@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"a3840832c285765a1be45ad08c242134a0fe5a63"},
+"meta": {"description":"A community-maintained list of Fluxer projects, libraries, utilities, and more.","defaultBranch":"main","topics":["awesome","awesome-list","bots","bridges","fluxer","libraries","list","tools"],"readmeSha":"4be1cb5678af57702221c9492f1bdfbc6479abe0"},
 "members": [
 "Fluxer-py/fluxer.py",
 "beennnii/fluxerpy3",
@@ -29,6 +29,7 @@
 "carlfully/fluxer-snippets",
 "GiveMeTheButter/fluxer-rpc-reader-linux",
 "KetaLP-hub/Fluxer-Spotify",
+"KorryKatti/fluxer-forge",
 "AIVirtuoso/fluxter",
 "Patrosi73/Fluxtop",
 "RoxyBoxxy/BetterFluxer",

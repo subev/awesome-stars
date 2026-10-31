@@ -1,5 +1,5 @@
 {
-"meta": {"description":"GeoJSON utilities that will make your life easier.","defaultBranch":"main","topics":["awesome-list","awesome","list","geojson"],"readmeSha":"9a767cbb5ec5f8dec9e49927ce372914d8c9a805"},
+"meta": {"description":"GeoJSON utilities that will make your life easier.","defaultBranch":"main","topics":["awesome-list","awesome","list","geojson"],"readmeSha":"ed147bcb28df230b8f9ffc4842004315fc9104e3"},
 "members": [
 "sindresorhus/awesome",
 "funkeinteraktiv/cogran",
@@ -82,7 +82,7 @@
 "node-geojson/strava-geojson",
 "hyperknot/country-levels-export",
 "aourednik/historical-basemaps",
-"TimMcCauley/nintynine-boundaries",
+"homingpigeom/nintynine-boundaries",
 "gregoiredavid/france-geojson",
 "jazzband/geojson",
 "rgeo/rgeo-geojson",
@@ -92,5 +92,8 @@
 "google/gson",
 "ancore/geojson-serializer",
 "chrieke/geojson-invalid-geometry"
+],
+"dropped": [
+["2026-10-31","TimMcCauley/nintynine-boundaries"]
 ]
 }

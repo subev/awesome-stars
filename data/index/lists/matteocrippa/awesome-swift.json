@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collaborative list of awesome Swift libraries and resources. Feel free to contribute!","defaultBranch":"master","topics":["swift-framework","swift-library","swift-extensions","swift-language","awesome-list","swift","awesome","awesome-swift","list","lists"],"readmeSha":"5896c10a5aeef78967095bbc1fa979138e524b73"},
+"meta": {"description":"A collaborative list of awesome Swift libraries and resources. Feel free to contribute!","defaultBranch":"master","topics":["swift-framework","swift-library","swift-extensions","swift-language","awesome-list","swift","awesome","awesome-swift","list","lists"],"readmeSha":"9d8f6878d978ce9af498779ecc3b92381ff813d8"},
 "members": [
 "sindresorhus/awesome",
 "airbnb/swift",
@@ -15,7 +15,7 @@
 "JohnSundell/SwiftTips",
 "messeb/ios-project-template",
 "onl1ner/ios-mvp-template",
-"fulldecent/swift6-module-template",
+"fulldecent/swift-module-template",
 "swift-emacs/swift-mode",
 "philipturner/swift-colab",
 "keith/swift.vim",
@@ -25,6 +25,7 @@
 "dashvlas/awesome-ios-interview",
 "iCHAIT/awesome-macOS",
 "jogendra/example-ios-apps",
+"younatics/MotionBook",
 "dkhamsing/open-source-ios-apps",
 "serhii-londar/open-source-mac-os-apps",
 "JamitLabs/Accio",
@@ -1090,6 +1091,7 @@
 "SalehAlbuga/azure-functions-swift"
 ],
 "dropped": [
-["2026-10-24","SteadyAction/EtherWalletKit"]
+["2026-10-24","SteadyAction/EtherWalletKit"],
+["2026-10-31","fulldecent/swift6-module-template"]
 ]
 }

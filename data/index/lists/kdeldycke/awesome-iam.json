@@ -1,5 +1,5 @@
 {
-"meta": {"description":"👤 Identity and Access Management knowledge for cloud platforms","defaultBranch":"main","topics":["iam","secret-management","pki","hardware-security-module","openid","anonymization","awesome","awesome-list","abac","fido2"],"readmeSha":"540d3b098244a4258021c812a7d78560a1143f64"},
+"meta": {"description":"👤 Identity and Access Management knowledge for cloud platforms","defaultBranch":"main","topics":["iam","secret-management","pki","hardware-security-module","openid","anonymization","awesome","awesome-list","abac","fido2"],"readmeSha":"73b8245f6235d886e4e69a5661590ed0211001c9"},
 "members": [
 "kdeldycke/awesome-billing",
 "sindresorhus/awesome",

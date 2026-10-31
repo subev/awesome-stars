@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"ade2f1bdc1e5ef1febc76b96bdaa246a6a35f160"},
+"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"87565f712fd87d53009a8dd8b05878d0fee48b9c"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -102,6 +102,7 @@
 "rudderlabs/rudder-server",
 "aklivity/zilla",
 "DataKitchen/dataops-testgen",
+"exmergo/dex",
 "Hydrospheredata/mist",
 "mara/mara-pipelines",
 "spotify/luigi",

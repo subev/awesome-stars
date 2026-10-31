@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"5555bd5c35e146a2f5e5fd244f4ab24435177c3a"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"e39984ca7ff01b46cdf1bfd0572b20356f1ac8fb"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -650,7 +650,6 @@
 "dpipstudio/botwave",
 "sentriz/gonic",
 "koel/koel",
-"sourcefabric/airtime",
 "libretime/libretime",
 "epoupon/lms",
 "LMS-Community/slimserver",
@@ -718,7 +717,6 @@
 "Infisical/infisical",
 "dmunozv04/iSponsorBlockTV",
 "sharevb/it-tools",
-"CorentinTh/it-tools",
 "bayang/jelu",
 "pbogre/jetlog",
 "benjaminjonard/koillection",
@@ -1007,7 +1005,6 @@
 "halo-dev/halo",
 "halo-sigs/awesome-halo",
 "mnfst/llm-gateway",
-"pocketbase/pocketbase",
 "saltcorn/saltcorn",
 "sqlpage/SQLPage",
 "ToolJet/ToolJet",
@@ -1164,6 +1161,9 @@
 ["2026-10-17","CaramelFur/Picsur"],
 ["2026-10-17","openremote/openremote"],
 ["2026-10-24","PascaleBeier/hitkeep"],
-["2026-10-24","rikhuijzer/fx"]
+["2026-10-24","rikhuijzer/fx"],
+["2026-10-31","sourcefabric/airtime"],
+["2026-10-31","CorentinTh/it-tools"],
+["2026-10-31","pocketbase/pocketbase"]
 ]
 }

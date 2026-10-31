@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"35e301248619bddc652cfbac01ac4fc130d12719"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"6d10d60e541bed092c04783a6c931a9b2f0345db"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -32,6 +32,7 @@
 "aimdb-dev/aimdb",
 "leaberg69/aem-modbus-simulator",
 "KristianP26/ble-scale-sync",
+"libredb/libredb-studio",
 "visoar/mqtt-acl-linter",
 "lwmqn/smartobject",
 "united-manufacturing-hub/united-manufacturing-hub",

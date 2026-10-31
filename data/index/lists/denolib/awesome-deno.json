@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"a94cefe32d56e72a87bcfad3d64af355d1247a33"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"c0c5cf2147ba2336b73afb0c498aa0610f17a449"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -77,6 +77,7 @@
 "deno-web3/solc",
 "switcherapi/switcher-client-deno",
 "bokuweb/wu-diff-js",
+"nyaomaru/is-kit",
 "colinhacks/zod",
 "alosaur/alosaur",
 "predetermined/aqua",

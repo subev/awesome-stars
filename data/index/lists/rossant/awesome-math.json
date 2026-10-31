@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome mathematics resources","defaultBranch":"master","topics":["awesome-list","mathematics","awesome","lecture-notes","list"],"readmeSha":"2b7aab3f327c2ce1a2ecb4c08db65dea46e73a94"},
+"meta": {"description":"A curated list of awesome mathematics resources","defaultBranch":"master","topics":["awesome-list","mathematics","awesome","lecture-notes","list"],"readmeSha":"dec87ada203901488cf4dcb1bbe5be815819644b"},
 "members": [
 "ossu/math",
 "leanprover-community/mathlib4",
