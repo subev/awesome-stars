@@ -1,10 +1,10 @@
 {
-"meta": {"description":"A curated list of awesome sheet music software, libraries and resources.","defaultBranch":"main","topics":["sheet-music","optical-music-recognition","sheetmusic"],"readmeSha":"5b5ed92d8c13e69141e577bf5d2c9d9625cbb4aa"},
+"meta": {"description":"A curated list of awesome sheet music software, libraries and resources.","defaultBranch":"main","topics":["sheet-music","optical-music-recognition","sheetmusic"],"readmeSha":"fa17e2ae36cb20c08509377df88acdce6adee954"},
 "members": [
 "Airsequel/Airsequel-Sheet-Music",
 "cellist/Lilypond-Sheet-Music",
 "MutopiaProject/MutopiaProject",
-"veltzer/openbook",
+"veltzer/book-openbook",
 "paulrosen/abcjs",
 "alda-lang/alda",
 "starenka/chordata",
@@ -33,7 +33,7 @@
 "azuwis/pianotrans",
 "chrisdonahue/sheetsage",
 "fredericcormier/Fretboard",
-"tiredpixel/tunefl",
+"TiredPixel/tunefl",
 "pianobooster/PianoBooster",
 "elaforge/karya",
 "onlaj/Piano-LED-Visualizer",
@@ -41,5 +41,9 @@
 "DDMAL/Rodan",
 "xwsxethan/MusicScoring",
 "kai-qu/notation"
+],
+"dropped": [
+["2026-10-31","veltzer/openbook"],
+["2026-10-31","tiredpixel/tunefl"]
 ]
 }

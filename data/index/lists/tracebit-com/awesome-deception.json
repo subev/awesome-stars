@@ -1,0 +1,17 @@
+{
+"meta": {"description":"An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cybersecurity","deception","honeypot","honeypots","deception-technology"],"readmeSha":"cc7b9f787e356cf15fb235ca3ebb30ce09787e4a"},
+"members": [
+"paralax/awesome-honeypots",
+"SAP/cloud-active-defense",
+"DataDog/HASH",
+"nccgroup/KilledProcessCanary",
+"cossacklabs/acra-poison-records-demo",
+"dfki-in/NASIM-MTD",
+"dynatrace-oss/honeyquest",
+"BillyPragSec/pageknocking",
+"dfki-in/SCANTRAP",
+"mitre/engage",
+"0x4D31/deception-as-detection",
+"tolgadevsec/Awesome-Deception"
+]
+}

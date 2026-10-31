@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"aca4e2c40f5ad0fef4657379076371c4a202aa3e"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"d24c95d08502332d23117d9596d7b10f1bc04961"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -121,7 +121,7 @@
 "geoblocks/ol-maplibre-layer",
 "protomaps/PMTiles",
 "devladpopov/s57-parser",
-"guillaumemichel/veritiles",
+"anymirror-dev/anymirror",
 "honua-io/honua-sdk-js",
 "mapbox/expression-jamsession",
 "stevage/mapbox-choropleth",
@@ -142,6 +142,7 @@
 "mapbox/mapbox-gl-framerate",
 "MazeMap/mapbox-gl-fps",
 "maplibre/maplibre-gl-inspect",
+"geowright/geowright",
 "maplibre/demotiles",
 "MapMetrics/mapmetrics-gl",
 "mapterhorn/mapterhorn",
@@ -166,6 +167,7 @@
 "egmalt/house-planner",
 "vria-consulting/vria-fire-detect",
 "elastic/kibana",
+"klaps-hq/klaps.space",
 "digidem/maplibre-storymap",
 "mindalyze-com/mtl-explorer",
 "Juliusolsson05/pharos-ai",
@@ -182,6 +184,7 @@
 "visgl/react-map-gl"
 ],
 "dropped": [
-["2026-09-19","marucjmar/any-routing"]
+["2026-09-19","marucjmar/any-routing"],
+["2026-10-31","guillaumemichel/veritiles"]
 ]
 }

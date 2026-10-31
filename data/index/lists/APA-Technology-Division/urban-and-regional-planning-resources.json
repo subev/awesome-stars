@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"50269e6b3062b9021198c49139fb502ba97fdf52"},
+"meta": {"description":"Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️","defaultBranch":"main","topics":["urban-planning","planners","technology","data","resources","awesome","awesome-list","regional-planning","communities","built-environment"],"readmeSha":"2b9d93b3c75b3f0d02f44bc27c027af51a9f797a"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/USBuildingFootprints",

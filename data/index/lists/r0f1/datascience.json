@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"a3ba53f162886180ef13f2a6bb63845f713aa776"},
+"meta": {"description":"Curated list of Python resources for data science.","defaultBranch":"master","topics":["awesome","awesome-list","data-science","datascience","python","deep-learning","data-analysis","data-visualization","data-mining","machine-learning"],"readmeSha":"cfc290e7680583e7492fbfe55a71cd7616213094"},
 "members": [
 "uxlfoundation/scikit-learn-intelex",
 "Data-Centric-AI-Community/fg-data-profiling",
@@ -453,7 +453,7 @@
 "geomstats/geomstats",
 "unit8co/darts",
 "facebookresearch/Kats",
-"facebook/prophet",
+"meta/prophet",
 "ourownstory/neural_prophet",
 "alkaline-ml/pmdarima",
 "RJT1990/pyflux",
@@ -616,7 +616,7 @@
 "evhub/bbopt",
 "dragonfly/dragonfly",
 "meta-pytorch/botorch",
-"facebook/Ax",
+"meta/Ax",
 "Lightning-Universe/Training-Studio_app",
 "online-ml/river",
 "modAL-python/modAL",
@@ -703,6 +703,8 @@
 "d3/d3-3.x-api-reference"
 ],
 "dropped": [
-["2026-10-03","OpenBB-finance/OpenBB"]
+["2026-10-03","OpenBB-finance/OpenBB"],
+["2026-10-31","facebook/prophet"],
+["2026-10-31","facebook/Ax"]
 ]
 }

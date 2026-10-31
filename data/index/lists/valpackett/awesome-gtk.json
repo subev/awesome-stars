@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"af7bd2036e9b3f24cd845909497bd902fdf47d00"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"9d6fefbdcd5b13a4fa971fc1c1ee8739cefcfeed"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -53,13 +53,14 @@
 "stronnag/wayfarer",
 "soyersoyer/cameractrls",
 "fengalin/media-toc",
+"fossgap/open-media-converter",
 "heyjuvi/shady",
 "Nokse22/ascii-draw",
 "Talinx/jp2a",
 "tfuxu/Halftone",
 "blissd/fotema",
 "weclaw1/image-roll",
-"SelfRef/memento",
+"AperteDev/memeplex",
 "newinnovations/MView6",
 "elementary/photos",
 "linuxmint/pix",
@@ -101,7 +102,7 @@
 "elementary/mail",
 "jdobonb/datafall",
 "gabutakut/gabutdm",
-"getodm/open-download-manager",
+"fossgap/open-download-manager",
 "bleakgrey/Transporter",
 "davidmhewitt/torrential",
 "giantpinkrobots/varia",
@@ -259,7 +260,7 @@
 "OrbintSoft/polo",
 "tchx84/Portfolio",
 "cboxdoerfer/fsearch",
-"hwittenborn/celeste",
+"hwittenborn/alto",
 "kozec/syncthing-gtk",
 "ellie-commons/taxi",
 "Foldex/AdwSteamGtk",
@@ -320,6 +321,9 @@
 ["2026-09-19","hyprlab/vireo"],
 ["2026-10-10","henrywoo/kazam"],
 ["2026-10-10","nilgradisnik/markdown-rs"],
-["2026-10-17","tomasz-oponowicz/markets"]
+["2026-10-17","tomasz-oponowicz/markets"],
+["2026-10-31","SelfRef/memento"],
+["2026-10-31","getodm/open-download-manager"],
+["2026-10-31","hwittenborn/celeste"]
 ]
 }

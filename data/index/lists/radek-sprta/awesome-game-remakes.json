@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"46a996c2b61751d782875ceac338f67094a263bb"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"68146b221260776c070c024630678b881109bb90"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
@@ -243,6 +243,7 @@
 "movAX13h/HiOctaneTools",
 "SputnikKaputtnik/interstate82-widescreen-4k-fix",
 "rob518183/Open76",
+"crspytopgn/openmcm2",
 "OpenNFS/OpenNFS",
 "ACatWithEbola/playstunts",
 "ZgzInfinity/OutRun",
@@ -327,7 +328,7 @@
 "bvschaik/julius",
 "Kromster80/kam_remake",
 "dkfans/keeperfx",
-"ForkedInTime/keeperfx-linux-alpha",
+"ForkedInTime/keeperfx-tux-edition",
 "miki151/keeperrl",
 "SoftbearStudios/kiomet",
 "WiredForWar/machines",
@@ -360,6 +361,7 @@
 "OpenSAGE/OpenSAGE",
 "luann8331/opensage-adk",
 "OpenSC2K/OpenSC2K",
+"crspytopgn/opensgolf",
 "OpenTPW/OpenTPW",
 "OpenTTD/OpenTTD",
 "OpenXcom/OpenXcom",
@@ -414,6 +416,7 @@
 ["2026-10-03","Yrvera/vera20k"],
 ["2026-10-17","MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp"],
 ["2026-10-17","nicholas-ochoa/OpenSC2K"],
-["2026-10-24","nemo22/mdk-sdl"]
+["2026-10-24","nemo22/mdk-sdl"],
+["2026-10-31","ForkedInTime/keeperfx-linux-alpha"]
 ]
 }

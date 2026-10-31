@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"38ee8493203a46ae291a1d9bd89c9b1b1eeccc53"},
+"meta": {"description":"A curated list of awesome Gemini CLI extensions.","defaultBranch":"main","topics":[],"readmeSha":"c5e492b155a31b7b5e6200dda9f3e664b3377e67"},
 "members": [
 "google-gemini/gemini-cli",
 "Piebald-AI/awesome-gemini-cli",
@@ -10,6 +10,8 @@
 "dontpayfull/AInotate",
 "qrxcodes/qrx-mcp",
 "Sagargupta16/orrery",
+"modelsalt/model-salt",
+"brajendrak00068/agentic-ai-video-production",
 "automateyournetwork/GeminiCLI_Vision_Extension",
 "automateyournetwork/GeminiCLI_Talk_Extension",
 "automateyournetwork/GeminiCLI_ComputerUse_Extension",
@@ -20,6 +22,7 @@
 "feder-cr/invisible_dots",
 "lusha-oss/lusha-mcp-plugin",
 "atxp-dev/atxp",
+"zambodotdev/zambo-mcp",
 "figma/figma-gemini-cli-extension",
 "rodydavis/google-fonts-gemini-cli-extension",
 "GitLab-Ecosystem/Gemini-CLI-Extensions",
@@ -31,7 +34,7 @@
 "runapi-ai/mcp",
 "Bevel-Software/Hexis",
 "cohesivity-org/cohesivity-plugin",
-"kyisaiah47/parserail-gemini-extension",
+"kyisaiah47/parserail-gemini-extension-archived",
 "minosin/gtdbrain-gemini-extension",
 "AddisonHoff/sendsets",
 "foklepoint/court-rules-mcp",
@@ -52,6 +55,14 @@
 "KuudoAI/skills",
 "f-o-x11/deed-page-skill",
 "TaplioOfficial/taplio-linkedin-plugin",
+"terminaltax/terminal-tax-mcp-server",
+"kochetkov-ma/brewpage-openapi",
+"zovo-one/mcp-leave",
+"sfxmint/sfxmint-mcp",
+"TheBestCo/bestprice-mcp",
+"bankbridge-money/bankbridge-plugin",
+"mobbin/skills",
+"kinlab-ai/kin-plugin",
 "SurefireStudios/tldr",
 "thoreinstein/gemini-notifier",
 "MohamedAbdallah-14/unslop",
@@ -59,6 +70,7 @@
 "automateyournetwork/GeminiCLI_Packet_Buddy_Extension",
 "vaddisrinivas/meanwhile",
 "RyanNSJ/notworking",
+"stevenAthompson/self-command",
 "thoreinstein/gemini-beads",
 "AsyncFuncAI/ralph-wiggum-extension",
 "gemini-cli-extensions/code-review",
@@ -93,6 +105,8 @@
 "WhiteBite/dejavu-gates",
 "allxsmith/bestax-skills",
 "salemalem/npmscan-mcp-plugin",
+"uiverify/uiverify",
+"cerredz/vidbyte-memory",
 "gemini-cli-extensions/gcloud",
 "gemini-cli-extensions/genkit",
 "GoogleCloudPlatform/mcp-toolbox-plugin",
@@ -118,7 +132,8 @@
 "GoogleCloudPlatform/looker-plugin",
 "minds-ai-co/minds-mcp",
 "daniel3303/stock-market-mcp-server",
-"Tapetide-hq/nse-bse-indian-stock-market-data-mcp"
+"Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+"DarkWorldCoder/market-mirror"
 ],
 "dropped": [
 ["2026-09-26","feder-cr/AIHawk"],
@@ -138,7 +153,7 @@
 ["2026-10-10","gemini-cli-extensions/knowledge-catalog"],
 ["2026-10-10","gemini-cli-extensions/looker"],
 ["2026-10-24","thefiredev-cloud/meshvault-connectors"],
-["2026-10-24","stevenAthompson/self-command"],
-["2026-10-24","waynehamadi/datacircle-plugin"]
+["2026-10-24","waynehamadi/datacircle-plugin"],
+["2026-10-31","kyisaiah47/parserail-gemini-extension"]
 ]
 }

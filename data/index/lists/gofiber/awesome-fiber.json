@@ -1,5 +1,5 @@
 {
-"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"c603b86baedd3decd76e31eb03d1a02d27cac651"},
+"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"191271da49be49f2e5da8cfdf884343b6c1c39b3"},
 "members": [
 "expressjs/express",
 "valyala/fasthttp",

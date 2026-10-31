@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"f21fb9298d484f756597f952d2bd440be1c7c49c"},
+"meta": {"description":"A curated list of .NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes. Everyone can contribute here!","defaultBranch":"master","topics":[],"readmeSha":"5bd336e95320ab920e27ed0d3edbe3be42c80809"},
 "members": [
 "DotNetAnalyzers/StyleCopAnalyzers",
 "Wintellect/Wintellect.Analyzers",
@@ -17,6 +17,7 @@
 "philips-software/roslyn-analyzers",
 "agoda-com/AgodaAnalyzers",
 "Thorium/csharp-refactor",
+"Hanif6731/HouseRules",
 "security-code-scan/security-code-scan",
 "semihokur/AsyncFixer",
 "cezarypiatek/MultithreadingAnalyzer",

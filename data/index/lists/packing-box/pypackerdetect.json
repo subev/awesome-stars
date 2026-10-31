@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Packing detection tool for PE files","defaultBranch":"main","topics":["detector","pe-file","pe-format","peid","entrypoint","pe-sections","pe-files","signature-detection","packing-detection","python"],"readmeSha":"9934b609dce9fec35d749a278057571399e16574"},
+"meta": {"description":"Packing detection tool for PE files","defaultBranch":"main","topics":["detector","pe-file","pe-format","peid","entrypoint","pe-sections","pe-files","signature-detection","packing-detection","python"],"readmeSha":"00f25ae9cbce280c1a23ab55445c0415dd281301"},
 "members": [
 "cylance/PyPackerDetect",
 "erocarrera/pefile",

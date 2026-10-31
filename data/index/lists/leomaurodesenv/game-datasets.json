@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"df6c335021b0b695229b4098da8c0e1d8e424e9f"},
+"meta": {"description":":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games","defaultBranch":"master","topics":["game","dataset","database","games","data-mining","artificial-intelligence","awesome-list","awesome","awesome-game"],"readmeSha":"fc4074a44ffbcc2708de89146b69813865b5e527"},
 "members": [
 "pnxenopoulos/csgo",
 "leomaurodesenv/smm-course-search",
@@ -39,6 +39,7 @@
 "NabajeetBarman/GamingHDRVideoSET",
 "oscarmcnulty/gta-3d-dataset",
 "hasuwini77/push-fold-ranges",
+"OSTDB/soundtracks",
 "odebo/planet-zoo-2-dataset",
 "Biuni/PokemonGO-Pokedex",
 "onzie9/Quackle_Self_Play",

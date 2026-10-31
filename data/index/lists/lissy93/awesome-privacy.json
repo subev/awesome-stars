@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"ad57b06ba9a6d15358fc188e859ff71ccdec7974"},
+"meta": {"description":"🦄  A curated list of privacy & security-focused software and services","defaultBranch":"main","topics":["awesome","awesome-list","privacy","self-hosted","software","security"],"readmeSha":"225f8481f587e1c653b0fb0861e2916f24a25327"},
 "members": [
 "lissy93/personal-security-checklist",
 "dani-garcia/vaultwarden",
@@ -34,6 +34,8 @@
 "Upload/Up1",
 "psi-4ward/psitransfer",
 "go-shiori/shiori",
+"Euro-Office/DesktopEditors",
+"Am-I-Being-Pwned/PGP-Tools",
 "dsoprea/go-exif",
 "MikeKovarik/exifr",
 "hMatoba/Piexif",

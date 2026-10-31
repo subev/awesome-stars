@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of various awesome lists for hackers, pentesters and security researchers","defaultBranch":"master","topics":["hacking","security","bug-bounty","awesome","android","fuzzing","penetration-testing","pentesting-windows","reverse-engineering"],"readmeSha":"5f3358a3b4c7265e877a8d76d5afcbc4b2a46d48"},
+"meta": {"description":"A collection of various awesome lists for hackers, pentesters and security researchers","defaultBranch":"master","topics":["hacking","security","bug-bounty","awesome","android","fuzzing","penetration-testing","pentesting-windows","reverse-engineering"],"readmeSha":"cfecb663ba79a0b41160da3ebe3977bb2c10a95d"},
 "members": [
 "ashishb/android-security-awesome",
 "paragonie/awesome-appsec",

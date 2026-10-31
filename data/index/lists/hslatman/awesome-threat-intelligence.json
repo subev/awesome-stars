@@ -1,9 +1,10 @@
 {
-"meta": {"description":"A curated list of Awesome Threat Intelligence resources","defaultBranch":"main","topics":["security","awesome","hacktoberfest","awesome-list"],"readmeSha":"381b17ab9e713f260c07d8ffd3ad61cec867572c"},
+"meta": {"description":"A curated list of Awesome Threat Intelligence resources","defaultBranch":"main","topics":["security","awesome","hacktoberfest","awesome-list"],"readmeSha":"f8f395fb36ed4a62dfba12c5587d9675e9f13b95"},
 "members": [
 "davidonzo/Threat-Intel",
 "disposable-email-domains/disposable-email-domains",
 "foospidy/HoneyPy",
+"honeylabshq/honeylabs-mcp",
 "SupportIntelligence/Icewater",
 "securityscorecard/SSC-Threat-Intel-IoCs",
 "Neo23x0/signature-base",
@@ -24,7 +25,7 @@
 "Ptr32Void/OSTrICa",
 "Netflix-Skunkworks/Scumblr",
 "Tripwire/TARDIS",
-"facebook/ThreatExchange",
+"meta/ThreatExchange",
 "typedb-osi/typedb-cti",
 "jalewis/actortrackr",
 "referefref/aiocrioc",
@@ -55,7 +56,6 @@
 "stephenbrannon/IOCextractor",
 "johestephan/ibmxforceex.checker.py",
 "sroberts/jager",
-"KasperskyLab/klara",
 "TAXIIProject/libtaxii",
 "Neo23x0/Loki",
 "HurricaneLabs/machinae",
@@ -89,5 +89,9 @@
 "CyberMonitor/APT_CyberCriminal_Campagin_Collections",
 "kbandla/APTnotes",
 "mitre/cti"
+],
+"dropped": [
+["2026-10-31","facebook/ThreatExchange"],
+["2026-10-31","KasperskyLab/klara"]
 ]
 }

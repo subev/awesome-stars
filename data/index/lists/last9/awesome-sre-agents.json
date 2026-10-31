@@ -1,0 +1,14 @@
+{
+"meta": {"description":"A curated list of AI-powered DevOps & SRE (Site Reliability Engineering) agents, tools, and resources for automating and enhancing reliability practices","defaultBranch":"main","topics":["agent","ai","awesome-list","sre","devops","awesome","agents"],"readmeSha":"146e7a6625421314b9fc624df4133ed71c7a96b9"},
+"members": [
+"obot-platform/obot",
+"yylo-dev/yylo",
+"heliograph-io/heliograph",
+"HolmesGPT/holmesgpt",
+"k8sgpt-ai/k8sgpt",
+"nudgebee/nudgebee",
+"Tracer-Cloud/opensre",
+"Smana/runlore",
+"incidentfox/incidentfox"
+]
+}

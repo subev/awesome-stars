@@ -1,11 +1,12 @@
 {
-"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"b98f1e7ae5677ed0cc33262861a1a8066c0c13a2"},
+"meta": {"description":"A categorized collection of awesome opensource Unreal Engine 4 and 5 repos","defaultBranch":"master","topics":[],"readmeSha":"2e6d9f07376b225e1023c524fa362008d60daeba"},
 "members": [
 "RemRemRemRe/RemAbilityUtility",
 "OversizedSunCoreDev/ArtilleryEco",
 "kamrann/BTUtilityPlugin",
 "charisma-ai/charisma-sdk-unreal",
 "hollsteinm/ReasonablePlanningAI",
+"miracle1814/ue5-automation",
 "BrUnOXaVIeRLeiTE/SCUE5-Plugin",
 "JanSeliv/MetaCheatManager",
 "oivio/Advanced-Camera-Manager",

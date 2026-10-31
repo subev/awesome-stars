@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"da7181bee203c857bdd0a34c99539692f4ff68c6"},
+"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"b5cd36a0b90f6841c019959f9de8b2c592846efc"},
 "members": [
 "crisbez/atlas4d-base",
 "ahuarte47/duckdb-raster",

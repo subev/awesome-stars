@@ -1,6 +1,18 @@
 {
-"meta": {"description":"A curated list to learning and practicing about algorithm.","defaultBranch":"master","topics":["awesome","awesome-list","algorithm","development","programming","education"],"readmeSha":"6bcbeac4079059a25beb96eab3be99518fe22ccd"},
+"meta": {"description":"A curated list of courses, online judges, visualizations, books and competitions for learning and practicing algorithms. English and Korean.","defaultBranch":"main","topics":["awesome","awesome-list","education","algorithms","competitive-programming","data-structures","korean","learning-resources","online-judge"],"readmeSha":"ef1c608298fe7b2623a7a576f299cac7d2439e97"},
 "members": [
-
+"lnishan/awesome-competitive-programming",
+"tayllan/awesome-algorithms",
+"algorithm-visualizer/algorithm-visualizer",
+"enjalot/algovis",
+"kdn251/interviews",
+"jwasham/coding-interview-university",
+"donnemartin/interactive-coding-challenges",
+"liuxinyu95/AlgoXY",
+"careercup/CtCI-6th-Edition",
+"google/coding-competitions-archive",
+"academic/awesome-datascience",
+"josephmisiti/awesome-machine-learning",
+"hustoj/hustoj-neo"
 ]
 }

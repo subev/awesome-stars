@@ -1,0 +1,11 @@
+{
+"meta": {"description":"Dex lets your agent build your analytics.","defaultBranch":"main","topics":["agent","agent-skills","analytics-engineering","bigquery","claude-code","claude-code-plugin","claude-code-skill","data-contracts","data-engineering","databricks"],"readmeSha":"1436bea5bff0534e8c5dd65f1a56a3a8009d73f2"},
+"members": [
+"apache/ossie",
+"dbt-labs/dbt",
+"cube-js/cube",
+"MotleyAI/slayer",
+"exmergo/github-repo-analytics",
+"catincloud-labs/dagster-dex"
+]
+}

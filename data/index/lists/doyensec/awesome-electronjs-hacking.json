@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources about Electron.js (in)security","defaultBranch":"master","topics":[],"readmeSha":"5b5bed1f4f1be1cdb7d7744d7d0b4ff77ff9f759"},
+"meta": {"description":"A curated list of awesome resources about Electron.js (in)security","defaultBranch":"master","topics":[],"readmeSha":"163a4d714ef6730eecc6ed7b50dc9b3cf08ac65e"},
 "members": [
 "doyensec/electronegativity",
 "electron/fiddle",

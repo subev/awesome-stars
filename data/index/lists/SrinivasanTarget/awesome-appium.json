@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of delightful Appium resources.","defaultBranch":"master","topics":["inspector","docker-appium","appium-tests","cloud-solution","appium-tutorials","appium","appium-android","appium-ios","awesome-appium"],"readmeSha":"c19405ec4f75da6544d8cd6bc6bb2f0eadc12757"},
+"meta": {"description":"A curated list of delightful Appium resources.","defaultBranch":"master","topics":["inspector","docker-appium","appium-tests","cloud-solution","appium-tutorials","appium","appium-android","appium-ios","awesome-appium"],"readmeSha":"def02dfe3817c3d4f47672c7824dad60c810e7e4"},
 "members": [
 "sindresorhus/awesome",
 "appium/appium",
@@ -21,6 +21,7 @@
 "budtmo/docker-android",
 "aluedeke/appium-android",
 "softsam/docker-appium",
+"vostride/agent-qa",
 "priyankshah217/AppiumCucumberTest",
 "isonic1/Appium-Native-Crawler",
 "WasiqB/coteafs-appium",

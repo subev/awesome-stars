@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"61f84b04e36d557775bdfb84e35dbf0083c141f0"},
+"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"68dbb9ce773e3afc81d5579a88303efd5ead1c37"},
 "members": [
 "opentofu/opentofu",
 "opentofu/registry",
@@ -22,7 +22,7 @@
 "c3xdev/c3x",
 "drifthoundhq/drifthound",
 "drumandbytes/opentofu-updater-action",
-"OP5dev/TF-via-PR",
+"noise-rest/tf-via-pr",
 "tofuutils/pre-commit-opentofu",
 "antonbabenko/pre-commit-terraform",
 "opentofu/setup-opentofu",
@@ -38,6 +38,7 @@
 "idoavrah/terraform-tui",
 "minamijoyo/tfschema",
 "diggerhq/digger",
+"stackorder/stackorder",
 "terrakube-io/terrakube",
 "tofutf/tofutf",
 "stategraph/stategraph",
@@ -59,5 +60,8 @@
 "bare-devcontainer/templates",
 "bare-devcontainer/images",
 "patrickchugh/terravision"
+],
+"dropped": [
+["2026-10-31","OP5dev/TF-via-PR"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"e9ad740b34feec3f9efb53bd39db9d3fdfdf9a69"},
+"meta": {"description":"  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.","defaultBranch":"master","topics":["dlang"],"readmeSha":"4f3aee38a0e0c87fb7ebc138d02ae9e9e682da70"},
 "members": [
 "sindresorhus/awesome",
 "vinta/awesome-python",

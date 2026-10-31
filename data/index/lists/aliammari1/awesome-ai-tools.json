@@ -1,0 +1,27 @@
+{
+"meta": {"description":"Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","productivity","tool","tools","utility","web-services","ai-tools","artificial-intelligence"],"readmeSha":"e8329cc0ecc8fbf6dedf22907a4ceb7b225d57ae"},
+"members": [
+"huggingface/smolagents",
+"agentscope-ai/agentscope",
+"OpenHands/OpenHands",
+"browser-use/browser-use",
+"taskade/taskade",
+"Comfy-Org/ComfyUI",
+"Shiaoming123/readme-skills",
+"ultralytics/ultralytics",
+"facebookresearch/detectron2",
+"salesforce/CodeT5",
+"yylo-dev/yylo",
+"vostride/agent-qa",
+"makorise/codex-local-hub",
+"zai-org/GLM-4",
+"future-agi/future-agi",
+"marcotcr/lime",
+"shap/shap",
+"Significant-Gravitas/AutoGPT",
+"microsoft/autogen",
+"openai/swarm",
+"langflow-ai/langflow",
+"FlowiseAI/Flowise"
+]
+}

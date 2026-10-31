@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sunglasses: A curated list of 3D graphics libraries and resources","defaultBranch":"main","topics":["awesome-list","graphics-library","graphics-engine","game-engine","3d-graphics","graphics-libraries","3d-game-engine"],"readmeSha":"53f33ae5da6dbd0d4fa5b6ff9231c8a685c58074"},
+"meta": {"description":":sunglasses: A curated list of 3D graphics libraries and resources","defaultBranch":"main","topics":["awesome-list","graphics-library","graphics-engine","game-engine","3d-graphics","graphics-libraries","3d-game-engine"],"readmeSha":"c9d959769ce2344a2cae27bf33845eba65b39b99"},
 "members": [
 "KhronosGroup/ANARI-SDK",
 "bkaradzic/bgfx",

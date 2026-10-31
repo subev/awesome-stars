@@ -1,16 +1,18 @@
 {
-"meta": {"description":"A curated list of Site Reliability and Production Engineering Tools","defaultBranch":"master","topics":["sre","devops","site-reliability-engineering","production","availability","monitoring","post-mortem","reliability-engineering","reliability","monitoring-tools"],"readmeSha":"d48d0230e0863cbe243fe00db012d47e089887c5"},
+"meta": {"description":"A curated list of Site Reliability and Production Engineering Tools","defaultBranch":"master","topics":["sre","devops","site-reliability-engineering","production","availability","monitoring","post-mortem","reliability-engineering","reliability","monitoring-tools"],"readmeSha":"2d2baa9c23172ee91acc3c06b39bf61bf02b1544"},
 "members": [
 "libredb/libredb-studio",
 "Haswell119/driftwire",
 "mikluko/flakybin",
 "vostride/agent-qa",
 "KRISHNAMMurarka/retry-jitter-lab",
+"600me/check-proxy-tax",
 "bleenco/abstruse",
 "bosondata/badwolf",
 "sdxiaomage/ci-health-audit",
 "hrodrig/kzero",
 "stategraph/stategraph",
+"wes/jokku",
 "net-benchmark/net-benchmark",
 "VictoriaMetrics/VictoriaMetrics",
 "brancogao/ssl-certificate-monitor",
@@ -30,7 +32,9 @@
 "GeiserX/gha-deadman",
 "Telemetry-Tracker/telemetry-tracker",
 "MB3R-Lab/mb3r-stack",
-"maddhruv/rasptele",
+"dhruvjainin/rasptele",
+"loootai/looot-monitor",
+"rowsafe/rowsafe",
 "ustream/openduty",
 "seznam/slo-exporter",
 "last9/slo-computer",
@@ -55,7 +59,12 @@
 "pich/ai-economics-mcp",
 "swapnildahiphale/OpenSRE",
 "shlokkokk/Chronicle",
+"elfovo/agent-chain-doctor",
+"orbi-build/orbi",
 "be-next/awesome-performance-engineering",
 "Wyrcan-io/roadmap"
+],
+"dropped": [
+["2026-10-31","maddhruv/rasptele"]
 ]
 }

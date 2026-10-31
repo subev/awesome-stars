@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Java language server","defaultBranch":"main","topics":["language-server-protocol","eclipse","java"],"readmeSha":"209dc62e66fe296311034a95af735ec08602c87a"},
+"meta": {"description":"Java language server","defaultBranch":"main","topics":["language-server-protocol","eclipse","java"],"readmeSha":"e6aa3bcf20f8f00a55a0d0b639a61ab5a6398563"},
 "members": [
 "microsoft/language-server-protocol",
 "eclipse-lsp4j/lsp4j",

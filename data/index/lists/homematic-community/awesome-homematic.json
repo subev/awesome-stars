@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Homematic related links :sparkles:","defaultBranch":"master","topics":["homematic","smarthome","awesome-list","awesome","list"],"readmeSha":"e72e8222cf99667781a08badb6d5ed68344a2fb1"},
+"meta": {"description":"A curated list of Homematic related links :sparkles:","defaultBranch":"master","topics":["homematic","smarthome","awesome-list","awesome","list"],"readmeSha":"2a5282bc9cd377111c70a24656800ca30334bdee"},
 "members": [
 "sindresorhus/awesome",
 "homematic-community/ccu-addon-howto",
@@ -12,6 +12,8 @@
 "alexreinert/HB-RF-ETH",
 "Xerolux/HB-RF-ETH-ng",
 "jp112sdl/HB-UNI-Sen-WEA",
+"hobbyquaker/ccu-addon-battery",
+"hobbyquaker/ccu-addon-longpressdim",
 "firsttris/ccu-addon-mui",
 "jens-maus/cuxd",
 "homematic-community/CUxD-Highcharts",

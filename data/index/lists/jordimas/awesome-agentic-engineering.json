@@ -1,0 +1,32 @@
+{
+"meta": {"description":"A curated list of practical resources for Agentic Engineering","defaultBranch":"main","topics":["agentic-engineering","awesome-list","ai-coding","developer-tools","llm","awesome"],"readmeSha":"8ae8868f62743c66f8d63580e3556efcebf326cb"},
+"members": [
+"humanlayer/12-factor-agents",
+"Aider-AI/aider",
+"cline/cline",
+"continuedev/continue",
+"aaif-goose/goose",
+"anomalyco/opencode",
+"OpenHands/OpenHands",
+"plandex-ai/plandex",
+"RooCodeInc/Roo-Code",
+"google-gemini/gemini-cli",
+"anthropics/claude-code",
+"openai/codex",
+"affaan-m/ECC",
+"modelcontextprotocol/servers",
+"punkpeye/awesome-mcp-servers",
+"github/spec-kit",
+"bmad-code-org/BMAD-METHOD",
+"langchain-ai/langchain",
+"langchain-ai/langgraph",
+"microsoft/autogen",
+"crewAIInc/crewAI",
+"langgenius/dify",
+"browser-use/browser-use",
+"browserbase/stagehand",
+"microsoft/playwright",
+"openinterpreter/openinterpreter",
+"firecrawl/firecrawl"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"c673acec5d46aa3db268bb3265005366cc6eaf6e"},
+"meta": {"description":"Awesome IIIF-related resources","defaultBranch":"main","topics":["iiif","iiif-apis","iiif-image","iiif-presentations","community","awesome-list"],"readmeSha":"36fb7accdca879dffe479c357664d7c6b94fd57f"},
 "members": [
 "sindresorhus/awesome",
 "vt-digital-libraries-platform/aws-batch-iiif-generator",
@@ -12,7 +12,7 @@
 "loris-imageserver/loris",
 "uoregon-libraries/rais-image-server",
 "sul-dlss/riiif",
-"dasch-swiss/sipi",
+"dasch-swiss/vitrinli",
 "OMAS-IIIF/sipi-2",
 "britishlibrary/TremendousIIIF",
 "libops/triplet",
@@ -117,5 +117,8 @@
 "open-oni/open-oni",
 "umd-mith/ndnp_iiif",
 "inveniosoftware/invenio-iiif"
+],
+"dropped": [
+["2026-10-31","dasch-swiss/sipi"]
 ]
 }

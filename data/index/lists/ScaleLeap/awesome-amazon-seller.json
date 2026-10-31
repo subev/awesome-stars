@@ -1,8 +1,10 @@
 {
-"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"cbdd5970831936eda4b963c9158e1d1a37e47734"},
+"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"00e7de56c0d68e852bdc22c8d168bc7f7d8f9f4d"},
 "members": [
 "BuyWhere/buywhere-mcp",
 "Ryndix/ryndix-category-data",
+"trendsmcp-ai/Trends-MCP",
+"MentionNetwork/awesome-agentic-commerce",
 "assassinationss/awesome-china-sourcing",
 "launotice-lang/chdh-tools-dataset"
 ]

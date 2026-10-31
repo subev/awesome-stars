@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"07761458cfd2f0fac12f2d6563dc5ebae80a5c27"},
+"meta": {"description":"OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.","defaultBranch":"main","topics":["awesome-list","oauth","oauth2","openid-connect","identity","oidc","authorization","awesome","security","cybersecurity"],"readmeSha":"7fd3bb4b146c4b222a021b85af81f7b43b7e8059"},
 "members": [
 "goauthentik/authentik",
 "dexidp/dex",
@@ -14,7 +14,7 @@
 "OpenIDC/liboauth2",
 "OpenIDC/mod_auth_openidc",
 "OpenIDC/ngx_oauth2_module",
-"DuendeArchive/IdentityModel.OidcClient",
+"DuendeSoftware/foss",
 "appsup-dart/openid_client",
 "erlef/oidcc",
 "coreos/go-oidc",
@@ -46,6 +46,7 @@
 "SecureAuthCorp/oauth2c"
 ],
 "dropped": [
-["2026-09-25","cerberauth/awesome-openid-connect"]
+["2026-09-25","cerberauth/awesome-openid-connect"],
+["2026-10-31","DuendeArchive/IdentityModel.OidcClient"]
 ]
 }

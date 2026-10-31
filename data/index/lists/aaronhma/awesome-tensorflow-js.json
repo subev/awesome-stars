@@ -1,11 +1,13 @@
 {
-"meta": {"description":"Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js","defaultBranch":"master","topics":["awesome-list","awesome","tensorflow","tfjs","machine-learning"],"readmeSha":"b833d6e947ecf7dfbd3c0679af46798becffc38a"},
+"meta": {"description":"Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js","defaultBranch":"master","topics":["awesome-list","awesome","tensorflow","tfjs","machine-learning"],"readmeSha":"49d19e7b375805271c6cd0773425b295ecf2e798"},
 "members": [
 "tensorflow/tfjs",
 "tensorflow/tfjs-models",
 "tensorflow/tfjs-examples",
 "aaronhma/ngconf-2020",
 "infinitered/nsfwjs",
+"GantMan/timewarp",
+"GantMan/enjoytheshow",
 "justadudewhohacks/face-api.js",
 "victordibia/handtrack.js"
 ]

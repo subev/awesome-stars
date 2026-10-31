@@ -1,15 +1,14 @@
 {
-"meta": {"description":":neckbeard: Awesome list GitHub Wikis","defaultBranch":"main","topics":["awesome","awesome-list","awesome-wiki","github","github-wiki","awesomeness","stackoverflow","stackoverflow-answer","stackoverflow-questions","trending-repositories"],"readmeSha":"3656612fe8004c79d0f642a81d1159fe8f20f036"},
+"meta": {"description":":neckbeard: Awesome list GitHub Wikis","defaultBranch":"main","topics":["awesome","awesome-list","awesome-wiki","github","github-wiki","awesomeness","stackoverflow","stackoverflow-answer","stackoverflow-questions","trending-repositories"],"readmeSha":"bcfacfaf55dbd1df93c1415719003133cfd2e75c"},
 "members": [
 "Netflix/Hystrix",
 "aws/aws-parallelcluster",
-"facebook/hhvm",
+"meta/hhvm",
 "thinkaurelius/titan",
 "guard/guard",
 "apple/foundationdb",
 "google/guava",
 "hyperledger-cacti/cacti",
-"react/react-native",
 "uber/NullAway",
 "internetarchive/openlibrary",
 "JustArchiNET/ArchiSteamFarm",
@@ -20,5 +19,9 @@
 "Satttoshi/github-wiki-generator",
 "AIDotNet/OpenDeepWiki",
 "Samyc2002/GithubWikiGenerator"
+],
+"dropped": [
+["2026-10-31","facebook/hhvm"],
+["2026-10-31","react/react-native"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"0fa893f5238a50fe723adf68fb961e72edbc562e"},
+"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"b66be7ead05d5613ffff68df39a893fc84d26e98"},
 "members": [
 "Smashing/smashing",
 "Freeboard/freeboard",
@@ -18,7 +18,7 @@
 "inetsoft-technology/stylebi",
 "shmlkv/dna-claude-analysis",
 "marcimastro98/Xenon",
-"Shashank-VK/nexus-dashboard-template",
+"SikamikanikoBG/homelab-monitor",
 "obfuscurity/descartes",
 "obfuscurity/dusk",
 "ripienaar/gdash",
@@ -36,5 +36,8 @@
 "akveo/ngx-admin",
 "PatrickJS/angular-webpack-starter",
 "kubestellar/console"
+],
+"dropped": [
+["2026-10-31","Shashank-VK/nexus-dashboard-template"]
 ]
 }

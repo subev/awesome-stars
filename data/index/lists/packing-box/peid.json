@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Python implementation of the Packed Executable iDentifier (PEiD)","defaultBranch":"main","topics":["peid","peid-signature","pe-file","pe-files","pe-format","signature-detection","python","entrypoint","packing-detection","executable-packing"],"readmeSha":"0f3d3517fa863b8a1af3d1101b74551b270cae42"},
+"meta": {"description":"Python implementation of the Packed Executable iDentifier (PEiD)","defaultBranch":"main","topics":["peid","peid-signature","pe-file","pe-files","pe-format","signature-detection","python","entrypoint","packing-detection","executable-packing"],"readmeSha":"cd280ef2e3c645dbba29048ae50380cdaa889e36"},
 "members": [
 "wolfram77web/app-peid",
 "merces/pev",

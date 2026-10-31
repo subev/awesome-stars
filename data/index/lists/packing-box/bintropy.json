@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes","defaultBranch":"main","topics":["entropy","pe-file","pe-files","pe-format","elf","elf-format","elf-binaries","packing-detection","mach-o","lief"],"readmeSha":"9fa559ff1d4e84bf7c3998b04e6008896b494acc"},
+"meta": {"description":"Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes","defaultBranch":"main","topics":["entropy","pe-file","pe-files","pe-format","elf","elf-format","elf-binaries","packing-detection","mach-o","lief"],"readmeSha":"b00b7452f276d56b64d1e151114c402d4cc7582d"},
 "members": [
 "lief-project/LIEF",
 "packing-box/awesome-executable-packing",

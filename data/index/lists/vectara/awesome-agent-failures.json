@@ -1,0 +1,11 @@
+{
+"meta": {"description":"A community curated collection of AI agent failure modes and battle-tested solutions.","defaultBranch":"main","topics":["awesome","awesome-list","agentic-ai","agents"],"readmeSha":"f431dc3f7ab2d3a4bbf1ef8d63a0b75681679898"},
+"members": [
+"cursor/cursor",
+"TIGER-AI-Lab/ClawBench",
+"Hannibal046/Awesome-LLM",
+"EthicalML/awesome-production-machine-learning",
+"e2b-dev/awesome-ai-agents",
+"all-contributors/allcontributors.org"
+]
+}

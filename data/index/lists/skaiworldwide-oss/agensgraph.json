@@ -1,5 +1,5 @@
 {
-"meta": {"description":"AgensGraph, a high performance transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb"],"readmeSha":"4fa823293bd8721ad3c5c4d4510275694651687a"},
+"meta": {"description":"AgensGraph, a high performance transactional graph database based on PostgreSQL","defaultBranch":"main","topics":["graph-database","multi-model-database","postgresql","enterprise","nosql","graphdb","cypher","gql","graphrag","agensgraph"],"readmeSha":"b4f661185fcd21809f4b5a943893542afd59cb6a"},
 "members": [
 "skaiworldwide-oss/agensgraph-ai",
 "skaiworldwide-oss/agensgraph-python"

@@ -1,0 +1,22 @@
+{
+"meta": {"description":"Cool links, tools & papers related to Open Source Licensing","defaultBranch":"main","topics":["license","licensing","software-licensing","open-source-licensing","license-management","license-scan","oss-compliance","awesome","awesome-list"],"readmeSha":"164df121aac4adf0f685f2b3728f6b9b9be633f4"},
+"members": [
+"dmgerman/ninka",
+"aboutcode-org/scancode-toolkit",
+"go-enry/go-license-detector",
+"oss-review-toolkit/ort",
+"dhatim/python-license-check",
+"ubersan/pylic",
+"raimon49/pip-licenses",
+"pivotal/LicenseFinder",
+"FHPythonUtils/LicenseCheck",
+"pilosus/pip-license-checker",
+"pilosus/action-pip-license-checker",
+"ftpsolutions/python-third-party-license-file-generator",
+"davglass/license-checker",
+"bbc/apache2-license-checker",
+"thrillhouse34/licenseproof",
+"JetBrains-Research/sorrel",
+"OpenChain-Project/Reference-Material"
+]
+}

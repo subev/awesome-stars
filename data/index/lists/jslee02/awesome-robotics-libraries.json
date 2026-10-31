@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sunglasses: A curated list of robotics libraries and software","defaultBranch":"main","topics":["robotics-libraries","multibody-dynamics","simulation","robotics","motion-planning","slam","awesome-list","optimization","machine-learning","awesome"],"readmeSha":"45a040cff54376f72b7f74ce38c1932794296b6c"},
+"meta": {"description":":sunglasses: A curated list of robotics libraries and software","defaultBranch":"main","topics":["robotics-libraries","multibody-dynamics","simulation","robotics","motion-planning","slam","awesome-list","optimization","machine-learning","awesome"],"readmeSha":"80b45ce32be5987f954a68b885a3c7ef55d978ea"},
 "members": [
 "ros2/ros2",
 "dimensionalOS/dimos",
@@ -105,7 +105,7 @@
 "ethz-adrl/towr",
 "ayonga/frost-dev",
 "ceres-solver/ceres-solver",
-"anyoptimization/pymoo",
+"the-dual-space/pymoo",
 "casadi/casadi",
 "stevengj/nlopt",
 "osqp/osqp",
@@ -171,7 +171,6 @@
 "vwxyzjn/cleanrl",
 "isaac-sim/IsaacLab",
 "mani-skill/ManiSkill",
-"mani-skill/ManiSkill",
 "leggedrobotics/legged_gym",
 "ARISE-Initiative/robosuite",
 "roboterax/humanoid-gym",
@@ -211,6 +210,7 @@
 ],
 "dropped": [
 ["2026-10-17","guillaumechereau/goxel"],
-["2026-10-17","ua-coinlab/pymoo"]
+["2026-10-17","ua-coinlab/pymoo"],
+["2026-10-31","anyoptimization/pymoo"]
 ]
 }

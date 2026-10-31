@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome WebAudio packages and resources.","defaultBranch":"master","topics":["webaudio","awesome","list","awesome-list","audio","midi"],"readmeSha":"d6d2d0d6ea03239b3e0e25fa12f34cbb1e822497"},
+"meta": {"description":"A curated list of awesome WebAudio packages and resources.","defaultBranch":"master","topics":["webaudio","awesome","list","awesome-list","audio","midi"],"readmeSha":"bccf34abdc97d4dcb0b77f335ff52a3a19ee1e0a"},
 "members": [
 "sindresorhus/awesome",
 "Tonejs/Tone.js",
@@ -24,8 +24,11 @@
 "jerosoler/wave-audio-path-player",
 "NumberOneBot/dsssp",
 "v-rusu/tuning-fork",
+"reactivepixels/eko-web",
+"darkdarkcocoa/bardkit",
 "GoogleChrome/audion",
 "ISNIT0/webaudio-generator",
+"aribradshaw/audio-browser-lab",
 "notthetup/midimessage",
 "jazz-soft/JZZ",
 "jazz-soft/JZZ-midi-Gear",
@@ -45,6 +48,8 @@
 "MaxAlyokhin/binary-synth",
 "NumberOneBot/dsssp-demo",
 "k1ln/synflow",
+"jonashuberts/KeyKalimba",
+"zengm32343/ocarina-simulator",
 "mmckegg/web-audio-school",
 "kylestetz/Web-Audio-Basics",
 "irritant/WAC-2016-Tutorial",

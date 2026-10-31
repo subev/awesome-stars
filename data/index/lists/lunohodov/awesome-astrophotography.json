@@ -1,7 +1,9 @@
 {
-"meta": {"description":"A curated list of resources related to astrophotography.","defaultBranch":"main","topics":["astrophotography","photography","astronomy","awesome","awesome-list"],"readmeSha":"1261b7af62e860a76fba24c1ecfcf0588c647aac"},
+"meta": {"description":"A curated list of resources related to astrophotography.","defaultBranch":"main","topics":["astrophotography","photography","astronomy","awesome","awesome-list"],"readmeSha":"87eeda2a962361d055f683df85febd576b175b47"},
 "members": [
 "celstark/OpenNebulosity",
+"mxcoppell/pixinsight-connector",
+"mxcoppell/pixinsight-connector-skills",
 "Rolf-Hempel/PlanetarySystemStacker",
 "mrantonSG/nova_DSO_tracker",
 "ppissias/SpacePixels"

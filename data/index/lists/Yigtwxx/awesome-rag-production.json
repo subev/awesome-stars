@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"31d7d239c735e626c16a0148e96489272b9f2847"},
+"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"2ab99f9058ae6496ec26ab4db9b8e4e91ec30af1"},
 "members": [
 "sindresorhus/awesome",
 "steven2358/awesome-generative-ai",
@@ -21,7 +21,6 @@
 "firecrawl/firecrawl",
 "run-llama/llama_cloud_services",
 "datalab-to/marker",
-"mdgate/converters",
 "adithya-s-k/omniparse",
 "opendataloader-project/opendataloader-pdf",
 "PaddlePaddle/PaddleOCR",
@@ -49,7 +48,7 @@
 "isaacus-dev/semchunk",
 "PrithivirajDamodaran/FlashRank",
 "VectifyAI/PageIndex",
-"Intelligent-Internet/II-42",
+"Intelligent-Internet/Evoke",
 "microsoft/graphrag",
 "gusye1234/nano-graphrag",
 "HKUDS/LightRAG",
@@ -107,6 +106,8 @@
 "NirDiamant/RAG_Techniques"
 ],
 "dropped": [
-["2026-09-11","Intelligent-Internet/psql_bm25s"]
+["2026-09-11","Intelligent-Internet/psql_bm25s"],
+["2026-10-31","mdgate/converters"],
+["2026-10-31","Intelligent-Internet/II-42"]
 ]
 }

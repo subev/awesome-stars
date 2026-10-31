@@ -1,0 +1,23 @@
+{
+"meta": {"description":"The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture","defaultBranch":"main","topics":["agent-skills","ai-agents","context-engineering","skills","ai-tools","awesome-list","claude-code","codex","copilot","progressive-disclosure"],"readmeSha":"88a62202df129a70c49a98c68918fd6a7c8f539c"},
+"members": [
+"anthropics/skills",
+"openai/skills",
+"microsoft/skills",
+"googleworkspace/cli",
+"google/skills",
+"supabase/agent-skills",
+"huggingface/skills",
+"muratcankoylan/Agent-Skills-for-Context-Engineering",
+"Orchestra-Research/AI-Research-SKILLs",
+"phuryn/pm-skills",
+"agentigy/skillcheck",
+"numman-ali/openskills",
+"langchain-ai/deepagents",
+"crestalnetwork/intentkit",
+"huggingface/upskill",
+"benchflow-ai/skillsbench",
+"jakedahn/pomodoro",
+"yzfly/Mind-Cloning-Engineering"
+]
+}

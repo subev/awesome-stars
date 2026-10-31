@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"42af8d8f2426d2aeb2d729e18d9ec8c6591e55ce"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"4d565750fb0a856db5855f21577d688dbcc4cc99"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -108,7 +108,7 @@
 "brightwind-dev/brightwind",
 "NatLabRockies/NRWAL",
 "ebranlard/welib",
-"IEA-Task-43/digital_wra_data_standard",
+"iea-wind-digitalisation/wra-data-model",
 "awebox/awebox",
 "byuflowlab/CCBlade.jl",
 "jdiasn/lidarwind",
@@ -340,6 +340,7 @@
 "NVE/JulES",
 "powertac/powertac-server",
 "b3nn0/EpexPredictor",
+"ramirocrc/odys",
 "opennem/opennem-fe",
 "catalyst-cooperative/pudl",
 "openEDI/open-data-access-tools",
@@ -1091,7 +1092,6 @@
 "gbhl/bhl-us",
 "PnX-SI/BAM-widget",
 "b-cubed-eu/b3gbi",
-"unepwcmc/ProtectedPlanet",
 "ropensci/rinat",
 "Symbiota/Symbiota",
 "iobis/pyobis",
@@ -1375,7 +1375,7 @@
 "ropensci/rcites",
 "bcgov/invasivesbc",
 "earthtoolsmaker/biowatch",
-"poissonconsulting/bbousuite",
+"LandSciTech/bbousuite",
 "Circuitscape/Circuitscape.jl",
 "conservationtechlab/animl-py",
 "google/cameratrapai",
@@ -1605,7 +1605,7 @@
 "oceanflux-ghg/FluxEngine",
 "jpgattuso/seacarb-git",
 "OHI-Science/ohi-global",
-"pmlmodelling/ersem",
+"PlymouthMarineLaboratory/ersem",
 "JuliaOcean/AIBECS.jl",
 "jamesorr/mocsy",
 "oscarbranson/cbsyst",
@@ -1677,7 +1677,7 @@
 "OPERA-Cal-Val/OPERA_Applications",
 "pepijn-devries/CopernicusMarine",
 "hydroframe/hf_hydrodata",
-"csiro-hydroinformatics/pybomwater",
+"csiro/pybomwater",
 "iodepo/odis-arch",
 "Gromopo/GroMoPo",
 "MET-OM/metocean-stats",
@@ -2568,6 +2568,11 @@
 ["2026-08-28","pavldevis/JUSTICE"],
 ["2026-09-05","energyaccessexplorer/eae-website"],
 ["2026-09-05","DOI-USGS/nhdplusTools"],
-["2026-09-05","usgs/pestpp"]
+["2026-09-05","usgs/pestpp"],
+["2026-10-31","IEA-Task-43/digital_wra_data_standard"],
+["2026-10-31","unepwcmc/ProtectedPlanet"],
+["2026-10-31","poissonconsulting/bbousuite"],
+["2026-10-31","pmlmodelling/ersem"],
+["2026-10-31","csiro-hydroinformatics/pybomwater"]
 ]
 }

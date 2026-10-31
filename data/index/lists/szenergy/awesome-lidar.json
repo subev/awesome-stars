@@ -1,8 +1,9 @@
 {
-"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"e8896d2cd14889e8e82a5ee9081b08632736e19f"},
+"meta": {"description":"😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.","defaultBranch":"main","topics":["awesome-list","awesome","lidar","pointcloud","point-cloud","3d-lidar","3d","autonomous-driving","obstacle-detection","slam"],"readmeSha":"29f16da95e6862d4f50a851c4c16e69206feea58"},
 "members": [
 "ros-drivers/velodyne",
 "valgur/velodyne_decoder",
+"erdilrf-afk/erdi-lrf-specs",
 "Ford/AVData",
 "Robotics-BUT/Brno-Urban-Dataset",
 "utiasASRL/pyboreas",

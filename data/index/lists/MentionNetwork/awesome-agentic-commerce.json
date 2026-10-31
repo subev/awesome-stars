@@ -1,0 +1,31 @@
+{
+"meta": {"description":"A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.","defaultBranch":"main","topics":["ai-commerce","awesome","awesome-list","awesome-lists","bigcommerce","ecommerce","ecommerce-tools","headless-commerce","mcp","model-context-protocol"],"readmeSha":"c58e27762845fbe7ee8a6b87dd8eb21b5bae9f61"},
+"members": [
+"Universal-Commerce-Protocol/ucp",
+"google-agentic-commerce/AP2",
+"agentic-commerce-protocol/agentic-commerce-protocol",
+"paypal/agent-toolkit",
+"stripe/ai",
+"Shopify/shopify-api-js",
+"Shopify/polaris-react-archive",
+"Shopify/cli",
+"Shopify/function-examples",
+"Shopify/dawn",
+"Shopify/hydrogen",
+"Shopify/shopify-app-template-remix",
+"Shopify/shop-chat-agent",
+"woocommerce/woocommerce-rest-api-js-lib",
+"bagisto/bagisto",
+"medusajs/medusa",
+"saleor/saleor",
+"spree/spree",
+"vendurehq/vendure",
+"vercel/commerce",
+"snipcart/snipcart-nextjs",
+"vuestorefront/storefront-ui",
+"vuestorefront/vue-storefront",
+"MentionNetwork/ecommerce-ai-visibility-engine",
+"punkpeye/awesome-mcp-servers",
+"julionc/awesome-shopify"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"74e1b98d30d67b465a311b341fbf471a99725d7b"},
+"meta": {"description":"A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)","defaultBranch":"master","topics":[],"readmeSha":"d6ddabc1b074b71cdfa84d196a0e213da15b45c5"},
 "members": [
 "planetjekyll/awesome-jekyll-themes",
 "planetjekyll/awesome-jekyll-plugins",
@@ -8,6 +8,8 @@
 "rstacruz/cheatsheets",
 "CloudCannon/Academy",
 "pixelcog/pixelcog.com",
+"sbryngelson/academic-website-template",
+"jekyllup/jekyll-theme-massively",
 "drjekyllthemes/drjekyll",
 "quikstart/mrhyde",
 "learnpixelart/pixelart.sandbox",
