@@ -1,9 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"011c6764cf4ecca5b5e15ffa76d4250a9717ab21"},
+"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"9dd777ad4c2507f9e7f97b2579e08d5a71daec04"},
 "members": [
 "j-delaney/easy-application",
 "andrwspt/jobfit",
+"ai-job-search-dev/ai-job-search",
 "yanirs/established-remote",
+"landedjobs/new-grad-and-entry-level-tech-jobs",
 "lodthe/awesome-internships",
 "deepanshu1422/List-Of-Open-Source-Internships-Programs",
 "timqian/open-source-jobs",

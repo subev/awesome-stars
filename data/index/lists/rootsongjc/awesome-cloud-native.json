@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"d49eaee53ee0e6e21cfe0ef47df0d0392722ea9b"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"a7ef7e75d7a34bf16dbacba654cd2ee9978eb2aa"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -281,6 +281,7 @@
 "tanrikuluozlem/burn",
 "opencost/opencost",
 "atlassian/escalator",
+"caas-team/GoKubeDownscaler",
 "aws/karpenter-provider-aws",
 "hjacobs/kube-downscaler",
 "uselotus/lotus",
@@ -455,12 +456,13 @@
 "storj/drpc",
 "twitter/finagle",
 "cloudwego/kitex",
-"facebook/proxygen",
+"meta/proxygen",
 "sofastack/sofa-bolt",
 "sofastack/sofa-rpc",
 "TarsCloud/Tars",
 "apache/thrift",
 "agones-dev/agones",
+"cloud-in-a-bottle/cloud-in-a-bottle",
 "containerd/containerd",
 "deislabs/containerd-wasm-shims",
 "cri-o/cri-o",
@@ -659,6 +661,7 @@
 "kubernetes-sigs/aws-iam-authenticator",
 "anonrig/awacs",
 "stacklok/brood-box",
+"casdoor/casdoor",
 "cedar-policy/cedar",
 "cert-manager/cert-manager",
 "bridgecrewio/checkov",
@@ -778,11 +781,13 @@
 "freach/kubernetes-security-best-practice",
 "kelseyhightower/kubernetes-the-hard-way",
 "mosn/mosn-tutorial",
+"mchittineni/ultimate-devops-guide",
 "Wyrcan-io/roadmap"
 ],
 "dropped": [
 ["2026-10-03","jcmoraisjr/haproxy-ingress"],
 ["2026-10-03","us/den"],
-["2026-10-25","probityai/agent-evidence-admission"]
+["2026-10-25","probityai/agent-evidence-admission"],
+["2026-11-01","facebook/proxygen"]
 ]
 }

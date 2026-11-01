@@ -1,5 +1,5 @@
 {
-"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"f9be94cbdcc7bb6857c8da73c8e18662acd46865"},
+"meta": {"description":"OSX and iOS related security tools","defaultBranch":"master","topics":["macos","osx","security","ios-security","osx-security","awesome-list","awesome"],"readmeSha":"943c21c0bf8f43f8efb2205ccbdae9eaba1c66fe"},
 "members": [
 "YelpArchive/osxcollector",
 "jipegit/OSXAuditor",

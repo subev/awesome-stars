@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Websocket libraries and resources.","defaultBranch":"master","topics":["websockets","websocket-server","websocket-protocol","websocket-node","websocket-api","websocket-rails","websocket","websocket-client","websocket-chat","websocket-library"],"readmeSha":"e52333a460f413580503d15ed188c85536bb40f0"},
+"meta": {"description":"A curated list of Websocket libraries and resources.","defaultBranch":"master","topics":["websockets","websocket-server","websocket-protocol","websocket-node","websocket-api","websocket-rails","websocket","websocket-client","websocket-chat","websocket-library"],"readmeSha":"8b111d88d0a4276b74713ff34847dcc0110302b1"},
 "members": [
 "sindresorhus/awesome",
 "disconnect/apache-websocket",
@@ -30,7 +30,7 @@
 "shaunabanana/unity-websocket-server",
 "Marfusios/websocket-client",
 "radu-matei/websocket-manager",
-"dajuric/websocket-rpc",
+"branch-predict/websocket-rpc",
 "aspnet/WebSockets",
 "sta/websocket-sharp",
 "adamdruppe/arsd",
@@ -54,7 +54,7 @@
 "gofiber/websocket",
 "gorilla/websocket",
 "googollee/go-socket.io",
-"antlabs/greatws",
+"antlabs/fio",
 "lxzan/gws",
 "kubestellar/console",
 "olahol/melody",
@@ -163,5 +163,9 @@
 "plantain-00/ws-tool",
 "Apress/def-guide-to-html5-websocket",
 "thlorenz/doctoc"
+],
+"dropped": [
+["2026-11-01","dajuric/websocket-rpc"],
+["2026-11-01","antlabs/greatws"]
 ]
 }

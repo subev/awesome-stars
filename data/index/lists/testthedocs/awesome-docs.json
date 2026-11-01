@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"176cef639068208b1b7b56102a3c14f3457be443"},
+"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"e539c8f177327ea7b88e554c26b0dd5ffa733b7d"},
 "members": [
 "dequelabs/axe-cli",
 "JakePartusch/lumberjack",
@@ -32,9 +32,11 @@
 "littletuna4/reqlan",
 "plasma-ai/wiki",
 "alyssaxuu/animockup",
+"Bubblegunn/ai-slop-linter",
 "get-alex/alex",
 "smallhadroncollider/brok",
 "antfu/case-police",
+"forgedculture/corpus-keeper",
 "doc-detective/doc-detective",
 "melbinjp/docproof",
 "wjdp/htmltest",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"65a7c1c3901f97119221dbb991f0b3a2efa93fdf"},
+"meta": {"description":"A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)","defaultBranch":"master","topics":[],"readmeSha":"6d14bef465bfd5ee19e8650473f39ae7d9b9070c"},
 "members": [
 "planetjekyll/awesome-jekyll",
 "planetjekyll/awesome-jekyll-themes",
@@ -17,7 +17,7 @@
 "prometheus-ev/jekyll-localization",
 "algolia/jekyll-algolia",
 "omc/searchyll",
-"phothinmg/jekykll-pagefind",
+"bagandev/jekykll-pagefind",
 "jekyll/jekyll-feed",
 "feedreader/planet.rb",
 "JuanVqz/jekyll-devto",
@@ -55,6 +55,7 @@
 "jchance/jekyll-livid",
 "jchance/jekyll-mux",
 "jchance/jekyll-bunny",
+"solworktech/jekyll-trecs",
 "jekyll-octopod/jekyll-octopod",
 "bertrandkeller/jekyll-geocode",
 "ayastreb/jekyll-maps",
@@ -171,5 +172,8 @@
 "vwochnik/jekyll-deploy",
 "ZhgChgLi/ZMediumToJekyll",
 "gemfarmer/jekyll-debug"
+],
+"dropped": [
+["2026-11-01","phothinmg/jekykll-pagefind"]
 ]
 }

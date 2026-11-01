@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of BBC micro:bit resources.","defaultBranch":"main","topics":["microbit","awesome-list","awesome","hacktoberfest"],"readmeSha":"255a9c9866d0f2f543a11254d28896509f2c914b"},
+"meta": {"description":"A curated list of BBC micro:bit resources.","defaultBranch":"main","topics":["microbit","awesome-list","awesome","hacktoberfest"],"readmeSha":"772aa966f48d900894855000329b582f586d1744"},
 "members": [
 "sindresorhus/awesome",
 "openblockcc/openblock-desktop",

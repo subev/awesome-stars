@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"fc08783b6c2305f5e6960dc52af03ec8b68f92f6"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"877e48d9a6dde2d18be7dab18eb48a1045a17ca6"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -63,6 +63,11 @@
 "LeenHawk/gproxy",
 "bricks-cloud/BricksLLM",
 "EinStack/glide",
+"ffseika0304/shanhai-gateway",
+"caelum0x/railyard",
+"respanai/respan-gateway",
+"huangjinpeng216/relay-failover",
+"karmendra8386/argus",
 "Kong/kong",
 "apache/apisix",
 "theagentrouter/agent-router",
@@ -107,7 +112,7 @@
 "pomerium/pomerium",
 "oomol-lab/open-connector",
 "btsouth/toolport",
-"Omega-JS-Stack/omega",
+"omegajs-dev/omega",
 "sandbaseai/cli",
 "OpenRouterTeam/ai-sdk-provider",
 "langchain-ai/langchain",
@@ -147,7 +152,6 @@
 "cocodot2026/cocodot-llmprobe",
 "wyl743405571-cpu/oneapi-key-monitor",
 "ENTERPILOT/ai-gateway-reproducible-benchmark",
-"mnfst/llm-gateway",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",
@@ -161,6 +165,7 @@
 ["2026-09-12","mnfst/manifest"],
 ["2026-09-12","envoyproxy/ai-gateway"],
 ["2026-10-18","Veloera/Veloera"],
-["2026-10-25","diegosouzapw/OmniRoute"]
+["2026-10-25","diegosouzapw/OmniRoute"],
+["2026-11-01","Omega-JS-Stack/omega"]
 ]
 }

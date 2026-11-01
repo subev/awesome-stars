@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome things related to Celery (distributed task queue)","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"90ee846bcadc6ccffbf079d9a3e3bf51223c48c8"},
+"meta": {"description":"A curated list of awesome things related to Celery (distributed task queue)","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"66d73446340b70335971cc8fdf2d3b92cd47e3af"},
 "members": [
 "celery/celery",
 "vintasoftware/celery-tasks-checklist",
 "danyi1212/celery-insights",
 "mher/flower",
+"getkanchi/kanchi",
 "kodless/leek",
 "celery/django-celery-beat",
 "czue/celery-progress",

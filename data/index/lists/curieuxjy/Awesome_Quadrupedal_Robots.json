@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Quadrupedal Robots","defaultBranch":"main","topics":["awesome","awesome-list","quadruped","quadruped-robot","quadruped-robots"],"readmeSha":"59c9c72eaa6c27e961a7d3372b790df3ef1ee0e7"},
+"meta": {"description":"Awesome Quadrupedal Robots","defaultBranch":"main","topics":["awesome","awesome-list","quadruped","quadruped-robot","quadruped-robots"],"readmeSha":"5dacca5fb33033941ac3bd53fcc6f1aa2525e752"},
 "members": [
 "sindresorhus/awesome",
 "google-deepmind/barkour_robot",
@@ -170,6 +170,7 @@
 "mayataka/robotoc",
 "qiayuanl/legged_control",
 "silvery107/wheeled-bipedal-jumping",
+"voltdog/mors_quadruped",
 "ancorasir/OverconstrainedLocomotion",
 "ARCaD-Lab-UM/RF-MPC",
 "dojo-sim/ContactImplicitMPC.jl",
@@ -196,6 +197,7 @@
 "ANYbotics/elevation_mapping",
 "ANYbotics/grid_map",
 "rai-opensource/vlfm",
+"dfl-rlab/dddmr_navigation",
 "leggedrobotics/foci",
 "leggedrobotics/smug_planner",
 "leggedrobotics/viplanner",
@@ -226,8 +228,8 @@
 "OpenMOSS/FRoM-W1",
 "HansZ8/RoboJuDo",
 "HorizonRobotics/HoloMotion",
-"NVlabs/GR00T-WholeBodyControl",
 "NVlabs/GR00T-VisualSim2Real",
+"NVlabs/GR00T-WholeBodyControl",
 "NVlabs/ProtoMotions",
 "RobotLocomotion/drake",
 "se-hwan/cusadi",

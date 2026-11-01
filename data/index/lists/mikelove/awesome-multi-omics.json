@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of software packages for multi-omics analysis","defaultBranch":"master","topics":[],"readmeSha":"7790495ac009aedb1ef9aa7f97b3ce64229da0d1"},
+"meta": {"description":"List of software packages for multi-omics analysis","defaultBranch":"master","topics":[],"readmeSha":"f15c1c44b51a67f7230c0f6ef45220d328c12731"},
 "members": [
 "seandavi/awesome-single-cell",
 "tomwhoooo/scca_3.0",
@@ -50,6 +50,7 @@
 "cafferychen777/flashdeconv",
 "ratschlab/DeepSpot",
 "ratschlab/DeepSpot2Cell",
+"liu-bioinfo-lab/CelLink",
 "ratschlab/DeepSpotM",
 "ratschlab/aestetik",
 "rdevito/MSFA",

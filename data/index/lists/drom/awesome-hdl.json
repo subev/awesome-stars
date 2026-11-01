@@ -1,6 +1,8 @@
 {
-"meta": {"description":"Hardware Description Languages","defaultBranch":"master","topics":["awesome","awesome-list","hardware-description-language","verilog","vhdl","hdl","hacktoberfest"],"readmeSha":"a7391cdf3b44f9646cbc4ef56659fd658617bfe7"},
+"meta": {"description":"Hardware Description Languages","defaultBranch":"master","topics":["awesome","awesome-list","hardware-description-language","verilog","vhdl","hdl","hacktoberfest"],"readmeSha":"84263f5a30164d229c8832df3bf2ee66a692495e"},
 "members": [
+"steveicarus/iverilog",
+"YosysHQ/yosys",
 "nickg/nvc",
 "ghdl/ghdl",
 "ucsc-vama/essent",
@@ -61,14 +63,13 @@
 "google/autopiper",
 "tub-msc/ordec",
 "sylefeb/Silice",
-"kisp-nus/anvil",
+"AnvilHDL/anvil",
 "rdaly525/coreir",
 "masc-ucsc/livehd",
 "chipsalliance/firrtl",
 "fabianschuiki/llhd",
 "Vlsir/Vlsir",
 "verilog-to-routing/vtr-verilog-to-routing",
-"YosysHQ/yosys",
 "wavedrom/bitfield",
 "Nic30/d3-wave",
 "Nic30/d3-hwschematic",
@@ -85,6 +86,7 @@
 "ucb-bar/midas",
 "cocotb/cocotb",
 "OSVVM/OsvvmLibraries",
+"UVVM/UVVM",
 "antmicro/crave",
 "agra-uni-bremen/crave",
 "SystemRDL/PeakRDL",
@@ -96,5 +98,8 @@
 "m-kru/hbs",
 "dalance/svlint",
 "LeeKaiXuan/PSS_Cookbook"
+],
+"dropped": [
+["2026-11-01","kisp-nus/anvil"]
 ]
 }

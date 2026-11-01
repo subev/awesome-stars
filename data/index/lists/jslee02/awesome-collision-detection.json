@@ -1,5 +1,5 @@
 {
-"meta": {"description":":sunglasses: A curated list of awesome collision detection libraries and resources","defaultBranch":"main","topics":["collision","collision-detection","awesome-list"],"readmeSha":"c638be93cdfff5306a51ce5aaf112e24bf29b4ff"},
+"meta": {"description":":sunglasses: A curated list of awesome collision detection libraries and resources","defaultBranch":"main","topics":["collision","collision-detection","awesome-list"],"readmeSha":"6e25974d9e3e04905d79a6d7fc0bc25dd8ba3cfe"},
 "members": [
 "google-deepmind/mujoco",
 "bulletphysics/bullet3",
@@ -27,7 +27,6 @@
 "SarahWeiii/CoACD",
 "mlivesu/cinolib",
 "gaschler/bounding-mesh",
-"coal-library/coal",
 "lmontaut/colbench",
 "lmontaut/collision-detection-benchmark",
 "CGAL/cgal",

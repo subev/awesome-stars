@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome AI-powered image coloring frameworks, libraries and software.","defaultBranch":"master","topics":["awesome-list","deep-learning","image-colorization","deep-neural-networks"],"readmeSha":"c9e1f8890e775e8bb593099712824572d2d311b9"},
+"meta": {"description":"A curated list of awesome AI-powered image coloring frameworks, libraries and software.","defaultBranch":"master","topics":["awesome-list","deep-learning","image-colorization","deep-neural-networks"],"readmeSha":"c7f6026c2e68188c852c260106fc839973c7a406"},
 "members": [
 "sindresorhus/awesome",
 "Armour/Automatic-Image-Colorization",

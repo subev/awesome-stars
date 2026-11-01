@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"19dfa0e3bb6d5ae173800d225afbfc00a4218015"},
+"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"39ddfc73ae3f651cb86340eae572e759d4d624ce"},
 "members": [
 "opengeos/Awesome-GEE",
 "google/earthengine-api",
@@ -17,6 +17,8 @@
 "aazuspan/snazzy",
 "aazuspan/ee-polyfill",
 "jessjaco/gee-blend",
+"RisaRezaei/gee-wetland-water-rf",
+"RisaRezaei/gee-air-quality-toolkit",
 "samapriya/gee_asset_manager_addon",
 "samapriya/geeup",
 "KMarkert/cartoee",
@@ -42,6 +44,7 @@
 "giswqs/qgis-earthengine-examples",
 "TerraLabAI/QGIS_AI-Segmentation",
 "Mastro1/SatLit",
+"RisaRezaei/gee-water-resources-course",
 "samapriya/awesome-gee-community-datasets"
 ]
 }

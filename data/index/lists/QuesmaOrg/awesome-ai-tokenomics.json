@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"2039d5515de3be1184c92b9b12929d83b62843d1"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"dc2dcc38aac58c3de21e5e2d7b4fb64382ee825d"},
 "members": [
 "antiburn/antiburn",
 "ccusage/ccusage",
@@ -72,11 +72,11 @@
 "NVIDIA/TensorRT-LLM",
 "vllm-project/vllm",
 "withcoral/coral",
-"roy-tong/AgentMeasure",
+"roy-tong/Verovo",
 "OptimNow/cloud-finops-skills",
 "eunomia-bpf/ActPlane",
 "Justin0504/Aegis",
-"facebook/mcpguard-dynamic",
+"meta/mcpguard-dynamic",
 "getnable/finopsmcp",
 "Aider-AI/aider",
 "cline/cline",
@@ -113,6 +113,8 @@
 ["2026-10-10","mihneaptu/opencode-fusion"],
 ["2026-10-10","headroomlabs-ai/tokview"],
 ["2026-10-25","GuglielmoCerri/khazad"],
-["2026-10-25","letta-ai/letta"]
+["2026-10-25","letta-ai/letta"],
+["2026-11-01","roy-tong/AgentMeasure"],
+["2026-11-01","facebook/mcpguard-dynamic"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"fe21f5fbf779d6ae27e2f74b03add526144f0d79"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"33202a05e9dce279a45beb37ab73ea64499c1361"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -19,8 +19,8 @@
 "rlaope/oh-my-hermes",
 "Josh-XT/AGiXT",
 "trpc-group/trpc-agent-go",
-"agentlas-ai/Agentlas-OS",
 "razzant/ouroboros",
+"agentlas-ai/Agentlas-OS",
 "openonion/connectonion",
 "wanxingai/LightAgent",
 "kreneskyp/ix",
@@ -32,6 +32,8 @@
 "juspay/neurolink",
 "NetMindAI-Open/NarraNexus",
 "nMaroulis/protolink",
+"Scottcjn/shaprai",
+"Scottcjn/trashclaw",
 "barun-saha/kodeagent",
 "FoundationAgents/MetaGPT",
 "microsoft/autogen",
@@ -54,8 +56,8 @@
 "swarmclawai/swarmclaw",
 "Charlie85270/Dorothy",
 "clawfleet/ClawFleet",
-"oxgeneral/ORCH",
 "daxaur/openpaw",
+"oxgeneral/ORCH",
 "HCF-STUDIOS/openhermit",
 "5dive-ai/5dive",
 "AutoResearch-Factory/Agon",
@@ -111,8 +113,6 @@
 ["2026-08-29","EvoAgentX/EvoAgentX"],
 ["2026-09-12","Perseus-Computing-LLC/perseus"],
 ["2026-09-19","Fzkuji/OpenProgram"],
-["2026-10-10","Scottcjn/shaprai"],
-["2026-10-10","Scottcjn/trashclaw"],
 ["2026-10-10","WayneJin0918/Omni-Rewriter"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"1446decd0a0432e07263ba1136b8a382cabf44f9"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"1c0c1370d0f67d065802031002f443745f48423e"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -96,7 +96,7 @@
 "scgopi/GraphCode",
 "caspianchan31/in0",
 "yangzichao/JustSessions",
-"nek0der/limpid",
+"nek0der/weir",
 "modu-ai/moai-studio",
 "stickmy/moss",
 "10xChengTu/Mux0",
@@ -129,6 +129,7 @@
 ["2026-09-19","BarutSRB/OmniWM"],
 ["2026-10-18","arach/Termini"],
 ["2026-10-18","rambocode/aster"],
-["2026-10-18","neurosnap/footty"]
+["2026-10-18","neurosnap/footty"],
+["2026-11-01","nek0der/limpid"]
 ]
 }

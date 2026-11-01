@@ -1,8 +1,8 @@
 {
-"meta": {"description":"The awesome list for everything rclone.","defaultBranch":"main","topics":["awesome","awesome-list","rclone"],"readmeSha":"3bd917322f92b35db770bdf28201a26f36130664"},
+"meta": {"description":"The awesome list for everything rclone.","defaultBranch":"main","topics":["awesome","awesome-list","rclone"],"readmeSha":"5c24935dc62a5e4e880cf57894eadde4f4870acb"},
 "members": [
 "rclone/rclone",
-"rclone-ui/rclone-ui",
+"rclone/rclone-ui",
 "liriliri/rem",
 "Zarestia-Dev/rclone-manager",
 "pieterdd/RcloneShuttle",
@@ -50,5 +50,8 @@
 "itsToggle/rclone_RD",
 "Lesmiscore/rclone-config-builder",
 "ipod825/vim-netranger"
+],
+"dropped": [
+["2026-11-01","rclone-ui/rclone-ui"]
 ]
 }

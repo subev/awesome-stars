@@ -1,9 +1,11 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"06151449ac0a475110b206fe9d8401dd6f975e40"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"a7c5f0a42b5c156a73ed516305b94d306c5d1d9d"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
+"vostride/agent-qa",
 "gitemre/device-hub-pro",
+"seifip/kilobat-cli",
 "ateymoori/oh-my-android",
 "sorkila/tintpad",
 "viewer12/Nexus-Shell-Releases",
@@ -14,6 +16,7 @@
 "Orkas-AI/Orkas-VideoStudio",
 "cerebroapp/cerebro",
 "MindMacApp/MindMac",
+"auspy/supasidebar-updates",
 "yagcioglutoprak/dusty",
 "glimapp/glim",
 "AlexTkDev/MacOSCleaner",
@@ -26,6 +29,7 @@
 "ParetoSecurity/pareto-mac",
 "arpitagarwal1301/wardlume",
 "ianyh/Amethyst",
+"Feng6611/mac-command-reopen",
 "tumingke0/LayoutKeeper"
 ],
 "dropped": [

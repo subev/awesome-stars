@@ -1,6 +1,7 @@
 {
-"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"fc40436ee2b76c219a6310174becd72a5fd8ec4b"},
+"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"6a9545390590c5dac200c1712508f4b714bf8c70"},
 "members": [
+"kleogeos/awesome-freelance-tools",
 "szabgab/awesome-for-non-programmers",
 "sdras/awesome-actions",
 "trimstray/the-book-of-secret-knowledge",
@@ -29,8 +30,11 @@
 "dapollonsky/marketing-ai-stack",
 "fhiltscher/awesome-ai-coding-sandboxes",
 "QuesmaOrg/awesome-ai-tokenomics",
+"ianwieds/awesome-ai-agents",
 "firstcontributions/first-contributions",
 "Infrasity-Labs/awesome-developer-conferences",
+"sindresorhus/awesome",
+"AbdelStark/awesome-typesafe-jev",
 "chetanraj/awesome-github-badges",
 "Ileriayo/markdown-badges",
 "drknzz/GitHub-Achievements",

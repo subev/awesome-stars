@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome Jekyll editors","defaultBranch":"master","topics":[],"readmeSha":"a4fc183766f9fc457b92ebd9b702c1d3b13f8c55"},
+"meta": {"description":"A collection of awesome Jekyll editors","defaultBranch":"master","topics":[],"readmeSha":"4b48b7574172634091902829bb12efd4f056f895"},
 "members": [
 "planetjekyll/awesome-jekyll",
 "planetjekyll/awesome-jekyll-themes",
@@ -13,6 +13,7 @@
 "mushishi78/content-editor",
 "shinemoon/jekyller",
 "tatey/JekyllStudio",
+"thechelsuk/ext-chrome-hiyd",
 "23maverick23/sublime-jekyll",
 "parkr/vim-jekyll",
 "mundimark/awesome-markdown-editors"

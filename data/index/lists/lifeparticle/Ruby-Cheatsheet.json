@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 The Missing Cheatsheet for Ruby","defaultBranch":"master","topics":["ruby","cheatsheet","awesome","basic","programming","lambdas","loop","range","hash","yield"],"readmeSha":"aeee5efd1ebcd984092f310a965392b7763e2b2e"},
+"meta": {"description":"💎 The Missing Cheatsheet for Ruby","defaultBranch":"master","topics":["ruby","cheatsheet","awesome","basic","programming","lambdas","loop","range","hash","yield"],"readmeSha":"73e7045fa44cc374913ecb07bb84444e30ac80be"},
 "members": [
 "microsoft/winget-cli",
 "rbenv/rbenv",
