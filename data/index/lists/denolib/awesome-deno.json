@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"c0c5cf2147ba2336b73afb0c498aa0610f17a449"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"72dc5c72c074483ecaf8d2b7cce8679d52250d79"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -11,6 +11,7 @@
 "AhmedOsman101/commit-sage-cli",
 "Im-Beast/deno_tui",
 "yargs/yargs",
+"bompus/sigflint",
 "Kirlovon/aloedb",
 "denodrivers/mongo",
 "denodrivers/mysql",
@@ -27,7 +28,7 @@
 "exhibitionist-digital/ultra",
 "load1n9/caviar",
 "littledivy/deno_sdl2",
-"matmen/ImageScript",
+"imagescript/ImageScript",
 "hanshs474/kavel-ts",
 "retraigo/monke",
 "dahlia/logtape",
@@ -77,7 +78,7 @@
 "deno-web3/solc",
 "switcherapi/switcher-client-deno",
 "bokuweb/wu-diff-js",
-"nyaomaru/is-kit",
+"necoz-oss/is-kit",
 "colinhacks/zod",
 "alosaur/alosaur",
 "predetermined/aqua",
@@ -111,6 +112,7 @@
 "Prolifode/deno_rest",
 "edrys-org/edrys",
 "ryo-ma/github-profile-trophy",
+"alexindigo/globnotes",
 "shopsavvy/deno-deploy-shopsavvy",
 "ekaragodin/clone",
 "siddiksawani/CompatLab",
@@ -138,6 +140,8 @@
 "denoland/vscode_deno"
 ],
 "dropped": [
-["2026-10-17","halvardssm/deno-nessie"]
+["2026-10-17","halvardssm/deno-nessie"],
+["2026-11-07","matmen/ImageScript"],
+["2026-11-07","nyaomaru/is-kit"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"8e9265a63bb9f08b57d17715143cb46aaec21230"},
+"meta": {"description":"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.","defaultBranch":"master","topics":["static-analysis","static-analyzers","linter","code-quality","awesome-list","static-code-analysis","sast","analysis","hacktoberfest"],"readmeSha":"563187e2fb9e0fd7dd371c53af70eb8047c6df95"},
 "members": [
 "analysis-tools-dev/dynamic-analysis",
 "KDE/clazy",
@@ -144,6 +144,7 @@
 "glato/emerge",
 "eslint/eslint",
 "lambdasec/frame",
+"kinlab-ai/kin",
 "terryyin/lizard",
 "RoloBits/nestjs-doctor",
 "Alcatecablee/Neurolint-CLI",

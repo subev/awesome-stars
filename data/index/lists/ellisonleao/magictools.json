@@ -1,22 +1,16 @@
 {
-"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"6006b0c85fd3f3ba0b0f5cbdd3e658f88d5f80af"},
+"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"594b89865550b7d2e41abb9bd6163bc5ebfd7bb2"},
 "members": [
 "sindresorhus/awesome",
 "nidorx/matcaps",
 "scriptum/Cheetah-Texture-Packer",
 "libgdx/libgdx",
-"Stuyk/meshcoat",
 "Hugo-Dz/spritefusion-sprite-normals",
 "RodZill4/material-maker",
 "UnderwaterApps/overlap2d",
-"Yoru-KenomoVT/ayatsuri_2d",
-"Stuyk/meshanimate",
-"Stuyk/meshrig",
 "Ttanasart-pt/Pixel-Composer",
-"pixelpixi/spritewright",
 "Pixen/Pixen",
 "Hugo-Dz/spritefusion-pixel-snapper",
-"VGBijpuria/Canvascript",
 "guillaumechereau/goxel",
 "tek256/astera",
 "axmolengine/axmol",
@@ -73,7 +67,6 @@
 "BleuBleu/FamiStudio",
 "Dn-Programming-Core-Management/Dn-FamiTracker",
 "milkytracker/MilkyTracker",
-"Stuyk/slip-sound",
 "hzoo/awesome-gametalks",
 "FakeFishGames/Barotrauma",
 "ericjohnson/canabalt-ios",
@@ -110,6 +103,13 @@
 ["2026-10-31","braedonsaunders/parlour"],
 ["2026-10-31","Mattbusel/proof-engine"],
 ["2026-10-31","ArtyProf/steamworks-ffi-node"],
-["2026-10-31","glitchless-gg/glitchless"]
+["2026-10-31","glitchless-gg/glitchless"],
+["2026-11-07","Stuyk/meshcoat"],
+["2026-11-07","Yoru-KenomoVT/ayatsuri_2d"],
+["2026-11-07","Stuyk/meshanimate"],
+["2026-11-07","Stuyk/meshrig"],
+["2026-11-07","pixelpixi/spritewright"],
+["2026-11-07","VGBijpuria/Canvascript"],
+["2026-11-07","Stuyk/slip-sound"]
 ]
 }

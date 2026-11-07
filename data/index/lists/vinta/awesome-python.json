@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"1000fc9894585f976d9c660262b448bdeda63dba"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"41e3133e5827c988df7ded979d5b0333f15a0f54"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "K-Dense-AI/scientific-agent-skills",

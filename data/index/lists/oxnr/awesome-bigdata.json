@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"87565f712fd87d53009a8dd8b05878d0fee48b9c"},
+"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"b6c6c86c4a18ce74a2ae2fe8ede848cdb86b2798"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -11,6 +11,7 @@
 "polyaxon/polyaxon",
 "smooks/smooks",
 "addthis/hydra",
+"saguiitay/CardinalityEstimation",
 "damballa/parkour",
 "datasalt/pangool",
 "Netflix/PigPen",
@@ -91,6 +92,7 @@
 "gazette/core",
 "mozilla-services/heka",
 "sonalgoyal/hiho",
+"bejaouibechir/Hydra",
 "bruin-data/ingestr",
 "LinkedInAttic/kamikaze",
 "LinkedInAttic/white-elephant",
@@ -178,6 +180,7 @@
 "ankane/blazer",
 "bruin-data/dac",
 "lightdash/lightdash",
+"mthomason/MAD",
 "metabase/metabase",
 "airbnb/airpal",
 "samizdatco/arbor",

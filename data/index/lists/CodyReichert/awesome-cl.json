@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"c218edcc9d7e054df62c3d98e53dbc20a7f3354b"},
+"meta": {"description":"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.","defaultBranch":"master","topics":["common-lisp","awesome","lisp","common-lisp-tools","quicklisp","libraries"],"readmeSha":"d9900348872b1afa9c18d049b33eb6fc2c582422"},
 "members": [
 "sindresorhus/awesome",
 "azzamsa/awesome-cl-software",
 "azzamsa/awesome-lisp-companies",
 "lambda-symbolics/autolith",
+"nodecode-ai/nodecode",
 "openai/openai-openapi",
 "atgreen/cl-completions",
 "atgreen/cl-embeddings",
@@ -93,6 +94,7 @@
 "vseloved/cl-agraph",
 "kraison/cl-neo4j",
 "kraison/vivace-graph",
+"hajovonta/ariadne",
 "JermellB/restagraph",
 "scalaxy/scalaxy",
 "melisgl/lmdb",

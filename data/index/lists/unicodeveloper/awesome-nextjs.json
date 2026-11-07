@@ -1,5 +1,5 @@
 {
-"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"8e2928d422f3dd5353328078d4bf0b12ff1329c5"},
+"meta": {"description":":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ","defaultBranch":"master","topics":["javascript","server-side-rendering","nextjs","awesome-list","tutorials","framework","isomorphic","universal","routing","reactjs"],"readmeSha":"eb7532575725eae76b1a8c51f706a6ce07b2b104"},
 "members": [
 "sindresorhus/awesome",
 "vercel/next.js",
@@ -51,6 +51,7 @@
 "Blazity/next-enterprise",
 "BearStudio/start-ui-web",
 "thefrontkit/a11y-starter-kit-code",
+"vilqor/midnight-lite",
 "UnlyEd/universal-language-detector",
 "fridays/next-routes",
 "fmiras/next-pkg",

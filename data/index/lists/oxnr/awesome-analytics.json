@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"0282167c811fc787504544e43b1df209804a1a1f"},
+"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"16474049f0ce07b6f278a7c24a30db773ccb4242"},
 "members": [
 "sindresorhus/awesome",
 "oxnr/awesome-bigdata",
@@ -23,6 +23,7 @@
 "rudderlabs/rudder-server",
 "serphacker/serposcope",
 "izzipizzy/gsc-hub",
+"tudortotolici/sensegap",
 "nowork-studio/notfair-plugin",
 "usefathom/fathom",
 "plausible/analytics",
@@ -45,6 +46,7 @@
 "writerslogic/facet",
 "soumydip/ucoder_insight_core",
 "scobb/beam.js",
+"spcaeo/skald",
 "AsoBeast/asobeast",
 "vizuh/clicktrail-js",
 "virling/virling",
@@ -53,6 +55,7 @@
 "flowkraft/datapallas",
 "Freeboard/freeboard",
 "abhishekhsingh/goatcounter-dashboard",
+"mthomason/MAD",
 "metabase/metabase",
 "chartbrew/chartbrew",
 "getredash/redash",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An Awesome List for getting started with web archiving","defaultBranch":"main","topics":["webarchiving","awesome-list","awesome"],"readmeSha":"a32b42029d32dea75c7ca1753448f979e0b5a60e"},
+"meta": {"description":"An Awesome List for getting started with web archiving","defaultBranch":"main","topics":["webarchiving","awesome-list","awesome"],"readmeSha":"3466c88136ec098281d14e1c642efc63c5dbf3d3"},
 "members": [
 "vphill/web-archiving-course",
 "commoncrawl/whirlwind-python",
@@ -68,7 +68,7 @@
 "oduwsdl/MemGator",
 "N0taN3rd/node-cdxj",
 "oduwsdl/ORS",
-"nla/outbackcdx",
+"iipc/outbackcdx",
 "ukwa/ukwa-heritrix",
 "unt-libraries/py-wasapi-client",
 "httpreserve/tikalinkextract",
@@ -108,5 +108,8 @@
 "machawk1/awesome-memento",
 "webrecorder/browsertrix",
 "Crawlora-org/dead-web-index-data"
+],
+"dropped": [
+["2026-11-07","nla/outbackcdx"]
 ]
 }

@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"c51355da579a83f52fc592405c6dbfa1b5241188"},
+"meta": {"description":"A curated list of awesome developer-first tools products.","defaultBranch":"main","topics":["awesome-list","awesome","developer-tools","developer-first"],"readmeSha":"74c4956e686a3907f34407c4419092713d4e3a11"},
 "members": [
 "Aider-AI/aider",
+"Asymptote-Labs/agent-beacon",
 "cline/cline",
 "Kilo-Org/kilocode",
 "mastra-ai/mastra",
@@ -19,6 +20,9 @@
 "encoredev/encore",
 "nhost/nhost",
 "supabase/supabase",
+"browser-use/browser-use",
+"browserless/browserless",
+"browserbase/stagehand",
 "gitpod-io/gitpod",
 "TryGhost/Ghost",
 "strapi/strapi",
@@ -45,7 +49,6 @@
 "MapleTechLabs/maple",
 "comet-ml/opik",
 "The-Vibe-Company/quivr",
-"browserless/browserless",
 "agentset-ai/agentset",
 "topoteretes/cognee",
 "meilisearch/meilisearch",

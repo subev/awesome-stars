@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"658909e212352ebaaaa4e68190e2e5e1db1c804e"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"9425e2c53311c762c4bc459fc8493ea0321c7e17"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -43,6 +43,7 @@
 "pipelinedb/pipelinedb",
 "timeplus-io/proton",
 "redpanda-data/redpanda",
+"Indus-Stack/rekuiper",
 "risingwavelabs/risingwave",
 "apache/incubator-retired-s4",
 "lsds/Saber",
@@ -104,6 +105,7 @@
 "linkedin/databus",
 "faucet-hq/faucet-stream",
 "bruin-data/ingestr",
+"marcomq/mq-bridge",
 "datazip-inc/olake",
 "pathwaycom/pathway",
 "redpanda-data/connect",

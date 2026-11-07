@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"3ab4e745101453800af154b7f22b9ec3494a4fb1"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"dc947d72cd754b526055b0f0b782bb10c32bd34d"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -178,7 +178,7 @@
 "jeffheaton/encog-java-core",
 "h2oai/h2o-3",
 "numenta/htm.java",
-"hissain/jscipy",
+"infomity/jscipy",
 "bwaldvogel/liblinear-java",
 "apache/mahout",
 "Hydrospheredata/mist",
@@ -547,7 +547,6 @@
 "fukatani/stacked_generalization",
 "modAL-python/modAL",
 "cogitare-ai/cogitare",
-"Terminay/leanpass",
 "jgreenemi/Parris",
 "apple/turicreate",
 "flennerhag/mlens",
@@ -605,6 +604,7 @@
 "dhgefergfefruiwefhjhcduc/ML_Forgex",
 "doublewordai/autobatcher",
 "future-agi/future-agi",
+"RishabhPande/GNN-fraud-ring-detection",
 "capitalone/datacompy",
 "Shanky-21/Data_visualization",
 "AutoViML/AutoViz",
@@ -881,6 +881,8 @@
 "gopherdata/resources"
 ],
 "dropped": [
-["2026-10-24","NeuraLegion/crystal-fann"]
+["2026-10-24","NeuraLegion/crystal-fann"],
+["2026-11-07","hissain/jscipy"],
+["2026-11-07","Terminay/leanpass"]
 ]
 }

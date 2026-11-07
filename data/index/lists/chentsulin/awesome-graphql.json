@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"3950d2009fdd296889e951a8b17c7788061ce841"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"43c733715b59d66e5f50a38d7de6504709d63438"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -29,7 +29,7 @@
 "ember-graphql/ember-apollo-client",
 "apollo-elements/apollo-elements",
 "jycouet/kitql",
-"facebook/relay",
+"meta/relay",
 "urql-graphql/urql",
 "nearform/graphql-hooks",
 "mobxjs/mst-gql",
@@ -301,6 +301,7 @@
 "romshark/gqlhash",
 "cube-js/cube",
 "weaviate/weaviate",
+"terminusdb/terminusdb",
 "saleor/saleor",
 "unchainedshop/unchained",
 "mugli/learning-graphql",
@@ -326,6 +327,7 @@
 ["2026-09-25","alan345/AI-Fullstack-SaaS-Boilerplate"],
 ["2026-09-25","teambit/bit"],
 ["2026-09-25","graphql-hive/graphql-inspector"],
-["2026-10-17","networknt/light-example-4j"]
+["2026-10-17","networknt/light-example-4j"],
+["2026-11-07","facebook/relay"]
 ]
 }

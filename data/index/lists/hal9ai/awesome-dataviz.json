@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome data visualization libraries and resources.","defaultBranch":"main","topics":["data-visualization","visualization","chart","dataviz","visualize-data","awesome-list"],"readmeSha":"7c9e38cc57f86ea7e87c3699c6c08f9ce7c36bbf"},
+"meta": {"description":"A curated list of awesome data visualization libraries and resources.","defaultBranch":"main","topics":["data-visualization","visualization","chart","dataviz","visualize-data","awesome-list"],"readmeSha":"a50160e58caa3b6be6a90ec485863b437af470e9"},
 "members": [
 "sindresorhus/awesome",
 "vinta/awesome-python",

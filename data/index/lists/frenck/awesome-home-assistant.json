@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"301271ec0e0db4d6564a1b0cba6a579a48546326"},
+"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"87c4de586f1f20b69f9c52f1b4813e64d3f34763"},
 "members": [
 "blakeblackshear/frigate",
 "Koenkk/zigbee2mqtt",
@@ -70,6 +70,7 @@
 "agittins/bermuda",
 "patman15/BMS_BLE-HA",
 "rabits/ha-ef-ble",
+"gbroeckling/padspanHA",
 "andrew-codechimp/HA-Battery-Notes",
 "smartHomeHub/SmartIR",
 "AlexxIT/SonoffLAN",
@@ -221,6 +222,7 @@
 "skalavala/mysmarthome",
 "robmarkcole/HASS-data-detective",
 "PiotrMachowski/Home-Assistant-Taskbar-Menu",
+"Robertg761/HA-Desktop-Widget",
 "domoticz/domoticz",
 "GladysAssistant/Gladys",
 "homebridge/homebridge",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"b9ba4b8fedfb06cc3c789f5612235732031ec2a5"},
+"meta": {"description":"An awesome & curated list of tools and apps for Windows 10/11.","defaultBranch":"main","topics":["awesome","awesome-list","microsoft","windows"],"readmeSha":"af366c26e142bd1ac3df5b9077f3343f80f868d4"},
 "members": [
 "sindresorhus/awesome",
 "vleerapp/vleer",

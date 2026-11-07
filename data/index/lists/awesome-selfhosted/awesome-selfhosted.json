@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"e39984ca7ff01b46cdf1bfd0572b20356f1ac8fb"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"fc6fd4d9444bfa7e4fee940f392fe0d7873f28b2"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -358,6 +358,7 @@
 "gotson/komga",
 "FabianRolfMatthiasNoll/MyMangaDB",
 "stumpapp/stump",
+"bndct-devops/tome",
 "DSpace/DSpace",
 "eprints/eprints3.4",
 "fcrepo/fcrepo",
@@ -425,10 +426,12 @@
 "syncthing/syncthing",
 "bcpierce00/unison",
 "goharbor/harbor",
+"afreidah/s3-orchestrator",
 "seaweedfs/seaweedfs",
 "scality/cloudserver",
 "project-zot/zot",
 "webtorrent/bittorrent-tracker",
+"tonyantony300/dashbeam",
 "david-bai00/PrivyDrop",
 "qbittorrent/qBittorrent",
 "slskd/slskd",
@@ -1037,10 +1040,10 @@
 "krelltunez/dayGLANCE",
 "glance-apps/glance-vault",
 "donetick/donetick",
-"francesco-gaglione/focus_flow_cloud",
 "hamsterbase/tasks",
 "kanbn/kan",
 "kanboard/kanboard",
+"ericerkz/kept",
 "jeffrpowell/listaway",
 "maxpozdeev/mytinytodo",
 "apankrat/nullboard",
@@ -1164,6 +1167,7 @@
 ["2026-10-24","rikhuijzer/fx"],
 ["2026-10-31","sourcefabric/airtime"],
 ["2026-10-31","CorentinTh/it-tools"],
-["2026-10-31","pocketbase/pocketbase"]
+["2026-10-31","pocketbase/pocketbase"],
+["2026-11-07","francesco-gaglione/focus_flow_cloud"]
 ]
 }

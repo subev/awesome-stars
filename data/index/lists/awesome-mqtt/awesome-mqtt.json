@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"5833beb9e1de2a1ce98e68b4cf3a14a5c5d1c378"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"edec2c7357017f329578d028800b661edc57f13a"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -15,7 +15,6 @@
 "moquette-io/moquette",
 "LabOverWire/mqtt-lib",
 "TheThingsIndustries/mystique",
-"straum-io/straum",
 "thingsboard/tbmq",
 "RainerGewalt/TrailMQ",
 "vert-x3/vertx-mqtt",
@@ -28,6 +27,7 @@
 "labodj/homie-home-assistant-discovery",
 "shafreeck/imqtt",
 "ScottFelder/lazymqtt",
+"libredb/libredb-studio",
 "iotmertech/iot-data-generator",
 "getmockd/mockd",
 "SaaSy-Solutions/mockforge",
@@ -53,9 +53,11 @@
 "ckrey/MQTTInspector",
 "keyp-dev/mqttkit",
 "EdJoPaTo/mqttui",
+"bluegrassiot/mqttprobe",
 "bapowell/python-mqtt-client-shell",
 "visoar/mqtt-acl-linter",
 "unipsycho/topicbench",
+"RainerGewalt/trailtransfer",
 "menudoproblema/Wireshark-MQTT",
 "rpdswtk/vsmqtt",
 "emqx/MQTTX",
@@ -166,7 +168,7 @@
 "Koenkk/zigbee2mqtt",
 "zwave-js/zwave-js-ui",
 "denschu/home.pi",
-"homebridge/HAP-NodeJS",
+"homebridge/hap-nodejs",
 "ioBroker/ioBroker.mqtt",
 "openhab/openhab1-addons",
 "akbooer/openLuup",
@@ -250,5 +252,9 @@
 "homieiot/convention",
 "stfbk/mqttsa",
 "akamai-threat-research/mqtt-pwn"
+],
+"dropped": [
+["2026-11-07","straum-io/straum"],
+["2026-11-07","homebridge/HAP-NodeJS"]
 ]
 }

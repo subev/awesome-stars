@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"1a23037175f31ec007921235021cdac878d1b0cf"},
+"meta": {"description":"A curated list of awesome Go frameworks, libraries and software","defaultBranch":"main","topics":["golang","golang-library","go","awesome","awesome-list","hacktoberfest"],"readmeSha":"a95d8f1bd7d8ddb3fe0fce38f45aae84d5c16534"},
 "members": [
 "sindresorhus/awesome",
 "gobridge/about-us",

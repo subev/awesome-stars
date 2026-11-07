@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"8bebe449677a1c95151375ff2812cf5cf7ada57c"},
+"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"17ec80a4450bf20b1ab6a5d8a72787e6072eaef7"},
 "members": [
 "maaaaz/androwarn",
 "sonyxperiadev/ApkAnalyser",
@@ -23,6 +23,7 @@
 "linkedin/qark",
 "AndroBugs/AndroBugs_Framework",
 "google/nogotofail",
+"anasfik/FlutterGuard",
 "sh4hin/Androl4b",
 "nccgroup/house",
 "MobSF/Mobile-Security-Framework-MobSF",
@@ -55,6 +56,7 @@
 "vw2x/Mira",
 "script-or-script/FlutterTap",
 "blackfoxxx/Mobix",
+"K4N3CO/Lab-RATS-v1.6",
 "JesusFreke/smali",
 "strazzere/Emacs-Smali",
 "swdunlop/AndBug",
@@ -114,6 +116,8 @@
 "sundaysec/Android-Exploits",
 "thomasbuilds/Spectre",
 "muhammedalikcb/securecheck",
+"wlmosv-png/wpaforge",
+"Inforaam/MobShield-Android",
 "payatu/diva-android",
 "jaiswalakshansh/Vuldroid",
 "nvisium-jack-mannino/OWASP-GoatDroid-Project",

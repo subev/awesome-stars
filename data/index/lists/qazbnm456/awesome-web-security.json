@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"ebd12e4c590150c4812ddd921b2d813e81999e85"},
+"meta": {"description":"🐶 A curated list of Web Security materials and resources.","defaultBranch":"master","topics":["awesome-list","awesome","list","web","security","websecurity","penetration-testing"],"readmeSha":"c8275986c9d0674edfeadb50fd77af0bb9e24815"},
 "members": [
 "sindresorhus/awesome",
 "apsdehal/awesome-ctf",
@@ -62,6 +62,8 @@
 "vigolium/vigolium",
 "undeadlist/trust-scan",
 "sattyamjjain/zerotrust",
+"maverickaayush/ONUS",
+"clickswave/crossfyre-toolchain",
 "flipkart-incubator/Astra",
 "dagrz/aws_pwn",
 "0xInfection/TIDoS-Framework",
@@ -88,7 +90,6 @@
 "momenbasel/keyFinder",
 "LewisArdern/bXSS",
 "HynekPetrak/malware-jail",
-"okta-graveyard/repo-supervisor",
 "RetireJS/retire.js",
 "baidu/openrasp",
 "leizongmin/js-xss",
@@ -111,6 +112,7 @@
 "hteso/iaito",
 "plasma-disassembler/plasma",
 "radareorg/radare2",
+"pionxzh/wakaru",
 "brannondorsey/dns-rebind-toolkit",
 "ReversecLabs/dref",
 "nccgroup/singularity",
@@ -129,5 +131,8 @@
 "rmusser01/Infosec_Reference",
 "ChALkeR/notes",
 "momenbasel/htb-writeups"
+],
+"dropped": [
+["2026-11-07","okta-graveyard/repo-supervisor"]
 ]
 }

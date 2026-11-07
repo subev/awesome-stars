@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"fa172cd4bfc75c8d807badac34d8ac3c73f9a6cf"},
+"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"50be36e8c88039e1c8291b401dcbb5cf8efc1557"},
 "members": [
 "leucos/ansible-tuto",
 "geerlingguy/ansible-for-devops",
@@ -24,6 +24,7 @@
 "telekom-mms/Automated-Ansible-Role-Documentation",
 "ansible-community/antsichaut",
 "nbentoumi/ansibledb",
+"anthonyGosme/speedrunner",
 "pester/Pester",
 "kksat/SOLID-Ansible",
 "geerlingguy/ansible-vagrant-examples",

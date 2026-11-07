@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"fece155717be2ea107efaaee295075c8b2cafaf6"},
+"meta": {"description":"A curated list of awesome things related to Ruby on Rails","defaultBranch":"master","topics":["awesome-list","rails","opensource-apps","awesome"],"readmeSha":"6d662a7c678dade432803e98b29e528b5f307d0f"},
 "members": [
 "sindresorhus/awesome",
 "lukasz-madon/awesome-remote-job",
@@ -37,7 +37,6 @@
 "Crowdtilt/CrowdtiltOpen",
 "x1wins/CW-OVP",
 "danbooru/danbooru",
-"DARIAEngineering/dcaf_case_management",
 "dgidb/dgidb",
 "diaspora/diaspora",
 "discourse/discourse",
@@ -259,6 +258,7 @@
 "dropped": [
 ["2026-09-04","encrypt-to/encrypt.to"],
 ["2026-09-25","BemiHQ/bemi-rails"],
-["2026-10-17","CanCanCommunity/cancancan"]
+["2026-10-17","CanCanCommunity/cancancan"],
+["2026-11-07","DARIAEngineering/dcaf_case_management"]
 ]
 }

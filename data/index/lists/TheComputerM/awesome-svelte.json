@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ A curated list of awesome Svelte resources","defaultBranch":"main","topics":["svelte","awesome-list","awesome","sveltejs","sapper"],"readmeSha":"e787b3f5ece0fec6d5ee8c5385be4146867a633e"},
+"meta": {"description":"⚡ A curated list of awesome Svelte resources","defaultBranch":"main","topics":["svelte","awesome-list","awesome","sveltejs","sapper"],"readmeSha":"3ff82c8bf420539fd0e848693ef71c76b43c7180"},
 "members": [
 "sindresorhus/awesome",
 "sveltejs/svelte",
@@ -88,7 +88,6 @@
 "scosman/CMSaasStarter",
 "rodrgds/productplate",
 "tretapey/svelte-pwa",
-"tony-stark-eth/vite-svelte-docker-template",
 "code-gio/svelte-docs-starter",
 "phaserjs/template-svelte",
 "GantonL/templates",
@@ -116,6 +115,7 @@
 "tolgee/tolgee-js",
 "i18n-pro/svelte",
 "wuchalejs/wuchale",
+"aymericzip/intlayer",
 "jorgegorka/svelte-router",
 "EmilTholin/svelte-routing",
 "AlexxNB/tinro",
@@ -142,5 +142,8 @@
 "oxide-lab/Oxide-Lab",
 "Prismo-Studio/Zephyr",
 "theolundqvist/pr-cockpit"
+],
+"dropped": [
+["2026-11-07","tony-stark-eth/vite-svelte-docker-template"]
 ]
 }
