@@ -1,9 +1,9 @@
 {
-"meta": {"description":"A collection of several hundred online tools for OSINT","defaultBranch":"main","topics":["osint","socmint","geoint","humint","hacking","tools","toolset","cybersecurity","awesome","awesome-list"],"readmeSha":"8faaf6da53d783c9c57ba13e97f53ba8d8726e7f"},
+"meta": {"description":"A collection of several hundred online tools for OSINT","defaultBranch":"main","topics":["osint","socmint","geoint","humint","hacking","tools","toolset","cybersecurity","awesome","awesome-list"],"readmeSha":"7c72c965f8fc05dbdb6d84e33b5772a64032c881"},
 "members": [
-"OSINT-Experts-Society/Consensus-OSINT",
 "netlas-io/netlas-cookbook",
 "AndrewCTF/velocity",
+"mcasrom/nearme-osint",
 "DinoTools/python-overpy",
 "GONZOsint/geowifi",
 "eremit4/favihunter",
@@ -13,13 +13,14 @@
 "jois-code/tweeds",
 "insin/control-panel-for-twitter",
 "0xcyberpj/tweet-machine",
+"jdepoix/youtube-transcript-api",
 "egbertbouman/youtube-comment-downloader",
 "lettapp/ytcs",
-"jdepoix/youtube-transcript-api",
+"yakisova41/return-youtube-comment-username",
 "dmn001/youtube_channel_archiver",
 "mrwnwttk/youtube_stream_capture",
 "nlitsme/youtube_tool",
-"yakisova41/return-youtube-comment-username",
+"SamueleAmato/OsintTube",
 "drawrowfly/tiktok-scraper",
 "C3n7ral051nt4g3ncy/Prot1ntelligence",
 "n0kovo/fb_friend_list_scraper",
@@ -337,6 +338,7 @@
 ["2026-10-24","rly0nheart/occli"],
 ["2026-10-24","MR-CODEX666/NAZAR"],
 ["2026-10-24","AzizKpln/Moriarty-Project"],
-["2026-10-31","franckferman/MetaDetective"]
+["2026-10-31","franckferman/MetaDetective"],
+["2026-11-07","OSINT-Experts-Society/Consensus-OSINT"]
 ]
 }

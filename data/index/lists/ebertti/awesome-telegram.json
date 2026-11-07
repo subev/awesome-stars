@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"dd764f7d9b96ef3aa5d44ed1cbb64c8c8e27cea6"},
+"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"a96d2c88938d884a70562c9733cd64ae6bcfb648"},
 "members": [
 "sindresorhus/awesome",
 "aeonfun/aeon",
@@ -10,6 +10,7 @@
 "cohe4ko/BotVa",
 "landigf/Broletter",
 "andyuninvited/c3poh_for_claudecode",
+"yonaesp/CazaSpamBot-Telegram",
 "ilyarolf/AiogramShopBot",
 "Guck111/devpinger",
 "ayrat555/el_monitorro",
@@ -37,6 +38,7 @@
 "backmeupplz/voicy",
 "luoyanglang/AI-Anti-Spam-Bot",
 "Snusmumr1ken/AndysTicTacToe",
+"send21io/send21-telegram-shop",
 "kolomiichenko/telegym",
 "aiogram/aiogram",
 "sinnercode228/aiogram-stars",
@@ -122,7 +124,9 @@
 "GeiserX/telegram-archive-mcp",
 "awdr74100/telegram-forwarder",
 "GabrielRF/telegram-id",
+"tonydzi/telegram-mcp-kit",
 "botnick/telegram-media-downloader",
+"MBotirjonDev/telegram-miniapp-audit",
 "beeyev/telegram-owl",
 "rahiel/telegram-send",
 "neoromantic/telegram-sync-cli",
@@ -144,6 +148,7 @@
 "dracula/telegram",
 "doniyor2109/awesome-telegram-dev-groups-uz",
 "palark/awesome-devops-telegram",
+"Armorys/awesome-telegram-bots-cn",
 "grammyjs/awesome-grammY",
 "wwewtech/vpn_telegram_2026"
 ],

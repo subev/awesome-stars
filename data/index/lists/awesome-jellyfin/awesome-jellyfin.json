@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"be9efc4636a99b4ea809202879a4f0ba738734a9"},
+"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"94a1e0a2541405f134c57394d20fde86693554e5"},
 "members": [
 "ZL154/AchievementBadges_for_Jellyfin",
 "pa-philos/jellyfin-plugin-animated-covers",

@@ -1,11 +1,12 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"d24c95d08502332d23117d9596d7b10f1bc04961"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"9df9e5b50b6385a1e5aaecf0c5598db745dfe2ba"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
 "maplibre/maplibre-native",
 "maplibre/maplibre-rs",
 "maplibre/maplibre-plugins-android",
+"kenjiyoshidahome2026-bit/ortho-earth",
 "maplibre/maplibre-style-spec",
 "falseinput/expressive",
 "builtbyfield/maplibre-expr",
@@ -78,6 +79,7 @@
 "mvt-proj/maplibre-gl-layers-control",
 "leoneljdias/maplibre-label-callout",
 "spwoodcock/maplibre-ui-translations",
+"cyphercodes/location-picker",
 "watergis/mapbox.photon",
 "maplibre/maplibre-gl-geocoder",
 "stadiamaps/maplibre-search-box",

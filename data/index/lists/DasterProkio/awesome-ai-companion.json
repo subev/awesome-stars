@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。","defaultBranch":"main","topics":["ai-agents","ai-companion","awesome-list","chatbot","llm","memory","open-source","self-hosted","virtual-companion","awesome"],"readmeSha":"1e9a31c2de23b1e91c4dea71761e5cac875cfaed"},
+"meta": {"description":"Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。","defaultBranch":"main","topics":["ai-agents","ai-companion","awesome-list","chatbot","llm","memory","open-source","self-hosted","virtual-companion","awesome"],"readmeSha":"0a4b760efced4cd1bf20364637b36aa36d7e55d0"},
 "members": [
 "sindresorhus/awesome",
 "rikkahub/rikkahub",
@@ -10,13 +10,13 @@
 "AAswordman/Operit",
 "gqy20/Aura",
 "apoorvdarshan/scowld",
-"winter-bit-cry/YSClaude",
 "Aevella/polaris-local-first",
 "ugui3u/chatnest",
 "death34018-hue/AionsHome",
 "EvelynnYu/MIRROW",
 "fishwithoctopus/Ocean",
 "kiyotakali/Miru",
+"suinly/kodrik",
 "in30mn1a/LumiMuse",
 "Do-fei/my-raze",
 "wuliu0012/the-house",
@@ -80,6 +80,7 @@
 "xvxv-stack7/android-claude-agent",
 "ziyaxd23/ai-island-tutorial",
 "Ephemera1117/android-ai-push-tutorial",
+"BugWhispererChen/AIYIchat",
 "P0luz/Ombre-Brain",
 "Yinglianchun/Serein",
 "mycyg/kin-mind",
@@ -87,7 +88,7 @@
 "Shitsuten/paramecium",
 "ClaraShafiq/MemoryConstellations",
 "OmniDimen/omemo",
-"wusaki0723/Aelios",
+"Aelios-project/Aelios",
 "LucieEveille/kiwi-mem",
 "garan0613/pawwake",
 "Dataojitori/nocturne_memory",
@@ -238,9 +239,14 @@
 "malfoyslastname/character-card-spec-v2",
 "kwaroran/character-card-spec-v3",
 "agenmod/immortal-skill",
+"douaru-chen2026/ai-companion-rescue",
 "douaru-chen2026/ai-chat-memory-migrator",
 "parallelarc/Awesome-AI-Waifu",
 "alternbits/awesome-ai-agents",
 "vince-lam/awesome-local-llms"
+],
+"dropped": [
+["2026-11-07","winter-bit-cry/YSClaude"],
+["2026-11-07","wusaki0723/Aelios"]
 ]
 }

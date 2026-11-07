@@ -1,0 +1,6 @@
+{
+"meta": {"description":" Declarative ETL pipelines in YAML, validated before they run. CLI, REST API, visual Studio, MCP server.","defaultBranch":"main","topics":["data-engineering","data-pipeline","declarative","duckdb","low-code","mcp","pandas","python","yaml","etl"],"readmeSha":"c622548376aa7760c2e1d461d14ea5b10ef19447"},
+"members": [
+
+]
+}

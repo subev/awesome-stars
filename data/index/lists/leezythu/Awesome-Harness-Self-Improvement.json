@@ -1,0 +1,12 @@
+{
+"meta": {"description":"A curated reading list on harness engineering for recursive self-improvement of LLM agents (EN/ZH).","defaultBranch":"main","topics":[],"readmeSha":"e520903ac132b87ac5f9cc852235bfc433cd4eec"},
+"members": [
+"iSEngLab/Learn-from-Repair-Experience",
+"razzant/ouroboros",
+"Human-Agent-Society/CORAL",
+"AutoResearch-Factory/Agon",
+"AutoResearch-Factory/SciPIvot",
+"TIGER-AI-Lab/ClawBench",
+"Gloriaameng/Awesome-Agent-Harness"
+]
+}

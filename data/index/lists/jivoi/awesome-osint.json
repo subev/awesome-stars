@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"77daaf7063b47bd2505721ea590121babcc1723b"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"9bbd80b53d02efa84b04e77abed6247af5667921"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -81,6 +81,7 @@
 "TeehanLax/Hyperlapse.js",
 "ANG13T/SatIntel",
 "dgtlmoon/changedetection.io",
+"0xzerolight/topic_watch",
 "GeiserX/Wayback-Diff",
 "heldersepu/GMapCatcher",
 "wireservice/csvkit",

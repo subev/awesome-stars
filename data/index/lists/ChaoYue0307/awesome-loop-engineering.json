@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🔁 Build reliable recurring AI-agent systems: 1022 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.","defaultBranch":"main","topics":["agentic-workflows","ai-agents","coding-agents","context-engineering","harness-engineering","llm-agents","loop-engineering","awesome-list","agent-orchestration","background-agents"],"readmeSha":"be66134715ea742fe57d3a74d8ba1566163be0f4"},
+"meta": {"description":"🔁 Build reliable recurring AI-agent systems: 1022 resources, 22 operational patterns, 22 loop contracts, 8 runtime starters, an interactive atlas, and a structured dataset.","defaultBranch":"main","topics":["agentic-workflows","ai-agents","coding-agents","context-engineering","harness-engineering","llm-agents","loop-engineering","awesome-list","agent-orchestration","background-agents"],"readmeSha":"d2926a4502a36ccb93aa9080f68086d259affc55"},
 "members": [
 "sindresorhus/awesome",
 "alchaincyf/loop-engineering-orange-book",
@@ -20,7 +20,7 @@
 "OpenAutoCoder/Agentless",
 "AutoCodeRoverSG/auto-code-rover",
 "SWE-bench/reading-list",
-"ghuntley/how-to-ralph-wiggum",
+"ClaytonFarr/ralph-playbook",
 "giocaizzi/ralph-copilot",
 "snarktank/ralph",
 "frankbria/ralph-claude-code",
@@ -102,7 +102,6 @@
 "vshulcz/deja-vu",
 "Gentleman-Programming/engram",
 "VictorTaelin/OptMem",
-"microsoft/autogen",
 "microsoft/agent-framework",
 "langchain-ai/langgraph",
 "crewAIInc/crewAI",
@@ -130,7 +129,7 @@
 "plasma-ai/fractal",
 "kvcache-ai/AgentENV",
 "ruvnet/ruflo",
-"YoanWai/agent-manager",
+"wainmann/agent-manager",
 "WutIsHummus/TrueDeck",
 "yc-software/qm",
 "DannyMac180/sol-advisor",
@@ -157,5 +156,10 @@
 "lopopolo/harness-engineering",
 "Picrew/awesome-agent-harness",
 "TsinghuaC3I/Awesome-Memory-for-Agents"
+],
+"dropped": [
+["2026-11-07","ghuntley/how-to-ralph-wiggum"],
+["2026-11-07","microsoft/autogen"],
+["2026-11-07","YoanWai/agent-manager"]
 ]
 }

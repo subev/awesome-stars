@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"ca1745c8f90dab053a1fc033eefcb5db0d0598ee"},
+"meta": {"description":"A curated list of amazingly awesome things regarding Preact ecosystem :star2:","defaultBranch":"master","topics":["awesome","preact","jsx","awesome-list","resources"],"readmeSha":"bf82fea1a03ed0f1eaf2696c2d2d015a559c61bb"},
 "members": [
 "sindresorhus/awesome",
 "preactjs/preact",
@@ -82,6 +82,12 @@
 "dimidd/preact-filter-builder",
 "s00d/nuxt-i18n-micro",
 "zikojs/console",
+"revolist/kanban",
+"revolist/gantt",
+"revolist/pivot",
+"revolist/charts",
+"revolist/scheduler",
+"revolist/revo-ui",
 "redux-zero/redux-zero",
 "developit/unistore",
 "jamesbirtles/fpreact",

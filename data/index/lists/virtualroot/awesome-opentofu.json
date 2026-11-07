@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"68dbb9ce773e3afc81d5579a88303efd5ead1c37"},
+"meta": {"description":"A curated list of OpenTofu tools, resources, and related projects.","defaultBranch":"main","topics":["opentf","awesome","awesome-list","list","opentofu","tofu","devops","infrastructure-as-code"],"readmeSha":"c1133a4c3d2ee13c3ffc4378ecd9d1307bd1ffc9"},
 "members": [
 "opentofu/opentofu",
 "opentofu/registry",
@@ -28,6 +28,7 @@
 "opentofu/setup-opentofu",
 "dflook/terraform-github-actions",
 "flux-iac/tofu-controller",
+"lowlydba/tofu-garnish",
 "65156/tofUI",
 "bridgecrewio/checkov",
 "Checkmarx/kics",
@@ -38,6 +39,7 @@
 "idoavrah/terraform-tui",
 "minamijoyo/tfschema",
 "diggerhq/digger",
+"InditexTech/kumoss",
 "stackorder/stackorder",
 "terrakube-io/terrakube",
 "tofutf/tofutf",

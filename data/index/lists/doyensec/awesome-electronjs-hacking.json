@@ -1,10 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome resources about Electron.js (in)security","defaultBranch":"master","topics":[],"readmeSha":"163a4d714ef6730eecc6ed7b50dc9b3cf08ac65e"},
+"meta": {"description":"A curated list of awesome resources about Electron.js (in)security","defaultBranch":"master","topics":[],"readmeSha":"19151ff1537c8ccff2ea40868a64d44b0fde20f2"},
 "members": [
 "doyensec/electronegativity",
 "electron/fiddle",
 "maximilianfeix/hexvero",
 "vmoranv/jshookmcp",
+"dagoSte/reverseai",
 "matt-/CVE-2018-15685",
 "justinsteven/advisories",
 "oskarsve/ms-teams-rce",

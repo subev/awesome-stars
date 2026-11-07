@@ -1,0 +1,19 @@
+{
+"meta": {"description":"A curated list of practical Codex skills for automating workflows across the Codex CLI and API.","defaultBranch":"master","topics":["codex","codex-cli","codex-skills","coding-agent-skills","coding-agents","gpt-5-1-codex","gpt-5-codex","llm","skills","awesome"],"readmeSha":"4a916845a09296b59a5284de87e6be1a54494401"},
+"members": [
+"composio-community/awesome-codex-skills",
+"sipyourdrink-ltd/bernstein",
+"hyhmrright/brooks-lint",
+"unitedideas/bringyour-mcp",
+"yujiachen-y/codebase-recon-skill",
+"heymegabyte/agent-skills",
+"smorky850612/Aurakit",
+"foryourhealth111-pixel/Vibe-Skills",
+"blackwell-systems/polywave-codex",
+"taisly/agent",
+"virtualsms-io/codex-sms-verification",
+"MinistaJazz/diasporic-intelligence",
+"wgwtest/novel-writing",
+"MohamedAbdallah-14/unslop"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome implementations of the Mapbox Vector Tile specification","defaultBranch":"master","topics":[],"readmeSha":"f520e243fa1304c2b979ed35a4449150ce5da5bc"},
+"meta": {"description":"Awesome implementations of the Mapbox Vector Tile specification","defaultBranch":"master","topics":[],"readmeSha":"95575910790efc6394597a41d0d245b374c7fcae"},
 "members": [
 "sindresorhus/awesome",
 "mapbox/vector-tile-spec",
@@ -34,7 +34,6 @@
 "maplibre/maplibre-gl-js",
 "mousebird-consulting-inc/WhirlyGlobe",
 "SpatialServer/Leaflet.MapboxVectorTile",
-"CartoDB/mobile-sdk",
 "tangrams/tangram",
 "tangrams/tangram-es",
 "mapbox/mapbox-gl-leaflet",
@@ -78,14 +77,16 @@
 "lambdajack/sequentially-generate-planet-mbtiles",
 "muimsd/tilefeed",
 "ATofighi/mbview-go",
+"birkskyum/manby",
 "mapbox/mapbox-gl-draw",
 "muimsd/map-gl-offline",
 "muimsd/map-gl-style-switcher",
 "bbox-services/bbox",
 "henrythasler/cloud-tileserver",
 "chargetrip/clusterbuster",
-"corteva/djangorestframework-mvt",
+"vylor/djangorestframework-mvt",
 "mkeller3/FastVector",
+"geolens-io/geolens",
 "vicapow/go-vtile-example",
 "zellige/hastile",
 "kartotherian/kartotherian",
@@ -123,5 +124,9 @@
 "FabianRechsteiner/vector-tiles-benchmark",
 "ldproxy/ldproxy",
 "developmentseed/tipg"
+],
+"dropped": [
+["2026-11-07","CartoDB/mobile-sdk"],
+["2026-11-07","corteva/djangorestframework-mvt"]
 ]
 }

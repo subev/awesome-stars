@@ -1,5 +1,5 @@
 {
-"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"e258ddcf45f93a62755007bf9be13e185c158141"},
+"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"1a4877164d04fce2b5738376d8d5ffaa396adc37"},
 "members": [
 "sindresorhus/awesome",
 "Samsung/Wits",

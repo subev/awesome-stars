@@ -1,0 +1,23 @@
+{
+"meta": {"description":"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code","defaultBranch":"main","topics":["awesome","awesome-list","claude","claude-desktop","claude-skills","claudeskills","claude-ai","claude-code","agentic-coding","anthropic"],"readmeSha":"8253dbfeb1ce34099c0092e40965f87dc9a7d670"},
+"members": [
+"anthropics/skills",
+"obra/superpowers",
+"obra/superpowers-skills",
+"obra/superpowers-lab",
+"conorluddy/ios-simulator-skill",
+"jthack/ffuf_claude_skill",
+"lackeyjb/playwright-skill",
+"chrisvoncsefalvay/claude-d3js-skill",
+"K-Dense-AI/scientific-agent-skills",
+"alonw0/web-asset-generator",
+"asklokesh/loki-mode",
+"trailofbits/skills",
+"zarazhangrui/frontend-slides",
+"expo/skills",
+"gsd-build/get-shit-done",
+"yusufkaraaslan/Skill_Seekers",
+"anthropics/claude-cookbooks",
+"anthropics/claude-agent-sdk-python"
+]
+}

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"2ab99f9058ae6496ec26ab4db9b8e4e91ec30af1"},
+"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"76c37f278285f6775c88ad0139d69e5a5e31f0c8"},
 "members": [
 "sindresorhus/awesome",
 "steven2358/awesome-generative-ai",
@@ -10,12 +10,10 @@
 "langchain-ai/langgraph",
 "deepset-ai/haystack",
 "agentset-ai/agentset",
-"truefoundry/cognita",
 "stanfordnlp/dspy",
 "pathwaycom/pathway",
 "SciPhi-AI/R2R",
 "infiniflow/ragflow",
-"weaviate/Verba",
 "unclecode/crawl4ai",
 "docling-project/docling",
 "firecrawl/firecrawl",
@@ -32,6 +30,7 @@
 "texttron/tevatron",
 "AnswerDotAI/RAGatouille",
 "chroma-core/chroma",
+"HelixDB/helix-db",
 "infino-ai/infino",
 "lancedb/lancedb",
 "milvus-io/milvus",
@@ -40,15 +39,16 @@
 "qdrant/qdrant",
 "vespa-engine/vespa",
 "weaviate/weaviate",
+"xerj-org/xerj",
 "treeverse/dvc",
 "treeverse/lakeFS",
 "pachyderm/pachyderm",
 "Oxen-AI/Oxen",
 "feyninc/chonkie",
 "isaacus-dev/semchunk",
+"Intelligent-Internet/Evoke",
 "PrithivirajDamodaran/FlashRank",
 "VectifyAI/PageIndex",
-"Intelligent-Internet/Evoke",
 "microsoft/graphrag",
 "gusye1234/nano-graphrag",
 "HKUDS/LightRAG",
@@ -73,7 +73,6 @@
 "promptfoo/promptfoo",
 "vibrantlabsai/ragas",
 "truera/trulens",
-"tonydzi/verbatim-citation-gate",
 "stanford-futuredata/ARES",
 "braintrustdata/autoevals",
 "prometheus-eval/prometheus-eval",
@@ -91,7 +90,6 @@
 "vllm-project/vllm",
 "zilliztech/GPTCache",
 "redis/redis-vl-python",
-"protectai/llm-guard",
 "NVIDIA-NeMo/Guardrails",
 "data-privacy-stack/presidio",
 "zylon-ai/private-gpt",
@@ -108,6 +106,10 @@
 "dropped": [
 ["2026-09-11","Intelligent-Internet/psql_bm25s"],
 ["2026-10-31","mdgate/converters"],
-["2026-10-31","Intelligent-Internet/II-42"]
+["2026-10-31","Intelligent-Internet/II-42"],
+["2026-11-07","truefoundry/cognita"],
+["2026-11-07","weaviate/Verba"],
+["2026-11-07","tonydzi/verbatim-citation-gate"],
+["2026-11-07","protectai/llm-guard"]
 ]
 }

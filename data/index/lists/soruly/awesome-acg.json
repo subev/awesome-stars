@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome technologies related to Anime, Comic and Games","defaultBranch":"master","topics":["awesome","awesome-list","anime"],"readmeSha":"d1f82ee5baa9de02dcd99a96e992b61c438ca00d"},
+"meta": {"description":"A curated list of awesome technologies related to Anime, Comic and Games","defaultBranch":"master","topics":["awesome","awesome-list","anime"],"readmeSha":"a811cbdc153b2f6222d51327612686f5de0c9b43"},
 "members": [
 "sindresorhus/awesome",
 "mon/0x40-web",
@@ -147,6 +147,7 @@
 "yeemachine/kalidoface",
 "ClassicOldSong/KarasamaEgg",
 "chiakich/Kemono_Adblocker",
+"livliv-dev/player",
 "SSShooter/MyDiary-Vue",
 "cornguo/nKemono",
 "jiro4989/ojosama-web",
@@ -157,10 +158,12 @@
 "hidefuku/AnimeEffects",
 "cat-milk/Anime-Girls-Holding-Programming-Books",
 "uezo/ChatdollKit",
+"hyz317/HairDeck",
 "TSKI433/hime-display",
 "hapo31/marine_button",
 "rotejin/MotionPNGTuber",
 "animenotifier/notify.moe",
+"zeekk0/OpenAmika",
 "shitagaki-lab/see-through",
 "vignetteapp/vignette"
 ],

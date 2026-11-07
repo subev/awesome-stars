@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"af6db5dced0f5f91594e18d274dc6c81a7769965"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"ca562ccb6fff866698035f8504c6f01bef14ce40"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -21,6 +21,7 @@
 "tmn73/omarchy-calendar",
 "promaaa/sync-calendar-omarchy",
 "mryll/claudebar",
+"Saikomantisu/omarchy-commandbar",
 "rosakodu/omarchy-dock",
 "mtolhuys/fathom",
 "robzolkos/omarchy-github",
@@ -56,6 +57,7 @@
 "momoi-labs/omarchy-pane-manager",
 "husamemadH/omarchy-quattro-prayer-times",
 "28allday/Quattrolitaire",
+"rblalock/omarchy-replay",
 "GreyforgeLabs/reprieve",
 "lgse/sandman",
 "ax1g/quickshell-screentime-plugin",
@@ -63,6 +65,7 @@
 "rkocosmergon/shikigon",
 "Aryan-Techie/omarchy-todoist",
 "iamcheyan/omarchy-voxtype-enhance",
+"timurguseynov/omarchy-x-mode",
 "adsovetzky/Adsovetzky-Omarchy-s-Waybar",
 "omacom/aether",
 "aorumbayev/awesome-omarchy-tui",

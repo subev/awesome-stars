@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"9133c6ab5005c23290fc6d785862515ab144134e"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"1a4c7cbc8f0cbeb4bc350f64b072e6541629c5bd"},
 "members": [
 "sindresorhus/awesome",
 "oxynote/oxynote",
@@ -10,7 +10,7 @@
 "tj/commander.js",
 "ionic-team/capacitor",
 "renovatebot/renovate",
-"facebook/jscodeshift",
+"meta/jscodeshift",
 "localstack/localstack",
 "gruntwork-io/terragrunt",
 "artipie/artipie",
@@ -26,6 +26,7 @@
 "cloud-in-a-bottle/cloud-in-a-bottle",
 "kubestellar/console",
 "skyhook-io/radar",
+"nifetency/nife-release",
 "bunkerity/bunkerweb",
 "grafana/k6",
 "getanteon/anteon",
@@ -50,6 +51,7 @@
 ],
 "dropped": [
 ["2026-10-10","AndrewDryga/emisar"],
-["2026-10-24","microsoft/HydraLab"]
+["2026-10-24","microsoft/HydraLab"],
+["2026-11-07","facebook/jscodeshift"]
 ]
 }

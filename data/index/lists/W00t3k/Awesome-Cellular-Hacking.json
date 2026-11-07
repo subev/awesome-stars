@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome-Cellular-Hacking","defaultBranch":"master","topics":["sdr","lte","eviltwin","lte-evil-twin","gsm-network","hacking","rogue-bts","gsm"],"readmeSha":"80cb76cc1263937ef882ee5609bc62c9c07a28e0"},
+"meta": {"description":"Awesome-Cellular-Hacking","defaultBranch":"master","topics":["sdr","lte","eviltwin","lte-evil-twin","gsm-network","hacking","rogue-bts","gsm"],"readmeSha":"39413de60e05446daeb44abef2c1619ea4a969ce"},
 "members": [
 "asset-group/5ghoul-5g-nr-attacks",
 "FirmWire/BaseBridge",
@@ -37,7 +37,9 @@
 "DLTeamTUC/5GDatasets",
 "onehouwong/Cellular-Security-Papers",
 "onehouwong/Firmware-Analysis-Papers",
-"cn0xroot/RFSec-ToolKit"
+"cn0xroot/RFSec-ToolKit",
+"openairinterface/oai-cn5g-udm",
+"openairinterface/oai-cn5g-amf"
 ],
 "dropped": [
 ["2026-09-04","IntelMQ/intelmq"]

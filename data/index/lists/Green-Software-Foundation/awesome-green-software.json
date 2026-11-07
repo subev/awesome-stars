@@ -1,9 +1,9 @@
 {
-"meta": {"description":"","defaultBranch":"main","topics":["green-software","sustainable-software","sustainability","awesome-list","green-ai","sustainable-ai","climate","green-computing","hacktoberfest","awesome"],"readmeSha":"5451bd6f7b29b873a4ffb7382eda44305ddf67c5"},
+"meta": {"description":"","defaultBranch":"main","topics":["green-software","sustainable-software","sustainability","awesome-list","green-ai","sustainable-ai","climate","green-computing","hacktoberfest","awesome"],"readmeSha":"688946785dc2c0916a29666861dbdb1e06a43bfb"},
 "members": [
 "axiomaxllc/esg-carbon-shield",
 "gwittebolle/claude-carbon",
-"Vitalini/ebb-ai",
+"tidegap/tidegap",
 "Breakend/experiment-impact-tracker",
 "saintslab/carbontracker",
 "dos-group/fedzero",
@@ -35,18 +35,24 @@
 "sustainable-computing-io/kepler",
 "joular/powerjoular",
 "hubblo-org/scaphandre",
+"romangrid/suneco-bess-sizing",
 "dos-group/vessim",
 "cnumr/GreenIT-Analysis",
 "powdroid-project/powdroid",
 "green-code-initiative/creedengo-ios",
+"Institut-du-Numerique-Responsable/CO2_RAPL",
 "ipmitool/ipmitool",
 "fenrus75/powertop",
 "teads/turbostress",
 "Wedeex-DevTeam/WedeexApp",
 "digital4better/carbonara",
 "thegreenwebfoundation/co2.js",
+"CometWeb-io/Carbon-Badge",
 "ec0lint/ec0lint",
 "so-vos/thesis",
 "QuesmaOrg/awesome-ai-tokenomics"
+],
+"dropped": [
+["2026-11-07","Vitalini/ebb-ai"]
 ]
 }

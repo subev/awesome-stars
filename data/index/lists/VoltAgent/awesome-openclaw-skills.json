@@ -1,0 +1,9 @@
+{
+"meta": {"description":"The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞","defaultBranch":"main","topics":["agent-skills","awesome-list","clawdbot","clawdbot-skill","clawd","clawdhub","moltbot","moltbot-skills","openclaw","openclaw-skills"],"readmeSha":"1fdd0ba95f6032bfd855027a6465e61477645aec"},
+"members": [
+"VoltAgent/awesome-openclaw-skills",
+"VoltAgent/official-mcp-servers",
+"snyk/agent-scan",
+"VoltAgent/awesome-codex-subagents"
+]
+}

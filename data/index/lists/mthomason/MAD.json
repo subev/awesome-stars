@@ -1,0 +1,6 @@
+{
+"meta": {"description":"Native macOS / iOS SQL query builder and banded report designer. An open format and embeddable engine for relational reporting - where every report is a portable query graph, a materialized SQLite table, and a parametric layout.","defaultBranch":"master","topics":["business-intelligence","ios","mysql","objective-c","reporting","sql-server","sqlite","document-format","linux","postgresql"],"readmeSha":"5ece8dd9a066732a2374405ce6d177ad91ee13a0"},
+"members": [
+"mthomason/mad-action"
+]
+}

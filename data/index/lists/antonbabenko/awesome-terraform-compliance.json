@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.","defaultBranch":"main","topics":["awesome","awesome-list","compliance","iac-security","opentofu","policy-as-code","security","terraform","terraform-compliance"],"readmeSha":"d1d146a8b65c092ec927652a387d3a2af9abaa80"},
+"meta": {"description":"Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.","defaultBranch":"main","topics":["awesome","awesome-list","compliance","iac-security","opentofu","policy-as-code","security","terraform","terraform-compliance"],"readmeSha":"6e7f70594a8e8ae60a6e9fc7c280895b3adedfe5"},
 "members": [
 "sindresorhus/awesome",
 "antonbabenko/terraform-aws-devops",
@@ -37,6 +37,7 @@
 "Azure/grept",
 "NordCoderd/cloud-security-plugin",
 "Liam-Johnston/terraform-risk-assessor",
+"InditexTech/kumoss",
 "shuaibiyy/awesome-tf",
 "4ndersonLin/awesome-cloud-security",
 "jakob-pennington/awesome-devsecops",

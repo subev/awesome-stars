@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"a1968fb99285b5c5b7551f4bc6a29333164b6197"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"1eebbd604b9d621eee0ac5ad0d3b94c1d87b74bf"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -25,7 +25,6 @@
 "adapter-hub/adapters",
 "vipshop/cache-dit",
 "hpcaitech/ColossalAI",
-"mosaicml/composer",
 "NVIDIA/cudf",
 "NVIDIA/cuml",
 "cupy/cupy",
@@ -142,6 +141,7 @@
 "delta-io/delta",
 "geldata/gel",
 "zilliztech/GPTCache",
+"HelixDB/helix-db",
 "influxdata/influxdb",
 "milvus-io/milvus",
 "marqo-ai/marqo",
@@ -347,7 +347,6 @@
 "SciPhi-AI/R2R",
 "infiniflow/ragflow",
 "gabrielchua/RAGxplorer",
-"IntelLabs/RAG-FiT",
 "microsoft/TextWorld",
 "alibaba/zvec",
 "andrewyng/aisuite",
@@ -437,7 +436,6 @@
 "verl-project/verl",
 "allenai/ai2thor",
 "Genesis-Embodied-AI/genesis-world",
-"facebookresearch/habitat-sim",
 "isaac-sim/IsaacLab",
 "huggingface/lerobot",
 "ARISE-Initiative/robosuite",
@@ -536,6 +534,7 @@
 "tf-encrypted/tf-encrypted",
 "EthicalML/awesome-agentic-engineering-resources",
 "cuihuan/awesome-ai-gateway",
+"ai-gateways/awesome-ai-gateways",
 "EthicalML/awesome-artificial-intelligence-regulation",
 "QuesmaOrg/awesome-ai-tokenomics",
 "Yigtwxx/awesome-rag-production"
@@ -573,6 +572,9 @@
 ["2026-10-03","facebookresearch/MLGym"],
 ["2026-10-03","amundsen-io/amundsen"],
 ["2026-10-24","dust-tt/dust"],
-["2026-10-31","facebook/Ax"]
+["2026-10-31","facebook/Ax"],
+["2026-11-07","mosaicml/composer"],
+["2026-11-07","IntelLabs/RAG-FiT"],
+["2026-11-07","facebookresearch/habitat-sim"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Stunning status pages, batteries included!","defaultBranch":"main","topics":["monitoring","monitoring-tool","nodejs","status-page","sveltekit","observability","statuspage","awesome-list","docker"],"readmeSha":"63a30a6f30ed7419a73075de4e87a1e82892c596"},
+"meta": {"description":"Stunning status pages, batteries included!","defaultBranch":"main","topics":["monitoring","monitoring-tool","nodejs","status-page","sveltekit","observability","statuspage","awesome-list","docker"],"readmeSha":"8830b73fef6fb12a157afd9c31854e7fc6f1989b"},
 "members": [
 "ivbeg/awesome-status-pages"
 ]

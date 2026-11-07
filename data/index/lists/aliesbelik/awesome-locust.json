@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of resources covering different aspects of Locust load testing tool usage.","defaultBranch":"main","topics":["locust","locustio","awesome","awesome-list","load-testing","performance-testing","benchmarking","python"],"readmeSha":"5f460d1b2629bb530096a56d023552b247c9e025"},
+"meta": {"description":"A collection of resources covering different aspects of Locust load testing tool usage.","defaultBranch":"main","topics":["locust","locustio","awesome","awesome-list","load-testing","performance-testing","benchmarking","python"],"readmeSha":"b8e4fa866d7383806db521a5708fb5f72c755b26"},
 "members": [
 "locustio/locust",
 "pglass/how-do-i-locust",
