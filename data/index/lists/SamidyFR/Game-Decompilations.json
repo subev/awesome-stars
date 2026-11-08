@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of Game Decompilations i could gather from around the internet.","defaultBranch":"main","topics":["awesome-list","game-decompilation","game-decomps","games","list","megathread","decompilations","game-decompilations"],"readmeSha":"8f51238c4c83ff30c7b6b61358c6c8b53c1b6a6b"},
+"meta": {"description":"List of Game Decompilations i could gather from around the internet.","defaultBranch":"main","topics":["awesome-list","game-decompilation","game-decomps","games","list","megathread","decompilations","game-decompilations"],"readmeSha":"a6a88bf7273380a1662936a284c99d7b0a7610e1"},
 "members": [
 "x86matthew/Playable3DMaze",
 "ToolAssisted-run/Open4DBoxing",
@@ -306,7 +306,7 @@
 "EliasFever/MarioTeachesTyping3Decomp",
 "DellM-79/MarioTennisN64",
 "camthesaxman/mariovsdk",
-"g-guthrie/mvc2-ps2-decomp",
+"g-guthrie/mvc2-port-and-decomp",
 "MediEvilDecompilation/medievil-decomp",
 "refreshing-lemonade/megaman3-disassembly",
 "refreshing-lemonade/megaman4-disassembly",
@@ -336,13 +336,13 @@
 "ShulkMaster/mk-deception",
 "Normmatt/m12",
 "klorfmorf/mnsg",
+"TheGh0stShip/Nagano-Winter-Olympics-98-N64",
 "doldecomp/gnt4",
 "OpenNFS/OpenNFS",
 "Caesar0007/NFSHS-PSX-decomp",
 "OpenNFS/NFSHSX",
 "dbalatoni13/nfsmw",
 "dbalatoni13/nfsug",
-"TheGh0stShip/Nagano-Winter-Olympics-98-N64",
 "farisawan-2000/evangelion",
 "evaa-01/adam",
 "projectPiki/pik2wii",
@@ -366,6 +366,7 @@
 "HarbourMasters/PaperBoat",
 "Darxoon/leaflitter",
 "doldecomp/ttyd",
+"LLCOOLT/ttyd",
 "pmret/papermario",
 "parappadev/parappa2",
 "DabDavis/perfect-dark-dabs-mod",
@@ -376,7 +377,6 @@
 "projectPiki/pikmin2",
 "femloy/OpenTower",
 "Patoke/re-plants-vs-zombies",
-"bluisblu/pvz",
 "pbr-ret/pbr-decomp",
 "squiddonaut/pokeblack",
 "pret/pokecrystal",
@@ -546,6 +546,7 @@
 "Madxbio97/SF-pc-port",
 "CalebPancake/Taiko-No-Tatsujin-Wii-Ketteiban",
 "hcbt/tbuddies-decomp",
+"gasparegas/tkdr-recomp",
 "CelestialAmber/TetrisNESDisasm",
 "connieprice/Terminator-Salvation-Lua",
 "dptug/TerrariaXDK",
@@ -646,6 +647,7 @@
 "vgrichina/battlecity",
 "Revan67/DOAX2-Recomp",
 "Revan67/ThirdAge-Recomp",
+"noema-lands/power-strike-teardown",
 "Revan67/RumbleRosesXX-Recomp"
 ],
 "dropped": [
@@ -674,6 +676,8 @@
 ["2026-10-25","PrimeDecomp/prime"],
 ["2026-10-25","abelbriggs1/tmb_decomp"],
 ["2026-10-25","abelbriggs1/tm1_decomp"],
-["2026-11-01","Nugetinc/MixelsRushDecompilation"]
+["2026-11-01","Nugetinc/MixelsRushDecompilation"],
+["2026-11-08","g-guthrie/mvc2-ps2-decomp"],
+["2026-11-08","bluisblu/pvz"]
 ]
 }

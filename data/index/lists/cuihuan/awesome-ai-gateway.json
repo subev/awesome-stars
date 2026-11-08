@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"877e48d9a6dde2d18be7dab18eb48a1045a17ca6"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 240+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual; stars & releases refreshed daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"90678729050c4d1bc0bfb92846e61e1a990ff22c"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -42,7 +42,6 @@
 "askalf/dario",
 "aurorallm/aurora",
 "headroomlabs-ai/headroom",
-"romgX/openrelay",
 "Paritok-official/paritok-4b-v1",
 "caozhiyuan/copilot-api",
 "kittors/CliRelay",
@@ -68,6 +67,8 @@
 "respanai/respan-gateway",
 "huangjinpeng216/relay-failover",
 "karmendra8386/argus",
+"attnstack/omni-route",
+"Cognipeer/console",
 "Kong/kong",
 "apache/apisix",
 "theagentrouter/agent-router",
@@ -135,6 +136,7 @@
 "jianshuo/ccglass",
 "Continuum-AI-Corp/OrcaReplay",
 "spenceclark/Vessel",
+"theluckystrike/tapvow",
 "kubernetes-sigs/gateway-api-inference-extension",
 "vllm-project/aibrix",
 "llm-d/llm-d",
@@ -157,7 +159,8 @@
 "kyrolabs/awesome-langchain",
 "punkpeye/awesome-mcp-servers",
 "mnfst/awesome-free-llm-apis",
-"Runix-lab/ai4s-for-programmers"
+"Runix-lab/ai4s-for-programmers",
+"ai-gateways/awesome-ai-gateways"
 ],
 "dropped": [
 ["2026-09-05","tsouth89/toolport"],
@@ -166,6 +169,7 @@
 ["2026-09-12","envoyproxy/ai-gateway"],
 ["2026-10-18","Veloera/Veloera"],
 ["2026-10-25","diegosouzapw/OmniRoute"],
-["2026-11-01","Omega-JS-Stack/omega"]
+["2026-11-01","Omega-JS-Stack/omega"],
+["2026-11-08","romgX/openrelay"]
 ]
 }

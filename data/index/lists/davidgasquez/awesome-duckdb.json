@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"edd80b1cd0f58b2ea6ada22d7b5739633af7a0b6"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"87acff2206a2524b33166cd9c17a702d6950ba5c"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -207,7 +207,8 @@
 "habedi/template-duckdb-extension-zig",
 "firetiger-oss/go-duckfs",
 "fxmacrodata/duckdb-fxmacrodata",
-"mehd-io/duckdb-extension-radar"
+"mehd-io/duckdb-extension-radar",
+"anshuman-pandey/us-bank-data"
 ],
 "dropped": [
 ["2026-09-26","BemiHQ/BemiDB"],

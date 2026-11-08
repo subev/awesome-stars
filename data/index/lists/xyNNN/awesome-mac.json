@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"a7c5f0a42b5c156a73ed516305b94d306c5d1d9d"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"4e421f3d23d163795bccb7fb413e99eac52885c5"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -19,6 +19,7 @@
 "auspy/supasidebar-updates",
 "yagcioglutoprak/dusty",
 "glimapp/glim",
+"fainir/mac-keepawake",
 "AlexTkDev/MacOSCleaner",
 "aqua5230/usage",
 "wulkano/Kap",

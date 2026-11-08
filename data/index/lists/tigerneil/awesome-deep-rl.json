@@ -1,5 +1,5 @@
 {
-"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"bae41e76e8169bc1ee37a8c45617ac8e7c0372d1"},
+"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"764d5ab672141e985874e4320fdc5db4e0e79965"},
 "members": [
 "hanjuku-kaso/awesome-offline-rl",
 "seohongpark/HILP",
@@ -21,6 +21,7 @@
 "opendilab/PPOxFamily",
 "YyzHarry/SV-RL",
 "openai/phasic-policy-gradient",
-"Kaixhin/NoisyNet-A3C"
+"Kaixhin/NoisyNet-A3C",
+"shreshthsaini/MEND-RL"
 ]
 }

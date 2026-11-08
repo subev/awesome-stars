@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome stuff for PlayStation Vita","defaultBranch":"master","topics":["awesome","awesome-list","playstation","playstation-vita","ps-vita","vita","psvita","psv","pstv"],"readmeSha":"730b49087de9f95fd78fbebe5bcc2f12acc9e63b"},
+"meta": {"description":"List of awesome stuff for PlayStation Vita","defaultBranch":"master","topics":["awesome","awesome-list","playstation","playstation-vita","ps-vita","vita","psvita","psv","pstv"],"readmeSha":"f11025b20946294154b3ec4ecce2536c81497e3f"},
 "members": [
 "SKGleba/henlo_jb",
 "soarqin/finalhe",
@@ -229,6 +229,7 @@
 "GrapheneCt/libAppSettings",
 "GlitcherOG/PSVita-Unity-Utilities",
 "v-atamanenko/soloader-boilerplate",
+"flutter-vita/flutter-vita",
 "DaveeFTW/kvdb",
 "xerpi/GhidraVitaLoader",
 "LinkOFF7/vitaldr",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome game decompilations, recompilations and disassemblies.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","curated-list","decompilation","game","list","disassembly","recompilation"],"readmeSha":"649beb7b3ba0be3b1d580e3debacc4d4be089673"},
+"meta": {"description":"A curated list of awesome game decompilations, recompilations and disassemblies.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","curated-list","decompilation","game","list","disassembly","recompilation"],"readmeSha":"948e85b862db59bf5d0021fdbc126afaad5d582a"},
 "members": [
 "cyneprepou4uk/NES-Games-Disassembly",
 "vgrichina/battlecity",
@@ -7,6 +7,7 @@
 "Nostaljipi/dr-mario-disassembly",
 "GrasonHumphrey/Earthbound-Zero-Decomp",
 "oliveryasuna/smb-recomp",
+"noema-lands/power-strike-teardown",
 "pret/pokegold-spaceworld",
 "pret/pokered",
 "pret/pokeyellow",
@@ -47,6 +48,7 @@
 "mariopartyrd/marioparty3",
 "DellM-79/MarioTennisN64",
 "Drahsid/mischief-makers",
+"TheGh0stShip/Nagano-Winter-Olympics-98-N64",
 "farisawan-2000/evangelion",
 "pmret/papermario",
 "ethteck/pokemonsnap",
@@ -172,6 +174,7 @@
 "IWILLCRAFT-M0d/dogcomp",
 "RossyDoubleUnderscore/ICO-decomp",
 "ethteck/kh1",
+"gasparegas/tkdr-recomp",
 "sal063/AC6_recomp",
 "banjo360/bk360",
 "masterspike52/reNut",
@@ -195,6 +198,7 @@
 "TeamBlossomDevs/DeltaruneDecomp_beta",
 "fr3dsp/FNaF-Decomp",
 "fr3dsp/FNaF-2-Decomp",
+"kaustubhxd/ReFreedomFighters",
 "gta-reversed/gta-reversed",
 "isledecomp/isle",
 "marijnvdwerf/lego-racers",
@@ -354,7 +358,6 @@
 "mmzret/rmz3",
 "metroidret/mzm",
 "metroidret/mf",
-"Nugetinc/MixelsRushDecompilation",
 "2Tie/mh1j",
 "tclamb/mhp2g-decomp",
 "cScarletter/MK-3D-Era-Decompilation",
@@ -479,6 +482,7 @@
 ["2026-10-25","PrimeDecomp/prime"],
 ["2026-10-25","sasja-san/atc"],
 ["2026-10-25","abelbriggs1/tm1_decomp"],
-["2026-10-25","abelbriggs1/tmb_decomp"]
+["2026-10-25","abelbriggs1/tmb_decomp"],
+["2026-11-08","Nugetinc/MixelsRushDecompilation"]
 ]
 }

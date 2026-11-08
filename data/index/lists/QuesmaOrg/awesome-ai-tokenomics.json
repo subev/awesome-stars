@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"dc2dcc38aac58c3de21e5e2d7b4fb64382ee825d"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"cec42631c0f1000665f02da46004fd77d872d0f1"},
 "members": [
 "antiburn/antiburn",
 "ccusage/ccusage",
@@ -38,7 +38,6 @@
 "yamadashy/repomix",
 "NVIDIA/RULER",
 "oraios/serena",
-"nikolai-vysotskyi/trace-mcp",
 "anthropics/claude-code",
 "maximhq/bifrost",
 "BerriAI/litellm",
@@ -115,6 +114,7 @@
 ["2026-10-25","GuglielmoCerri/khazad"],
 ["2026-10-25","letta-ai/letta"],
 ["2026-11-01","roy-tong/AgentMeasure"],
-["2026-11-01","facebook/mcpguard-dynamic"]
+["2026-11-01","facebook/mcpguard-dynamic"],
+["2026-11-08","nikolai-vysotskyi/trace-mcp"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"c3e7999d08e782ac7104ca07e0aa608808ed2a60"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"df6476abc6e4bfd1815e61b07844949dfc916766"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",
@@ -16,6 +16,7 @@
 "capeprivacy/cape-dataframes",
 "Myr-Aya/darr-deployer-ai-risk-register",
 "michalszymanski-ai/ai-regulation-deadlines",
+"adhit-r/fairmind",
 "OpenEthicsAI/OEDP",
 "OpenEthicsAI/OEL",
 "Continuum-AI-Corp/Orca-AI-Incident-Archive",

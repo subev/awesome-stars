@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more","defaultBranch":"main","topics":["awesome","documentation","nintendo","nintendo-64","resources","tools","awesome-list","cartridge","assembler","gamedev"],"readmeSha":"5fe9a8dbfe184c9f3a6bc67e81a1fbea456e0320"},
+"meta": {"description":"A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more","defaultBranch":"main","topics":["awesome","documentation","nintendo","nintendo-64","resources","tools","awesome-list","cartridge","assembler","gamedev"],"readmeSha":"70144fa6c562ffd6235d8390d182b76c7d3f8460"},
 "members": [
 "LuigiBlood/64dd",
 "ChrisPVille/64dd-schematics",
@@ -21,13 +21,12 @@
 "notwa/lips",
 "mikeakohn/naken_asm",
 "project64/project64",
-"simple64/simple64",
 "Rosalie241/RMG",
 "hylian-modding/ModLoader64",
-"Dillonb/n64",
+"gopher64/gopher64",
 "bdragoncore/cor64",
 "mehmetpeker1/Kaizen",
-"gopher64/gopher64",
+"Dillonb/n64",
 "extremscorner/not64",
 "jago85/Brutzelkarte_PCB",
 "Hazematman/El-Barato-64",
@@ -38,7 +37,7 @@
 "jsdf/loader64",
 "buu342/N64-UNFLoader",
 "Polprzewodnikowy/SummerCart64",
-"Polprzewodnikowy/N64FlashcartMenu",
+"n64brew/N64FlashcartMenu",
 "GCaldL/Blen64",
 "engerb/Blender64",
 "1r3n33/blend2niff",
@@ -58,7 +57,6 @@
 "queueRAM/Texture64",
 "TheRDavid/ImageMerge",
 "TheRDavid/Spritemapper",
-"xoorath/xo-tt64",
 "NathanDuma/mkspriten64",
 "farisawan-2000/mksprite2",
 "jombo23/N64-Tools",
@@ -76,6 +74,7 @@
 "networkfusion/ed64-gdb",
 "murachue/gdbstub-ed64",
 "Hazematman/N64-GDB-stub",
+"DerekTurtleRoe/Turtle64",
 "trhodeos/spicy",
 "fraser125/makeromOpen",
 "trhodeos/makemask",
@@ -86,7 +85,7 @@
 "Random06457/N64ShellPreview",
 "awygle/ipl3hasher",
 "hcs64/boot_stub",
-"pseudophpt/pseultra",
+"alexandrahauk/pseultra",
 "n64decomp/libreultra",
 "decompals/ultralib",
 "matthewcpp/framework64",
@@ -151,6 +150,7 @@
 "Rainchus/ShadowGate64",
 "cdlewis/snowboardkids2-decomp",
 "mkst/sssv",
+"sonicdcer/sf64",
 "EltaleLibrarian/SotE",
 "n64decomp/sm64",
 "VetriTheRetri/ssb-decomp-re",
@@ -250,5 +250,11 @@
 "monocasa/n64-slides-apr",
 "clktmr/n64",
 "clktmr/gopher-kart"
+],
+"dropped": [
+["2026-11-08","simple64/simple64"],
+["2026-11-08","Polprzewodnikowy/N64FlashcartMenu"],
+["2026-11-08","xoorath/xo-tt64"],
+["2026-11-08","pseudophpt/pseultra"]
 ]
 }

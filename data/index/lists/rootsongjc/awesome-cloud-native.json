@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"a7ef7e75d7a34bf16dbacba654cd2ee9978eb2aa"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"56b34f0f6944e570156c3569db2136faa8fb499c"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -168,6 +168,7 @@
 "micahhausler/container-transform",
 "datreeio/datree",
 "open-policy-agent/gatekeeper",
+"somaz94/k8s-namespace-sync",
 "kadet-hub/registry",
 "kapicorp/kapitan",
 "bit-cloner/kcg",
@@ -693,6 +694,7 @@
 "jetstack/kube-lego",
 "jtblin/kube2iam",
 "config-syncer/config-syncer",
+"heyvaldemar/kubernetes-supply-chain-admission",
 "kubescape/kubescape",
 "controlplaneio/kubesec",
 "cyberark/KubiScan",

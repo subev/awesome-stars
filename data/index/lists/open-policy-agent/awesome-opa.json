@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"23ecdc4dcae0149a82ac5fc5814f91074395ef3b"},
+"meta": {"description":"A curated list of OPA related tools, frameworks and articles","defaultBranch":"main","topics":["opa","open-policy-agent","openpolicyagent","opa-library","awesome","awesome-list","security","policy-as-code"],"readmeSha":"4c8dac055959a40a26e0dd74a2281d461c2fa5ab"},
 "members": [
 "sindresorhus/awesome",
 "open-policy-agent/opa",

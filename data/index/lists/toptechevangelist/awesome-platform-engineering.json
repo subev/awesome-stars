@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome list of Platform Engineering 平台工程列表","defaultBranch":"main","topics":["awesome-list","engineering","platform","pe","platform-engineering","idp","dx","internal-developer-platform","cicd","developer-experience"],"readmeSha":"1079a5f85f020bd806fe6b92896a66df33ee10a6"},
+"meta": {"description":"An awesome list of Platform Engineering 平台工程列表","defaultBranch":"main","topics":["awesome-list","engineering","platform","pe","platform-engineering","idp","dx","internal-developer-platform","cicd","developer-experience"],"readmeSha":"722318a0b49eac00c72249d39395185ccb3c0cf2"},
 "members": [
 "PECommunity/platform-engineering-glossary",
 "syntasso/kratix",
@@ -7,6 +7,9 @@
 "kubestellar/console",
 "AndrewDryga/emisar",
 "yylo-dev/yylo",
-"salaboy/platforms-on-k8s"
+"cloud-in-a-bottle/cloud-in-a-bottle",
+"salemalem/npmscan-mcp-plugin",
+"salaboy/platforms-on-k8s",
+"mchittineni/ultimate-platform-engineering-guide"
 ]
 }

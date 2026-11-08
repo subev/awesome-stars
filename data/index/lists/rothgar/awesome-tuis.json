@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"17bb4ccd878aee03ee7b08323c93c1ac0034e88e"},
+"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"a5c551c90b34f459d3f1bcdbec873abea7743e12"},
 "members": [
 "lissy93/AdGuardian-Term",
 "tessus/apachetop",
@@ -24,6 +24,7 @@
 "hashicorp/damon",
 "rasjonell/dashbrew",
 "charles-001/dolphie",
+"wolfwfr/dynamite",
 "jvanbuel/flowrs",
 "grouzen/framework-tool-tui",
 "irishmaestro/fubar",
@@ -133,6 +134,7 @@
 "aannoo/hcom",
 "wcampbell0x2a/heretek",
 "noahgorstein/jqp",
+"kagan-sh/kagan",
 "jesseduffield/lazygit",
 "Lifailon/lazyjournal",
 "rshelekhov/lazymake",
@@ -350,6 +352,7 @@
 "gammasoft71/xtd",
 "crramirez/casciian",
 "mabe02/lanterna",
+"tamboui/tamboui",
 "WilliamAGH/tui4j",
 "Consolonia/Consolonia",
 "ambystechcom/Ambystech.Elaris.UI",
@@ -504,6 +507,7 @@
 "rareitems/gadacz",
 "KrishnaSSH/gophertube",
 "Han8931/gorae",
+"EliasLd/goweeb",
 "jgalat/image-sorter",
 "darkhz/invidtui",
 "dhonus/jellyfin-tui",
@@ -516,6 +520,7 @@
 "mps-youtube/yewtube",
 "FurqanHun/mpv-music",
 "gmt4/mpvc",
+"anthonymaley/MusicTUI",
 "hrkfdn/ncspot",
 "trizen/pipe-viewer",
 "coderholic/pyradio",
@@ -674,7 +679,6 @@
 "dropped": [
 ["2026-09-19","simonmichael/hledger"],
 ["2026-09-19","Horldsence/tuiserial"],
-["2026-10-03","trevorbayless/cli-chess"],
-["2026-10-18","kagan-sh/kagan"]
+["2026-10-03","trevorbayless/cli-chess"]
 ]
 }

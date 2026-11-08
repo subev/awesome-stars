@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.","defaultBranch":"main","topics":["geoelectrics","geophysics","gravitomagnetism","magnetometer","seismic","seismology","awesome","awesome-list","gpr","ground-penetrating-radar"],"readmeSha":"9890ef4677e2df02b4120594afb3d5c14818e54d"},
+"meta": {"description":"Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.","defaultBranch":"main","topics":["geoelectrics","geophysics","gravitomagnetism","magnetometer","seismic","seismology","awesome","awesome-list","gpr","ground-penetrating-radar"],"readmeSha":"c76ba6d07e285aeafb2662587339bd56871fbab5"},
 "members": [
 "sindresorhus/awesome",
 "whamlyn/auralib",
@@ -23,7 +23,7 @@
 "JohnWStockwellJr/OpenSeaSeis",
 "pastas/pastas",
 "aaspip/pyekfmm",
-"stuliveshere/PySeis",
+"stuliveshere/pyseis",
 "equinor/pyvds",
 "equinor/pyzgy",
 "btobers/RAGU",
@@ -45,6 +45,10 @@
 "sede-open/synthoseis",
 "team-ocean/veros",
 "DIG-Kaust/Seismology",
-"daniel-koehn/Theory-of-seismic-waves-II"
+"daniel-koehn/Theory-of-seismic-waves-II",
+"XploraHub/awesome-mineral-exploration"
+],
+"dropped": [
+["2026-11-08","stuliveshere/PySeis"]
 ]
 }

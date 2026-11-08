@@ -1,0 +1,32 @@
+{
+"meta": {"description":"Awesome macOS apps","defaultBranch":"master","topics":["macos","apps","curated-list","macos-apps","awesome","awesome-list","macos-app"],"readmeSha":"66a17088404b7241b22ab4289961af6883b6afa9"},
+"members": [
+"gendotnew/curated-lists",
+"larryxiao/openquack",
+"microsoft/vscode",
+"daxaur/openpaw",
+"sveinbjornt/Platypus",
+"sozercan/kaset",
+"ddddxxx/LyricsX",
+"PDF-Archiver/PDF-Archiver",
+"gnachman/iTerm2",
+"kovidgoyal/kitty",
+"gendotnew/alfred-workflows",
+"beardedspice/beardedspice",
+"matryer/xbar",
+"bysiber/cleardisk",
+"gitify-app/gitify",
+"HexFiend/HexFiend",
+"sorkila/lockpaw",
+"anishathalye/lumen",
+"iina/iina",
+"glushchenko/fsnotes",
+"Lord-Kamina/SwiftDefaultApps",
+"Mortennn/Dozer",
+"jaywcjlove/awesome-mac",
+"serhii-londar/open-source-mac-os-apps",
+"jeffreyjackson/mac-apps",
+"iCHAIT/awesome-macOS",
+"nikivdev/code"
+]
+}

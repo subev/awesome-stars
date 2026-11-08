@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"33202a05e9dce279a45beb37ab73ea64499c1361"},
+"meta": {"description":"A curated list of awesome LLM agents frameworks.","defaultBranch":"main","topics":["agents","langchain","llm"],"readmeSha":"a216212082daea251b6f1c1a78ddbe4efb47e6a8"},
 "members": [
 "sindresorhus/awesome",
 "openclaw/openclaw",
@@ -15,21 +15,21 @@
 "Upsonic/Upsonic",
 "Eigenwise/atomic-agents",
 "the-open-agent/openagent",
-"ag2ai/ag2",
 "rlaope/oh-my-hermes",
+"ag2ai/ag2",
 "Josh-XT/AGiXT",
 "trpc-group/trpc-agent-go",
 "razzant/ouroboros",
-"agentlas-ai/Agentlas-OS",
 "openonion/connectonion",
+"agentlas-ai/Agentlas-OS",
 "wanxingai/LightAgent",
 "kreneskyp/ix",
 "promptise-com/Foundry",
 "aeonfun/aeon",
-"ahmadvh/octochains",
 "Muvon/octomind",
-"axar-ai/axar",
+"ahmadvh/octochains",
 "juspay/neurolink",
+"axar-ai/axar",
 "NetMindAI-Open/NarraNexus",
 "nMaroulis/protolink",
 "Scottcjn/shaprai",
@@ -58,8 +58,8 @@
 "clawfleet/ClawFleet",
 "daxaur/openpaw",
 "oxgeneral/ORCH",
-"HCF-STUDIOS/openhermit",
 "5dive-ai/5dive",
+"HCF-STUDIOS/openhermit",
 "AutoResearch-Factory/Agon",
 "sagiyaacoby/TeamHero",
 "CelaenoIndustry/OpenSepia",
@@ -87,8 +87,9 @@
 "RobotecAI/rai",
 "SureScaleAI/cleverbee",
 "Text2SqlAgent/text2sql-framework",
-"Liu-Hy/GenoMAS",
 "wq19901103wq/wechat-mac-rpa",
+"Liu-Hy/GenoMAS",
+"WayneJin0918/Omni-Rewriter",
 "shmlkv/dna-claude-analysis",
 "futuresearch/futuresearch-python",
 "mirror29/inalpha",
@@ -112,7 +113,6 @@
 "dropped": [
 ["2026-08-29","EvoAgentX/EvoAgentX"],
 ["2026-09-12","Perseus-Computing-LLC/perseus"],
-["2026-09-19","Fzkuji/OpenProgram"],
-["2026-10-10","WayneJin0918/Omni-Rewriter"]
+["2026-09-19","Fzkuji/OpenProgram"]
 ]
 }

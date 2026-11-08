@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Replace Font Awesome with modern line icons","defaultBranch":"master","topics":["icons","icon-pack"],"readmeSha":"22b5a7eb285fc2f8e71999438acb8b9aafff2596"},
+"meta": {"description":"Replace Font Awesome with modern line icons","defaultBranch":"master","topics":["icons","icon-pack"],"readmeSha":"e86faf5dd36ae7b73af7224fe5b49f4556b6d1b0"},
 "members": [
 "unplugin/unplugin-icons"
 ]

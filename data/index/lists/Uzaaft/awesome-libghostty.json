@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"1c0c1370d0f67d065802031002f443745f48423e"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"7611333720e4126a0934f95dcce02397f7e41145"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -28,6 +28,7 @@
 "prime-radiant-inc/ts-libghostty",
 "neurosnap/zmx",
 "OpenFabrica/aster",
+"buntec/btmux",
 "jossephus/chuchu",
 "mahdiarfrm/conterm",
 "hualet/deepin-terminal-ghostty",
@@ -88,6 +89,7 @@
 "bradjenn/blink",
 "pilothouse/bosun",
 "yuuichieguchi/Calyx",
+"aqilc/ClaudeTTY",
 "manaflow-ai/cmux",
 "brianrackle/codelima",
 "nowledge-co/con-terminal",
@@ -117,6 +119,7 @@
 "seruman/hauntty",
 "montanaflynn/headless-terminal",
 "emadda/hot-notes",
+"pbek/nixbit",
 "OmniNull/OmniWM",
 "pastel-sketchbook/reed",
 "dalvlatko/ribari-releases",

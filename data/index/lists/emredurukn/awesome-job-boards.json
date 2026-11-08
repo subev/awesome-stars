@@ -1,9 +1,10 @@
 {
-"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"9dd777ad4c2507f9e7f97b2579e08d5a71daec04"},
+"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"fc2317d8459a1f18e81c94942a2c289734162423"},
 "members": [
 "j-delaney/easy-application",
 "andrwspt/jobfit",
 "ai-job-search-dev/ai-job-search",
+"feder-cr/Jobs_Applier_AI_Agent",
 "yanirs/established-remote",
 "landedjobs/new-grad-and-entry-level-tech-jobs",
 "lodthe/awesome-internships",

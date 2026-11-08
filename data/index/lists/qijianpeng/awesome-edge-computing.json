@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"ebee92e292bd3b52773d0344bfca25222888c81f"},
+"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"044052082968b6dabd3f1420166aabbd7bda3f93"},
 "members": [
 "CausalSim/Unbiased-Trace-Driven-Simulation",
 "Cloudslab/cloudsim",
@@ -111,6 +111,7 @@
 "SLAM-Lab/DeepThings",
 "FederatedAI/FATE",
 "litian96/FedProx",
+"AhmadHassan-BTed/FractalWorkspace",
 "larionovavi-stack/genesis2-cascade-moe",
 "kubeedge/ianvs",
 "ymirsky/KitNET-py",

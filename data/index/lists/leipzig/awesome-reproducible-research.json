@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"834d5b7859de4e2fd07e9aa39e9fdfb906a137a3"},
+"meta": {"description":"A curated list of reproducible research case studies, projects, tutorials, and media","defaultBranch":"master","topics":["awesome-list","awesome","reproducibility","reproducible-research","reproducible-science","reproducible-analysis","reproducible-workflows"],"readmeSha":"43e8ac89e33ff6c22cd77f295be70c8f56f5953d"},
 "members": [
 "sindresorhus/awesome",
 "krassowski/multi-omics-state-of-the-field",
@@ -12,6 +12,7 @@
 "cbahlai/OSRR_course",
 "franapoli/repo",
 "mrc-ide/orderly",
+"ZhangYangyi03/debt-verify",
 "mojolearn/mojolearn",
 "heidihelena/auditlite",
 "Tom409114/research-repo-doctor",
@@ -32,8 +33,8 @@
 "heidihelena/citevahti",
 "RetrogradeLabs/lune-mcp-server",
 "SixSentences/sixsentences",
-"studio-11-co/falsify",
-"extremal-values-registry/extremal-values-registry",
+"falsify-dev/falsify",
+"extremal-values-registry/supremum",
 "jupyter/jupyter",
 "poldrack/narps",
 "pachterlab/sleuth_paper_analysis",
@@ -49,5 +50,9 @@
 "ZoranPandovski/awesome-open-science",
 "awesomedata/awesome-public-datasets",
 "semantalytics/awesome-semantic-web"
+],
+"dropped": [
+["2026-11-08","studio-11-co/falsify"],
+["2026-11-08","extremal-values-registry/extremal-values-registry"]
 ]
 }

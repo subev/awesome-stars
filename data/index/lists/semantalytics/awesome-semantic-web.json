@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"02833ff918fd8ba557c598d2d4e71616f9a070d7"},
+"meta": {"description":"A curated list of various semantic web and linked data resources.","defaultBranch":"master","topics":["semantic-web","sparql","owl","rdf","r2rml","awesome","awesome-list"],"readmeSha":"2a9fc4fa23911ebda2f969a9d3a5ecbdc3ac838c"},
 "members": [
 "rollxx/manchester-syntax-owl2",
 "ontola/hextuples",
@@ -35,6 +35,7 @@
 "oxigraph/oxigraph",
 "dice-group/tentris-research-project",
 "ad-freiburg/qlever",
+"terminusdb/terminusdb",
 "uzh/triplerush",
 "Wimmics/corese",
 "gh-rdf3x/gh-rdf3x",
@@ -200,7 +201,7 @@
 "mdesalvo/OWLSharp",
 "INCATools/ontology-development-kit",
 "inovexcorp/mobi",
-"NeverBlink-OSS/linkml-scala",
+"NeverBlink-OSS/ohi",
 "stardog-union/pellet",
 "Galigator/openllet",
 "ethz-asl/libfactplusplus",
@@ -208,6 +209,7 @@
 "liveontologies/elk-reasoner",
 "INCATools/whelk",
 "RDFLib/OWL-RL",
+"k00ni/owl-reasoner-list",
 "sertkaya/elephant-reasoner",
 "ucbl/HyLAR-Reasoner",
 "ruby-rdf/rdf-reasoner",
@@ -592,6 +594,7 @@
 "dropped": [
 ["2026-10-03","Matdata-eu/Yasgui"],
 ["2026-11-01","joachimvh/SPARQLAlgebra.js"],
-["2026-11-01","IoannisNezis/Qlue-ls"]
+["2026-11-01","IoannisNezis/Qlue-ls"],
+["2026-11-08","NeverBlink-OSS/linkml-scala"]
 ]
 }

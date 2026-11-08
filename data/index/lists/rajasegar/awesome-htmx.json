@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome things about htmx","defaultBranch":"main","topics":["awesome","awesome-list","htmx","hacktoberfest"],"readmeSha":"fd86b62bdedb1d49f9252c571bc52c4c09f2b699"},
+"meta": {"description":"Awesome things about htmx","defaultBranch":"main","topics":["awesome","awesome-list","htmx","hacktoberfest"],"readmeSha":"a797e035d01c30e04c830e0a68d1795a9d6cedf4"},
 "members": [
 "sindresorhus/awesome",
 "bigskysoftware/htmx",
@@ -13,6 +13,7 @@
 "wimdeblauwe/htmx-spring-boot",
 "michalsn/codeigniter-htmx",
 "benopotamus/htmx-ext-shoelace",
+"bgurmendi/htmx-ext-layers",
 "mauricius/laravel-htmx",
 "danieleteti/delphimvcframework",
 "chasefleming/elem-go",
@@ -24,6 +25,8 @@
 "ThePrimeagen/htmx-lsp",
 "openrundev/openrun",
 "zunnu/cake-htmx",
+"dy/sprae",
+"donseba/go-partial",
 "jerriepelser-blog/htmx-with-aspnet-core",
 "mryderie/aspnet-core-htmx-example",
 "prestancedesign/babashka-htmx-todoapp",
@@ -61,8 +64,6 @@
 "corlaez/todo-hda-kt",
 "Rattlyy/htmx-ktor",
 "PyHAT-stack/awesome-python-htmx",
-"app-generator/sample-flask-htmlx-mkit",
-"app-generator/sample-django-htmlx-mkit",
 "marcusschiesser/flask-htmx-boilerplate",
 "guettli/django-htmx-fun",
 "jaredlockhart/django-htmx-todo",
@@ -95,5 +96,9 @@
 "benpate/htmx-modal-example",
 "derkoe/quarkus-htmx-todos",
 "bufferhead-code/htmx-ai"
+],
+"dropped": [
+["2026-11-08","app-generator/sample-flask-htmlx-mkit"],
+["2026-11-08","app-generator/sample-django-htmlx-mkit"]
 ]
 }

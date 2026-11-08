@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"a8f592878a1f245917f15f1012aaa05455021fc1"},
+"meta": {"description":"Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.","defaultBranch":"master","topics":["rna-seq-data","gene-expression","scrna-seq-data","bioinformatics","awesome-list","dimensionality-reduction","atac-seq","cell-differentiation","python","clustering"],"readmeSha":"99776b669adabbb4e7eb15152d70deb93ad50946"},
 "members": [
 "COMBINE-lab/alevin-fry",
 "YeoLab/anchor",
@@ -139,7 +139,7 @@
 "niaid/dsb",
 "JBrownBiostat/Dino",
 "RGLab/MAST",
-"jmbreda/Sanity",
+"nimwegenLab/Sanity",
 "rhondabacher/SCnorm",
 "statOmics/zinbwaveZinger",
 "ushaham/BatchEffectRemoval",
@@ -303,6 +303,7 @@
 "prism-oncology/sopa",
 "jianhuupenn/SpaGCN",
 "ZJUFanLab/SpaTalk",
+"Lukecele/spatial-architecture-osimertinib",
 "Lukecele/spatial-continuum-oncology",
 "Teichlab/SpatialDE",
 "rdong08/spatialDWLS_dataset",
@@ -316,6 +317,7 @@
 "broadinstitute/Tangram",
 "Luosanj/VOICE_HE_ST_Pred",
 "cytomining/pycytominer",
+"cytomining/CytoTable",
 "cellgeni/scRNA.seq.course",
 "tobiasrausch/ATACseq",
 "GoekeLab/bambu-pipe",
@@ -362,6 +364,7 @@
 "agitter/single-cell-pseudotime"
 ],
 "dropped": [
-["2026-10-03","mohuangx/SAVER"]
+["2026-10-03","mohuangx/SAVER"],
+["2026-11-08","jmbreda/Sanity"]
 ]
 }

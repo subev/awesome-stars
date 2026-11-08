@@ -1,5 +1,5 @@
 {
-"meta": {"description":"DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ","defaultBranch":"main","topics":["blockchain","ethereum","awesome-list","awesome","solidity","defi","roadmap","knowledge-base","smart-contracts","curated-list"],"readmeSha":"f9aed19fed35c5d75a3bb2029e4feaa8c42a7159"},
+"meta": {"description":"DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ","defaultBranch":"main","topics":["blockchain","ethereum","awesome-list","awesome","solidity","defi","roadmap","knowledge-base","smart-contracts","curated-list"],"readmeSha":"bb1dc031914a556a9b863c48e09e58b2854d91d6"},
 "members": [
 "OffcierCia/support",
 "ossu/computer-science",
@@ -32,7 +32,7 @@
 "nucypher/nucypher",
 "nucypher/pyUmbral",
 "nucypher/nufhe",
-"matter-labs/awesome-zero-knowledge-proofs",
+"matter-labs-archive/awesome-zero-knowledge-proofs",
 "ventali/awesome-zk",
 "akula-bft/akula",
 "erigontech/interfaces",
@@ -67,6 +67,7 @@
 "ComposableSecurity/SCSVS",
 "Faillapop/faillapop",
 "ZhangZhuoSJTU/Web3Bugs",
+"pashov/skills",
 "thecryptoshed/eth-dapp-developer-roadmap",
 "defi-defense-dao/defi-risk-tools-list",
 "protofire/blockchain-learning-path",
@@ -210,6 +211,7 @@
 ["2026-10-18","Consensys/orion"],
 ["2026-10-18","Consensys/teku"],
 ["2026-10-18","Consensys/quorum"],
-["2026-10-18","Consensys/awesome-quorum"]
+["2026-10-18","Consensys/awesome-quorum"],
+["2026-11-08","matter-labs/awesome-zero-knowledge-proofs"]
 ]
 }

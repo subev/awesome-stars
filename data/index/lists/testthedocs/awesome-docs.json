@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"e539c8f177327ea7b88e554c26b0dd5ffa733b7d"},
+"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"7bd7ca01064345a3f2392ad6db0f75ce20c2cee8"},
 "members": [
 "dequelabs/axe-cli",
 "JakePartusch/lumberjack",
@@ -32,7 +32,6 @@
 "littletuna4/reqlan",
 "plasma-ai/wiki",
 "alyssaxuu/animockup",
-"Bubblegunn/ai-slop-linter",
 "get-alex/alex",
 "smallhadroncollider/brok",
 "antfu/case-police",
@@ -93,5 +92,8 @@
 "glimapp/glim",
 "charmbracelet/glow",
 "xrfang/mdv"
+],
+"dropped": [
+["2026-11-08","Bubblegunn/ai-slop-linter"]
 ]
 }
