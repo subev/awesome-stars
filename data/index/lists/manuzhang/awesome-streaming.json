@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"9425e2c53311c762c4bc459fc8493ea0321c7e17"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"a270508383454e3cac4a413f983170e21f9964e9"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -65,6 +65,7 @@
 "apache/pekko",
 "apache/incubator-samoa",
 "apache/stormcrawler",
+"korableg/bus",
 "adaptive-machine-learning/CapyMOA",
 "bkirwi/coast",
 "synacker/daggy",

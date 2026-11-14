@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"870224391ca9cb92b46ab2a6337f1497f9755be2"},
+"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"8eaeb475a90f4edea2be9c6a512018b9372bb309"},
 "members": [
 "jsakamoto/awesome-blazor-browser",
 "dotnet/eShop",
@@ -37,6 +37,7 @@
 "EngstromJimmy/ZXSpectrum",
 "johnt84/WordleBlazorApp",
 "BlazorPuzzle/Puzzle-3",
+"DigitalAbsurd/TabletopCardEngine",
 "tryphotino/photino.NET",
 "umbraco/Umbraco.Headless.Client.Net",
 "elgransan/BlazorWasmWithNetFrameworkMVC",
@@ -145,6 +146,7 @@
 "Blazored/Toast",
 "Append-IT/Blazor.Sidepanel",
 "Taiizor/Blazouter",
+"cedric56/Routeables",
 "David-Moreira/BlazorXTabs",
 "bUnit-dev/bUnit",
 "VerifyTests/Verify.Blazor",
@@ -188,6 +190,7 @@
 "PSCourtney/BlazorGravatar",
 "iolitetech/IOSwipeView",
 "joadan/Linq2Dashboard",
+"gordon-matt/WebFilez",
 "mrpmorris/Fluxor",
 "Blazored/LocalStorage",
 "TimeWarpEngineering/timewarp-state",

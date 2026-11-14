@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"e1b69cefe64bfa7ac698daeb9604fbd8cffc4666"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"ed767e8697a7127339f77977b80de6992fab019f"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -66,11 +66,11 @@
 "be9/acl9",
 "chaps-io/access-granted",
 "palkan/action_policy",
-"CanCanCommunity/cancancan",
+"coorasse/cancancan",
 "makandra/consul",
 "elorest/petergate",
 "varvet/pundit",
-"enjaku4/rabarber",
+"brownboxdev/rabarber-authorization",
 "automaticmode/active_workflow",
 "danger/danger",
 "huginn/huginn",
@@ -775,7 +775,6 @@
 "codegram/spinach",
 "test-bench/test-bench",
 "thoughtbot/factory_bot",
-"adamcooke/fake-person",
 "faker-ruby/faker",
 "ffaker/ffaker",
 "zeisler/active_mocker",
@@ -873,6 +872,9 @@
 "dropped": [
 ["2026-09-11","ably/ably-ruby"],
 ["2026-09-11","vifreefly/kimuraframework"],
-["2026-10-02","rom-rb/rom"]
+["2026-10-02","rom-rb/rom"],
+["2026-11-14","CanCanCommunity/cancancan"],
+["2026-11-14","enjaku4/rabarber"],
+["2026-11-14","adamcooke/fake-person"]
 ]
 }

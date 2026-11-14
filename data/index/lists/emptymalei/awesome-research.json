@@ -1,5 +1,5 @@
 {
-"meta": {"description":":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]","defaultBranch":"master","topics":["awesome","research","awesome-list","awesomeness","list","research-tools","research-tool","tools"],"readmeSha":"9c0d72a9c063817644129eee92353699117c339c"},
+"meta": {"description":":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]","defaultBranch":"master","topics":["awesome","research","awesome-list","awesomeness","list","research-tools","research-tool","tools"],"readmeSha":"b97e50d249038082e7aefe740525f49826d28380"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted",
@@ -51,8 +51,10 @@
 "CherishChenCherish/odatamap",
 "marcpinet/citracer",
 "duecredit/duecredit",
+"wedo911/citeguard",
 "jkitchin/org-ref",
 "brodie-neuro/ScholarRef",
+"the-aurora-lab/reference-verifier",
 "jivoi/awesome-osint",
 "kausalflow/GuokrBadge",
 "jbmouret/matplotlib_for_papers",

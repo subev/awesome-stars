@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curation of WebAssembly (Wasm) resources, projects, and communities.","defaultBranch":"main","topics":["awesome","awesome-list","wasm","webassembly","awesome-wasm","awesome-webassembly","awesome-lists","resources"],"readmeSha":"2742769e16e4cc9a4a9f471846375bab9edda9ea"},
+"meta": {"description":"A curation of WebAssembly (Wasm) resources, projects, and communities.","defaultBranch":"main","topics":["awesome","awesome-list","wasm","webassembly","awesome-wasm","awesome-webassembly","awesome-lists","resources"],"readmeSha":"e434ae78ad8f856c0b306ff9212ceee5a0c39433"},
 "members": [
 "WebAssembly/spec",
 "WebAssembly/binaryen",
@@ -13,6 +13,7 @@
 "WebAssembly/WASI",
 "arthiqlabs/vedaksha",
 "aaronaltherr1-png/sqlite-lens",
+"jurecki007/nyxiontech-tools",
 "leptos-rs/leptos",
 "isamorph/awesome-webassembly"
 ]

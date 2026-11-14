@@ -1,9 +1,10 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"32d3ce1e29b26c776f4cee4da0a403b37145584f"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"682bd4c1f2dcdff751e6933d48a3bad69c354dc0"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
 "kenrick95/c4",
+"s87343472/daily-word-hunt",
 "David20321/FTJ",
 "Loptr-Lab/duet-solo-hackathon",
 "danbeck/green-mahjong",
@@ -15,6 +16,7 @@
 "playpip/pip-web",
 "playhex/playhex",
 "oil-oil/wolfcha",
+"zicojiao/trick-or-take",
 "Dave-and-Mike/game-off-2012",
 "cykod/AlienInvasion",
 "stephank/arashi-js",
@@ -71,6 +73,7 @@
 "martindrapeau/backbone-game-engine",
 "scottschiller/SURVIVOR",
 "jfd/wpilot",
+"abusofianid/game-wave-rider-nusantara",
 "salvatorecapolupo/zedinvaders",
 "abagames/111-one-button-games-in-2021",
 "bemusic/bemuse",
@@ -80,6 +83,7 @@
 "mitallast/diablo-js",
 "CamHenlin/roguish",
 "antionio/game-off-2013",
+"ChurchTao/Daoyou",
 "mozilla/BrowserQuest",
 "FreezingMoon/AncientBeast",
 "adityaravishankar/command-and-conquer",
@@ -92,6 +96,7 @@
 "lo-th/3d.city",
 "morozd/blk-game",
 "Nurgak/Cube-engine",
+"PixelGuys/Cubyz",
 "R74nCom/sandboxels",
 "1homsi/thehumanbox",
 "gabrielecirulli/2048",
@@ -134,6 +139,8 @@
 "Zolmeister/Zop",
 "particle-clicker/particle-clicker",
 "arturkot/the-house-game",
+"JezKirkpatrick/WorldChase",
+"JezKirkpatrick/kids-world-chase",
 "dominikwilkowski/beast",
 "lpinca/binb",
 "diogoseca/bjjgraph",
@@ -186,7 +193,6 @@
 "FrozenSand/UrbanTerror4",
 "Warsow/qfusion",
 "xonotic/xonotic",
-"Open-KO/KnightOnline",
 "Meridian59/Meridian59",
 "Quaint-Studios/Reia",
 "arianne/stendhal",
@@ -205,6 +211,7 @@
 "00-Evan/shattered-pixel-dungeon",
 "solarus-games/zsdx",
 "ValyriaTear/ValyriaTear",
+"Scottcjn/legend-of-elya-n64",
 "divVerent/aaaaxy",
 "gerstrong/Commander-Genius",
 "ddnet/ddnet",
@@ -420,7 +427,7 @@
 ],
 "dropped": [
 ["2026-09-25","city41/breakouts"],
-["2026-10-10","Scottcjn/legend-of-elya-n64"],
-["2026-10-17","jonradoff/chessmata"]
+["2026-10-17","jonradoff/chessmata"],
+["2026-11-14","Open-KO/KnightOnline"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"f3f67169f93ba054defa3a710fcb97bbf70bc886"},
+"meta": {"description":"A curated list of free/libre plugins, scripts and add-ons for Godot","defaultBranch":"master","topics":["godot","godot-engine","awesome","awesome-list","game-development"],"readmeSha":"cdd3db1c240c563a5dea6e35b81699876825594f"},
 "members": [
 "Godot-Languages-Support/godot-lang-support",
 "TinyTakinTeller/GodotProjectZero",
@@ -66,9 +66,7 @@
 "TinyTakinTeller/TakinGodotTemplate",
 "bend-n/godot-template",
 "you-win/godot-package-manager",
-"tavurth/godot-simple-fps-camera",
 "MilkAndBanana01/godot-fps-template",
-"tavurth/godot-game-of-life",
 "benmarz/minimum_game",
 "blockspacer/Godot-3.2-Multiplayer-FPS",
 "jasonswearingen/TPS-MP",
@@ -102,7 +100,6 @@
 "nathanhoad/godot_dialogue_manager",
 "TRUINGLol/DotnetQuestSystem",
 "bbbscarter/event-audio-godot",
-"tavurth/godot-fft",
 "utopia-rise/fmod-gdextension",
 "friflo/Friflo.Engine.ECS",
 "func-godot/func_godot_plugin",
@@ -118,7 +115,6 @@
 "unvermuthet/godot-ndi",
 "Structed/godot-playfab",
 "SoloByte/godot-polygon2d-fracture",
-"tavurth/godot-radial-menu",
 "Koisuji02/GodotShaderWarmup",
 "yudinikita/godot-spin-button",
 "2shady4u/godot-sqlite",
@@ -261,7 +257,6 @@
 "Wild-Pluto/godot-apple-signin",
 "Drachenfrucht1/godotcord",
 "touilleMan/godot-python",
-"tavurth/godot-simple-state",
 "cj-dimaggio/godot-slicer",
 "DavidArayan/ezy-slice",
 "goostengine/goost",
@@ -312,5 +307,12 @@
 "hiulit/RetroPie-Godot-Engine-Emulator",
 "shipth-is/cli",
 "zfoo-project/zfoo"
+],
+"dropped": [
+["2026-11-14","tavurth/godot-simple-fps-camera"],
+["2026-11-14","tavurth/godot-game-of-life"],
+["2026-11-14","tavurth/godot-fft"],
+["2026-11-14","tavurth/godot-radial-menu"],
+["2026-11-14","tavurth/godot-simple-state"]
 ]
 }

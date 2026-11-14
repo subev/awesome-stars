@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"edec2c7357017f329578d028800b661edc57f13a"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"920341701dba03f44f61b4fb35db2abee8898a68"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -19,6 +19,7 @@
 "RainerGewalt/TrailMQ",
 "vert-x3/vertx-mqtt",
 "nanomq/nanomq",
+"akya-dev/AyMON",
 "ForestHubAI/edge-agents",
 "pnoker/iot-dc3",
 "cortex-docs/cortex",
@@ -38,6 +39,7 @@
 "hivemq/mqtt-cli",
 "sdeancos/mqtt-client",
 "hobbyquaker/mqtt-forget",
+"kgvicente/mqtt-gateway",
 "WithSecureOpenSource/mqtt_fuzz",
 "etactica/mqtt-malaria",
 "4nte/mqtt-mirror",
@@ -100,6 +102,7 @@
 "matbor/arduinoTemps2mqtt",
 "ct-Open-Source/Basecamp",
 "rbaron/deskmate",
+"ErdiTech/erdi-lrf-raspberry-pi-python",
 "computourist/RFM69-MQTT-client",
 "hobbyquaker/rpi2mqtt",
 "xoseperez/xbee2mqtt",

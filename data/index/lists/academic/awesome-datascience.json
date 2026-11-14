@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"5a93d29f4b624e34cbfba23d8365e4df7d2561ce"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"a30b986f67a92da9c7b3547ae838148cc0d5babe"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -160,6 +160,7 @@
 "aws/aws-sdk-pandas",
 "iterative/cml",
 "duckdb/duckdb",
+"piskvorky/gensim",
 "ricklamers/gridstudio",
 "jakevdp/PythonDataScienceHandbook",
 "benedekrozemberczki/shapley",
@@ -219,7 +220,6 @@
 "MLT-OSS/FirstData",
 "juanmoisesd/latamdata-py",
 "artakulov/us-water-quality-data",
-"erinheit451/verified-supplement-evidence",
 "npiwho/us-provider-payments",
 "checkdutyrates/us-tariff-data",
 "odebo/us-traffic-ticket-data",
@@ -258,6 +258,7 @@
 "dropped": [
 ["2026-09-11","dbt-labs/dbt-core"],
 ["2026-10-31","initial-d/me_fasttext"],
-["2026-11-07","hissain/jscipy"]
+["2026-11-07","hissain/jscipy"],
+["2026-11-14","erinheit451/verified-supplement-evidence"]
 ]
 }

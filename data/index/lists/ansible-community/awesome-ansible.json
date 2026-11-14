@@ -1,11 +1,12 @@
 {
-"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"50be36e8c88039e1c8291b401dcbb5cf8efc1557"},
+"meta": {"description":"Awesome Ansible List","defaultBranch":"main","topics":["awesome","ansible","awesome-list","learning-ansible","hacktoberfest"],"readmeSha":"7b06cbbe4c0d63b0fb2020273538e24b88d6a1a7"},
 "members": [
 "leucos/ansible-tuto",
 "geerlingguy/ansible-for-devops",
 "ansible/awx",
 "ansible/ansible-lint",
 "arhuman/ansible-static-lint",
+"xorwow/ansible-vars",
 "thegeeklab/ansible-doctor",
 "foundata/ansible-docsmith",
 "ansible-community/ara",

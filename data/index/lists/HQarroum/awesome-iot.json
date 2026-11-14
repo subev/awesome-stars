@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"4621da762b4f6e6d2785c9f7cea13662c9d00c0a"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"166575b36ee0961de39278bc8f706ff6b4b5cc7a"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -36,6 +36,7 @@
 "visoar/mqtt-acl-linter",
 "lwmqn/smartobject",
 "united-manufacturing-hub/united-manufacturing-hub",
+"emirmrkaljevic/usb-rea",
 "questdb/questdb",
 "chaos-genius/chaos_genius",
 "volkanalkilic/ThingsOn.MQTT.Bench",

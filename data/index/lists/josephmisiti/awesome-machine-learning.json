@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"dc947d72cd754b526055b0f0b782bb10c32bd34d"},
+"meta": {"description":"A curated list of awesome Machine Learning frameworks, libraries and software.","defaultBranch":"master","topics":[],"readmeSha":"68d17fe55bb47ecfa1bd2a5d7567caaee5a10af8"},
 "members": [
 "sindresorhus/awesome",
 "mattcunningham/naive-apl",
@@ -605,6 +605,7 @@
 "doublewordai/autobatcher",
 "future-agi/future-agi",
 "RishabhPande/GNN-fraud-ring-detection",
+"eigenorbit/eigenkit",
 "capitalone/datacompy",
 "Shanky-21/Data_visualization",
 "AutoViML/AutoViz",

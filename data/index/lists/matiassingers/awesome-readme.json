@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"81a37f98356136c250a031059ba5f4f382838b8a"},
+"meta": {"description":"A curated list of awesome READMEs","defaultBranch":"master","topics":["awesome-list","awesome","list","readme"],"readmeSha":"ed809d0d7363141ef8a3778938eb6ea1ed2c40df"},
 "members": [
 "sindresorhus/awesome",
 "Abblix/Oidc.Server",
@@ -81,6 +81,7 @@
 "sebyddd/SDVersion",
 "serpro69/kotlin-faker",
 "shama/gaze",
+"shivrajsinhzala/transit-timetables",
 "shriyanyamali/JurisMercatus",
 "sidneycadot/oeis",
 "sindresorhus/pageres",

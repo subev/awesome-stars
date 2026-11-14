@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome projects related to eBPF.","defaultBranch":"main","topics":["awesome-list","awesome","bpf","ebpf","xdp","bcc"],"readmeSha":"2e45dbd749847da5a3db44653980464e884ee8b3"},
+"meta": {"description":"A curated list of awesome projects related to eBPF.","defaultBranch":"main","topics":["awesome-list","awesome","bpf","ebpf","xdp","bcc"],"readmeSha":"18b4f3166fce4962f1f4d37cdf7d9f9f7ff7c699"},
 "members": [
 "sindresorhus/awesome",
 "iovisor/bcc",
@@ -53,7 +53,8 @@
 "coroot/coroot",
 "hengyoush/kyanos",
 "bhanuprakasheagala/eTraceGen",
-"microsoft/SysmonForLinux",
+"aibudaevv/sip-exporter",
+"microsoft/Sysmon-Linux",
 "microsoft/SysinternalsEBPF",
 "aquasecurity/tracee",
 "redcanaryco/redcanary-ebpf-sensor",
@@ -63,6 +64,8 @@
 "gen0sec/jailer",
 "bombinisecurity/bombini",
 "Cybereason-Public/owLSM",
+"Karib0u/rustinel",
+"kguardian-dev/kguardian",
 "sched-ext/scx",
 "Gthulhu/Gthulhu",
 "iovisor/kubectl-trace",
@@ -84,5 +87,8 @@
 "pathtofile/bad-bpf",
 "h3xduck/TripleCross",
 "xdp-project/xdp-project"
+],
+"dropped": [
+["2026-11-14","microsoft/SysmonForLinux"]
 ]
 }

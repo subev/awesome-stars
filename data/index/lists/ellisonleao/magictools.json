@@ -1,5 +1,5 @@
 {
-"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"594b89865550b7d2e41abb9bd6163bc5ebfd7bb2"},
+"meta": {"description":":video_game: :pencil: A list of Game Development resources to make magic happen.","defaultBranch":"main","topics":["game-development","gamedev","awesome","curated","list","games","frameworks","art","design","game-design"],"readmeSha":"795eba5f4381a91ab7ad6eafc0070d7d64e932e9"},
 "members": [
 "sindresorhus/awesome",
 "nidorx/matcaps",
@@ -9,6 +9,7 @@
 "RodZill4/material-maker",
 "UnderwaterApps/overlap2d",
 "Ttanasart-pt/Pixel-Composer",
+"klad-app/klad",
 "Pixen/Pixen",
 "Hugo-Dz/spritefusion-pixel-snapper",
 "guillaumechereau/goxel",
@@ -61,6 +62,7 @@
 "vanyle/vectarine",
 "WhitestormJS/whs.js",
 "ObEngine/ObEngine",
+"Justin-sky/ai-art-engine",
 "IvanMurzak/Unity-MCP",
 "ashleydavis/Fluent-Behaviour-Tree",
 "mgerhardy/simpleai",

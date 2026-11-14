@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"b115fbe14f89a85c0369f3a4e0247088ef6bc491"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"8d166b74fd18816eaf8f2352377328e19e50cef0"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -32,6 +32,10 @@
 "sunxiuguo/fanout-check",
 "hamarshehmhmd/llmdrill",
 "YusefSyed/scopehaven-oss",
+"connabyss/bite",
+"dylanpulver/judge-check",
+"srpadmanabhuni/agentest",
+"buggregator/server",
 "xnbox/DeepfakeHTTP",
 "faiscadev/fakecloud",
 "nanmuyao-tools/ghostwire",
@@ -48,6 +52,7 @@
 "browser-use/browser-use",
 "gitemre/device-hub-pro",
 "SharminSirajudeen/drengr-runner",
+"e2e-inc/e2e",
 "rubycdp/ferrum",
 "ai-dashboad/flutter-skill",
 "genclass-dev/GenClass",
@@ -63,8 +68,9 @@
 "jiongfeng/waterfall-ai-test-platform",
 "vostride/agent-qa",
 "awss1i/assay",
+"xseman/coverage",
 "sunxiuguo/junit-collision-check",
-"kiwitcms/Kiwi",
+"kiwitcms/kiwitcms",
 "get-skipper/skipper",
 "TestLinkOpenSourceTRMS/testlink-code",
 "rapiddweller/datamimic",
@@ -95,9 +101,11 @@
 "mozarkai/optics-framework",
 "emirmrkaljevic/behave",
 "godikemahesh/verispec",
+"baokhang83/blastradius",
 "MathewSachin/Captura",
 "rrweb-io/rrweb",
 "xianyu-sheng/SmartBench",
+"Huldoser/test-inventory",
 "karlhorky/learn-to-program",
 "majdukovic/frontrow",
 "ChristoWolf/awesome-testing-blogs",
@@ -120,6 +128,7 @@
 "dropped": [
 ["2026-09-25","altansayan/mock-jutsu-api"],
 ["2026-10-03","Robocular/frostbyte-screenshot-action"],
-["2026-11-07","aichance/business-ai-recipes"]
+["2026-11-07","aichance/business-ai-recipes"],
+["2026-11-14","kiwitcms/Kiwi"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collaborative list of awesome Swift libraries and resources. Feel free to contribute!","defaultBranch":"master","topics":["swift-framework","swift-library","swift-extensions","swift-language","awesome-list","swift","awesome","awesome-swift","list","lists"],"readmeSha":"9d8f6878d978ce9af498779ecc3b92381ff813d8"},
+"meta": {"description":"A collaborative list of awesome Swift libraries and resources. Feel free to contribute!","defaultBranch":"master","topics":["swift-framework","swift-library","swift-extensions","swift-language","awesome-list","swift","awesome","awesome-swift","list","lists"],"readmeSha":"b3d8c31a5e53116371c27da7571127b2bf3a86f9"},
 "members": [
 "sindresorhus/awesome",
 "airbnb/swift",

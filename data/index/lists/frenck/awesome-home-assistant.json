@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"87c4de586f1f20b69f9c52f1b4813e64d3f34763"},
+"meta": {"description":"A curated list of amazingly awesome Home Assistant resources.","defaultBranch":"main","topics":["awesome","awesome-list","home-assistant","homeassistant","homeassistant-config","hassio-repository","home-automation","diy","homeautomation","internet-of-things"],"readmeSha":"e4f5b79957f192f566ad15267e22bf53e64e294e"},
 "members": [
 "blakeblackshear/frigate",
 "Koenkk/zigbee2mqtt",

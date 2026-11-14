@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A hub of Free and open-source software for developers","defaultBranch":"master","topics":[],"readmeSha":"ca780941692e84c60f066f0e144f0630f4be47a2"},
+"meta": {"description":"A hub of Free and open-source software for developers","defaultBranch":"master","topics":[],"readmeSha":"1ae9533d1a6f16df48decd173d765d720d83d6b8"},
 "members": [
 "sindresorhus/awesome",
 "ripienaar/free-for-dev",
@@ -16,6 +16,7 @@
 "leo-arch/clifm",
 "Slackadays/Clipboard",
 "junegunn/fzf",
+"glimapp/glim",
 "hbons/SparkleShare",
 "shazow/ssh-chat",
 "sdelements/lets-chat",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"16474049f0ce07b6f278a7c24a30db773ccb4242"},
+"meta": {"description":"A curated list of analytics frameworks, software and other tools.","defaultBranch":"master","topics":[],"readmeSha":"7690bf9b60d5748f94a11a596d40c1d2bdc02c28"},
 "members": [
 "sindresorhus/awesome",
 "oxnr/awesome-bigdata",
@@ -17,6 +17,7 @@
 "frett27/superset-datafusion",
 "replayowl/replayowl",
 "rrweb-io/rrweb",
+"pug-sh/pug",
 "allinurl/goaccess",
 "umami-software/umami",
 "mirlan-irokez/rawbbit",
@@ -25,6 +26,7 @@
 "izzipizzy/gsc-hub",
 "tudortotolici/sensegap",
 "nowork-studio/notfair-plugin",
+"loootai/looot-seo",
 "usefathom/fathom",
 "plausible/analytics",
 "plausible/analytics",

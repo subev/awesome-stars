@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"b0cc79846745f533615d7d8a7767cfc01d7eff8d"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"65f2b4b4ec2727b24c2432d0af084acc76ae2266"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",
@@ -163,6 +163,7 @@
 "mtmucha/coros",
 "NVlabs/cub",
 "eyalroz/cuda-api-wrappers",
+"javier-cabezas/cuda4cpu",
 "ComputationalRadiationPhysics/cupla",
 "snakster/cpp.react",
 "facebookincubator/dispenso",

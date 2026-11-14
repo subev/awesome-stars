@@ -1,5 +1,5 @@
 {
-"meta": {"description":"6,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"5e7b081659436b5892ded674dddfcd5b93e563cb"},
+"meta": {"description":"8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.","defaultBranch":"main","topics":["anthropic","awesome","awesome-list","claude","claude-code","claude-mods","plugins","claude-code-hooks","claude-code-plugins","developer-tools"],"readmeSha":"b08a87990a265056c1db80cf080123cf4cc142e0"},
 "members": [
 "zenbu-labs/terminal-browser",
 "karanb192/cache-tax",
@@ -8,6 +8,7 @@
 "scasella/claude-flightdeck",
 "data-goblin/claude-code-filetree",
 "oikon48/prompt-rail",
+"alexeyw/lot-map",
 "anthropics/claude-code",
 "BeLazy167/claude-mods-skill",
 "noeltock/mod-builder",

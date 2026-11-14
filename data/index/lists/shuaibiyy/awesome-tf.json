@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"bd964c27c8c4ce3ada90746bff5d7b8f31598121"},
+"meta": {"description":"Curated list of resources on HashiCorp's Terraform and OpenTofu","defaultBranch":"master","topics":["awesome-list","awesome","hashicorp-terraform","terraform-modules","devops","infrastructure-as-code","terraform","opentofu"],"readmeSha":"c8039dbc6d5306244f98f23782842c08da059804"},
 "members": [
 "sindresorhus/awesome",
 "antonbabenko/terraform-docs-as-pdf",
@@ -121,8 +121,8 @@
 "PaloAltoNetworks/terraform-provider-panos",
 "phare/terraform-provider-phare",
 "planetscale/terraform-provider-planetscale",
-"Qovery/terraform-provider-qovery",
 "russellcardullo/terraform-provider-pingdom",
+"Qovery/terraform-provider-qovery",
 "rancher/terraform-provider-rancher2",
 "Scalr/terraform-provider-scalr",
 "secrethub/terraform-provider-secrethub",

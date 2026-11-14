@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"72dc5c72c074483ecaf8d2b7cce8679d52250d79"},
+"meta": {"description":"Curated list of awesome things related to Deno","defaultBranch":"main","topics":["awesome","deno","awesome-list"],"readmeSha":"cce1bd7b1d3875078be2ce7f313e1682b7aa08d4"},
 "members": [
 "fakoua/SwissKnife",
 "zuke-build/zuke",
@@ -41,6 +41,7 @@
 "denosaurs/neo",
 "lumeland/lume",
 "xcatliu/pagic",
+"glastor-core/zerho",
 "vixalien/written",
 "discordeno/discordeno",
 "grammyjs/grammY",
@@ -92,6 +93,7 @@
 "Thesephi/oak-routing-ctrl",
 "cmorten/opine",
 "cmorten/opine-http-proxy",
+"middleapi/orpc",
 "denyncrawford/dropper-deno",
 "drashland/wocket",
 "Zaubrik/djwt",
@@ -113,6 +115,7 @@
 "edrys-org/edrys",
 "ryo-ma/github-profile-trophy",
 "alexindigo/globnotes",
+"glastor-core/medusa",
 "shopsavvy/deno-deploy-shopsavvy",
 "ekaragodin/clone",
 "siddiksawani/CompatLab",
@@ -133,6 +136,7 @@
 "bcheidemann/entype",
 "littletof/kopo-cli",
 "bevry/make-deno-edition",
+"glastor-core/nemesis",
 "Hexagon/pup",
 "jersou/studio-pack-generator",
 "crewdevio/Trex",

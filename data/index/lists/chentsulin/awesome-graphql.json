@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"43c733715b59d66e5f50a38d7de6504709d63438"},
+"meta": {"description":"Awesome list of GraphQL","defaultBranch":"master","topics":["awesome-list","awesome","list","graphql"],"readmeSha":"a617c356e444181a0ef893cdba37db332da682a5"},
 "members": [
 "graphql/graphql-spec",
 "graphql/graphql-over-http",
@@ -263,6 +263,7 @@
 "usebruno/bruno",
 "Escape-Technologies/graphman",
 "eerimoq/gqt",
+"kunalgoesbyken/gostman",
 "wbaldoumas/graphql-to-karate",
 "APIs-guru/graphql-faker",
 "getmockd/mockd",
@@ -284,7 +285,7 @@
 "jparise/vim-graphql",
 "nicolaslopezj/atom-graphql-autocomplete",
 "Quramy/ts-graphql-plugin",
-"rookieInTraining/apq-debugger",
+"rookieInTraining/graphql-debugger",
 "2fd/graphdoc",
 "Code-Hex/gqldoc",
 "anvilco/spectaql",
@@ -328,6 +329,7 @@
 ["2026-09-25","teambit/bit"],
 ["2026-09-25","graphql-hive/graphql-inspector"],
 ["2026-10-17","networknt/light-example-4j"],
-["2026-11-07","facebook/relay"]
+["2026-11-07","facebook/relay"],
+["2026-11-14","rookieInTraining/apq-debugger"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"834d844ac78c387fb070f9e136bd580dd247af24"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"c2bc16ae509322ba91fbc3bd77a2e559cc1bad72"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -65,6 +65,7 @@
 "webdriverio/webdriverio",
 "getgauge/taiko",
 "microsoft/playwright",
+"e2e-inc/e2e",
 "prettier/prettier",
 "jshint/jshint",
 "jscs-dev/node-jscs",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome F# frameworks, libraries, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list","dotnet","fsharp"],"readmeSha":"13ce0a834ca6b4a8657c6ca7ccae6cda634de246"},
+"meta": {"description":"A curated list of awesome F# frameworks, libraries, software and resources.","defaultBranch":"main","topics":["awesome","awesome-list","dotnet","fsharp"],"readmeSha":"dc2d8bc3fc2438ef47026851e3be12a0805f9a01"},
 "members": [
 "dotnet/fsharp",
 "fsharp/fslang-suggestions",

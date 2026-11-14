@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"29e20a035d169a0a08a87ffd67e390adffd4782d"},
+"meta": {"description":"A curated list of awesome V frameworks, libraries, software and resources.","defaultBranch":"master","topics":["v","awesome-list","awesome"],"readmeSha":"a14e5a3ae720d250c0cc413ca7974bee48bc2c0e"},
 "members": [
 "EmmaTheMartian/clockwork",
 "vlang/vab",
@@ -78,7 +78,6 @@
 "hyperpolymath/boj-server",
 "ttytm/emoji-mart-desktop",
 "qptorrent/qptorrent",
-"Matejsdevelopment/raur",
 "Ddiidev/unix-emulators-win",
 "fanlia/v-nodejs-addon",
 "vlang/gitly",
@@ -121,6 +120,7 @@
 "blacktrub/vmemcached",
 "xiusin/vredis",
 "lydiandy/vsql",
+"elliotchance/vsql",
 "Terisback/discord.v",
 "ysdragon/discordwebhook",
 "rtnl/kitten",
@@ -220,6 +220,7 @@
 "Te4nick/jsonrpcv",
 "S-YOU/pico.v",
 "einar-hjortdal/sessions",
+"eddow/swelte",
 "nedpals/v-jsonrpc",
 "deatil/v-jwt",
 "deatil/v-sm3",
@@ -229,6 +230,7 @@
 "alexferl/vest",
 "nedpals/vex",
 "withs/vigest",
+"Tuntii/viltrum",
 "ske-ci/vite",
 "WolvesFortress/vxbl-oauth",
 "Dracks/West",
@@ -290,6 +292,7 @@
 ["2026-08-28","tailsmails/velegram"],
 ["2026-08-28","tailsmails/vanadium"],
 ["2026-08-28","tailsmails/vop"],
-["2026-10-17","siguici/vite"]
+["2026-10-17","siguici/vite"],
+["2026-11-14","Matejsdevelopment/raur"]
 ]
 }

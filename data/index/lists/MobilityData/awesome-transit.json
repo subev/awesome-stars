@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"b4b7d8a4d28ae9b74628c24c02be17cea130de5c"},
+"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"1ec9c11ac2bba7a249e0d65d763bd4508e0bcb14"},
 "members": [
 "sindresorhus/awesome",
 "MobilityData/GTFS-books",
@@ -70,6 +70,8 @@
 "conveyal/gtfs-data-manager",
 "ibi-group/datatools-ui",
 "laidig/vagrant-gtfs-editor",
+"MobilityData/gtfs-validator",
+"Weyland-Binary/gtfs-express",
 "WRI-Cities/static-GTFS-manager",
 "conveyal/transit-wand",
 "ibi-group/datatools-server",
@@ -81,7 +83,6 @@
 "BlinkTagInc/gtfs-tts",
 "mfdz/amarillo",
 "entur/uttu",
-"MobilityData/gtfs-validator",
 "psrc/combine_gtfs_feeds",
 "google/transitfeed",
 "now8-org/gtfsmerge",
@@ -89,7 +90,7 @@
 "ipea/gtfstools",
 "kuanb/peartree",
 "conveyal/r5",
-"ipeaGIT/r5r",
+"ipea/r5r",
 "tmelliott/transitr",
 "ioTransit/transit-intensity",
 "bmander/busbuzzard",
@@ -149,6 +150,7 @@
 "derhuerst/gtfs-rt-differential-to-full-dataset",
 "kurtraschke/gtfs-rt-dump",
 "public-transport/gtfs-rt-inspector",
+"gtfs-zone/gtfs-zone-rt-viewer",
 "teckkean/GTFS-Data-Pipeline-TfNSW-Bus",
 "pailakka/manual-gtfsrt",
 "derhuerst/print-gtfs-rt-cli",
@@ -252,14 +254,18 @@
 "actransitorg/ACTransit.RestroomFinder",
 "actransitorg/ACTransit.Training",
 "actransitorg/ACTransit.CusRel",
-"camsys/transam_core",
+"GTFS-X/gtfsx",
 "camsys/ridepilot",
 "metrotransit/route-trends",
+"camsys/transam_core",
 "opentripplanner/OpenTripPlanner",
 "transportkollektiv/meetup",
 "hasadna/OpenTrainCommunity",
 "mjskay/when-ish-is-my-bus",
 "pwr-inf/gtfs2vec",
 "GeiserX/awesome-europe"
+],
+"dropped": [
+["2026-11-14","ipeaGIT/r5r"]
 ]
 }

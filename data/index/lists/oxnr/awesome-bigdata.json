@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"b6c6c86c4a18ce74a2ae2fe8ede848cdb86b2798"},
+"meta": {"description":"A curated list of awesome big data frameworks, ressources and other awesomeness.","defaultBranch":"master","topics":["awesome","bigdata","data-warehouse","data-analytics","data-visualization","data-stream","database","data-science","data","awesome-list"],"readmeSha":"8f524ce75e09551c2cdfbc53552b329421818f3f"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -82,6 +82,7 @@
 "chdb-io/chdb",
 "MaterializeInc/materialize",
 "apache/spark",
+"timeplus-io/proton",
 "infiniflow/infinity",
 "milvus-io/milvus",
 "alibaba/zvec",
