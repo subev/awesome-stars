@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collaborative list of public APIs for developers","defaultBranch":"main","topics":["apis","lists","open-source","public-api","public-apis","resources","awesome","awesome-list","hacktoberfest"],"readmeSha":"d1984ccd2194f36bc5793f30e18a1ba80ea2c173"},
+"meta": {"description":"A collaborative list of public APIs for developers","defaultBranch":"main","topics":["apis","lists","open-source","public-api","public-apis","resources","awesome","awesome-list","hacktoberfest"],"readmeSha":"23be3d8d707f51349477763bb99fef70762a0ebf"},
 "members": [
 "justadudewhohacks/face-api.js",
 "wh-iterabb-it/meowfacts",
@@ -33,7 +33,6 @@
 "macsplit/urltomarkdown",
 "sameerkumar18/corporate-bs-generator-api",
 "TankObliterator/yo-mama-api",
-"henu-wang/keeprule-api",
 "Real-time-finance/finance-websocket-API",
 "surhud004/Foodish",
 "alxiw/punkapi",
@@ -109,6 +108,7 @@
 "dropped": [
 ["2026-09-04","rubensayshi/gw2spidy"],
 ["2026-09-04","mudroljub/programming-quotes-api"],
-["2026-09-04","lukePeavey/quotable"]
+["2026-09-04","lukePeavey/quotable"],
+["2026-11-14","henu-wang/keeprule-api"]
 ]
 }

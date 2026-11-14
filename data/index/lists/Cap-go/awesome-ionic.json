@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of Ionic resources. Made by Capgo","defaultBranch":"main","topics":["ionic-framework","cordova","javascript","ionic2","awesome","awesome-list","ionic","ionic3"],"readmeSha":"292b4a49869b66d696c5293b4f5bb7caf8b40de3"},
+"meta": {"description":"Awesome list of Ionic resources. Made by Capgo","defaultBranch":"main","topics":["ionic-framework","cordova","javascript","ionic2","awesome","awesome-list","ionic","ionic3"],"readmeSha":"99756548d90cb552bbd2485e961fa9f7881a973d"},
 "members": [
 "danielsogl/awesome-cordova-plugins",
 "ionic-team/ionic-framework",
@@ -155,6 +155,7 @@
 "Cap-go/vite-capacitor",
 "Cap-go/n8n-nodes-capgo",
 "Cap-go/standard-version-for-capacitor",
+"AhmedAshour/apparent-sdks",
 "ionic-team/starters",
 "Cap-go/demo-app",
 "Cap-go/vue-data-storage-sqlite-app-starter",

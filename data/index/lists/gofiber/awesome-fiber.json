@@ -1,5 +1,5 @@
 {
-"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"b75e4f5f37139beb83e5d7697789bcf64ea8de2d"},
+"meta": {"description":"✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.","defaultBranch":"main","topics":["fiber","middleware","golang","recipes","awesome","awesome-list"],"readmeSha":"c539760e9ae53499283f8b5e3e83684f2561099c"},
 "members": [
 "expressjs/express",
 "valyala/fasthttp",
@@ -24,7 +24,6 @@
 "airbrake/gobrake",
 "samber/slog-fiber",
 "bigunmd/fiberlogrus",
-"idanfishman/fiber-bind",
 "ZEISS/fiber-goth",
 "ZEISS/fiber-authz",
 "ZEISS/fiber-htmx",
@@ -69,5 +68,8 @@
 "ryanbekhen/feserve",
 "tompston/gomakeme",
 "smallnest/go-web-framework-benchmark"
+],
+"dropped": [
+["2026-11-14","idanfishman/fiber-bind"]
 ]
 }

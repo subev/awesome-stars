@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of resources covering different aspects of Gatling load testing tool usage.","defaultBranch":"main","topics":["gatling","gatling-plugin","awesome-gatling","awesome","awesome-list","load-testing","performance-testing","scala","benchmarking"],"readmeSha":"078634ba31a025feac0fc6d45b49c7e945cc7b1a"},
+"meta": {"description":"A collection of resources covering different aspects of Gatling load testing tool usage.","defaultBranch":"main","topics":["gatling","gatling-plugin","awesome-gatling","awesome","awesome-list","load-testing","performance-testing","scala","benchmarking"],"readmeSha":"2aa2aebe2515e4c9c8c6f3f8275491e8058f50f8"},
 "members": [
 "gatling/gatling",
 "Abiy/distGatling",
@@ -28,6 +28,8 @@
 "softwaremill/gatling-zeromq",
 "youzan/gatling-dubbo",
 "Amerousful/gatling-wait",
+"i-nahornyi/gatling-dummy-sampler",
+"i-nahornyi/gatling-playwright-plugin",
 "OctoPerf/kraken",
 "Performetriks/Gatlytron",
 "nuxeo/gatling-report",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"4d565750fb0a856db5855f21577d688dbcc4cc99"},
+"meta": {"description":"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc","defaultBranch":"main","topics":["sustainability","photovoltaic","energy-consumption","energy","wind-turbine","ocean","renewable-energy","carbon-emissions","awesome","awesome-list"],"readmeSha":"3c4c3d60521a2916e6c90949661a6aadb3625a7b"},
 "members": [
 "ecosyste-ms/ost",
 "pvlib/pvlib-python",
@@ -346,7 +346,7 @@
 "openEDI/open-data-access-tools",
 "OSUKED/Power-Station-Dictionary",
 "PyPSA/powerplantmatching",
-"EnergieID/entsoe-py",
+"fboerman/entsoe-py",
 "thomastu/pyEIA",
 "ropensci/eia",
 "systemcatch/eiapy",
@@ -647,6 +647,7 @@
 "NatLabRockies/Industry-Energy-Tool",
 "opendsm/caltrack",
 "OpenModelica/OpenModelica",
+"fraunhofer-isi/forecast-sites",
 "green-coding-solutions/eco-ci-energy-estimation",
 "green-coding-solutions/green-metrics-tool",
 "hubblo-org/scaphandre",
@@ -2026,7 +2027,7 @@
 "AI4S2S/s2spy",
 "Ouranosinc/xscen",
 "matthiasdemuzere/w2w",
-"freva-org/freva-legacy",
+"freva-org/freva-nextgen",
 "monocongo/climate_indices",
 "kjhall01/xcast",
 "E3SM-Project/gdess",
@@ -2136,6 +2137,7 @@
 "GeoscienceAustralia/anuga_core",
 "google-research/flood-forecasting",
 "primap-community/primap2",
+"Climate-Insights-Directory/climate-insights-directory-mcp",
 "climatepolicyradar/methodology",
 "iiasa/message_ix",
 "Libbum/DICE.jl",
@@ -2406,7 +2408,6 @@
 "RMI-PACTA/pactaverse",
 "d-fine/Dataland",
 "os-climate/physrisk",
-"ONEcampaign/climate-finance-package",
 "sovereign-nature/deep",
 "fingreen-ai/greenlang",
 "FINPLAN-Model/FINPLAN-UI",
@@ -2573,6 +2574,9 @@
 ["2026-10-31","unepwcmc/ProtectedPlanet"],
 ["2026-10-31","poissonconsulting/bbousuite"],
 ["2026-10-31","pmlmodelling/ersem"],
-["2026-10-31","csiro-hydroinformatics/pybomwater"]
+["2026-10-31","csiro-hydroinformatics/pybomwater"],
+["2026-11-14","EnergieID/entsoe-py"],
+["2026-11-14","freva-org/freva-legacy"],
+["2026-11-14","ONEcampaign/climate-finance-package"]
 ]
 }

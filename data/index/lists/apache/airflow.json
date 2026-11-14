@@ -1,9 +1,11 @@
 {
-"meta": {"description":"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows","defaultBranch":"main","topics":["airflow","apache","apache-airflow","python","scheduler","workflow","automation","dag","data-engineering","data-integration"],"readmeSha":"8631435efc7d5324fcc04654c41fb99920119647"},
+"meta": {"description":"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows","defaultBranch":"main","topics":["airflow","apache","apache-airflow","python","scheduler","workflow","automation","dag","data-engineering","data-integration"],"readmeSha":"80c83fb2d5ecbc25969e5366bdffcf5c3c5e3cff"},
 "members": [
 "j178/prek",
 "spotify/luigi",
-"kubernetes-client/python",
-"apache/magpie"
+"kubernetes-client/python"
+],
+"dropped": [
+["2026-11-14","apache/magpie"]
 ]
 }

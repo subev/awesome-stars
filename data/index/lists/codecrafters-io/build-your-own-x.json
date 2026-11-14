@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Master programming by recreating your favorite technologies from scratch.","defaultBranch":"master","topics":["programming","tutorials","tutorial-code","tutorial-exercises","free","awesome-list"],"readmeSha":"ca8809427bc266345695176f7378a258d893ab79"},
+"meta": {"description":"Master programming by recreating your favorite technologies from scratch.","defaultBranch":"master","topics":["programming","tutorials","tutorial-code","tutorial-exercises","free","awesome-list"],"readmeSha":"e4fc39e8b5e43e4b1732b7960848227822f0aca0"},
 "members": [
 "buildthingsuseful/build-your-own-kafka",
 "ssloy/tinyrenderer",

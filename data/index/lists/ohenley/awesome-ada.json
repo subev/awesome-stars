@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome resources related to the Ada and SPARK programming language","defaultBranch":"master","topics":["awesome","ada","spark","ada-framework","ada-language","ada-programs","ada-binding","gnat","spark-ada","ada-library"],"readmeSha":"6e9fe83c5613e49e85fe186f18caf7e4364df4f7"},
+"meta": {"description":"A curated list of awesome resources related to the Ada and SPARK programming language","defaultBranch":"master","topics":["awesome","ada","spark","ada-framework","ada-language","ada-programs","ada-binding","gnat","spark-ada","ada-library"],"readmeSha":"2753c621612bc6b67072473b1af6654acbcbf079"},
 "members": [
 "ohenley/files",
 "tofgarion/spark-by-example",
@@ -106,7 +106,10 @@
 "briot/gnatbdd",
 "simonjwright/scripted_testing",
 "tomekw/testy",
-"kevlar700/elogs",
+"eLansys/elogs",
+"kokhlo/prometheus-ada",
+"kokhlo/ratelimit-ada",
+"kokhlo/backoff-ada",
 "pyjarrett/septum",
 "joular/powerjoular",
 "stcarrez/mat",
@@ -200,6 +203,8 @@
 "pmderodat/ada-toml",
 "flyology-ada/flyology-rdf",
 "samueltardieu/adasockets",
+"kokhlo/websocket-ada",
+"kokhlo/redis-ada",
 "persan/zeromq-Ada",
 "persan/mosquitto-ada",
 "Latence-Technologies/Kafka-Ada",
@@ -317,5 +322,8 @@
 "mk270/whitakers-words",
 "adachess/AdaChess",
 "atalii/adage"
+],
+"dropped": [
+["2026-11-14","kevlar700/elogs"]
 ]
 }

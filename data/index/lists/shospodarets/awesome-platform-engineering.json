@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"1a4c7cbc8f0cbeb4bc350f64b072e6541629c5bd"},
+"meta": {"description":"Curated list of tools and resources for Platform Engineering","defaultBranch":"main","topics":["awesome-list","devops","awesome","platform-engineering"],"readmeSha":"5738a50673823123ee3bbb439652cd738e1b9118"},
 "members": [
 "sindresorhus/awesome",
 "oxynote/oxynote",

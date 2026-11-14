@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"1453113db9e7eb689ea239d2b681ae2d9ba54dac"},
+"meta": {"description":"The list of awesome game engines for everything😎","defaultBranch":"master","topics":["awesome-list","game","game-development","games"],"readmeSha":"5affd326ce8ca46839d076bcc5bec2d687c54ab3"},
 "members": [
 "godlikepanos/anki-3d-engine",
 "scallyw4g/bonsai",
@@ -38,6 +38,7 @@
 "Overload-Technologies/Overload",
 "Kapendev/parin",
 "braedonsaunders/parlour",
+"kitao/pyxel",
 "RavEngine/RavEngine",
 "rbfx/rbfx",
 "skylicht-lab/skylicht-engine",

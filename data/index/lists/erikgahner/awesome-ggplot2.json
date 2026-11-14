@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"d0f3c60c73d1cb6c9d966c1b50f5a2973598d018"},
+"meta": {"description":"A curated list of awesome ggplot2 tutorials, packages etc.","defaultBranch":"master","topics":["ggplot2","ggplot2-themes","data-visualization","geoms","scales"],"readmeSha":"c8109e37dcc3c08c93385185d4a33eee463a94ec"},
 "members": [
 "sindresorhus/awesome",
 "R-CoderDotCom/calendR",
@@ -18,6 +18,7 @@
 "EvaMaeRey/ggcalendar",
 "R-CoderDotCom/ggcats",
 "DangJem/ggchord",
+"junjunlab/ggcirclize",
 "mpru/ggcleveland",
 "kbelisar/ggcorset",
 "maflot/ggdiceplot",

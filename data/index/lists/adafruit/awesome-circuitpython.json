@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.","defaultBranch":"main","topics":["awesome-list","awesome","python","micropython","circuitpython","adafruit","iot","embedded"],"readmeSha":"2d819499dfeefeb8320c0bf90fb1bc36fb0644ee"},
+"meta": {"description":"A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.","defaultBranch":"main","topics":["awesome-list","awesome","python","micropython","circuitpython","adafruit","iot","embedded"],"readmeSha":"8941bfca35dd0d803a609c4a887d9ba93a7fbbeb"},
 "members": [
 "adafruit/circuitpython",
 "adafruit/Adafruit_CircuitPython_Bundle",
@@ -7,6 +7,8 @@
 "prcutler/awesome-macropad",
 "todbot/circuitpython-tricks",
 "todbot/circuitpython-synthio-tricks",
+"elixpo/CircuitPython_RV565",
+"birudarajushiva/circuitpython-pin-audit",
 "wmerkens/vscode-circuitpython",
 "adafruit/glider",
 "s-light/CircuitPython_Atom_helper",

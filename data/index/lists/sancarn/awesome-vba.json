@@ -1,12 +1,11 @@
 {
-"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"283ba7310c1028f62161ae36ed6ce299de7b0d3c"},
+"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"529d3970b435c6394a5ac820442eccf858ddec79"},
 "members": [
 "kellyethridge/VBCorLib",
 "RelaxTools/Hidennotare",
 "WilliamSmithEdward/ROneCOne",
 "ECP-Solutions/ASF",
 "jet2jet/vb2clr",
-"ECP-Solutions/VBA-Expressions",
 "cristianbuse/VBA-FastJSON",
 "ws-garcia/VBA-CSV-interface",
 "VBA-tools/VBA-XML",
@@ -80,5 +79,8 @@
 "Planet-Source-Code/PSCIndex",
 "tannerhelland/vbAccelerator-Archive",
 "jeffpar/kbarchive"
+],
+"dropped": [
+["2026-11-14","ECP-Solutions/VBA-Expressions"]
 ]
 }

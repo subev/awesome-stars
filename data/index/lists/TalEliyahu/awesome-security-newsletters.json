@@ -1,7 +1,9 @@
 {
-"meta": {"description":"Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks ","defaultBranch":"main","topics":["cybersecurity","newsletter"],"readmeSha":"70494dd65c559b7e3db42e86ab4312ce3f259bce"},
+"meta": {"description":"Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks ","defaultBranch":"main","topics":["cybersecurity","newsletter"],"readmeSha":"cdee1620505c78fdb3da7dac86ce805a5f83f9e5"},
 "members": [
-"TalEliyahu/Awesome-AI-Security",
-"TalEliyahu/awesome-cybersecurity-podcasts"
+"TalEliyahu/Awesome-AI-Security"
+],
+"dropped": [
+["2026-11-14","TalEliyahu/awesome-cybersecurity-podcasts"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"76c37f278285f6775c88ad0139d69e5a5e31f0c8"},
+"meta": {"description":"A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.","defaultBranch":"main","topics":["python","rag","awesome","awesome-list","curated-list","generative-ai","llm","llmops","mlops","retrieval-augmented-generation"],"readmeSha":"d6c4e824a94b57dd18f54bc13b01ddf4c8a6625f"},
 "members": [
 "sindresorhus/awesome",
 "steven2358/awesome-generative-ai",
@@ -58,6 +58,7 @@
 "aurelio-labs/semantic-router",
 "microsoft/autogen",
 "crewAIInc/crewAI",
+"ClickHouse/loom",
 "langchain-ai/langmem",
 "letta-ai/letta",
 "mem0ai/mem0",

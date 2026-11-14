@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"9bbd80b53d02efa84b04e77abed6247af5667921"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"07596e6f3c1f12306170ed59bd00f0200bb5d6b6"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -97,6 +97,7 @@
 "tg12/phantomtide",
 "mantisfury/ArkhamMirror",
 "Bevigil/BeVigil-OSINT-CLI",
+"devdavidejesus/btc-toolkit",
 "stanfrbd/cyberbro",
 "crowdsecurity/crowdsec",
 "DataSploit/datasploit",

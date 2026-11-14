@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Deep Learning and deep reinforcement learning research papers and some codes","defaultBranch":"master","topics":["deep-learning","reinforcement-learning","neural-network","paper","code","video","modelzoo","corpus","nlp"],"readmeSha":"da365a9dd231a6187b18287fa454425a223b0a0e"},
+"meta": {"description":"Deep Learning and deep reinforcement learning research papers and some codes","defaultBranch":"master","topics":["deep-learning","reinforcement-learning","neural-network","paper","code","video","modelzoo","corpus","nlp"],"readmeSha":"39de555b15c461c2ba80aba60b2a746d625a79b6"},
 "members": [
 "kratzert/finetune_alexnet_with_tensorflow",
 "rbgirshick/rcnn",

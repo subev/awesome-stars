@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"028f3af4da6af3aee57f36e50290360ff3a42f6e"},
+"meta": {"description":"Collection of awesome 😎️ Python resources for testing ","defaultBranch":"main","topics":["python","testing","awesome-list","python-testing","test-runners","awesome","hacktoberfest"],"readmeSha":"5b01144bb97dd8b374fec9a989ea398f24c5c9f7"},
 "members": [
 "pkyosx/believe",
 "nyggus/easycheck",
@@ -47,6 +47,9 @@
 "zhuyifei1999/guppy3",
 "denis-ryzhkov/mem_top",
 "pympler/pympler",
+"wemake-services/django-test-migrations",
+"schireson/pytest-alembic",
+"croc100/pytest-mrt",
 "pnuckowski/aioresponses",
 "hiredscorelabs/cornell",
 "nightmarewalker/D-MemFS",
@@ -74,7 +77,6 @@
 "EvanKepner/mutatest",
 "boxed/mutmut",
 "mutpy/mutpy",
-"syntaxixr/receipts",
 "vrthra/xmutant.py",
 "FactoryBoy/factory_boy",
 "klen/mixer",
@@ -152,8 +154,11 @@
 "vedro-universe/vedro",
 "darrenburns/ward",
 "Erotemic/xdoctest",
+"connabyss/bite",
 "pschanely/CrossHair",
 "roli-lpci/csv-quality-gate",
+"asottile/detect-test-pollution",
+"hamarshehmhmd/flakewhy",
 "zxyasfas/greenproof",
 "royalpinto007/import-effects",
 "google/importlab",
@@ -180,6 +185,7 @@
 "ziguiway/hmnextauto",
 "lost-pixel/lost-pixel",
 "erik-whiting/LuluTest",
+"saadbuilt/mendwright",
 "mozarkai/optics-framework",
 "saritasa-nest/pomcorn",
 "asweigart/pyautogui",
@@ -189,6 +195,7 @@
 "sixpack/sixpack",
 "cobrateam/splinter",
 "CyberAlpaca/squish-api-python-extension",
+"godhiraj-code/waitless",
 "theofidry/awesome-mutation-testing",
 "vinta/awesome-python",
 "atinfo/awesome-test-automation",
@@ -203,6 +210,7 @@
 ["2026-09-25","simin-yuan/self-auditing-agent"],
 ["2026-10-10","hermes-labs-ai/csv-quality-gate"],
 ["2026-10-10","hermes-labs-ai/quick-gate-python"],
-["2026-10-24","mcp-runtime/mcp-server-fuzzer"]
+["2026-10-24","mcp-runtime/mcp-server-fuzzer"],
+["2026-11-14","syntaxixr/receipts"]
 ]
 }

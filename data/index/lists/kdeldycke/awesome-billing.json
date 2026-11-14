@@ -1,11 +1,10 @@
 {
-"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"be4e1743ba62b971c9b97f5f35022618ac9b5694"},
+"meta": {"description":"💰 Billing & Payments knowledge for cloud platforms","defaultBranch":"main","topics":["billing","cost-management","metering","fraud","product-catalog","pricing","tax","awesome","awesome-list","cost-forecast"],"readmeSha":"ba10cc9611f51650b1cbbc1dbc5a5b6da5c3bca4"},
 "members": [
 "sindresorhus/awesome",
 "kdeldycke/awesome-iam",
 "open-guides/og-aws",
 "getlago/lago",
-"geminimir/meterguard",
 "cgrates/cgrates",
 "uselotus/lotus",
 "furkansenharputlu/f-license",
@@ -49,6 +48,7 @@
 "meltano/meltano"
 ],
 "dropped": [
-["2026-09-11","darcys22/godbledger"]
+["2026-09-11","darcys22/godbledger"],
+["2026-11-14","geminimir/meterguard"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"YugabyteDB - the cloud native distributed SQL database for mission-critical applications.","defaultBranch":"master","topics":["distributed-database","database","cpp","high-performance","cloud-native","scale-out","sql","multi-region","multi-cloud","kubernetes"],"readmeSha":"a12977072a2c6d12d0515fa4f978d543a33f7821"},
+"meta": {"description":"YugabyteDB - the cloud native distributed SQL database for mission-critical applications.","defaultBranch":"master","topics":["distributed-database","database","cpp","high-performance","cloud-native","scale-out","sql","multi-region","multi-cloud","kubernetes"],"readmeSha":"395e3f96bf8d200deecfeb93ff1599b11bf32a6d"},
 "members": [
 "yugabyte/ga-beacon",
 "YugabyteDB-Samples/yugastore-java",

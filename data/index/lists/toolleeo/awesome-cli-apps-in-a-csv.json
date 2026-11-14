@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"d0b37007e9a64b1987c0522e1a0539f28c412a19"},
+"meta": {"description":"The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files","defaultBranch":"master","topics":["cli-apps","linux","linux-command","awesome","awesome-list","resources","command-line","command-line-tool","cli","terminal-based"],"readmeSha":"f1f5e861758d116097ae6c644da60d923397bd9f"},
 "members": [
 "sindresorhus/awesome",
 "athityakumar/colorls",
@@ -113,7 +113,7 @@
 "Syllo/nvtop",
 "MohamedSherifNoureldin/PCtrl",
 "dalance/procs",
-"jamesma100/pshunt",
+"jamesma-AIDE/pshunt",
 "clbr/radeontop",
 "amanusk/s-tui",
 "pythops/tegratop",
@@ -282,6 +282,7 @@
 "proycon/ssam",
 "annotation/stam-tools",
 "vim-zz/swordfish-rs",
+"dxddxx/TeXicode",
 "sindresorhus/to-double-quotes-cli",
 "sindresorhus/to-single-quotes-cli",
 "AlphaJack/toc",
@@ -838,6 +839,7 @@
 "vagos/taverner",
 "braheezy/violet",
 "basnijholt/dotbins",
+"fontnelle/dudu",
 "wenbang24/fyora",
 "sebastiancarlos/yas-bdsm",
 "yunielrc/ydf",
@@ -967,6 +969,7 @@
 "asciimoo/wuzz",
 "ivanilves/xiringuito",
 "xxh/xxh",
+"abdoufermat5/bayesian-ssh",
 "pythops/bluetui",
 "bluetuith-org/bluetuith",
 "Zaloog/blueutil-tui",
@@ -1239,6 +1242,7 @@
 "paulrobello/parllama",
 "danlou/safespace",
 "getsavvyinc/savvy-cli",
+"AnswerDotAI/shell_sage",
 "pythops/tenere",
 "shobrook/termite",
 "kamilmac/unibear",
@@ -1511,7 +1515,7 @@
 "rasjonell/dashbrew",
 "wustho/epy",
 "freref/fancy-cat",
-"KrishnaSSH/gophertube",
+"krishnassh/gophertube",
 "aome510/hackernews-TUI",
 "donnemartin/haxor-news",
 "jaggzh/head-shoulders-knees-toes",
@@ -1655,6 +1659,7 @@
 "miselume/aniweather",
 "josephburgess/gust",
 "MasonStooksbury/Raijin",
+"Tairesh/rustormy",
 "noprobelm/tempy",
 "riyadhalnur/weather-cli",
 "schachmat/wego",
@@ -1847,6 +1852,8 @@
 ["2026-11-07","asc-community/AngouriMathCLI"],
 ["2026-11-07","linsa-io/command-line-tools"],
 ["2026-11-07","EC2854/bashtaker"],
-["2026-11-07","trevorbayless/cli-chess"]
+["2026-11-07","trevorbayless/cli-chess"],
+["2026-11-14","jamesma100/pshunt"],
+["2026-11-14","KrishnaSSH/gophertube"]
 ]
 }

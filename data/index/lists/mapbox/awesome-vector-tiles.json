@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome implementations of the Mapbox Vector Tile specification","defaultBranch":"master","topics":[],"readmeSha":"95575910790efc6394597a41d0d245b374c7fcae"},
+"meta": {"description":"Awesome implementations of the Mapbox Vector Tile specification","defaultBranch":"master","topics":[],"readmeSha":"a0674344173480a6e8c702e2d6cc9f81b214afd2"},
 "members": [
 "sindresorhus/awesome",
 "mapbox/vector-tile-spec",

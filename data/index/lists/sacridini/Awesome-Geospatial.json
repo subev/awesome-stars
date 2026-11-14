@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"bd5dc010e4c82fae77538d2fb666dd76e2103d52"},
+"meta": {"description":"Long list of geospatial tools and resources","defaultBranch":"master","topics":["awesome-list","awesome","spatial-analysis","spatial-data","data-analysis","geospatial-analysis","remote-sensing","deep-learning","earth-observation","geospatial"],"readmeSha":"bf50c9465c98400a5724b5f37a804bb387fafd12"},
 "members": [
 "crisbez/atlas4d-base",
 "ahuarte47/duckdb-raster",
@@ -937,6 +937,7 @@
 "jbhuang0604/awesome-computer-vision",
 "kjw0612/awesome-deep-vision",
 "DahnJ/Awesome-DEM",
+"Ayberkrk/awesome-digital-civil-engineering",
 "philippgaertner/awesome-earth-engine-apps",
 "awesome-spectral-indices/awesome-earth-observation-instruments",
 "blutjens/awesome-forests",

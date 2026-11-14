@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Real-time Geospatial and Geofencing","defaultBranch":"master","topics":["geospatial","database","geo","spatial","location","geofences","index"],"readmeSha":"cae5a9cdf4393c40bb6192ca544601bde130d195"},
+"meta": {"description":"Real-time Geospatial and Geofencing","defaultBranch":"master","topics":["geospatial","database","geo","spatial","location","geofences","index"],"readmeSha":"877efb97f36b231294cb0dd3d72b5fcee00fb96c"},
 "members": [
 "oliver006/redis_exporter",
 "shadowspore/t38c",
@@ -12,7 +12,7 @@
 "jamshidrostami/tile38-client-java",
 "HkMoyun/tile38-client",
 "redis/hiredis",
-"StackExchange/StackExchange.Redis",
+"seredis/StackExchange.Redis",
 "hmartiro/redox",
 "taoensso/carmine",
 "vseloved/cl-redis",
@@ -31,5 +31,8 @@
 "redis-rs/redis-rs",
 "debasishg/scala-redis",
 "vapor/redis"
+],
+"dropped": [
+["2026-11-14","StackExchange/StackExchange.Redis"]
 ]
 }

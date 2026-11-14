@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome security hardening guides, tools and other resources","defaultBranch":"master","topics":["awesome-list","security","security-hardening","security-tools","windows-hardening","cybersecurity","cyber-security","infosec","best-practices","cis-benchmarks"],"readmeSha":"c5c893a1af7bc0fe4146fba39a5cc14a7665c9eb"},
+"meta": {"description":"A collection of awesome security hardening guides, tools and other resources","defaultBranch":"master","topics":["awesome-list","security","security-hardening","security-tools","windows-hardening","cybersecurity","cyber-security","infosec","best-practices","cis-benchmarks"],"readmeSha":"2241697e31aac5abebbb78e70435c45480054d9c"},
 "members": [
 "sindresorhus/awesome",
 "trimstray/the-practical-linux-hardening-guide",
@@ -23,9 +23,10 @@
 "olafhartong/MDE-AuditCheck",
 "arpitn30/nipper-ng",
 "cedricllorens/cawk",
+"lyss-project/lyss",
 "c0r0n3r/cryptolyzer",
 "nabla-c0d3/sslyze",
-"testssl/testssl.sh",
+"drwetter/testssl.sh",
 "arthepsy/ssh-audit",
 "chipsec/chipsec",
 "ANSSI-FR/chipsec-check",
@@ -57,5 +58,8 @@
 "0x4D31/awesome-threat-detection",
 "kai5263499/container-security-awesome",
 "pFarb/awesome-crypto-papers"
+],
+"dropped": [
+["2026-11-14","testssl/testssl.sh"]
 ]
 }

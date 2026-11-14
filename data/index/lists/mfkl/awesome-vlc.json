@@ -1,5 +1,5 @@
 {
-"meta": {"description":"👻 A curated list of awesome VLC and LibVLC resources. ","defaultBranch":"main","topics":["vlc","libvlc","videolan","multimedia","awesome","awesome-list"],"readmeSha":"9c66ebb86e52937101d278f06e0ae4413a2c2079"},
+"meta": {"description":"👻 A curated list of awesome VLC and LibVLC resources. ","defaultBranch":"main","topics":["vlc","libvlc","videolan","multimedia","awesome","awesome-list"],"readmeSha":"08ebf8a3593e6663a6ea45ac00140ae8ecde958a"},
 "members": [
 "nurupo/vlc-pause-click-plugin",
 "aklexel/vlc-tip-plugin",
@@ -7,6 +7,7 @@
 "nemosharma6/vlc-plugin-marker",
 "spmn/vlc-win10smtc",
 "lachie/vlc-mixer",
+"ChrizzElabs/vlc-waveform",
 "surrim/vlc-delete",
 "xaf/TraktForVLC",
 "Abstraxt-AA/playlist-youtube-vlc",

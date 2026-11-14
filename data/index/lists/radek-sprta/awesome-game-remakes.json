@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"68146b221260776c070c024630678b881109bb90"},
+"meta": {"description":"Actively maintained open-source game remakes.","defaultBranch":"main","topics":["awesome","awesome-list","games","game","remake","engine"],"readmeSha":"46f6ec6e8fa712914c361bf8dbaee0a7d4b60c11"},
 "members": [
 "VelocityRa/awesome-game-file-format-reversing",
 "michelpereira/awesome-open-source-games",
@@ -21,7 +21,6 @@
 "nautilusbits/mdk-sdl",
 "999sian/melee-pc",
 "kznsq/metal-mutant-web",
-"Odrannnn/MetroidPrimePort",
 "JACoders/OpenJK",
 "TekRantGaming/simpsons-wrestling-recompiled",
 "kugelrund/Speed-Academy",
@@ -47,6 +46,7 @@
 "benbaker76/DetectiveDS",
 "TwilitRealm/dusklight",
 "kroplabeskidu/flipendo",
+"artemnikonov/hpengine",
 "LBALab/lba1-classic",
 "LBALab/lba2-classic-community",
 "LBALab/lba2remake",
@@ -183,6 +183,7 @@
 "TurningWheel/Barony",
 "dulsi/btbuilder",
 "SamoraCletus/castarook",
+"psi29a/d2decomped",
 "Interkarma/daggerfall-unity",
 "diasurgical/devilution",
 "diasurgical/DevilutionX",
@@ -417,6 +418,7 @@
 ["2026-10-17","MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp"],
 ["2026-10-17","nicholas-ochoa/OpenSC2K"],
 ["2026-10-24","nemo22/mdk-sdl"],
-["2026-10-31","ForkedInTime/keeperfx-linux-alpha"]
+["2026-10-31","ForkedInTime/keeperfx-linux-alpha"],
+["2026-11-14","Odrannnn/MetroidPrimePort"]
 ]
 }

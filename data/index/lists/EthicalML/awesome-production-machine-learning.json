@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"1eebbd604b9d621eee0ac5ad0d3b94c1d87b74bf"},
+"meta": {"description":"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning","defaultBranch":"master","topics":["machine-learning","mlops","interpretability","explainability","responsible-ai","deep-learning","machine-learning-operations","ml-ops","ml-operations","privacy-preserving"],"readmeSha":"224d37b2cd5efb4215756714c2ebb6bdf1c7086c"},
 "members": [
 "EthicalML/awesome-production-agentic-systems",
 "WecoAI/aideml",
@@ -183,6 +183,7 @@
 "Lightning-AI/LitServe",
 "feder-cr/jev",
 "jina-ai/serve",
+"nace-ai/kapitsa",
 "Kiln-AI/Kiln",
 "kserve/kserve",
 "kvcache-ai/ktransformers",
@@ -383,6 +384,7 @@
 "allenai/olmocr",
 "PaddlePaddle/PaddleNLP",
 "promptise-com/Foundry",
+"rocketride-org/rocketride-server",
 "microsoft/semantic-kernel",
 "huggingface/sentence-transformers",
 "explosion/spaCy",

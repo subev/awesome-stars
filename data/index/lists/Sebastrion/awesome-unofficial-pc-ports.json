@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"e3399e5d02424ebddf1cf1c0fe067c35d52ea390"},
+"meta": {"description":"A curated list of awesome unoffical PC Ports.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","decompilation","n64","nintendo","pc","pc-port","playstation","recompilation"],"readmeSha":"08a5012f7b833c570084a0e6dd16d6b576970947"},
 "members": [
 "HarbourMasters/Ghostship",
 "n64decomp/sm64",
@@ -24,6 +24,8 @@
 "Vidanox/BanjoTooieRecompiled",
 "TheGh0stShip/BattleTanx-Global-Assault-PC-Port",
 "TheGh0stShip/BattleTanx-Global-Assault",
+"LunarLaurus/adams-ant-farm-recomp",
+"jaytheham/body-harvest-decompilation",
 "RevoSucks/BM64Recomp",
 "RevoSucks/BMHeroRecomp",
 "Rainchus/Quest64-Recomp",
@@ -50,7 +52,7 @@
 "ThatGuyMcd/Rocket-R",
 "JackPriceBurns/foxhollow",
 "Shmargus/GSRecomp",
-"flyngmt/ACGC-PC-Port",
+"flyngmt/Nookery",
 "RadzPrower/Zelda-3-Launcher",
 "snesrev/zelda3",
 "RadzPrower/Super-Metroid-Launcher",
@@ -97,6 +99,7 @@
 "TanookiStudios/decomp-buddy"
 ],
 "dropped": [
-["2026-10-10","HarbourMasters/2ship2harkinian"]
+["2026-10-10","HarbourMasters/2ship2harkinian"],
+["2026-11-14","flyngmt/ACGC-PC-Port"]
 ]
 }

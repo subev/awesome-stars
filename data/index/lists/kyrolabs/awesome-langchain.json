@@ -1,5 +1,5 @@
 {
-"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"4cce4ba9ee6c007af9def63f07f6d4f9364c0599"},
+"meta": {"description":"😎 Awesome list of tools and projects with the awesome LangChain framework","defaultBranch":"main","topics":["ai","awesome","awesome-list","langchain","llm"],"readmeSha":"d86b5e9b39883eafb6b4b7e97c1c7c950e828743"},
 "members": [
 "langchain-ai/langchain",
 "langchain-ai/langchainjs",
@@ -13,6 +13,7 @@
 "FlowiseAI/Flowise",
 "langflow-ai/langflow",
 "Onelevenvy/flock",
+"rocketride-org/rocketride-server",
 "zilliztech/GPTCache",
 "ShishirPatil/gorilla",
 "rlancemartin/auto-evaluator",
@@ -33,6 +34,7 @@
 "splx-ai/agentic-radar",
 "cvs-health/uqlm",
 "tenuo-ai/tenuo",
+"soba-labs/langchain-agent-skills",
 "zylon-ai/private-gpt",
 "hpcaitech/ColossalAI",
 "crewAIInc/crewAI",
@@ -131,7 +133,6 @@
 "sobelio/llm-chain",
 "r2d4/openlm",
 "r2d4/llm.ts",
-"dust-tt/dust",
 "e2b-dev/E2B",
 "Cormanz/smartgpt",
 "Sentdex/TermGPT",
@@ -206,6 +207,7 @@
 "ysymyth/awesome-language-agents"
 ],
 "dropped": [
-["2026-09-26","QuivrHQ/quivr"]
+["2026-09-26","QuivrHQ/quivr"],
+["2026-11-14","dust-tt/dust"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"1a4877164d04fce2b5738376d8d5ffaa396adc37"},
+"meta": {"description":":zap:A curated list of awesome resources for building Smart TV apps","defaultBranch":"master","topics":["smart-tv","smarttv","tizen","webos-tv","samsung-smart-tv","chromecast","android-tv","apple-tv","awesome","awesome-list"],"readmeSha":"ee16e8f980d2eb7b3f1473e50e52e7d93b12463c"},
 "members": [
 "sindresorhus/awesome",
 "Samsung/Wits",
@@ -16,7 +16,6 @@
 "reisxd/TizenBrew",
 "reisxd/TizenTube",
 "TAGISWILD/beam-tv",
-"lennartschoch/invidious-tizen",
 "ConnectSDK/Connect-SDK-Android",
 "hobbyquaker/lgtv2",
 "hobbyquaker/node-red-contrib-lgtv",
@@ -42,7 +41,11 @@
 "NoriginMedia/react-spatial-navigation",
 "stb-tester/stb-tester",
 "mozarkai/optics-framework",
-"linuxenko/awesome-smarttv",
-"vitalets/docker-tizen-webos-sdk"
+"vitalets/docker-tizen-webos-sdk",
+"tolgakurtuluss/awesome-webos",
+"linuxenko/awesome-smarttv"
+],
+"dropped": [
+["2026-11-14","lennartschoch/invidious-tizen"]
 ]
 }

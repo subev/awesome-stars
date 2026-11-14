@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"a96d2c88938d884a70562c9733cd64ae6bcfb648"},
+"meta": {"description":"Collection great groups, channels, bots and libraries for Telegram","defaultBranch":"master","topics":["awesome-list","telegram"],"readmeSha":"205fb1afed831ff8a267ff733b7d63fdd94b0fa8"},
 "members": [
 "sindresorhus/awesome",
 "aeonfun/aeon",
@@ -14,6 +14,7 @@
 "ilyarolf/AiogramShopBot",
 "Guck111/devpinger",
 "ayrat555/el_monitorro",
+"metarsh/Emilia",
 "muety/telegram-expense-bot",
 "othmarodev/filaxy-herald",
 "aviniazov7/hebrew-finance-news-bot",
@@ -117,6 +118,7 @@
 "vognik/maltego-telegram",
 "vdistortion/mtproto-web-proxy-manager",
 "daxaur/openpaw",
+"shinycake/quill",
 "msoap/shell2telegram",
 "belaytzev/Telebrief",
 "rfsbraz/telegram-downloader",
@@ -135,6 +137,7 @@
 "neoromantic/telesec",
 "psyb0t/docker-telethon-plus",
 "TONresistor/teleton-agent",
+"kosoyyagent/tg-channel-collector",
 "renkagod/tg-chat-dump",
 "34823/tg-pane",
 "q909717714/TGArchiveManager",

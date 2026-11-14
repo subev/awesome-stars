@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests","defaultBranch":"main","topics":["ai","chatgpt","awesome","llm","tools","awesome-list","gpt","gemini","nanobanana","claude"],"readmeSha":"c000632186c6c31f2034830ce08847043158cb78"},
+"meta": {"description":"This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!","defaultBranch":"main","topics":["ai","chatgpt","awesome","llm","tools","awesome-list","gpt","gemini","claude","deepseek"],"readmeSha":"626f7df211ecda3544a6608678def9c817686290"},
 "members": [
 "TheoLeeCJ/SemIf-OpenJev",
 "deepseek-ai/DeepSeek-R1",
@@ -56,6 +56,7 @@
 "stablyai/orca",
 "getpaseo/paseo",
 "kortix-ai/CompanyOS",
+"OrchestratorInc/agent-orchestrator",
 "microsoft/agent-framework",
 "langchain-ai/langgraph",
 "mastra-ai/mastra",
@@ -72,6 +73,9 @@
 "lightpanda-io/browser",
 "epiral/bb-browser",
 "ChromeDevTools/chrome-devtools-mcp",
+"firecrawl/firecrawl-mcp-server",
+"firecrawl/skills",
+"firecrawl/firecrawl",
 "MemPalace/mempalace",
 "TencentCloud/TencentDB-Agent-Memory",
 "screenpipe/screenpipe",
@@ -122,7 +126,7 @@
 "MiniMax-AI/MiniMax-H3",
 "heygen-com/hyperframes",
 "palmier-io/palmier-pro",
-"calesthio/OpenMontage",
+"OpenMontageInc/OpenMontage",
 "Huanshere/VideoLingo",
 "mutonby/openshorts",
 "xlite-dev/LeetCUDA",
@@ -154,5 +158,8 @@
 "arcships/light-ocr",
 "allenai/olmocr",
 "Genesis-Embodied-AI/genesis-world"
+],
+"dropped": [
+["2026-11-14","calesthio/OpenMontage"]
 ]
 }

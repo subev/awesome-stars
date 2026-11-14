@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A Nix flake providing the Awesome Neovim plugins","defaultBranch":"main","topics":["neovim-plugins","nix-flake"],"readmeSha":"25aa56638e095cf7a1f07a354293b6aa4876bf22"},
+"meta": {"description":"A Nix flake providing the Awesome Neovim plugins","defaultBranch":"main","topics":["neovim-plugins","nix-flake"],"readmeSha":"b292daf82fda3aa319420745b610b872eac5f45b"},
 "members": [
 "rockerBOO/awesome-neovim"
 ]

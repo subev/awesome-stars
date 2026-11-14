@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"193d87999eaf272f35164408aa18ce391209cc9c"},
+"meta": {"description":"A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure","defaultBranch":"main","topics":["awesome-list","curated-list","european-union","gdpr","open-data","eidas","digital-services-act","software-libre","awesome-europe","country-specific"],"readmeSha":"7a49fb6551087840b689bebc1d22cd8e6cf61801"},
 "members": [
 "act-rules/act-rules.github.io",
 "Siteimprove/alfa",
@@ -44,7 +44,7 @@
 "CIRCL/bgp-ranking",
 "TheHive-Project/Cortex",
 "TheHive-Project/Cortex-Analyzers",
-"csaf-poc/csaf_distribution",
+"gocsaf/csaf",
 "CyberismoCom/module-eu-cra",
 "CERT-Polska/drakvuf-sandbox",
 "flowintel/flowintel",
@@ -205,7 +205,7 @@
 "electricitymaps/electricitymaps-contrib",
 "energywebfoundation/origin",
 "JaccoR/hass-entso-e",
-"EnergieID/entsoe-py",
+"fboerman/entsoe-py",
 "ESMValGroup/ESMValTool",
 "powsybl/powsybl-open-rao",
 "powsybl/powsybl-open-rao",
@@ -570,6 +570,7 @@
 ],
 "dropped": [
 ["2026-08-28","OpenPEPPOL/peppol-bis-invoice-3"],
-["2026-10-10","gocsaf/csaf"]
+["2026-11-14","csaf-poc/csaf_distribution"],
+["2026-11-14","EnergieID/entsoe-py"]
 ]
 }

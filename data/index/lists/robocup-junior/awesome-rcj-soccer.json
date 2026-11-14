@@ -1,18 +1,22 @@
 {
-"meta": {"description":"A curated list of resources relevant to RoboCupJunior Soccer","defaultBranch":"master","topics":[],"readmeSha":"5f751899ced53bd7951809b8fb06a487a5a7a8f1"},
+"meta": {"description":"A curated list of resources relevant to RoboCupJunior Soccer","defaultBranch":"master","topics":[],"readmeSha":"54be298d27174283fb918bbae01418b4dcde1b47"},
 "members": [
 "sindresorhus/awesome",
 "robocup-junior/awesome-rcj-soccer",
 "mlyoung101/omicron",
 "CoRoSoN-Kit/CoRoSoN-Kit",
 "stiebel/bohlebots",
+"debater-coder/robocup-26",
 "robocup-junior/rcj-soccer-tdp-2026",
 "robocup-junior/rcj-eu-soccer-tdp-2026",
 "robocup-junior/rcj-soccer-tdp-2025",
-"EliasB-NU/RCJVSoccerStats",
-"EliasB-NU/RCJV-Paperless",
+"VectorCue/RCSoccerStats",
 "kitspace/awesome-electronics",
 "kiloreux/awesome-robotics",
 "m2n037/awesome-mecheng"
+],
+"dropped": [
+["2026-11-14","EliasB-NU/RCJVSoccerStats"],
+["2026-11-14","EliasB-NU/RCJV-Paperless"]
 ]
 }

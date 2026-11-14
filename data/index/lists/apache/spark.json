@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Apache Spark - A unified analytics engine for large-scale data processing","defaultBranch":"master","topics":["python","scala","r","java","big-data","jdbc","sql","spark"],"readmeSha":"b8c2fac2bed406de4360d352a0b98f06ff64a981"},
+"meta": {"description":"Apache Spark - A unified analytics engine for large-scale data processing","defaultBranch":"master","topics":["python","scala","r","java","big-data","jdbc","sql","spark"],"readmeSha":"da75db8b0e85c48418c962ea6e10a41ac9442593"},
 "members": [
 
 ]

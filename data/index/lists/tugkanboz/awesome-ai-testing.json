@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.","defaultBranch":"main","topics":["ai-testing","awesome","awesome-list","llm-testing","qa","test-automation","ai-test-automation","mcp-testing","software-testing","test-generation"],"readmeSha":"1d1258b08b2b319e2339bfa85f59766ba085767a"},
+"meta": {"description":"A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.","defaultBranch":"main","topics":["ai-testing","awesome","awesome-list","llm-testing","qa","test-automation","ai-test-automation","mcp-testing","software-testing","test-generation"],"readmeSha":"99cc5634b7a1db14eb2824b30b526eafbee24820"},
 "members": [
 "qodo-ai/qodo-cover",
 "WebFuzzing/EvoMaster",
@@ -20,6 +20,7 @@
 "test-zeus-ai/testzeus-hercules",
 "vostride/agent-qa",
 "LambdaTest/kane-cli",
+"e2e-inc/e2e",
 "mobile-dev-inc/Maestro",
 "oblador/loki",
 "argos-ci/argos",

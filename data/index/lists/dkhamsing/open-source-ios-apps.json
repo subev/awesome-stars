@@ -1,5 +1,5 @@
 {
-"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"474d49b93c3bb22db89d47a9c46c9b84e46bbc86"},
+"meta": {"description":":iphone: Collaborative List of Open-Source iOS Apps","defaultBranch":"master","topics":["ios","swift","objective-c","iphone","ipad","react-native","awesome","list","app","example"],"readmeSha":"d2c5d47a65de51b4602be4f61fe7847a1dcba801"},
 "members": [
 "yichengchen/ATV-Bilibili-demo",
 "rm335/dumpert-apple-tv",
@@ -86,7 +86,6 @@
 "aheze/SwiftUICraft",
 "alfianlosari/KanbanDragDropiOS",
 "VamshiIITBHU14/YouTubeClone",
-"automat-berlin/afone",
 "PallavAg/Apple-Intelligence-Chat",
 "ISBX/apprtc-ios",
 "adafruit/Basic-Chat",
@@ -133,6 +132,7 @@
 "expo/expo",
 "claration/feather",
 "rudrankriyam/Foundation-Models-Framework-Lab",
+"onehumanbeing/esp32-iphone-agent",
 "happier-dev/happier",
 "davejacobsen/HapticHaven",
 "rrroyal/Harbour",
@@ -176,6 +176,7 @@
 "Saffsanity/sill",
 "asuc-octo/berkeley-mobile-ios",
 "korchasa/bg-trainer",
+"minchopm/chess-trainer",
 "vermont42/Conjugar",
 "venkatasg/DeTeXt",
 "ethanswift/DiscussIt",
@@ -228,6 +229,7 @@
 "XKCDY/app",
 "simonbengtsson/airdash",
 "amahi/ios",
+"bakirgdev/CrocApp",
 "Augustyniak/FileExplorer",
 "Infomaniak/ios-kDrive",
 "localsend/localsend",
@@ -283,6 +285,7 @@
 "Significant-Hobbies/motion",
 "splinesoft/MUDRammer",
 "artem-shimanski/Neocom",
+"sithewok13-dev/OpenJKDF2-iOS",
 "ppy/osu",
 "fulldecent/pizzaman",
 "mick-schroeder/PotatoGame",
@@ -443,6 +446,7 @@
 "emlavankhoahienma-hue/ai-smart-framing-camera",
 "sindresorhus/Blear",
 "meteochu/Blurry",
+"iziuqo/compresso",
 "emrepbu/CosmicDaily",
 "aheze/OpenFind",
 "shu223/iOS-Depth-Sampler",
@@ -594,6 +598,8 @@
 "mlemgroup/mlem",
 "ThasianX/SpotifyRadar",
 "IanKeen/TweetleDumb",
+"Mdavoigneau/Unreeled",
+"aeharding/voyager",
 "jeroensmeets/11t",
 "cinderella-project/iMast",
 "HabitRPG/habitica-ios",
@@ -606,6 +612,7 @@
 "tnantoka/edhita",
 "rajdeep/proton",
 "tapmoko/typestyle",
+"Efesop/rich-text-editor",
 "louiskl/Earnote",
 "glushchenko/fsnotes",
 "laurent22/joplin",
@@ -895,6 +902,7 @@
 ["2026-11-07","AnderGoig/github-contributions-ios"],
 ["2026-11-07","megabyte0x/healthykit"],
 ["2026-11-07","cranci1/Sora"],
-["2026-11-07","shagedorn/StateRestorationDemo"]
+["2026-11-07","shagedorn/StateRestorationDemo"],
+["2026-11-14","automat-berlin/afone"]
 ]
 }

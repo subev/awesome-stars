@@ -1,9 +1,9 @@
 {
-"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"94a1e0a2541405f134c57394d20fde86693554e5"},
+"meta": {"description":"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!","defaultBranch":"main","topics":["awesome","jellyfin","awesome-list"],"readmeSha":"97afee8631aad1c2c34c895c8d929f527a721ff0"},
 "members": [
 "ZL154/AchievementBadges_for_Jellyfin",
 "pa-philos/jellyfin-plugin-animated-covers",
-"AHouseOfBards/Bonfire-JellyProfiles",
+"AHouseOfBards/Bonfire",
 "bardesss/customcoverart",
 "Fovty/HoverTrailer",
 "Namo2/InPlayerEpisodePreview",
@@ -134,7 +134,7 @@
 "aleksilassila/reiverr",
 "Divinelink/scenepeek-android",
 "giuseppe99barchetta/SuggestArr",
-"m3sserstudi0s/swiparr",
+"jakobbjelver/messer-swipe",
 "SuFxGIT/whatseerr",
 "themartz90/jellydash",
 "Chaphasilor/jellyfin-rewind",
@@ -170,7 +170,7 @@
 "akhilmulpurii/jellyfin-theme-music-manager",
 "orainlabs/jellytunes",
 "Druidblack/MusicBrainz-UserScripts",
-"LizardByte/Themerr",
+"Themerr/Themerr",
 "shawn61cp/calibre2jellyfin",
 "nandyalu/trailarr",
 "Pukabyte/trailerfin",
@@ -237,6 +237,9 @@
 ["2026-10-24","Damocles-fr/MPC-JF"],
 ["2026-10-24","joshuaboniface/rffmpeg"],
 ["2026-10-31","G-grbz/Jellyfin-MonWUI-Plugin"],
-["2026-10-31","peterdu1109/NotifySync"]
+["2026-10-31","peterdu1109/NotifySync"],
+["2026-11-14","AHouseOfBards/Bonfire-JellyProfiles"],
+["2026-11-14","m3sserstudi0s/swiparr"],
+["2026-11-14","LizardByte/Themerr"]
 ]
 }

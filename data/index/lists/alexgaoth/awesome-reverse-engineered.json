@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome","awesome-list","claude-code","decompilation","file-formats","game-decompilation","hacktoberfest","home-assistant"],"readmeSha":"8c1718990e68667abbcb10a5f33dbb8efad50c25"},
+"meta": {"description":"Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome","awesome-list","claude-code","decompilation","file-formats","game-decompilation","hacktoberfest","home-assistant"],"readmeSha":"326d3761fbbe81571bf265fbc4b2f71f0ffe7fc7"},
 "members": [
 "morluto/rea",
 "NationalSecurityAgency/ghidra",
@@ -23,7 +23,7 @@
 "maxrave-dev/SimpMusic",
 "lyswhut/lx-music-desktop",
 "AlistGo/alist",
-"huiyadanli/RevokeMsgPatcher",
+"hmjz100/LinkSwift",
 "fastlane/fastlane",
 "homebridge/homebridge",
 "kholia/OSX-KVM",
@@ -39,7 +39,7 @@
 "coolsnowwolf/lede",
 "openwrt/openwrt",
 "arendst/Tasmota",
-"LizardByte/Sunshine",
+"SunshineStream/Sunshine",
 "moonlight-stream/moonlight-qt",
 "fortra/impacket",
 "FFmpeg/FFmpeg",
@@ -103,6 +103,8 @@
 ["2026-11-07","ScottSloan/Bili23-Downloader"],
 ["2026-11-07","trazyn/ieaseMusic"],
 ["2026-11-07","firerpa/lamda"],
-["2026-11-07","houtianze/bypy"]
+["2026-11-07","houtianze/bypy"],
+["2026-11-14","huiyadanli/RevokeMsgPatcher"],
+["2026-11-14","LizardByte/Sunshine"]
 ]
 }

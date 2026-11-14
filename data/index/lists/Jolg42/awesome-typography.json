@@ -1,5 +1,5 @@
 {
-"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"91c46be75d7edbb11ebc1a42477b145e42d5f59f"},
+"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"9a237161bee74dac05932cd12380cf845309b4d3"},
 "members": [
 "Pomax/the-cff-table",
 "harfbuzz/boring-expansion-spec",
@@ -41,7 +41,7 @@
 "donbright/font_to_svg",
 "kohler/lcdf-typetools",
 "harfbuzz/harfbuzz",
-"googlefonts/fontview",
+"davelab6/fontview",
 "unicode-org/text-rendering-tests",
 "cdave1/ftgles",
 "rmuch/ttfpatch",
@@ -149,7 +149,7 @@
 "fonttools/fonttools",
 "googlefonts/fontmake",
 "googlefonts/fontreport",
-"googlefonts/fontdiff",
+"davelab6/fontdiff",
 "adobe-type-tools/kern-dump",
 "googlefonts/cu2qu",
 "fonttools/fontbakery",
@@ -174,7 +174,6 @@
 "googlefonts/compreffor",
 "source-foundry/font-line",
 "xxyxyz/flat",
-"PageBot/PageBot",
 "fontpixel/bdfparser",
 "googlefonts/glyphsLib",
 "fonttools/unicodedata2",
@@ -298,6 +297,9 @@
 "dropped": [
 ["2026-10-10","tomchen/bdfparser-js"],
 ["2026-10-10","tomchen/bdfparser"],
-["2026-10-24","harfbuzz/rustybuzz"]
+["2026-10-24","harfbuzz/rustybuzz"],
+["2026-11-14","googlefonts/fontview"],
+["2026-11-14","googlefonts/fontdiff"],
+["2026-11-14","PageBot/PageBot"]
 ]
 }

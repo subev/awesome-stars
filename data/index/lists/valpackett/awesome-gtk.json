@@ -1,5 +1,5 @@
 {
-"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"9d6fefbdcd5b13a4fa971fc1c1ee8739cefcfeed"},
+"meta": {"description":"List of awesome GTK (3/4) applications","defaultBranch":"trunk","topics":["gtk","gtk3","gnome","awesome-list","gtk4","awesome"],"readmeSha":"86a514d32446315324181ca26acbfbbc56189b08"},
 "members": [
 "sindresorhus/awesome",
 "elementary/music",
@@ -9,7 +9,7 @@
 "nate-xyz/resonance",
 "tau-OS/victrola",
 "Nokse22/high-tide",
-"Diegovsky/riff",
+"Riff-Developers/riff",
 "librespot-org/librespot",
 "xou816/spot",
 "subsoundorg/Subsound",
@@ -49,6 +49,7 @@
 "pojntfx/multiplex",
 "DYefremov/TVDemon",
 "subtitleeditor/subtitleeditor",
+"KunalSiyag/gpu-recorder-rs",
 "SeaDve/Kooha",
 "stronnag/wayfarer",
 "soyersoyer/cameractrls",
@@ -234,6 +235,7 @@
 "excelano/comma",
 "ryonakano/konbucase",
 "artemanufrij/regextester",
+"SamratDuttaOfficial/Rewrite",
 "phase1geo/TextShine",
 "aleiepure/devtoolbox",
 "CleoMenezesJr/escambo",
@@ -324,6 +326,7 @@
 ["2026-10-17","tomasz-oponowicz/markets"],
 ["2026-10-31","SelfRef/memento"],
 ["2026-10-31","getodm/open-download-manager"],
-["2026-10-31","hwittenborn/celeste"]
+["2026-10-31","hwittenborn/celeste"],
+["2026-11-14","Diegovsky/riff"]
 ]
 }

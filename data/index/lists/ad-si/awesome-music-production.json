@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"87ec1860d5560237b7f4feede075750f84c048f6"},
+"meta": {"description":"A curated list of software, services, and resources to create and distribute music","defaultBranch":"master","topics":["music","music-production","audio","sound","midi-controller","synthesizer","instrument","midi","mpe"],"readmeSha":"b9f09b42a4c93e0531a25a1c6627f2af4e261405"},
 "members": [
 "gridsound/daw",
 "kmatheussen/radium",
@@ -60,6 +60,7 @@
 "MaxAlyokhin/audio-motion-interface",
 "MaxAlyokhin/binary-synth",
 "BlokDust/BlokDust",
+"jamesondh/chimera-vocal-synth",
 "newlandsvalley/chord-editor",
 "evashort/chords",
 "Greg-RG-GIT/chorushive",

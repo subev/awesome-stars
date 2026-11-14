@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"d71f486f038cf12ed64c82aa212f4a4316fa6123"},
+"meta": {"description":"A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ","defaultBranch":"master","topics":["awesome","awesome-list"],"readmeSha":"1bcd20a5783bcee284d79ae09a376b4457954e01"},
 "members": [
 "ziadoz/awesome-php",
 "bayandin/awesome-awesomeness",
@@ -80,6 +80,7 @@
 "dereuromark/cakephp-feedback",
 "dereuromark/cakephp-flash",
 "CakeDC/cakephp-inertia",
+"josbeir/cakephp-interact",
 "cnizzardini/cakephp-preloader",
 "dereuromark/cakephp-shim",
 "dereuromark/cakephp-workflow",
@@ -120,7 +121,7 @@
 "dereuromark/cakephp-expose",
 "UseMuffin/Obfuscate",
 "UseMuffin/Throttle",
-"ctlabvn/Recaptcha",
+"meohamhoc-vn/Recaptcha",
 "UseMuffin/Slug",
 "cakephp/app",
 "dereuromark/cakephp-app",
@@ -160,5 +161,8 @@
 "XetaIO/Xeta",
 "ishanvyas22/cakephpvue-spa",
 "cakephp/cakephp"
+],
+"dropped": [
+["2026-11-14","ctlabvn/Recaptcha"]
 ]
 }

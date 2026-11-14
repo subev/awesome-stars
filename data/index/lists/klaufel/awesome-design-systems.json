@@ -1,8 +1,7 @@
 {
-"meta": {"description":"📒 A curated list of bookmarks, resources and articles about design systems focused on developers.","defaultBranch":"main","topics":["design","design-systems","design-system","reusable-components","figma","digital-products","storybook","atomic-design","css","design-tokens"],"readmeSha":"56872bb406f8c29f0eac0d7f1e4c0f916f06a64c"},
+"meta": {"description":"📒 A curated list of bookmarks, resources and articles about design systems focused on developers.","defaultBranch":"main","topics":["design","design-systems","design-system","reusable-components","figma","digital-products","storybook","atomic-design","css","design-tokens"],"readmeSha":"e456096aa708a1b4665db4dd61ee4e776a91dc5b"},
 "members": [
 "alexpate/awesome-design-systems",
-"Eneryleen/ai-web-design-codex",
 "goabstract/Awesome-Design-Tools",
 "design-tokens/community-group",
 "MichaelZaporozhets/abstractconnect",
@@ -10,9 +9,15 @@
 "style-dictionary/style-dictionary",
 "salesforce-ux/theo",
 "sturobson/Awesome-Design-Tokens",
-"storybookjs/storybook",
-"storybook-eol/storybook-addon-console",
 "lauthieb/awesome-storybook",
-"storybookjs/design-system"
+"storybookjs/design-system",
+"google-labs-code/design.md",
+"figma/code-connect",
+"southleft/figma-console-mcp"
+],
+"dropped": [
+["2026-11-14","Eneryleen/ai-web-design-codex"],
+["2026-11-14","storybookjs/storybook"],
+["2026-11-14","storybook-eol/storybook-addon-console"]
 ]
 }

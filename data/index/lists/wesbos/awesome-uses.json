@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of /uses pages detailing developer setups, gear, software and configs.","defaultBranch":"master","topics":["hacktoberfest"],"readmeSha":"73ec8be242c13d5d5c65e09ec7f0b089a8dc568a"},
+"meta": {"description":"A list of /uses pages detailing developer setups, gear, software and configs.","defaultBranch":"master","topics":["hacktoberfest"],"readmeSha":"6daa69a65e39db66f5efb010ca5bd800a87ea20b"},
 "members": [
 "devikabhapkar/uses",
 "bhantsi/uses",

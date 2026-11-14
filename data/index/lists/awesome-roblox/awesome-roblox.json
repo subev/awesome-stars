@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"6a0547f014dfa27da80d508e4a4666596cda597a"},
+"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"e79e903e68ba6d9523a4759beb1cc2234fb7e122"},
 "members": [
 "bloxstraplabs/bloxstrap",
 "AntiBoomz/BTRoblox",
@@ -14,6 +14,7 @@
 "paradoxuum/centurion",
 "evaera/Cmdr",
 "alicesaidhi/conch",
+"nanoblox/hd-admin",
 "kohls-admin/kohls-admin",
 "TheNexusAvenger/Nexus-Admin",
 "loneka/neohotbar",
@@ -36,7 +37,7 @@
 "YetAnotherClown/planck",
 "PepeElToro41/replecs",
 "rbxts-flamework/core",
-"welcomestohell/prvdmwrong",
+"rniraclefire/prvdmwrong",
 "1Axen/blink",
 "ffrostfall/ByteNet",
 "roblox-aurora/rbx-net",
@@ -73,6 +74,7 @@
 ],
 "dropped": [
 ["2026-10-24","Fizzyhex/price-point"],
-["2026-10-24","jsdotlua/react-lua"]
+["2026-10-24","jsdotlua/react-lua"],
+["2026-11-14","welcomestohell/prvdmwrong"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome WebGL libraries, resources and much more","defaultBranch":"master","topics":["webgl-programming","webgl-articles","glsl-editors","webgl-tutorials","webgl","learning-webgl","webgl-references","webgl-spec-sheet","awesome","awesome-list"],"readmeSha":"26aef179f5984f9c60d1d9809a3966467dfa1149"},
+"meta": {"description":"A curated list of awesome WebGL libraries, resources and much more","defaultBranch":"master","topics":["webgl-programming","webgl-articles","glsl-editors","webgl-tutorials","webgl","learning-webgl","webgl-references","webgl-spec-sheet","awesome","awesome-list"],"readmeSha":"fe9702c7b9c94ae9aea7a59d10cd69384750e94b"},
 "members": [
 "sindresorhus/awesome",
 "lesnitsky/webgl-month",
@@ -34,6 +34,7 @@
 "capnmidnight/Primrose",
 "img2threejs/img2threejs",
 "evanw/lightgl.js",
+"novaframe-hq/novaframe-engine",
 "gportelli/pocket.gl",
 "turbulenz/turbulenz_engine",
 "eug/awesome-opengl",

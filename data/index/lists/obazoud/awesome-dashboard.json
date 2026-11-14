@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"b66be7ead05d5613ffff68df39a893fc84d26e98"},
+"meta": {"description":"A curated list of amazingly awesome dashboards/visualization resources.","defaultBranch":"master","topics":["awesome","awesome-list","dashboard"],"readmeSha":"9f67f2e134de74eaf943ebf75c6b59631b99ff18"},
 "members": [
 "Smashing/smashing",
 "Freeboard/freeboard",
@@ -19,6 +19,7 @@
 "shmlkv/dna-claude-analysis",
 "marcimastro98/Xenon",
 "SikamikanikoBG/homelab-monitor",
+"turpentieqe/gitvitals",
 "obfuscurity/descartes",
 "obfuscurity/dusk",
 "ripienaar/gdash",

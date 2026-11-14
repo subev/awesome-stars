@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Banana for Solr - A Port of Kibana ","defaultBranch":"release","topics":[],"readmeSha":"1469ed362b7637ccce32495e5a40001baea94d33"},
+"meta": {"description":"Banana for Solr - A Port of Kibana ","defaultBranch":"release","topics":[],"readmeSha":"5192aa1788baa497207336e9792b3126db786d73"},
 "members": [
 "elastic/kibana",
 "lucidworks/solrlogmanager",

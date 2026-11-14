@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of tools that can be used for creating interactive mathematical  explorables.","defaultBranch":"master","topics":["awesome-list","mathematics","explorables"],"readmeSha":"bd8351ec9d039329e48b3446ac8b7e3e423fe002"},
+"meta": {"description":"A curated list of tools that can be used for creating interactive mathematical  explorables.","defaultBranch":"master","topics":["awesome-list","mathematics","explorables"],"readmeSha":"6d752eeee48826fec6ea052e6df90f1205fb11a5"},
 "members": [
 "unconed/mathbox",
 "jpivarski/hyperbolic-map"
