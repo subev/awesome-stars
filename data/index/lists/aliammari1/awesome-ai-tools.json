@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","productivity","tool","tools","utility","web-services","ai-tools","artificial-intelligence"],"readmeSha":"891feb5d00dc4fbe41f6fb7eae34df38bd8f35e9"},
+"meta": {"description":"Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers","defaultBranch":"main","topics":["awesome","awesome-list","curated-list","productivity","tool","tools","utility","web-services","ai-tools","artificial-intelligence"],"readmeSha":"7ffe6755fe2bcb32004a225f524350e925e7fc45"},
 "members": [
 "huggingface/smolagents",
 "agentscope-ai/agentscope",

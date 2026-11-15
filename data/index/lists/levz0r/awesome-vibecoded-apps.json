@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Real apps built with vibe coding: curated examples made with Claude Code, Cursor, Lovable and more. Live, link-checked list at vibecodedapps.dev","defaultBranch":"main","topics":["awesome-list","lists","awesome","ai-generated","bolt","claude-code","cursor","lovable","made-with-ai","vibe-coded"],"readmeSha":"594a8751f7757602cc2ccb27c05064a77df39d88"},
+"meta": {"description":"Real apps built with vibe coding: curated examples made with Claude Code, Cursor, Lovable and more. Live, link-checked list at vibecodedapps.dev","defaultBranch":"main","topics":["awesome-list","lists","awesome","ai-generated","bolt","claude-code","cursor","lovable","made-with-ai","vibe-coded"],"readmeSha":"79583697b53c600b1286f0f6f9086d3c246c35dd"},
 "members": [
 "levz0r/ASCIIKeyboard",
 "indragiek/Context",
@@ -10,6 +10,7 @@
 "levz0r/claude-code-statusline",
 "levz0r/html-to-markdown-mcp",
 "micasa-dev/micasa",
+"KrasimirKralev/harvest-hollow",
 "0xClouds/pixel_pokemon",
 "maciej-trebacz/tower-of-time-game",
 "levz0r/markdown-printer"

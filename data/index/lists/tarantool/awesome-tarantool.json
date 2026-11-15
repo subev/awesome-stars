@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of delightful Tarantool modules, connectors and other resources","defaultBranch":"master","topics":["awesome","tarantool"],"readmeSha":"606a824db91be678c0c44df384baa8ea0c43a3bc"},
+"meta": {"description":"A curated list of delightful Tarantool modules, connectors and other resources","defaultBranch":"master","topics":["awesome","tarantool"],"readmeSha":"51d815d371dd1bd0a0cefd3b4363b935aa231bab"},
 "members": [
 "tarantool/queue",
 "tarantool/vshard",
@@ -29,6 +29,7 @@
 "tarantool/tarantool-c",
 "tarantool/nginx_upstream_module",
 "vladfaust/tarantool.cr",
+"voilecx/tarant",
 "tarantool/testcontainers-java-tarantool",
 "tarantool/cartridge-springdata"
 ]

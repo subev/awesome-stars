@@ -1,5 +1,5 @@
 {
-"meta": {"description":"An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cybersecurity","deception","honeypot","honeypots","deception-technology"],"readmeSha":"cc7b9f787e356cf15fb235ca3ebb30ce09787e4a"},
+"meta": {"description":"An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","cybersecurity","deception","honeypot","honeypots","deception-technology"],"readmeSha":"dc1e16629f091a9f4422aeeaa41bd7ba6cd78be6"},
 "members": [
 "paralax/awesome-honeypots",
 "SAP/cloud-active-defense",

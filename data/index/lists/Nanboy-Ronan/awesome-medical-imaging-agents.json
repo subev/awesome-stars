@@ -1,6 +1,7 @@
 {
-"meta": {"description":"Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers.","defaultBranch":"main","topics":["agents","ai-agents","awesome","deep-learning","healthcare","medical-image-analysis","medical-imaging","radiology","trustworth-ai","awesome-list"],"readmeSha":"869cb4c8db6c8fc26bb741bb5bc9d626db8295d9"},
+"meta": {"description":"Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers.","defaultBranch":"main","topics":["agents","ai-agents","awesome","deep-learning","healthcare","medical-image-analysis","medical-imaging","radiology","trustworth-ai","awesome-list"],"readmeSha":"ce55be109d46118ab8f22a9aaaa653b8ee1e04e0"},
 "members": [
+"Nanboy-Ronan/awesome-medical-ai-papers",
 "bowang-lab/MedRAX",
 "Tyyds-ai/EndoAgent",
 "CUHK-AIM-Group/MedSAM-Agent",
@@ -10,6 +11,7 @@
 "CaoYue2004/CAG-WM",
 "Haitao-Lee/SeedPro",
 "NdkArthur/SliceVQA",
+"script-Yang/Agent-GenPath",
 "zhihuanglab/PathCowork",
 "JSGe-AI/PlanPath_1",
 "cpath-ukk/SPARK",
@@ -60,6 +62,7 @@
 "CUHK-AIM-Group/AMID",
 "MLO-lab/ModelAuditor",
 "MAGIC-AI4Med/M3Builder",
+"KeWang0622/MRFoundry",
 "ImprintLab/MedRSI",
 "K-Dense-AI/scientific-agent-skills",
 "BIABench/BIABench",
@@ -73,6 +76,7 @@
 "XjtuAI/HistoGym",
 "CVI-SZU/SurgCoT",
 "GeraldSun/RADAR",
+"ibrarad/radiology-agent-safeguards",
 "Yangxinyee/cxr-vlm-routing",
 "XLIAaron/CRC-Router",
 "Agentic-CliniAI/CounterVHD",

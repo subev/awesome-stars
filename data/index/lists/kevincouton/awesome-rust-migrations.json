@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The curated hub for migrating to Rust and eliminating memory-safety vulnerabilities: AI-assisted rewrites, C2Rust case studies, production adoptions at scale, interop tooling, and the evidence behind it. Originally based on malisper/awesome-ai-rust-rewrites (CC0).","defaultBranch":"main","topics":["awesome","awesome-list","c2rust","memory-safety","migration","rust","security"],"readmeSha":"7fa5dba958db4ff4af837af4322242c0b6320462"},
+"meta": {"description":"The curated hub for migrating to Rust and eliminating memory-safety vulnerabilities: AI-assisted rewrites, C2Rust case studies, production adoptions at scale, interop tooling, and the evidence behind it. Originally based on malisper/awesome-ai-rust-rewrites (CC0).","defaultBranch":"main","topics":["awesome","awesome-list","c2rust","memory-safety","migration","rust","security"],"readmeSha":"682c857a6d1219d7dfb8cbedb565d9d1a2591a97"},
 "members": [
 "oven-sh/bun",
 "gitbutlerapp/grit",

@@ -1,7 +1,8 @@
 {
-"meta": {"description":"Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.","defaultBranch":"main","topics":["artificial-intelligence","awesome","awesome-list","compliance","eu-ai-act","ai-compliance","ai-governance","ai-policy","european-union","regtech"],"readmeSha":"e8441835d79c2eaa766bf5d9bb7ffddae65edfac"},
+"meta": {"description":"Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.","defaultBranch":"main","topics":["artificial-intelligence","awesome","awesome-list","compliance","eu-ai-act","ai-compliance","ai-governance","ai-policy","european-union","regtech"],"readmeSha":"1e25dd611516387aa08247a6e38ebc882f713874"},
 "members": [
 "NlDev-hub/ai-interaction-transparency-snippets",
+"juw12/retrace",
 "plusultra-tools/ai-act-conformity-pack",
 "abk1969/ai-act-skills",
 "verifywise-ai/verifywise",
@@ -29,6 +30,8 @@
 "vaaraio/vaara",
 "maximhq/bifrost",
 "mandarelabs/mandare",
+"Cygnux-Labs/Tracekit",
+"solvi-ai/solvi",
 "EthicalML/awesome-artificial-intelligence-regulation",
 "AthenaCore/AwesomeResponsibleAI",
 "nelsambrose/ISO-42001-Visual-Library",
