@@ -1,5 +1,5 @@
 {
-"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"7611333720e4126a0934f95dcce02397f7e41145"},
+"meta": {"description":"","defaultBranch":"master","topics":[],"readmeSha":"04051c101656d67774042ea73b3a430021fd98a8"},
 "members": [
 "arcboxlabs/expo-libghostty",
 "jiahaog/flutter_ghostty",
@@ -28,7 +28,8 @@
 "prime-radiant-inc/ts-libghostty",
 "neurosnap/zmx",
 "OpenFabrica/aster",
-"buntec/btmux",
+"jrgp/better-screen",
+"btmux-dev/btmux",
 "jossephus/chuchu",
 "mahdiarfrm/conterm",
 "hualet/deepin-terminal-ghostty",
@@ -49,7 +50,7 @@
 "dindin12138/Husk",
 "powdream-org/it-shell3",
 "0x96f/justty",
-"thdxg/macterm",
+"macterm/macterm",
 "frixaco/mightty",
 "rockorager/monstar",
 "vaayne/mori",
@@ -64,7 +65,9 @@
 "rendergraf/shellbar",
 "hivepaas/shellwing",
 "AlexW00/slate-term",
+"EriksRemess/snow-ghostty",
 "ocnc/spectty",
+"qfdk/sshl",
 "ensky0/tildaz",
 "charliesbot/umbra",
 "vivy-company/vvterm",
@@ -107,6 +110,7 @@
 "alltuner/factoryfloor",
 "emmettlu/frep",
 "coder/xum",
+"roman-romanov-o/sich",
 "supabitapp/supacode",
 "OneNoted/taskers",
 "mwunsch/termscope",
@@ -133,6 +137,8 @@
 ["2026-10-18","arach/Termini"],
 ["2026-10-18","rambocode/aster"],
 ["2026-10-18","neurosnap/footty"],
-["2026-11-01","nek0der/limpid"]
+["2026-11-01","nek0der/limpid"],
+["2026-11-15","buntec/btmux"],
+["2026-11-15","thdxg/macterm"]
 ]
 }

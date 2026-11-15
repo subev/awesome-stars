@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"87acff2206a2524b33166cd9c17a702d6950ba5c"},
+"meta": {"description":"🦆 A curated list of awesome DuckDB resources","defaultBranch":"main","topics":["awesome","awesome-list"],"readmeSha":"bbe852d21ff54cf154f9d73823fd3b066d74afbd"},
 "members": [
 "duckdb/duckdb-docker",
 "BauplanLabs/quack-reduce",
@@ -44,6 +44,7 @@
 "spiceai/spiceai",
 "dataspoclab/dataspoc-lens",
 "buremba/universql",
+"hamarshehmhmd/crossql",
 "rootSunc/CNEquity",
 "mailbus/PocketDuck",
 "bernard357/duckdb-vectors",
@@ -54,12 +55,13 @@
 "henrik716/duck-soup",
 "turbot/tailpipe",
 "phare/sloggo",
-"labstack/fanout",
+"labstack/pitot",
 "datacharter/datacharter",
 "DataKitchen/dataops-testgen",
 "danilo-css/analytics-data-pivot",
 "wylie102/duckdb.yazi",
 "rpbouman/huey",
+"jakubro/folio",
 "opt-nc/geol",
 "tobymao/sqlglot",
 "tomjakubowski/connections.duckdb",
@@ -102,6 +104,9 @@
 "TabularisDB/tabularis",
 "icedsg/pilotbase",
 "JetSquirrel/DuckLocal",
+"maxib0n/NiceDB",
+"cin12211/orca-q",
+"QoreDB/QoreDB",
 "matsonj/nba-monte-carlo",
 "datonic/datadex",
 "dcaribou/transfermarkt-datasets",
@@ -139,6 +144,7 @@
 "bruin-data/ingestr",
 "panodata/omniload",
 "rbmuller/scherlok",
+"galaxy-io/filament",
 "apecloud/myduckserver",
 "paradedb/pg_analytics",
 "duckdb/pg_duckdb",
@@ -224,6 +230,7 @@
 ["2026-10-25","PascaleBeier/hitkeep"],
 ["2026-10-25","Significant-Hobbies/ph-catalog"],
 ["2026-11-01","gigapi/gigapi"],
-["2026-11-01","joinery-labs/joinery"]
+["2026-11-01","joinery-labs/joinery"],
+["2026-11-15","labstack/fanout"]
 ]
 }

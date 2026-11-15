@@ -1,18 +1,23 @@
 {
-"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"bdf526286b61d3cab2faa368c4b69c7b3db7a3bc"},
+"meta": {"description":"This repo includes Claude prompt curation to use Claude better.","defaultBranch":"main","topics":["anthropic","anthropic-claude","chatgpt","chatgpt-4","chatgpt3","claude","claude-ai","openai","openai-chatgpt","prompt"],"readmeSha":"57d815568a507f9beffecee5bfd69729337b7852"},
 "members": [
 "EmbraceAGI/awesome-chatgpt-zh",
-"langgptai/awesome-claude-prompts",
 "anthropics/prompt-eng-interactive-tutorial",
 "wunderlabs-dev/claudebin.com",
 "yzfly/awesome-skills-zh",
-"EmbraceAGI/awesome-chatgpt-zh",
 "Continuum-AI-Corp/OrcaReplay",
+"MetcalfSolutions/Satori",
 "eastling/awesome-opus-5.5-video-prompts",
+"wutuobangai/happy-ai-opus55-video-prompts",
+"LeaddeOpenLab/awesome-opus-5-5-video-prompts",
+"fainir/most-capable-agent-system-prompt",
 "Aider-AI/aider",
 "anthropics/claude-code",
 "langgptai/LangGPT",
 "mshumer/anthropic_with_functions",
 "JushBJJ/Mr.-Ranedeer-AI-Tutor"
+],
+"dropped": [
+["2026-11-15","langgptai/awesome-claude-prompts"]
 ]
 }

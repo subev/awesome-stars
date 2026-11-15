@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome twitter tools","defaultBranch":"master","topics":["twitter","twitter-api","twitter-client","twitter-bot","twitter-streaming-api"],"readmeSha":"85566940213441af036adb862dd02c71b9235c4a"},
+"meta": {"description":"A curated list of awesome twitter tools","defaultBranch":"master","topics":["twitter","twitter-api","twitter-client","twitter-bot","twitter-streaming-api"],"readmeSha":"b0819dd957bbb24c0fd408ca0bfa53a144ddeb6d"},
 "members": [
 "tweepy/tweepy",
 "ryanmcgrath/twython",
@@ -29,6 +29,7 @@
 "Deviloxide/twitter-archive-viewer",
 "nirholas/XActions",
 "opencoredev/social-sdk",
+"loootai/looot-mentions",
 "tmun5718/Twitter-Sentiment-Analysis",
 "getxapi/getxapi-mcp",
 "GenAIwithMS/twitter-mcp"

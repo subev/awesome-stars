@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"39ddfc73ae3f651cb86340eae572e759d4d624ce"},
+"meta": {"description":"A curated list of Google Earth Engine resources","defaultBranch":"gh-pages","topics":["google-earth-engine","earth-engine","gis","remote-sensing","python","javascript","mapping","jupyter-notebook","ipyleaflet","geospatial"],"readmeSha":"da5c9ec170ed1b56ea5f937f0153c01a5dc8e0b1"},
 "members": [
 "opengeos/Awesome-GEE",
 "google/earthengine-api",
@@ -36,6 +36,7 @@
 "giswqs/earthengine-py-examples",
 "gee-community/ee-tensorflow-notebooks",
 "kvos/CoastSat",
+"viridisconservation/contour-alley-designer",
 "renelikestacos/Google-Earth-Engine-Python-Examples",
 "csaybar/EEwPython",
 "r-spatial/rgee",

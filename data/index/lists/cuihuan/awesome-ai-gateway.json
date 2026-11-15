@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 240+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual; stars & releases refreshed daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"90678729050c4d1bc0bfb92846e61e1a990ff22c"},
+"meta": {"description":"⚡ Awesome AI Gateway — pick an AI gateway from 240+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual; stars & releases refreshed daily.","defaultBranch":"main","topics":["ai-gateway","ai-infrastructure","api-gateway","awesome","awesome-list","litellm","llm","llm-gateway","llm-proxy","llm-router"],"readmeSha":"87eb113d17b201fada3ae1d317e0a648c3b29fa6"},
 "members": [
 "cuihuan/llm-gateway-bench",
 "tbphp/gpt-load",
@@ -63,7 +63,6 @@
 "bricks-cloud/BricksLLM",
 "EinStack/glide",
 "ffseika0304/shanhai-gateway",
-"caelum0x/railyard",
 "respanai/respan-gateway",
 "huangjinpeng216/relay-failover",
 "karmendra8386/argus",
@@ -103,7 +102,6 @@
 "obot-platform/obot",
 "fdmtl/director",
 "lasso-security/mcp-gateway",
-"ArmorerLabs/Armorer-Guard",
 "anthony-chaudhary/fak",
 "archestra-ai/archestra",
 "AmoyLab/Unla",
@@ -154,6 +152,7 @@
 "cocodot2026/cocodot-llmprobe",
 "wyl743405571-cpu/oneapi-key-monitor",
 "ENTERPILOT/ai-gateway-reproducible-benchmark",
+"btsouth/toolport",
 "tensorchord/Awesome-LLMOps",
 "Hannibal046/Awesome-LLM",
 "kyrolabs/awesome-langchain",
@@ -170,6 +169,8 @@
 ["2026-10-18","Veloera/Veloera"],
 ["2026-10-25","diegosouzapw/OmniRoute"],
 ["2026-11-01","Omega-JS-Stack/omega"],
-["2026-11-08","romgX/openrelay"]
+["2026-11-08","romgX/openrelay"],
+["2026-11-15","caelum0x/railyard"],
+["2026-11-15","ArmorerLabs/Armorer-Guard"]
 ]
 }

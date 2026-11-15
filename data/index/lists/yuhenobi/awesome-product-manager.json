@@ -1,6 +1,7 @@
 {
-"meta": {"description":"A curated list of awesome resources for product managers to learn and grow.","defaultBranch":"master","topics":["awesome","awesome-list","product-management","product-design"],"readmeSha":"77d003daf4f50d7a269cee5b96ee1aeb1dd58632"},
+"meta": {"description":"A curated list of awesome resources for product managers to learn and grow.","defaultBranch":"master","topics":["awesome","awesome-list","product-management","product-design"],"readmeSha":"3c50eb1424f9ecaf1392cb5f2cc137f9cb68c482"},
 "members": [
+"landedjobs/ai-pm-interview-prep",
 "product-on-purpose/pm-skills",
 "Digidai/product-manager-skills"
 ]

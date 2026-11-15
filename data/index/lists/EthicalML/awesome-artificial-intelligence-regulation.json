@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"df6476abc6e4bfd1815e61b07844949dfc916766"},
+"meta": {"description":"This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.","defaultBranch":"master","topics":["ethics-frameworks","machine-learning","data-protection","principles","regulation","institute-for-ethical-ai","ethical-ai","ai-ethics","data-ethics","privacy"],"readmeSha":"65a012a5eaa362f2fece530f34e8d1e3df91f51d"},
 "members": [
 "sindresorhus/awesome",
 "EthicalML/awesome-artificial-intelligence-regulation",
@@ -23,8 +23,12 @@
 "Continuum-AI-Corp/OrcaPromptVault",
 "OrchardHarmonics/orchard-kit",
 "moxno/privacyscrubber-mcp",
+"ZIZKA-AI-SL/ZizkaDB",
 "nelsambrose/ISO-42001-Visual-Library",
-"attahwonder/faias-standard"
+"nosistech/governance-templates",
+"brivellis/aims-starter-kit-iso42001",
+"attahwonder/faias-standard",
+"henrikdukefoss/llm-gateway-security-questionnaire"
 ],
 "dropped": [
 ["2026-10-10","certian-register/ai-governance-manifest"]

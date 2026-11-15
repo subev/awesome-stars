@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Quadrupedal Robots","defaultBranch":"main","topics":["awesome","awesome-list","quadruped","quadruped-robot","quadruped-robots"],"readmeSha":"db3dc01cedff68b4ac722edf592aabaff0453a4a"},
+"meta": {"description":"Awesome Quadrupedal Robots","defaultBranch":"main","topics":["awesome","awesome-list","quadruped","quadruped-robot","quadruped-robots"],"readmeSha":"ea2d0ef7f74898c36c5269f563f845cae95403b2"},
 "members": [
 "sindresorhus/awesome",
 "google-deepmind/barkour_robot",
@@ -102,6 +102,7 @@
 "eureka-research/DrEureka",
 "gaiyi7788/awesome-legged-locomotion-learning",
 "Gepetto/soloRL",
+"Helpforce-AI/policy-crosscheck",
 "hrh6666/MoE-Loco",
 "Improbable-AI/dribblebot",
 "Improbable-AI/walk-these-ways",

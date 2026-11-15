@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"11488c3dda98327883274e8aad4f8282e3b78fd3"},
+"meta": {"description":"Curated Collection of BCI resources","defaultBranch":"master","topics":[],"readmeSha":"66dacea6e0c6a727134911927d8cdce240c7b35e"},
 "members": [
 "sindresorhus/awesome",
 "adam-p/markdown-here",
@@ -21,7 +21,6 @@
 "eegsynth/eegsynth",
 "pyRiemann/pyRiemann",
 "NeuroTechX/moabb",
-"nmc-costa/neuroprime",
 "LMBooth/pybci",
 "arctop/mw75-streamer",
 "YG-paaleee/eegauge",
@@ -43,5 +42,8 @@
 "neurotech-berkeley/neurotech-course",
 "inclusive-brains/prometheus-bci",
 "okbalefthanded/awesome-bci-reviews"
+],
+"dropped": [
+["2026-11-15","nmc-costa/neuroprime"]
 ]
 }

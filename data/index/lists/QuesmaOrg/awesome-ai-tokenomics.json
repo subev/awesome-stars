@@ -1,10 +1,9 @@
 {
-"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"cec42631c0f1000665f02da46004fd77d872d0f1"},
+"meta": {"description":"A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.","defaultBranch":"main","topics":["agentic-coding","ai","awesome","awesome-list","claude-code","cost-optimization","llm","token-economics","tokenomics","ai-agents"],"readmeSha":"ca04c5d6dfe21dcb85316d6feb0c96196dfc15eb"},
 "members": [
 "antiburn/antiburn",
 "ccusage/ccusage",
 "Maciek-roboblog/Claude-Code-Usage-Monitor",
-"phuryn/claude-usage",
 "tddworks/ClaudeBar",
 "getagentseal/codeburn",
 "douglasmonsky/codex-usage-tracker",
@@ -38,6 +37,7 @@
 "yamadashy/repomix",
 "NVIDIA/RULER",
 "oraios/serena",
+"nikolai-vysotskyi/trace-mcp",
 "anthropics/claude-code",
 "maximhq/bifrost",
 "BerriAI/litellm",
@@ -53,6 +53,7 @@
 "langchain-ai/langgraph",
 "JetBrains/benjamin-plus-skill",
 "oanhduong/token-ninja",
+"vshulcz/deja-vu",
 "run-llama/llama_index",
 "VectifyAI/PageIndex",
 "Signet-AI/signetai",
@@ -92,6 +93,7 @@
 "mlco2/codecarbon",
 "mlco2/ecologits",
 "Piebald-AI/claude-code-system-prompts",
+"rbartoli/harnesstax-replication",
 "x1xhlol/system-prompts-and-models-of-ai-tools",
 "asgeirtj/system_prompts_leaks",
 "kenn-io/agentsview",
@@ -115,6 +117,6 @@
 ["2026-10-25","letta-ai/letta"],
 ["2026-11-01","roy-tong/AgentMeasure"],
 ["2026-11-01","facebook/mcpguard-dynamic"],
-["2026-11-08","nikolai-vysotskyi/trace-mcp"]
+["2026-11-15","phuryn/claude-usage"]
 ]
 }

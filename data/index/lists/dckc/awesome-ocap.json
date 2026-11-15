@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome Object Capabilities and Capability Security","defaultBranch":"master","topics":["web-security","security","capabilities","awesome-list","ocap","javascript","ocaps","capability-based","awesome"],"readmeSha":"f8f643470a5b5ac5b26b13c43a42df0a26780be0"},
+"meta": {"description":"Awesome Object Capabilities and Capability Security","defaultBranch":"master","topics":["web-security","security","capabilities","awesome-list","ocap","javascript","ocaps","capability-based","awesome"],"readmeSha":"cf8580a2527d981606800ef4e2ad1ec0f645e294"},
 "members": [
 "sandstorm-io/sandstorm",
 "cloudflare/workerd",
@@ -14,6 +14,7 @@
 "capnproto/go-capnp",
 "austral/austral",
 "AmbiML/sparrow-manifest",
+"endojs/endo",
 "NuxiNL/arpc",
 "NuxiNL/flower",
 "marcsAtSkyhunter/Capper"

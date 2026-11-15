@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"6a9545390590c5dac200c1712508f4b714bf8c70"},
+"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"c511ac21bf841afd5176cba9064e095e59faeadb"},
 "members": [
 "kleogeos/awesome-freelance-tools",
 "szabgab/awesome-for-non-programmers",
@@ -71,6 +71,10 @@
 "DopplerHQ/awesome-interview-questions",
 "posquit0/Awesome-CV",
 "RBLucky/Awesome-Free-Certifications",
+"StudentSuite/awesome-student-resources",
+"StudentSuite/awesome-study-resources",
+"StudentSuite/awesome-sat-resources",
+"StudentSuite/awesome-skills-plugins-for-students",
 "papers-we-love/papers-we-love",
 "MunGell/awesome-for-beginners",
 "ProgrammingHero1/100-plus-python-coding-problems-with-solutions",

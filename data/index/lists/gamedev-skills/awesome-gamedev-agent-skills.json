@@ -1,5 +1,5 @@
 {
-"meta": {"description":"77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome-list","claude-code","game-development","gamedev","godot","kiro","skills","unity"],"readmeSha":"a1853c9f281a1bd535160bbcf967c5ba0351b703"},
+"meta": {"description":"Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome-list","claude-code","game-development","gamedev","godot","kiro","skills","unity"],"readmeSha":"ca069aa56ec494ce28cb00521b5f30d4f816f891"},
 "members": [
 
 ]

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"e05197be20401f8b73a04f9b53a8c31aad35084e"},
+"meta": {"description":"Una selección de software open source que da soporte específico a España","defaultBranch":"main","topics":["awesome-list","curated-list","espana","spain","aeat","autofirma","catastro","datos-abiertos","facturacion","open-data"],"readmeSha":"68f5415e07b50789529aa4c79c44c8af1d562ba7"},
 "members": [
 "geomatico/qgis-sigpac",
 "dan96ct/sigpac-client",

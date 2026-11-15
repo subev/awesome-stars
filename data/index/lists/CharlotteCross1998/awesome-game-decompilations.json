@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome game decompilations, recompilations and disassemblies.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","curated-list","decompilation","game","list","disassembly","recompilation"],"readmeSha":"948e85b862db59bf5d0021fdbc126afaad5d582a"},
+"meta": {"description":"A curated list of awesome game decompilations, recompilations and disassemblies.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","curated-list","decompilation","game","list","disassembly","recompilation"],"readmeSha":"6f1359ecf32c5241e1fa39d35fac83c3f7a13b0c"},
 "members": [
 "cyneprepou4uk/NES-Games-Disassembly",
 "vgrichina/battlecity",
@@ -196,9 +196,11 @@
 "SolarCookies/TiP-Recomp",
 "kittibyte/UndertaleDecomp",
 "TeamBlossomDevs/DeltaruneDecomp_beta",
+"psi29a/d2decomped",
 "fr3dsp/FNaF-Decomp",
 "fr3dsp/FNaF-2-Decomp",
 "kaustubhxd/ReFreedomFighters",
+"007hacky007/gearhead-garage-macos-arm64",
 "gta-reversed/gta-reversed",
 "isledecomp/isle",
 "marijnvdwerf/lego-racers",
@@ -269,7 +271,7 @@
 "vermiceli/nes-contra-us",
 "smitelli/cosmore",
 "Costume-Quest-Modding/CostumeQuest-Decomp",
-"adamcolquhoun/Creatures-2-Decompilation",
+"LimitedStopSoftware/Creatures-2-Decompilation",
 "Xeeynamo/croc",
 "jmxamongusmodder/cuphead-decomp",
 "pizdex/robogx",
@@ -483,6 +485,7 @@
 ["2026-10-25","sasja-san/atc"],
 ["2026-10-25","abelbriggs1/tm1_decomp"],
 ["2026-10-25","abelbriggs1/tmb_decomp"],
-["2026-11-08","Nugetinc/MixelsRushDecompilation"]
+["2026-11-08","Nugetinc/MixelsRushDecompilation"],
+["2026-11-15","adamcolquhoun/Creatures-2-Decompilation"]
 ]
 }

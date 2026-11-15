@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"4e421f3d23d163795bccb7fb413e99eac52885c5"},
+"meta": {"description":"A curated list of amazingly awesome Mac OS X tools, applications and games.","defaultBranch":"master","topics":[],"readmeSha":"45d82de9eabb42a1ddbe6e21a6da20bf6ac4bc34"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",
@@ -10,13 +10,17 @@
 "sorkila/tintpad",
 "viewer12/Nexus-Shell-Releases",
 "nuanu-ai/agent-payment-node",
+"Yvsleyen00941/Tape",
 "TeamHypersomnia/Hypersomnia",
 "stonesam92/ChitChat",
 "jnordberg/irccloudapp",
 "Orkas-AI/Orkas-VideoStudio",
 "cerebroapp/cerebro",
+"Yvsleyen00941/Cockpit",
 "MindMacApp/MindMac",
 "auspy/supasidebar-updates",
+"ayumu-kitabayashi/feedminus-support",
+"Yvsleyen00941/Rime",
 "yagcioglutoprak/dusty",
 "glimapp/glim",
 "fainir/mac-keepawake",
@@ -29,6 +33,7 @@
 "sorkila/lockpaw",
 "ParetoSecurity/pareto-mac",
 "arpitagarwal1301/wardlume",
+"tw93/MiaoYan",
 "ianyh/Amethyst",
 "Feng6611/mac-command-reopen",
 "tumingke0/LayoutKeeper"

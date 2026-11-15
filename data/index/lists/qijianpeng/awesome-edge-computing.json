@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"044052082968b6dabd3f1420166aabbd7bda3f93"},
+"meta": {"description":"A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.","defaultBranch":"master","topics":["edge-computing","fog-computing","edge-ai","awesome-list","edge-intelligence","lightweight-framework","simulation","simulators","emulation","serveless"],"readmeSha":"b32192164d4f116e52336a26a0ff45c627dfd488"},
 "members": [
 "CausalSim/Unbiased-Trace-Driven-Simulation",
 "Cloudslab/cloudsim",
@@ -14,6 +14,7 @@
 "coreemu/core",
 "unimib-datAI/dfaas",
 "TadavomnisT/ECHOES",
+"eclypse-org/eclypse",
 "sedgecloud/ECSNeTpp",
 "MuhammedGolec/EdgeAISIM",
 "EdgeSimPy/EdgeSimPy",
@@ -89,6 +90,7 @@
 "magnific0/wondershaper",
 "alibaba/clusterdata",
 "qub-blesson/DeFog",
+"anguoyang/rk-bench",
 "mlcommons/inference",
 "BNN-UPC/NetworkModelingDatasets",
 "mlcommons/tiny",
@@ -111,7 +113,7 @@
 "SLAM-Lab/DeepThings",
 "FederatedAI/FATE",
 "litian96/FedProx",
-"AhmadHassan-BTed/FractalWorkspace",
+"Fractal-Compute-Orchestrations/FractalWorkspace",
 "larionovavi-stack/genesis2-cascade-moe",
 "kubeedge/ianvs",
 "ymirsky/KitNET-py",
@@ -143,5 +145,8 @@
 "uTensor/uTensor",
 "crespum/edge-ai",
 "yarncraft/awesome-edge"
+],
+"dropped": [
+["2026-11-15","AhmadHassan-BTed/FractalWorkspace"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).","defaultBranch":"master","topics":["georgia","awesome","awesome-list"],"readmeSha":"ece3dd7442b9158cd1ca2d0f22023425aabb3a1c"},
+"meta": {"description":"🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).","defaultBranch":"master","topics":["georgia","awesome","awesome-list"],"readmeSha":"5984dd771adc8d1de9be792b566c30f1294ed121"},
 "members": [
 "Lotuashvili/laravel-smsoffice",
 "dimakura/magti",
@@ -16,6 +16,9 @@
 "zgabievi/laravel-tbcpayment",
 "zgabievi/laravel-bog-console",
 "payzeio/laravel-payze",
+"dimakura/rs.ge",
+"bekatom/geo-services",
+"leon-wbr/rs-ge",
 "Stichoza/font-larisome",
 "Lotuashvili/BPGNateli",
 "thecotne/georgian-webfonts",
@@ -37,10 +40,8 @@
 "ABGEO/tarieli.py",
 "bumbeishvili/geojson-georgian-regions",
 "dimakura/oris.ge",
-"dimakura/rs.ge",
 "ioseb/geokbd",
 "xxzefgh/vue-geokbd",
-"bekatom/geo-services",
 "nodarai/lariskursibot",
 "getsadzeg/awesome-georgian-talks",
 "bumbeishvili/GeoWordsDatabase",

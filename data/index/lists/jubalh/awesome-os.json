@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"403db598c8d1bb7794ebb21604ddf76929a08351"},
+"meta": {"description":"A list of operating systems and stuff","defaultBranch":"master","topics":["os","os-dev","kernel","awesome","awesome-list","linux","linux-kernel","operating-system","osdev"],"readmeSha":"8af6a7576e54a201c703aea0aaf56416467e315b"},
 "members": [
 "PauloMigAlmeida/AlmeidaOS",
 "frednora/gramado",
@@ -42,6 +42,7 @@
 "nanovms/nanos",
 "NodeOS/NodeOS",
 "DeanoBurrito/northport",
+"ccclosed/Pagh-OS",
 "mig-hub/mikeOS",
 "GandelXIV/pidi-os",
 "klange/ponyos",
