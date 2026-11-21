@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"fc6fd4d9444bfa7e4fee940f392fe0d7873f28b2"},
+"meta": {"description":"A list of Free Software network services and web applications which can be hosted on your own servers","defaultBranch":"master","topics":["selfhosted","awesome","awesome-list","privacy","hosting","cloud","self-hosted","free-software"],"readmeSha":"05e817d58dda3e213facade92a91a38677d1444f"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted-data",
@@ -431,6 +431,7 @@
 "scality/cloudserver",
 "project-zot/zot",
 "webtorrent/bittorrent-tracker",
+"hariharjeevan/cheezypizza",
 "tonyantony300/dashbeam",
 "david-bai00/PrivyDrop",
 "qbittorrent/qBittorrent",
@@ -444,7 +445,6 @@
 "Forceu/Gokapi",
 "depado/goploader",
 "onionshare/onionshare",
-"mtlynch/picoshare",
 "HaschekSolutions/pictshare",
 "smp46/pingvin-share-x",
 "root-gg/plik",
@@ -509,7 +509,7 @@
 "JMBeresford/retrom",
 "rommapp/romm",
 "sbpp/sourcebans-pp",
-"LizardByte/Sunshine",
+"SunshineStream/Sunshine",
 "genea-app/genea-app",
 "MGeurts/genealogy",
 "geneweb/geneweb",
@@ -683,6 +683,8 @@
 "Arthi-chaud/Meelo",
 "DDVTECH/mistserver",
 "MayaPosch/NymphCast",
+"mcgeezy/relaytv",
+"mcgeezy/relaytv-android",
 "stashapp/stash",
 "pikvm/ustreamer",
 "calzoneman/sync",
@@ -859,7 +861,7 @@
 "homarr-labs/homarr",
 "gethomepage/homepage",
 "tomershvueli/homepage",
-"bastienwirtz/homer",
+"homer-dashboard/homer",
 "knrdl/hubleys-dashboard",
 "LinkStackOrg/LinkStack",
 "sethcottle/littlelink",
@@ -944,7 +946,7 @@
 "amgix/amgix-server",
 "apache/solr",
 "codelibs/fess",
-"asciimoo/hister",
+"asciimoo/nogon",
 "manticoresoftware/manticoresearch",
 "meilisearch/meilisearch",
 "meme-search/meme-search",
@@ -1168,6 +1170,10 @@
 ["2026-10-31","sourcefabric/airtime"],
 ["2026-10-31","CorentinTh/it-tools"],
 ["2026-10-31","pocketbase/pocketbase"],
-["2026-11-07","francesco-gaglione/focus_flow_cloud"]
+["2026-11-07","francesco-gaglione/focus_flow_cloud"],
+["2026-11-21","mtlynch/picoshare"],
+["2026-11-21","LizardByte/Sunshine"],
+["2026-11-21","bastienwirtz/homer"],
+["2026-11-21","asciimoo/hister"]
 ]
 }

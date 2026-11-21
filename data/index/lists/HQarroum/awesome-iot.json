@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"166575b36ee0961de39278bc8f706ff6b4b5cc7a"},
+"meta": {"description":"🤖 A curated list of awesome Internet of Things projects and resources.","defaultBranch":"master","topics":["awesome-list","internet-of-things","iot","embedded-systems","hardware","awesome","hacktoberfest"],"readmeSha":"fddfd8ad8096146a8d29e52e3cd46be3a78075df"},
 "members": [
 "sindresorhus/awesome",
 "isystemsautomation/homemaster-dev",
@@ -22,6 +22,7 @@
 "ForestHubAI/edge-agents",
 "huginn/huginn",
 "vernemq/vernemq",
+"VoltrusID/voltrus-scada",
 "kuzzleio/kuzzle",
 "nanomq/nanomq",
 "lf-edge/ekuiper",
@@ -35,6 +36,7 @@
 "libredb/libredb-studio",
 "visoar/mqtt-acl-linter",
 "lwmqn/smartobject",
+"mihai-dinculescu/tapo",
 "united-manufacturing-hub/united-manufacturing-hub",
 "emirmrkaljevic/usb-rea",
 "questdb/questdb",

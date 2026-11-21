@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curation of WebAssembly (Wasm) resources, projects, and communities.","defaultBranch":"main","topics":["awesome","awesome-list","wasm","webassembly","awesome-wasm","awesome-webassembly","awesome-lists","resources"],"readmeSha":"e434ae78ad8f856c0b306ff9212ceee5a0c39433"},
+"meta": {"description":"A curation of WebAssembly (Wasm) resources, projects, and communities.","defaultBranch":"main","topics":["awesome","awesome-list","wasm","webassembly","awesome-wasm","awesome-webassembly","awesome-lists","resources"],"readmeSha":"e15450644ddab28b5a576017d073e29990471003"},
 "members": [
 "WebAssembly/spec",
 "WebAssembly/binaryen",

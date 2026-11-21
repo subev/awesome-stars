@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"837befb55ede5c7f255a086dc72bc51ed2b36cfd"},
+"meta": {"description":"A curated list of modern Generative Artificial Intelligence projects and services","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome-list","generative-ai","generative-art","large-language-models","llm","awesome"],"readmeSha":"43f84d60679ab0df5b9ba3168283173057232644"},
 "members": [
 "xai-org/grok-1",
 "QwenLM/Qwen",
@@ -88,11 +88,13 @@
 "neonbjb/tortoise-tts",
 "suno-ai/bark",
 "rsxdalv/TTS-WebUI",
+"debpalash/VoiceStudio",
 "openai/whisper",
 "thewh1teagle/vibe",
 "ggml-org/whisper.cpp",
 "Softcatala/whisper-ctranslate2",
 "NVIDIA-NeMo/Speech",
+"cjpais/Handy",
 "danielgross/teleprompter",
 "dair-ai/Prompt-Engineering-Guide",
 "openai/openai-cookbook",

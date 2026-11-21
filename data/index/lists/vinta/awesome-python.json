@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"cf32ff43d6a71da787844a323a1ddff30bf7e489"},
+"meta": {"description":"The definitive list that answers \"I want to do X in Python, which tool should I use?\"","defaultBranch":"master","topics":["awesome","python","python-frameworks","python-libraries","python-tools","awesome-list"],"readmeSha":"c705fee89acf26609567181c0442230171f77832"},
 "members": [
 "vintasoftware/django-ai-plugins",
 "K-Dense-AI/scientific-agent-skills",
@@ -412,6 +412,7 @@
 "pygments/pygments",
 "pyparsing/pyparsing",
 "andialbrecht/sqlparse",
+"tobymao/sqlglot",
 "daviddrysdale/python-phonenumbers",
 "python-parsy/parsy",
 "un33k/python-slugify",
@@ -470,6 +471,7 @@
 "pygame-community/pygame-ce",
 "pygame/pygame",
 "pythonarcade/arcade",
+"kitao/pyxel",
 "renpy/renpy",
 "python/cpython",
 "micropython/micropython",

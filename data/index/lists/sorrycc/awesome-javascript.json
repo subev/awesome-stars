@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"c2bc16ae509322ba91fbc3bd77a2e559cc1bad72"},
+"meta": {"description":"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.","defaultBranch":"master","topics":[],"readmeSha":"2d464b785df53633115b64c4c42c45b10d2cd4a0"},
 "members": [
 "bower/bower",
 "componentjs/component",
@@ -103,7 +103,7 @@
 "ripplejs/ripple",
 "mikeric/rivets",
 "derbyjs/derby",
-"russll/awesome-derby",
+"norrdrengr/awesome-derby",
 "gwendall/way.js",
 "MithrilJS/mithril.js",
 "astoilkov/jsblocks",
@@ -192,6 +192,7 @@
 "vizzuhq/vizzu-lib",
 "antvis/G6",
 "antvis/Infographic",
+"Niekes/d3-3d",
 "NUKnightLab/TimelineJS3",
 "sbstjn/timesheet.js",
 "handsontable/handsontable",
@@ -716,6 +717,7 @@
 ["2026-09-04","prisma/prisma"],
 ["2026-10-17","marionettejs/backbone.marionette"],
 ["2026-10-17","dropzone/dropzone"],
-["2026-10-31","facebook/docusaurus"]
+["2026-10-31","facebook/docusaurus"],
+["2026-11-21","russll/awesome-derby"]
 ]
 }

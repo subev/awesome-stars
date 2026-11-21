@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"8d166b74fd18816eaf8f2352377328e19e50cef0"},
+"meta": {"description":"A curated list of testing resources","defaultBranch":"master","topics":["testing","tester","naughty-strings","awesome-list","awesome","list"],"readmeSha":"77a28f4d679d2f811c6886fd62e6740bb35dc170"},
 "members": [
 "sindresorhus/awesome",
 "usebruno/bruno",
@@ -18,11 +18,10 @@
 "ASCIT31/Dark-Moon",
 "StephanSchmidt/appfuzz",
 "promptfoo/promptfoo",
-"tenro-ai/tenro-python",
 "voicetestdev/voicetest",
 "jwekavanagh/agentskeptic",
 "Evaliphy/evaliphy",
-"supernovae-st/nika",
+"nika-open/nika",
 "mukundzha/crilio",
 "gstar-byte/geokit-cli",
 "dmsehgal/aiexpect",
@@ -44,6 +43,8 @@
 "mock-server/mockserver-monorepo",
 "wiremock/wiremock",
 "jn6825rsr7-afk/outagefence",
+"zeta92/atrezzo",
+"Asmodeus14/ChronoStack",
 "testdriverai/goodlooks",
 "retest/recheck-web",
 "sherlo-io/sherlo",
@@ -68,8 +69,12 @@
 "jiongfeng/waterfall-ai-test-platform",
 "vostride/agent-qa",
 "awss1i/assay",
+"Shadysmetools/shipshape",
+"restspace/sitelooper",
 "xseman/coverage",
 "sunxiuguo/junit-collision-check",
+"aichance/business-ai-recipes",
+"godhiraj-code/pytest-glow-report",
 "kiwitcms/kiwitcms",
 "get-skipper/skipper",
 "TestLinkOpenSourceTRMS/testlink-code",
@@ -128,7 +133,8 @@
 "dropped": [
 ["2026-09-25","altansayan/mock-jutsu-api"],
 ["2026-10-03","Robocular/frostbyte-screenshot-action"],
-["2026-11-07","aichance/business-ai-recipes"],
-["2026-11-14","kiwitcms/Kiwi"]
+["2026-11-14","kiwitcms/Kiwi"],
+["2026-11-21","tenro-ai/tenro-python"],
+["2026-11-21","supernovae-st/nika"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of awesome Python types, stubs, plugins, and tools to work with them.","defaultBranch":"master","topics":["python","mypy","python-stubs","mypy-stubs","mypy-plugins","pyi","awesome-list","pep484","python-types","awesome"],"readmeSha":"404c018f5c73b1b6d6b8ebc0793f5fdbb2e4ba4d"},
+"meta": {"description":"Collection of awesome Python types, stubs, plugins, and tools to work with them.","defaultBranch":"master","topics":["python","mypy","python-stubs","mypy-stubs","mypy-plugins","pyi","awesome-list","pep484","python-types","awesome"],"readmeSha":"19fb87ce0522313cb4e024d6d7805691b67dcbbc"},
 "members": [
 "KotlinIsland/basedmypy",
 "DetachHead/basedpyright",
@@ -20,7 +20,6 @@
 "agronholm/typeguard",
 "davidfstr/trycast",
 "connor-makowski/type_enforced",
-"django/asgiref",
 "youtype/types-boto3",
 "boto/boto3",
 "jeshan/botostubs",
@@ -36,8 +35,6 @@
 "django/django",
 "typeddjango/djangorestframework-stubs",
 "encode/django-rest-framework",
-"shabbyrobe/grpc-stubs",
-"grpc/grpc",
 "lxml/lxml-stubs",
 "python-qt-tools/PyQt5-stubs",
 "AA-Turner/python-phonenumbers-stubs",
@@ -47,7 +44,7 @@
 "scipy/scipy",
 "dropbox/sqlalchemy-stubs",
 "sqlalchemy/sqlalchemy",
-"patrick-kidger/torchtyping",
+"patrick-kidger/jaxtyping",
 "youtype/types_aiobotocore_docs",
 "aio-libs/aiobotocore",
 "python/typeshed",
@@ -115,6 +112,10 @@
 ["2026-10-31","pynamodb/PynamoDB"],
 ["2026-10-31","lbolla/emacs-flycheck-mypy"],
 ["2026-11-14","meta/pyrefly"],
-["2026-11-14","seandstewart/typical"]
+["2026-11-14","seandstewart/typical"],
+["2026-11-21","django/asgiref"],
+["2026-11-21","shabbyrobe/grpc-stubs"],
+["2026-11-21","grpc/grpc"],
+["2026-11-21","patrick-kidger/torchtyping"]
 ]
 }

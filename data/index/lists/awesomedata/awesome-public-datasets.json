@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A topic-centric list of HQ open datasets.","defaultBranch":"master","topics":["opendata","aaron-swartz","awesome-public-datasets","datasets"],"readmeSha":"871dd064cbd3eb21c0a5ca8ca84c1159792cca85"},
+"meta": {"description":"A topic-centric list of HQ open datasets.","defaultBranch":"master","topics":["opendata","aaron-swartz","awesome-public-datasets","datasets"],"readmeSha":"04695b9c529c449ade70c2052417b53393029bfd"},
 "members": [
 "sindresorhus/awesome",
 "awesomedata/apd-core",
@@ -7,6 +7,7 @@
 "softwaremill/lemon-dataset",
 "yumaheymans/robot-lawn-mower-specs",
 "yudumnet/zeytinnet",
+"ProductOfAmerica/usda-county-yields",
 "rebarcount/rebar-data",
 "biocore/American-Gut",
 "AndreySoloviev/dna-chip-coverage",
@@ -14,7 +15,7 @@
 "ababaian/serratus",
 "aroblase/thailand-flood-data",
 "vedacta/cbam-default-values",
-"kanevu93/us-severe-weather-warning-counts",
+"guillermollopis/soma-ai-emission-factors",
 "washingtonpost/data-2C-beyond-the-limit-usa",
 "data-poems/steam-network-data",
 "alternatefutures/ai-crawler-access-reference",
@@ -109,6 +110,7 @@
 "thedavidweng/opencard-db",
 "AtlasLedger/smv-eeff",
 "Chadhauser/uk-payment-practices",
+"Lead-partner/retirement-limits-data",
 "mixseomin/us-state-income-tax",
 "OloOcki/awesome-citygml",
 "casas-es/datos",
@@ -170,6 +172,7 @@
 "Visillect/CubePlusPlus",
 "mhmoodlan/arabic-font-classification",
 "whatfontis/WhatFontIs-Bench",
+"errorcorrectionzoo/eczoo_data",
 "extremal-values-registry/supremum",
 "w1372068887-pixel/longze-fastener-data",
 "chronicle-ai-history/ai-history-timeline",
@@ -248,6 +251,7 @@
 "veinpsycoo/forklift-specs-data",
 "fivethirtyeight/uber-tlc-foil-response",
 "graphhopper/open-traffic-collection",
+"laosbustickets/southeast-asia-transport-data",
 "GeiserX/radares-anunciados-ha",
 "vzolot/machine-record-data",
 "bzsasson/traffic-camera-sources",
@@ -280,6 +284,7 @@
 ["2026-11-14","Chadhauser/sba-7a-chargeoff-rates"],
 ["2026-11-14","coopermb-glitch/sp500-drawdowns-since-1999"],
 ["2026-11-14","disclosedcapitol/executive-branch-trades"],
-["2026-11-14","myjr0629-hue/options-market-structure-daily"]
+["2026-11-14","myjr0629-hue/options-market-structure-daily"],
+["2026-11-21","kanevu93/us-severe-weather-warning-counts"]
 ]
 }

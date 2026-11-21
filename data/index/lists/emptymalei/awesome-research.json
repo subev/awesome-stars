@@ -1,5 +1,5 @@
 {
-"meta": {"description":":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]","defaultBranch":"master","topics":["awesome","research","awesome-list","awesomeness","list","research-tools","research-tool","tools"],"readmeSha":"b97e50d249038082e7aefe740525f49826d28380"},
+"meta": {"description":":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]","defaultBranch":"master","topics":["awesome","research","awesome-list","awesomeness","list","research-tools","research-tool","tools"],"readmeSha":"3b1d749fde4e538b706f968b0ac07566e203378a"},
 "members": [
 "sindresorhus/awesome",
 "awesome-selfhosted/awesome-selfhosted",
@@ -14,6 +14,7 @@
 "sachac/artbollocks-mode",
 "GitbookIO/rousseau",
 "textlint-rule/textlint-rule-rousseau",
+"zch6a/research-kit",
 "TryGhost/Ghost",
 "picocms/Pico",
 "johnroper100/dropplets",
@@ -50,6 +51,7 @@
 "shmlkv/dna-claude-analysis",
 "CherishChenCherish/odatamap",
 "marcpinet/citracer",
+"tiptreesystems/lacuna-research-mcp",
 "duecredit/duecredit",
 "wedo911/citeguard",
 "jkitchin/org-ref",

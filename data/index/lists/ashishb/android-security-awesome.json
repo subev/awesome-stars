@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"17ec80a4450bf20b1ab6a5d8a72787e6072eaef7"},
+"meta": {"description":"A collection of android security related resources","defaultBranch":"master","topics":["awesome-list","awesome","list","android","security"],"readmeSha":"dc1ee8edf4c96e233df1653c3e8812307ee4c4d5"},
 "members": [
 "maaaaz/androwarn",
 "sonyxperiadev/ApkAnalyser",
@@ -20,6 +20,8 @@
 "mpast/mobileAudit",
 "detekt/detekt",
 "rafosw/APKdevastate",
+"Mobile-IoT-Security-Lab/LLMObfuscDetection",
+"morluto/rea",
 "linkedin/qark",
 "AndroBugs/AndroBugs_Framework",
 "google/nogotofail",
@@ -56,7 +58,8 @@
 "vw2x/Mira",
 "script-or-script/FlutterTap",
 "blackfoxxx/Mobix",
-"K4N3CO/Lab-RATS-v1.6",
+"K4N3CO/Lab-RATS",
+"Mobile-IoT-Security-Lab/TeleGapper",
 "JesusFreke/smali",
 "strazzere/Emacs-Smali",
 "swdunlop/AndBug",
@@ -96,6 +99,7 @@
 "jonmetz/AndroFuzz",
 "quarkslab/android-fuzzing",
 "zyrikby/FSquaDRA",
+"lotty520/Detect-Any",
 "Akdeniz/google-play-crawler",
 "egirault/googleplay-api",
 "dweinstein/node-google-play",
@@ -135,6 +139,7 @@
 "B3nac/Android-Reports-and-Resources"
 ],
 "dropped": [
-["2026-10-09","vwww-droid/Mira"]
+["2026-10-09","vwww-droid/Mira"],
+["2026-11-21","K4N3CO/Lab-RATS-v1.6"]
 ]
 }

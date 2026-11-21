@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome MicroPython libraries, frameworks, software and resources.","defaultBranch":"master","topics":["awesome","micropython","collection","awesome-list"],"readmeSha":"20e282a74fcf713e6811bad486b518594540e9fd"},
+"meta": {"description":"A curated list of awesome MicroPython libraries, frameworks, software and resources.","defaultBranch":"master","topics":["awesome","micropython","collection","awesome-list"],"readmeSha":"3b2bccc4cb3b65e9413079ca8481f44c64f757be"},
 "members": [
 "jczic/MicroMLP",
 "karlsoderby/upython-chat-gpt",
@@ -281,6 +281,7 @@
 "jposada202020/MicroPython_UPLOT",
 "unital/tempe",
 "cnadler86/mp_jpeg",
+"elixpo/rv565",
 "lvgl/lv_binding_micropython",
 "peterhinch/micropython-lcd160cr-gui",
 "peterhinch/micropython_ra8875",
@@ -552,6 +553,7 @@
 "Ledbelly2142/VL6180X",
 "Dnapert/LidarLight_v3HP_micropython",
 "antirez/vl53l0x-nb",
+"ErdiTech/erdi-lrf-esp32-micropython",
 "rsc1975/micropython-hcsr04",
 "kfricke/micropython-us100",
 "HowManyOliversAreThere/micropython-i2c-ultrasonic",
@@ -733,7 +735,7 @@
 "hiveeyes/terkin-datalogger",
 "crdietrich/meerkat",
 "wolfen351/public-micropython-iot-platform",
-"elixpo/oreo",
+"elixpo/falera",
 "1e0ng/openbricks",
 "micropython/micropython",
 "adafruit/awesome-micropythons",
@@ -750,6 +752,7 @@
 "peterhinch/micropython-monitor",
 "jonahbron/micropython-builder",
 "jczic/ESP32-MPY-Jama",
+"Ma7moud3ly/micro-repl",
 "joewez/PyboardFileManager",
 "harbaum/upide",
 "majoson-chen/micropython-ulogger",
@@ -772,5 +775,8 @@
 "mispacek/ESP-File_manager",
 "gitcnd/mcu_serial",
 "AstroQuestStudio/thonny-ai"
+],
+"dropped": [
+["2026-11-21","elixpo/oreo"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"920341701dba03f44f61b4fb35db2abee8898a68"},
+"meta": {"description":"Curated list of MQTT brokers, clients, tools, resources and more.","defaultBranch":"master","topics":["mqtt","awesome-list","smarthome","internet-of-things","awesome","list"],"readmeSha":"8353f98a7b23864723774a9a56c43c03510136ab"},
 "members": [
 "mqtt/mqtt.org",
 "moscajs/aedes",
@@ -20,6 +20,7 @@
 "vert-x3/vertx-mqtt",
 "nanomq/nanomq",
 "akya-dev/AyMON",
+"VoltrusID/voltrus-scada",
 "ForestHubAI/edge-agents",
 "pnoker/iot-dc3",
 "cortex-docs/cortex",
@@ -111,6 +112,7 @@
 "PhracturedBlue/ESP8266MQTTMesh",
 "tuanpmt/esp_mqtt",
 "piotrC4/mqtt-ir-transceiver",
+"indian-aman/NLTP-Arduino",
 "hobbyquaker/nodemcu-gpiomqtt",
 "xoseperez/espurna",
 "1technophile/OpenMQTTGateway",
@@ -122,6 +124,7 @@
 "akentner/fritz2mqtt",
 "MartyTremblay/sip2mqtt",
 "Domochip/sms2mqtt",
+"machintrucbidule/BetterVolume",
 "oskarhagberg/mqtt-os-status",
 "jpmens/mqtt-launcher",
 "hobbyquaker/mqttpc",

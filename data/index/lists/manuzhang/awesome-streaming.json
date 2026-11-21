@@ -1,5 +1,5 @@
 {
-"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"a270508383454e3cac4a413f983170e21f9964e9"},
+"meta": {"description":"a curated list of awesome streaming frameworks, applications, etc","defaultBranch":"master","topics":["awesome-list","stream-processing","awesome","list"],"readmeSha":"b037be21da9a45a679f2bc905c786536441a93d8"},
 "members": [
 "sindresorhus/awesome",
 "aeron-io/aeron",
@@ -107,7 +107,7 @@
 "faucet-hq/faucet-stream",
 "bruin-data/ingestr",
 "marcomq/mq-bridge",
-"datazip-inc/olake",
+"datazip-inc/olake-go",
 "pathwaycom/pathway",
 "redpanda-data/connect",
 "rudderlabs/rudder-server",
@@ -120,6 +120,7 @@
 "javactrl/javactrl-kafka",
 "TouK/nussknacker",
 "rwalk/straw",
+"RishabhPande/stream-fraud",
 "airbnb/streamalert",
 "streamdal/streamdal",
 "lmco/streamflow",
@@ -132,6 +133,7 @@
 "yahoo/streaming-benchmarks"
 ],
 "dropped": [
-["2026-10-17","aklivity/zilla"]
+["2026-10-17","aklivity/zilla"],
+["2026-11-21","datazip-inc/olake"]
 ]
 }

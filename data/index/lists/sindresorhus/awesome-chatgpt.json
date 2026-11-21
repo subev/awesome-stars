@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome","awesome-list","chatgpt","openai","gpt","gpt-3","gpt-4"],"readmeSha":"b1d2a6528d22547a2178fd7a7f65102b6c8aa1d6"},
+"meta": {"description":"🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]","defaultBranch":"main","topics":["ai","artificial-intelligence","awesome","awesome-list","chatgpt","openai","gpt","gpt-3","gpt-4"],"readmeSha":"6638be0b5047523c889a79581dd2425279ea6679"},
 "members": [
 "bapaws/answer",
 "sonnylazuardi/chat-ai-desktop",
@@ -36,7 +36,7 @@
 "ricklamers/gpt-code-ui",
 "vercel/chatbot",
 "openinterpreter/openinterpreter",
-"Markeljan/web3gpt",
+"markeljan/web3gpt",
 "comet-ml/opik",
 "xlang-ai/OpenAgents",
 "Significant-Gravitas/AutoGPT",
@@ -136,5 +136,8 @@
 "ingyamilmolinar/doctorgpt",
 "f/prompts.chat",
 "sindresorhus/awesome-whisper"
+],
+"dropped": [
+["2026-11-21","Markeljan/web3gpt"]
 ]
 }

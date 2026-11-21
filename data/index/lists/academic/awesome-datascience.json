@@ -1,5 +1,5 @@
 {
-"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"a30b986f67a92da9c7b3547ae838148cc0d5babe"},
+"meta": {"description":":memo: An awesome Data Science repository to learn and apply for real world problems.","defaultBranch":"live","topics":["data-science","machine-learning","data-visualization","science","data-mining","awesome-list","deep-learning","analytics","data-scientists","hacktoberfest"],"readmeSha":"c88aa579e96d40fbdd9307085c3ea8d3790bd889"},
 "members": [
 "sindresorhus/awesome",
 "microsoft/Data-Science-For-Beginners",
@@ -9,7 +9,6 @@
 "Deesmo/Arch-AI-Tools",
 "unitedideas/nothumansearch",
 "stefanoviana/deepalpha",
-"Agnuxo1/CAJAL",
 "future-agi/agent-learning-kit",
 "zenml-io/kitaru",
 "socai-io/jev-social",
@@ -259,6 +258,7 @@
 ["2026-09-11","dbt-labs/dbt-core"],
 ["2026-10-31","initial-d/me_fasttext"],
 ["2026-11-07","hissain/jscipy"],
-["2026-11-14","erinheit451/verified-supplement-evidence"]
+["2026-11-14","erinheit451/verified-supplement-evidence"],
+["2026-11-21","Agnuxo1/CAJAL"]
 ]
 }

@@ -1,0 +1,14 @@
+{
+"meta": {"description":"AI Engineer interview prep for 2026: 267 real questions, 10 worked system designs, 12 company guides (OpenAI, Anthropic, DeepMind and more). Free, MIT. By Landed.","defaultBranch":"main","topics":["ai-agents","ai-career","ai-engineer-interview","awesome-list","interview-prep","llm-evals","llm-interview","machine-learning-interview","ml-interview","rag-interview"],"readmeSha":"e0a2193ee12ec861fcfa155749173bce9cd366f8"},
+"members": [
+"landedjobs/ai-interview-guides",
+"landedjobs/ai-interview-questions",
+"landedjobs/awesome-ai-native-jobs",
+"landedjobs/ai-engineer-jobs",
+"landedjobs/forward-deployed-engineer-jobs",
+"landedjobs/gtm-engineer-jobs",
+"landedjobs/projects-to-land-an-ai-job",
+"landedjobs/ai-product-engineer-roadmap",
+"landedjobs/ai-engineer-portfolio-projects"
+]
+}

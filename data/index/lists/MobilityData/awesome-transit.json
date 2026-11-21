@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"1ec9c11ac2bba7a249e0d65d763bd4508e0bcb14"},
+"meta": {"description":"Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:","defaultBranch":"master","topics":["transit","gtfs","awesome-list","bus","datasets","awesome","list","tools","transit-data","gtfs-feed"],"readmeSha":"df461bbcd77198f28fc73bc4316842ee6a411d3f"},
 "members": [
 "sindresorhus/awesome",
 "MobilityData/GTFS-books",
@@ -114,6 +114,7 @@
 "etalab/transport-validator",
 "BlinkTagInc/gtfs-accessibility-validator",
 "MobilityData/gtfs-realtime-bindings",
+"FivePaths/gtfs-realtime-php",
 "OneBusAway/onebusaway-gtfs-realtime-exporter",
 "OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo",
 "OneBusAway/onebusaway-service-alerts",

@@ -1,7 +1,6 @@
 {
-"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"ccc0f769fff21b486b5a4c199ede9dd120b0bef4"},
+"meta": {"description":"Collections of awesome neovim plugins.","defaultBranch":"main","topics":["nvim-lua","neovim","neovim-plugins","awesome","awesome-list"],"readmeSha":"3476dc0ee5636f2ecd5ce2e04af512a71d6936d4"},
 "members": [
-"alyxshang/nuwa.nvim",
 "lewis6991/pckr.nvim",
 "savq/paq-nvim",
 "folke/lazy.nvim",
@@ -183,6 +182,7 @@
 "jaitd/fieldguide.nvim",
 "mrwatts88/ghost.nvim",
 "kova1max/float-claude.nvim",
+"vshulcz/deja-vu",
 "alessio-vivaldelli/java-creator-nvim",
 "Julian/lean.nvim",
 "nvim-flutter/flutter-tools.nvim",
@@ -308,6 +308,7 @@
 "acidsugarx/babel.nvim",
 "noir4y/comment-translate.nvim",
 "Imngzx/jisho.nvim",
+"refine-sh/refine.nvim",
 "nvim-treesitter/nvim-treesitter",
 "romus204/tree-sitter-manager.nvim",
 "nvim-treesitter/nvim-treesitter-textobjects",
@@ -789,6 +790,7 @@
 "iwe-org/iwe.nvim",
 "carloscalla/notepad.nvim",
 "MattHandzel/taskwarrior.nvim",
+"xheisenbugx/org.nvim",
 "WKDSteve/color_my_ascii.nvim",
 "Necrom4/calcium.nvim",
 "code-biscuits/nvim-biscuits",
@@ -973,6 +975,7 @@
 "JulOuellet/bzl.nvim",
 "pewpewnor/dove.nvim",
 "trimclain/builder.nvim",
+"cxwx/rslime.nvim",
 "saghen/blink.lib",
 "folke/lazydev.nvim",
 "lumen-oss/luarocks-tag-release",
@@ -1304,6 +1307,7 @@
 "uhs-robert/sshfs.nvim",
 "nosduco/remote-sshfs.nvim",
 "azratul/live-share.nvim",
+"bradley101/nvim-remote-ssh",
 "hat0uma/prelive.nvim",
 "hat0uma/doxygen-previewer.nvim",
 "brianhuster/live-preview.nvim",
@@ -1477,6 +1481,7 @@
 ["2026-10-31","StefanBartl/color_my_ascii.nvim"],
 ["2026-11-14","nwiizo/signalbox.nvim"],
 ["2026-11-14","dybdeskarphet/gruvbox-minimal.nvim"],
-["2026-11-14","DrKJeff16/triforce.nvim"]
+["2026-11-14","DrKJeff16/triforce.nvim"],
+["2026-11-21","alyxshang/nuwa.nvim"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"8eaeb475a90f4edea2be9c6a512018b9372bb309"},
+"meta": {"description":"Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.","defaultBranch":"master","topics":["awesome-list","blazor","asp-net-core","aspnetcore","csharp","webassembly","razor","dotnet-core","microsoft","blazor-application"],"readmeSha":"b94e0f2612ded0afdbafbafbbcd06a3faf51f3f5"},
 "members": [
 "jsakamoto/awesome-blazor-browser",
 "dotnet/eShop",

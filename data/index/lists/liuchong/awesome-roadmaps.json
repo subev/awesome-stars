@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of roadmaps.","defaultBranch":"master","topics":["awesome-list","awesome","lists","resources","roadmap"],"readmeSha":"2dd3d3ebfd8af932f8cb8eb3eadb0676e4b9c1fa"},
+"meta": {"description":"A curated list of roadmaps.","defaultBranch":"master","topics":["awesome-list","awesome","lists","resources","roadmap"],"readmeSha":"e79c39d8f3da5fd920db2256eabba02ce0665ae5"},
 "members": [
 "salmer/CppDeveloperRoadmap",
 "darius-khll/golang-developer-roadmap",
@@ -10,6 +10,7 @@
 "sulco/angular-developer-roadmap",
 "saifaustcse/angular-developer-roadmap",
 "MoienTajik/AspNetCore-Developer-Roadmap",
+"TapanKumarBarik/Backend-roadmap",
 "nilbuild/developer-roadmap",
 "rudra496/devroadmaps",
 "Yousha/Frontend-Developer-Roadmap",
@@ -33,6 +34,7 @@
 "dswh/ai-engineer-roadmap",
 "AMAI-GmbH/AI-Expert-Roadmap",
 "microsoft/AI-For-Beginners",
+"landedjobs/ai-product-engineer-roadmap",
 "Hardik-369/ROADMAP",
 "mtahiraslan/data-analyst-roadmap",
 "datastacktv/data-engineer-roadmap",

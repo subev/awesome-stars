@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome packages, articles, and other cool resources from the Wagtail community.","defaultBranch":"main","topics":["wagtail","cms","awesome","django-cms","python","hacktoberfest"],"readmeSha":"9984ab105c5b4c7c4819e3db94b9a02bbede9bdb"},
+"meta": {"description":"A curated list of awesome packages, articles, and other cool resources from the Wagtail community.","defaultBranch":"main","topics":["wagtail","cms","awesome","django-cms","python","hacktoberfest"],"readmeSha":"8eac2e53ff4c6b137db63b5e27f9f06d67225ac7"},
 "members": [
 "sindresorhus/awesome",
 "wsvincent/awesome-django",
@@ -7,6 +7,7 @@
 "wagtail/wagtail",
 "coderedcorp/coderedcms",
 "APSL/puput",
+"hardcodd/Commentail",
 "Nigel2392/wagtail_editorjs",
 "smark-1/wagtailterms",
 "julinodev/wagtailmdx",
@@ -52,7 +53,7 @@
 "torchbox/wagtail-content-import",
 "torchbox/wagtail-headless-preview",
 "Nigel2392/wagtail_fedit",
-"jazzband/wagtailmenus",
+"wagtail-nest/wagtailmenus",
 "wharton/wagtailgridder",
 "mwesterhof/wagtail_app_pages",
 "coderedcorp/wagtail-cache",
@@ -62,6 +63,7 @@
 "donhauser/wagtail-pdf",
 "torchbox/wagtail-grapple",
 "vicktornl/wagtail-cache-invalidator",
+"mojnomiya/wagtail_subscriptions",
 "Frojd/Wagtail-Pipit",
 "wagtail/cookiecutter-wagtail-package",
 "platformsh-templates/wagtail",
@@ -83,5 +85,8 @@
 "outreachy/website",
 "wagtail/guide",
 "danlerche/public-library-wagtailCMS"
+],
+"dropped": [
+["2026-11-21","jazzband/wagtailmenus"]
 ]
 }

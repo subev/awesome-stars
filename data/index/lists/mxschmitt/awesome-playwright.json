@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"ee87c6e67ea9c2273642ac2de7ad5584003ee108"},
+"meta": {"description":"A curated list of awesome tools, utils and projects using Playwright","defaultBranch":"main","topics":["playwright","testing","awesome-list","awesome","puppeteer","tests","browser-automation"],"readmeSha":"4614bcbed69df5c4c282e399e27281527905391e"},
 "members": [
 "microsoft/playwright",
 "artilleryio/artillery",
@@ -21,6 +21,7 @@
 "playwright-php/playwright",
 "YusukeIwaki/playwright-ruby-client",
 "padamson/playwright-rust",
+"awss1i/assay",
 "bgotink/playwright-coverage",
 "idan-rubin/browserclaw",
 "mskelton/eslint-plugin-playwright",
@@ -34,6 +35,7 @@
 "vitalets/playwright-network-cache",
 "jamalkamaladdin/pixelpact",
 "Mattwmaster58/playwright-python-language-injection",
+"MuTsunTsai/playwright-recorder-plus",
 "testdino-hq/playwright-skill",
 "denodell/playwright-soak-test",
 "anishkny/playwright-test-coverage",
@@ -48,16 +50,19 @@
 "jo-inc/camofox-browser",
 "CloakHQ/CloakBrowser",
 "figranium/figranium",
-"feder-cr/invisible_playwright",
+"oss-invisible/playwright",
 "techinz/playwright-captcha",
-"half144/cutaway",
+"idavidov13/agentic-playwright",
+"DixitRam/Demo-Forge",
+"e2e-inc/e2e",
 "microsoft/playwright-mcp",
+"iamumeransari/claude-show-your-work",
 "agentrhq/webcmd",
 "allure-framework/allure-js",
 "mrasu/echoed",
 "kinora-dev/kinora",
 "cenfun/monocart-reporter",
-"PiwiTests/platform",
+"PiwiTests/piwi",
 "ctrf-io/playwright-ctrf-json-reporter",
 "endformdev/playwright-opentelemetry",
 "ryanrosello-og/playwright-slack-report",
@@ -73,6 +78,9 @@
 "xtermjs/xterm.js"
 ],
 "dropped": [
-["2026-09-25","saffron-health/libretto"]
+["2026-09-25","saffron-health/libretto"],
+["2026-11-21","feder-cr/invisible_playwright"],
+["2026-11-21","half144/cutaway"],
+["2026-11-21","PiwiTests/platform"]
 ]
 }

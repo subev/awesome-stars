@@ -1,5 +1,5 @@
 {
-"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"ed767e8697a7127339f77977b80de6992fab019f"},
+"meta": {"description":"💎 A collection of awesome Ruby libraries, tools, frameworks and software","defaultBranch":"master","topics":["awesome","ruby","collection","awesome-list","ruby-libraries","curated-list"],"readmeSha":"b34f489a19f2dd29b94b5d61c2b16b1d121e2fcf"},
 "members": [
 "sindresorhus/awesome",
 "activescaffold/active_scaffold",
@@ -230,7 +230,7 @@
 "preston/railroady",
 "voormedia/rails-erd",
 "glejeune/Ruby-Graphviz",
-"datastax/ruby-driver",
+"datastax-archive/datastax--ruby-driver",
 "mongodb/mongo-ruby-driver",
 "brianmario/mysql2",
 "maxdemarzi/neography",
@@ -788,6 +788,7 @@
 "thoughtbot/appraisal",
 "enkessler/cql",
 "enkessler/cuke_modeler",
+"marinazzio/evilution",
 "openSUSE/gitarro",
 "KnapsackPro/knapsack",
 "mbj/mutant",
@@ -875,6 +876,7 @@
 ["2026-10-02","rom-rb/rom"],
 ["2026-11-14","CanCanCommunity/cancancan"],
 ["2026-11-14","enjaku4/rabarber"],
-["2026-11-14","adamcooke/fake-person"]
+["2026-11-14","adamcooke/fake-person"],
+["2026-11-21","datastax/ruby-driver"]
 ]
 }

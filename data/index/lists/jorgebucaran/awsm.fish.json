@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curation of prompts, plugins & other Fish treasures 🐚💎","defaultBranch":"main","topics":["awesome","fish-plugin","fish"],"readmeSha":"aa14033e0159ad2bdc41b532f3d80980a8c41b3a"},
+"meta": {"description":"A curation of prompts, plugins & other Fish treasures 🐚💎","defaultBranch":"main","topics":["awesome","fish-plugin","fish"],"readmeSha":"39b918c64fb570499c98d15e798ac2e2f97f42d2"},
 "members": [
 "jorgebucaran/awsm.fish",
 "fish-shell/fish-shell",
@@ -33,6 +33,8 @@
 "acomagu/fish-async-prompt",
 "rodrigobdz/fish-apple-touchbar",
 "gazorby/fish-abbreviation-tips",
-"FabioAntunes/base16-fish-shell"
+"FabioAntunes/base16-fish-shell",
+"Veirt/web-search.fish",
+"ohmyzsh/ohmyzsh"
 ]
 }

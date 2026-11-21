@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"65f2b4b4ec2727b24c2432d0af084acc76ae2266"},
+"meta": {"description":"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.","defaultBranch":"master","topics":["cpp","cppcon","awesome","programming-tutorial","libraries","c-plus-plus","c","cpp-library","awesome-list","list"],"readmeSha":"cd56f6e102ae686bc601eb79ae4a6f9b7f07033a"},
 "members": [
 "abseil/abseil-cpp",
 "aui-framework/aui",
@@ -567,7 +567,6 @@
 "Tencent/ncnn",
 "opencv/opencv",
 "uxlfoundation/oneDAL",
-"microsoft/onnxruntime",
 "GHamrouni/Recommender",
 "szcom/rnnlib",
 "shogun-toolbox/shogun",
@@ -597,6 +596,7 @@
 "miracl/MIRACL",
 "dpilger26/NumCpp",
 "ashvardanian/NumKong",
+"orange-cpp/omath",
 "libtom/libtommath",
 "datenwolf/linmath.h",
 "OpenMathLib/OpenBLAS",
@@ -813,6 +813,7 @@
 "protocolbuffers/protobuf",
 "protobuf-c/protobuf-c",
 "PragmaTwice/protopuf",
+"VeaaC/rapidproto",
 "aeron-io/simple-binary-encoding",
 "protocolbuffers/upb",
 "catid/wirehair",
@@ -1058,7 +1059,6 @@
 "dropped": [
 ["2026-09-04","eoan-ermine/cpp-conferences"],
 ["2026-10-02","getml/sqlgen"],
-["2026-10-02","orange-cpp/omath"],
 ["2026-10-09","philip82148/cpp-dump"],
 ["2026-10-09","Kaaserne/cpp-lazy"],
 ["2026-10-17","kala13x/libxutils"],
@@ -1074,6 +1074,7 @@
 ["2026-10-31","getml/reflect-cpp"],
 ["2026-10-31","facebook/fbthrift"],
 ["2026-10-31","facebook/buck"],
-["2026-10-31","facebook/infer"]
+["2026-10-31","facebook/infer"],
+["2026-11-21","microsoft/onnxruntime"]
 ]
 }

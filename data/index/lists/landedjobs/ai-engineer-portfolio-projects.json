@@ -1,0 +1,20 @@
+{
+"meta": {"description":"85+ buildable AI engineering portfolio projects for 2026, grouped by theme (RAG, agents, evals, fine-tuning, multimodal…). Free, MIT. By Landed.","defaultBranch":"main","topics":["agent-projects","ai-career","ai-engineer-portfolio","ai-jobs","awesome-list","llm-projects","machine-learning-projects","open-source-ml","portfolio-projects","rag-projects"],"readmeSha":"3f13bf23f109d1c481e0881b7cead13740a4787b"},
+"members": [
+"landedjobs/projects-to-land-an-ai-job",
+"Shubhamsaboo/awesome-llm-apps",
+"rasbt/LLMs-from-scratch",
+"patchy631/ai-engineering-hub",
+"ashishpatel26/500-AI-Agents-Projects",
+"NirDiamant/RAG_Techniques",
+"alexeygrigorev/ai-engineering-field-guide",
+"landedjobs/awesome-ai-engineer-interview",
+"landedjobs/ai-interview-questions",
+"landedjobs/ai-interview-guides",
+"landedjobs/awesome-ai-native-jobs",
+"landedjobs/ai-engineer-jobs",
+"landedjobs/forward-deployed-engineer-jobs",
+"landedjobs/gtm-engineer-jobs",
+"landedjobs/ai-product-engineer-roadmap"
+]
+}

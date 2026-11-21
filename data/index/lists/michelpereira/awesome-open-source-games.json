@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"682bd4c1f2dcdff751e6933d48a3bad69c354dc0"},
+"meta": {"description":"Collection of Games that have the source code available on GitHub","defaultBranch":"main","topics":["games","opensource","awesome-list","awesome"],"readmeSha":"9bdf17a50939a030489514ebb77d31978d6e912d"},
 "members": [
 "sindresorhus/awesome",
 "juliangarnier/3D-Hartwig-chess-set",
@@ -74,6 +74,7 @@
 "scottschiller/SURVIVOR",
 "jfd/wpilot",
 "abusofianid/game-wave-rider-nusantara",
+"birgander2/XPilot-TNG",
 "salvatorecapolupo/zedinvaders",
 "abagames/111-one-button-games-in-2021",
 "bemusic/bemuse",

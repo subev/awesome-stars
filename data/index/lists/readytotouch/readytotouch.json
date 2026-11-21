@@ -1,0 +1,8 @@
+{
+"meta": {"description":"Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.","defaultBranch":"main","topics":["awesome-list","careers","clojure","companies","elixir","golang","haskell","hiring","job-search","jobs"],"readmeSha":"9729e677ed8ce46a0513aa95baf06b4060d81fad"},
+"members": [
+"YaroslavPodorvanov/YaroslavPodorvanovContentArchive",
+"doutivity/research-online-redis-go",
+"doutivity/research-online-postgres-go"
+]
+}
