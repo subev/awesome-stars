@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🔐 A curated list of awesome WebAuthn and Passkey resources","defaultBranch":"main","topics":["awesome-list","awesome","webauthn","fido2","authentication","passkey","passkeys","passkeys-demo"],"readmeSha":"9c6df3de50625c3e1cb01ae1af3a1a734db5454d"},
+"meta": {"description":"🔐 A curated list of awesome WebAuthn and Passkey resources","defaultBranch":"main","topics":["awesome-list","awesome","webauthn","fido2","authentication","passkey","passkeys","passkeys-demo"],"readmeSha":"96ceab1345a388f793b387069f071d019d949e27"},
 "members": [
 "duo-labs/webauthn.io",
 "passwordless-lib/fido2-net-lib",
@@ -82,6 +82,7 @@
 "martinpaljak/YAFU",
 "developmeh/passkey-origin-validator",
 "inabajunmr/WebAuthnRecorder",
+"yackermann/fido-specs-and-certification-skill",
 "YubicoLabs/WebAuthnKit",
 "YubicoLabs/java-webauthn-passwordless-workshop",
 "fido-alliance/how-to-fido",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gis","historical","historical-data","historical-documents","historical-maps","history","map"],"readmeSha":"d0f4aecfd4bc78a53e356bf9a331b6de7258278b"},
+"meta": {"description":"Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","gis","historical","historical-data","historical-documents","historical-maps","history","map"],"readmeSha":"6f57d186ed031ae8622e7992cd48522206dc9941"},
 "members": [
 "kaorahi/patched-historical-atlas",
 "Riksarkivet/tora",
@@ -8,6 +8,7 @@
 "maps-as-data/MapReader",
 "docuracy/desCartes",
 "EVS-GIS/hmvt-cli",
+"christianpure/bible-data",
 "zackbatist/open-archaeo",
 "dh-tech/awesome-digital-humanities",
 "sshuair/awesome-gis",

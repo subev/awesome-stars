@@ -1,5 +1,5 @@
 {
-"meta": {"description":"🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).","defaultBranch":"master","topics":["georgia","awesome","awesome-list"],"readmeSha":"5984dd771adc8d1de9be792b566c30f1294ed121"},
+"meta": {"description":"🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).","defaultBranch":"master","topics":["georgia","awesome","awesome-list"],"readmeSha":"b326eee008ed03b85eefbffa7fc57829098e0c83"},
 "members": [
 "Lotuashvili/laravel-smsoffice",
 "dimakura/magti",
@@ -39,6 +39,7 @@
 "fzaninotto/Faker",
 "ABGEO/tarieli.py",
 "bumbeishvili/geojson-georgian-regions",
+"Paxa/georgia-geo-data",
 "dimakura/oris.ge",
 "ioseb/geokbd",
 "xxzefgh/vue-geokbd",

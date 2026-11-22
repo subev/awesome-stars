@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The awesome list for everything rclone.","defaultBranch":"main","topics":["awesome","awesome-list","rclone"],"readmeSha":"b163b69d39eaec35a4d5d14015b9d7b0dc6808e7"},
+"meta": {"description":"The awesome list for everything rclone.","defaultBranch":"main","topics":["awesome","awesome-list","rclone"],"readmeSha":"b07d2e11ed041955b0e8a22668166bf1e057024d"},
 "members": [
 "rclone/rclone",
 "rclone/rclone-ui",
@@ -10,6 +10,7 @@
 "FredHutch/motuz",
 "x0b/rcx",
 "newhinton/Round-Sync",
+"SyscallBrain/ratclone",
 "Jwink3101/syncrclone",
 "DavideRossi/upback",
 "ConorWilliams/rsinc",

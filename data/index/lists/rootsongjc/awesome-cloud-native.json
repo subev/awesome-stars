@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"4ca8ef98e8021c68154610ce8235c732f983eb29"},
+"meta": {"description":"A curated list for awesome cloud native tools, software and tutorials.","defaultBranch":"main","topics":["cloud-native","microservices","devops","containers","awesome","awesome-list"],"readmeSha":"8ef118d7b248140b2069ed85449bb4c565389d4a"},
 "members": [
 "sindresorhus/awesome",
 "allenai/allennlp",
@@ -43,7 +43,6 @@
 "nginx/nginx-gateway-fabric",
 "ThreeMammals/Ocelot",
 "orlabs/orange",
-"soapbucket/sbproxy",
 "TykTechnologies/tyk",
 "argoproj/argo-workflows",
 "argoproj/argo-cd",
@@ -474,7 +473,7 @@
 "firecracker-microvm/firecracker-containerd",
 "reliant-labs/forge",
 "kubernetes-retired/frakti",
-"google/gvisor",
+"gvisor/gvisor",
 "hyperhq/hyperd",
 "genuinetools/img",
 "wes/jokku",
@@ -637,6 +636,7 @@
 "statsd/statsd",
 "cilium/tetragon",
 "timescale/tobs",
+"yurirocha15/topic",
 "VictoriaMetrics/VictoriaMetrics",
 "nmnellis/vistio",
 "Netflix/vizceral",
@@ -760,6 +760,7 @@
 "kubestellar/console",
 "kubevious/kubevious",
 "viveksinghggits/kuui",
+"windevase/nubis",
 "oneinfra/oneinfra",
 "weibocom/opendcp",
 "openshift/origin",
@@ -797,6 +798,8 @@
 ["2026-10-03","jcmoraisjr/haproxy-ingress"],
 ["2026-10-03","us/den"],
 ["2026-10-25","probityai/agent-evidence-admission"],
-["2026-11-01","facebook/proxygen"]
+["2026-11-01","facebook/proxygen"],
+["2026-11-22","soapbucket/sbproxy"],
+["2026-11-22","google/gvisor"]
 ]
 }

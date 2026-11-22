@@ -1,5 +1,5 @@
 {
-"meta": {"description":"AI agent tools for coding assistants: skills, MCP servers, agent loops, subagents, hooks, plugins, and CLI tools. Machine-readable catalogs. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ agents.","defaultBranch":"main","topics":["ai-agents","ai-coding","automation","claude-code","developer-tools","llm","mcp","agent-workflows","coding-agent","cursor"],"readmeSha":"f256969bd10e0c49969e817105fd643dd7d3047f"},
+"meta": {"description":"AI agent tools for coding assistants: skills, MCP servers, agent loops, subagents, hooks, plugins, and CLI tools. Machine-readable catalogs. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ agents.","defaultBranch":"main","topics":["ai-agents","ai-coding","automation","claude-code","developer-tools","llm","mcp","agent-workflows","coding-agent","cursor"],"readmeSha":"280f5c583876d07e10e5a74b433ed63305424ca6"},
 "members": [
 
 ]

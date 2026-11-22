@@ -1,10 +1,12 @@
 {
-"meta": {"description":"The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.","defaultBranch":"main","topics":["bugbounty","cybersecurity","osint","pentest","awesome","awesome-list"],"readmeSha":"e24f56f89be06b60770708ba1421f55667cdeba1"},
+"meta": {"description":"The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.","defaultBranch":"main","topics":["bugbounty","cybersecurity","osint","pentest","awesome","awesome-list"],"readmeSha":"18221f061363216bf6074a2ece22e7007d233df2"},
 "members": [
-"elastic/elasticsearch",
-"netlas-io/netlas-python",
-"netlas-io/netlas-scripts",
-"franckferman/MetaDetective",
-"netlas-io/netlas-dorks"
+"netlas-io/netlas-python"
+],
+"dropped": [
+["2026-11-22","elastic/elasticsearch"],
+["2026-11-22","netlas-io/netlas-scripts"],
+["2026-11-22","franckferman/MetaDetective"],
+["2026-11-22","netlas-io/netlas-dorks"]
 ]
 }

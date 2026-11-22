@@ -1,9 +1,10 @@
 {
-"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"f382b5615787ff489c82689f8b1c7b6635f9dd0e"},
+"meta": {"description":"For deep RL and the future of AI. ","defaultBranch":"master","topics":["deep-reinforcement-learning","reinforcement-learning","game","reward","artificial-general-intelligence","exploration-exploitation","hierarchical-reinforcement-learning","distributional","multiagent-reinforcement-learning","planning"],"readmeSha":"97d4ff27f05cf0274cc25b7d256ad69763b7ce16"},
 "members": [
 "hanjuku-kaso/awesome-offline-rl",
 "seohongpark/HILP",
 "younggyoseo/apv",
+"openvla/openvla",
 "google/brax",
 "google-deepmind/android_env",
 "tigerneil/mujoco-zh",
@@ -19,9 +20,17 @@
 "PaddlePaddle/PARL",
 "opendilab/DI-engine",
 "opendilab/PPOxFamily",
+"real-stanford/diffusion_policy",
+"kzl/decision-transformer",
+"aviralkumar2907/CQL",
 "YyzHarry/SV-RL",
+"deepseek-ai/DeepSeek-R1",
 "openai/phasic-policy-gradient",
 "Kaixhin/NoisyNet-A3C",
+"sfujim/TD3",
+"nicklashansen/tdmpc2",
+"danijar/dreamerv3",
+"marlbenchmark/on-policy",
 "shreshthsaini/MEND-RL"
 ]
 }

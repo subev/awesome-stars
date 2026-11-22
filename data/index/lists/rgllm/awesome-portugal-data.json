@@ -1,9 +1,10 @@
 {
-"meta": {"description":"🇵🇹 Lista de repositórios de dados abertos em Portugal","defaultBranch":"trunk","topics":["awesome","dados-abertos","open-data","portugal"],"readmeSha":"a2d987f4e9f3550e4b716631293ace3d7803ad03"},
+"meta": {"description":"🇵🇹 Lista de repositórios de dados abertos em Portugal","defaultBranch":"trunk","topics":["awesome","dados-abertos","open-data","portugal"],"readmeSha":"f550dc5874ae557c30366868c9a9c97312a4f8d7"},
 "members": [
 "sindresorhus/awesome",
 "iotechpis/geoapi.pt",
 "jogalegalpt/casinos-legais-portugal",
+"espectro-dados/dados",
 "glima93/data_exams_06_18_PT",
 "codecadre/imt-school-addresses",
 "codecadre/imt-pass-rates",

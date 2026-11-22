@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI.","defaultBranch":"main","topics":["csharp","dotnet","microservices","ddd","cqrs","dotnet-core","caching","docker","kubernetes","testing"],"readmeSha":"77dd0ed7776bfc6705e45a752fbbe8a759c9fddd"},
+"meta": {"description":"A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI.","defaultBranch":"main","topics":["csharp","dotnet","microservices","ddd","cqrs","dotnet-core","caching","docker","kubernetes","testing"],"readmeSha":"370446cdeefb9bf3782b494eef7e11d03f94cd59"},
 "members": [
 
 ]

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated dataset of global electrical grid maps, datasets and resources.","defaultBranch":"main","topics":["electrical-grid","gridmap","openstreetmap","powergrid","awesome","renewable-energy"],"readmeSha":"2df0cac0f7500b1f6291de161c53100f9c525cb3"},
+"meta": {"description":"A curated dataset of global electrical grid maps, datasets and resources.","defaultBranch":"main","topics":["electrical-grid","gridmap","openstreetmap","powergrid","awesome","renewable-energy"],"readmeSha":"3faee42b88306ca60d80e45aaa1dd1c36bd40358"},
 "members": [
 "openinframap/openinframap",
 "carderne/gridfinder",
@@ -17,7 +17,7 @@
 "DavidKarlas/OsmNightWatch",
 "teritorio/clearance",
 "openstreetmap/iD",
-"facebook/Rapid",
+"meta/Rapid",
 "JOSM/MapWithAI",
 "hotosm/fAIr",
 "openaddresses/pyesridump",
@@ -38,5 +38,8 @@
 "Lindsay-Lab/substation-seg",
 "joel-deplaen-ivm/detectron2-nso-test",
 "Clay-foundation/model"
+],
+"dropped": [
+["2026-11-22","facebook/Rapid"]
 ]
 }

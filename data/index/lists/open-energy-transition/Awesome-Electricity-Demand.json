@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated collection of resources on hourly and sub-hourly electricity demand.","defaultBranch":"main","topics":[],"readmeSha":"78bd9abf7431b3b1164a5194e6c5da82f1e921c0"},
+"meta": {"description":"A curated collection of resources on hourly and sub-hourly electricity demand.","defaultBranch":"main","topics":[],"readmeSha":"c352f372d08f0f33589526642a8b5fe6c03e9f6b"},
 "members": [
 "open-energy-transition/demandcast",
 "truggles/EIA_Cleaned_Hourly_Electricity_Demand_Data"

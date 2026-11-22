@@ -1,9 +1,10 @@
 {
-"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"b317c49faade022fbc3cbf38467f42b8a416d939"},
+"meta": {"description":"This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.","defaultBranch":"main","topics":["awesome","change-detection","scene-change-detection"],"readmeSha":"100a5e59e76ce0f7d6dea0282de040105a1aa229"},
 "members": [
 "wenhwu/awesome-remote-sensing-change-detection",
 "chickenbestlover/awesome-scene-change-detections",
 "MinZHANG-WHU/Change-Detection-Review",
+"Oran9er/STILL",
 "Chumsy0725/O-SCD",
 "kyusik-cho/ECD",
 "yuqunw/scene_diff",

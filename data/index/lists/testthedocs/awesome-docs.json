@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"7bd7ca01064345a3f2392ad6db0f75ce20c2cee8"},
+"meta": {"description":"A curated list of awesome documentation tools","defaultBranch":"main","topics":["docs","awesome","awesome-list"],"readmeSha":"7a1b5043b7906e64d1295958b9ebfecb65327955"},
 "members": [
 "dequelabs/axe-cli",
 "JakePartusch/lumberjack",
@@ -43,6 +43,7 @@
 "UmbrellaDocs/linkspector",
 "lycheeverse/lychee",
 "ingrid-owusu/mdoctest",
+"RootX22/plumbline",
 "cisco-open/inclusive-language",
 "scarletkc/seiso",
 "vipulgupta2048/awesome-documentation",
@@ -64,6 +65,7 @@
 "timothycrosley/portray",
 "jackyzha0/quartz",
 "YvesCoding/rcpress",
+"thallylabs/thally",
 "wevm/vocs",
 "zachhannum/mkdocs-tooltipster-links-plugin",
 "intel/dffml",
@@ -82,6 +84,7 @@
 "nilbuild/driver.js",
 "rhysd/fixred",
 "Lullabot/gatsby-theme-adr",
+"humanpen/humanpen-mcp",
 "Widdershin/markdown-doctest",
 "littlebearapps/pitchdocs",
 "microsoft/playwright",
@@ -91,7 +94,8 @@
 "alexandrascript/tech-writing-tools",
 "glimapp/glim",
 "charmbracelet/glow",
-"xrfang/mdv"
+"xrfang/mdv",
+"skim-md/skim"
 ],
 "dropped": [
 ["2026-11-08","Bubblegunn/ai-slop-linter"]

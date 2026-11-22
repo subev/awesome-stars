@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome things about htmx","defaultBranch":"main","topics":["awesome","awesome-list","htmx","hacktoberfest"],"readmeSha":"a797e035d01c30e04c830e0a68d1795a9d6cedf4"},
+"meta": {"description":"Awesome things about htmx","defaultBranch":"main","topics":["awesome","awesome-list","htmx","hacktoberfest"],"readmeSha":"3eef94c2bf6d608800f5192549520a6217610761"},
 "members": [
 "sindresorhus/awesome",
 "bigskysoftware/htmx",
@@ -27,6 +27,7 @@
 "zunnu/cake-htmx",
 "dy/sprae",
 "donseba/go-partial",
+"alloyhtml/css",
 "jerriepelser-blog/htmx-with-aspnet-core",
 "mryderie/aspnet-core-htmx-example",
 "prestancedesign/babashka-htmx-todoapp",
@@ -36,6 +37,7 @@
 "rajasegar/cl-trello-clone",
 "rajasegar/cl-github-timeline",
 "vlcinsky/python-fastapi-github-timeline",
+"brakmic/HDA_with_Cpp",
 "syarul/htmx-todomvc",
 "syarul/todomvc-adonisjs-react-htmx-_hyperscript",
 "rajasegar/htmx-geo-selector",
@@ -56,6 +58,7 @@
 "syarul/todomvc-go-templ-htmx-_hyperscript",
 "donseba/go-htmx",
 "michaeljsaenz/kshot",
+"itsVrushal/Github-activity-tracker",
 "dsyer/spring-todo-mvc",
 "odrotbohm/spring-playground",
 "wiverson/htmx-demo",
@@ -80,6 +83,7 @@
 "testdrivenio/flask-htmx-tailwind",
 "bblanchon/django-htmx-modal-form",
 "volfpeter/fastapi-htmx-tailwind-example",
+"monosans/socnet",
 "johnthethird/sinatra-htmx",
 "beechnut/pokebutt-htmx",
 "libsyz/htmx-to-do-app",

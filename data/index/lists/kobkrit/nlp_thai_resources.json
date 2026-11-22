@@ -1,9 +1,10 @@
 {
-"meta": {"description":"More than 50+ collections of Thai Natural Language Processing libraries. Update daily.","defaultBranch":"master","topics":["thai-nlp-library","nlp-thai-resource","nlp","thai-language","thai-nlp","awesome-list"],"readmeSha":"9147c69f29135d36b35cdd32872b69d408a0cb66"},
+"meta": {"description":"More than 50+ collections of Thai Natural Language Processing libraries. Update daily.","defaultBranch":"master","topics":["thai-nlp-library","nlp-thai-resource","nlp","thai-language","thai-nlp","awesome-list"],"readmeSha":"5c8c16948e78bb831e66e8aa50c9982b7f391de4"},
 "members": [
 "wittawatj/jtcc",
 "PyThaiNLP/pythainlp",
 "JagerV3/sentiment_analysis_thai",
+"klanarongz2009-sketch/ter-ai",
 "PyThaiNLP/pythainlp",
 "veer66/chamkho",
 "pucktada/cutkum",

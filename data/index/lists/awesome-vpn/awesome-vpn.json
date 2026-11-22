@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入","defaultBranch":"master","topics":["v2ray","gfw","shadowsocks","free","fanqiang","ss","trojan","geopolitics","vless","vmess"],"readmeSha":"b32e645bf1064fa892afaa36b34ab3b953a6a4e9"},
+"meta": {"description":"Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入","defaultBranch":"master","topics":["v2ray","gfw","shadowsocks","free","fanqiang","ss","trojan","geopolitics","vless","vmess"],"readmeSha":"8e462a2ea4cdcac59a6cd2ff31bbd1ae5aaa9b1d"},
 "members": [
 "clash-verge-rev/clash-verge-rev",
 "2dust/v2rayN",

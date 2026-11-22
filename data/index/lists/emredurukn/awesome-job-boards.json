@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"109e4f5e240aeecd299b5577629850f2c87d37ce"},
+"meta": {"description":"A curated list of awesome job boards","defaultBranch":"main","topics":["awesome-list","job-board","job-search","startup-jobs","remote","awesome","career","remote-jobs","tech-jobs"],"readmeSha":"50788a17c070c62b7724ab31e53c59ef8ec74e66"},
 "members": [
 "j-delaney/easy-application",
 "andrwspt/jobfit",
@@ -7,6 +7,7 @@
 "feder-cr/Jobs_Applier_AI_Agent",
 "yanirs/established-remote",
 "landedjobs/new-grad-and-entry-level-tech-jobs",
+"cookllm/AI-PhD-Internships-2027",
 "lodthe/awesome-internships",
 "deepanshu1422/List-Of-Open-Source-Internships-Programs",
 "timqian/open-source-jobs",

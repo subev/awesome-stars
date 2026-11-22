@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of Sega Mega Drive development resources","defaultBranch":"main","topics":[],"readmeSha":"145420291d72c054d1ea44eaf6dc71a113c22403"},
+"meta": {"description":"A curated list of Sega Mega Drive development resources","defaultBranch":"main","topics":[],"readmeSha":"e53171e10cfd12844bc3862a7cbd01219fe1a8bc"},
 "members": [
 "Stephane-D/SGDK",
 "viciious/32XDK",
@@ -22,6 +22,7 @@
 "matteusbeus/RaycastDemo",
 "matteusbeus/Dci3Viewer",
 "matteusbeus/ModPlayer",
+"Scottcjn/legend-of-elya-genesis",
 "BigEvilCorporation/Beehive",
 "sikthehedgehog/mdtools",
 "zerasul/genesis-code",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":" 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework","defaultBranch":"master","topics":["django-rest-framework","django","api","awesome","usefull-drf","awesome-list","serialization","django-authentication","django-rest","python"],"readmeSha":"6101ecc8847f2f8e30756990a829a515018ab29c"},
+"meta": {"description":" 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework","defaultBranch":"master","topics":["django-rest-framework","django","api","awesome","usefull-drf","awesome-list","serialization","django-authentication","django-rest","python"],"readmeSha":"d49aef4ff45ed9a1dd3736a451bf8450f1169e3b"},
 "members": [
 "sindresorhus/awesome",
 "anexia-it/django-rest-passwordreset",
@@ -19,9 +19,11 @@
 "allisson/django-rest-framework-role-filters",
 "drf-psq/drf-psq",
 "axioms-io/axioms-drf-py",
+"usagerail/sdk",
 "axnsan12/drf-yasg",
 "tfranzel/drf-spectacular",
 "snok/drf-openapi-tester",
+"cortex-docs/cortex",
 "alanjds/drf-nested-routers",
 "heywbj/django-rest-framework-recursive",
 "Hipo/drf-extra-fields",
@@ -30,11 +32,13 @@
 "rsinger86/drf-flex-fields",
 "beda-software/drf-writable-nested",
 "khaledsukkar2/drf-shapeless-serializers",
+"wemake-services/imgproxykit",
 "wq/django-rest-pandas",
 "openwisp/django-rest-framework-gis",
 "django-commons/drf-excel",
 "lingster/drf-api-tracking",
 "Raekkeri/django-requestlogs",
+"LogBrewCo/sdk",
 "philipn/django-rest-framework-filters",
 "trollknurr/django-rest-framework-word-search-filter",
 "miki725/django-url-filter",
@@ -49,7 +53,7 @@
 "gizmag/drf-ujson-renderer",
 "vbabiy/djangorestframework-camel-case",
 "mypebble/rest-framework-latex",
-"FROWNINGdev/django-orm-lens",
+"FROWNINGdev/orm-lens",
 "amikrop/drf-sendables",
 "gilsondev/django-rest-localflavor",
 "django-json-api/django-rest-framework-json-api",
@@ -58,5 +62,8 @@
 "yezyilomo/django-restql",
 "jinkanhq/django-rest-tsg",
 "py-universe/django-rest-cli"
+],
+"dropped": [
+["2026-11-22","FROWNINGdev/django-orm-lens"]
 ]
 }

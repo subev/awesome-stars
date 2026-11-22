@@ -1,6 +1,7 @@
 {
-"meta": {"description":":zap: Awesome Ethereum Resources","defaultBranch":"master","topics":["ethereum","decentralized","blockchain","p2p","dapp","defi","solidity"],"readmeSha":"1208d7d402163d629b23e03161a44292a0977d4e"},
+"meta": {"description":":zap: Awesome Ethereum Resources","defaultBranch":"master","topics":["ethereum","decentralized","blockchain","p2p","dapp","defi","solidity"],"readmeSha":"9c5bf4d4a7c285a64fd59e4e00dfc7755bcba090"},
 "members": [
+"arbincept/Arb-Inc-All-in-Dex",
 "tokamak-network/py-ethclient",
 "cosmo-project/meteor-dapp-cosmo",
 "chriseth/browser-solidity",

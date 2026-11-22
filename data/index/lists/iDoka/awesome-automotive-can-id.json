@@ -1,5 +1,5 @@
 {
-"meta": {"description":":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.","defaultBranch":"main","topics":["awesome","awesome-list","can","canbus","car-hacking","bus-monitoring","obd2","elm327","canutils","automotive"],"readmeSha":"3c0d50be32081775d4419adb2e4ecd57bfa48d9c"},
+"meta": {"description":":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.","defaultBranch":"main","topics":["awesome","awesome-list","can","canbus","car-hacking","bus-monitoring","obd2","elm327","canutils","automotive"],"readmeSha":"fdba223f9fce547401bb7565664bf5833762b9a7"},
 "members": [
 "commaai/opendbc",
 "rusefi/rusefi_documentation",
@@ -15,13 +15,14 @@
 "SvetlAl/docs",
 "P1kachu/talking-with-cars",
 "VeryBusyBee/FiatMon",
-"andrewraharjo/CAN-Bus-Hack_Prius_Focus",
 "autti/abraham",
-"EricTurner3/s550-canbus",
-"thomastech/CAN2Cluster",
+"andrewraharjo/CAN-Bus-Hack_Prius_Focus",
+"msbence/ford-escape-mk2-can-id",
+"jakka351/FG-Falcon",
 "roncapat/Ford-Fiesta-MK5-MS-CAN-bus",
 "fereste/tablero",
-"jakka351/FG-Falcon",
+"thomastech/CAN2Cluster",
+"EricTurner3/s550-canbus",
 "slyt/van-hack",
 "Knio/carhack",
 "joshpatten/HyundaiCan",
@@ -78,6 +79,8 @@
 "waal70/S60CAN",
 "renatobo/DucatiPanigaleCanBus",
 "blalor/ktm-can",
+"bratukh/yamaha-cp3-can",
+"DeziderMesko/motocan",
 "iDoka/awesome-canbus",
 "iDoka/awesome-linbus"
 ]

@@ -1,7 +1,8 @@
 {
-"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"a5c551c90b34f459d3f1bcdbec873abea7743e12"},
+"meta": {"description":"List of projects that provide terminal user interfaces","defaultBranch":"main","topics":[],"readmeSha":"c1c67571a556452aa9beaeac2cfd13c8a9b0790f"},
 "members": [
 "lissy93/AdGuardian-Term",
+"WPTK/ADSB-TUI",
 "tessus/apachetop",
 "Atoptool/atop",
 "MrLesk/Backlog.md",
@@ -209,6 +210,7 @@
 "hcavarsan/kftray",
 "vladimirvivien/ktop",
 "sarub0b0/kubetui",
+"deveshctl/layerx",
 "andreybleme/lazycontainer",
 "jesseduffield/lazydocker",
 "owenrumney/lazytrivy",
@@ -317,6 +319,7 @@
 "koloideal/Argenta",
 "jquast/blessed",
 "erikrose/blessings",
+"Opus-Perpetuus/flexablelib",
 "dankamongmen/notcurses",
 "jwlodek/py_cui",
 "bczsalba/pytermgui",
@@ -344,6 +347,7 @@
 "ArthurSonzogni/FTXUI",
 "Gabidal/GGUI",
 "ggerganov/imtui",
+"saber-88/koto",
 "agauniyal/rang",
 "agauniyal/termdb",
 "tuiwidgets/tuiwidgets",
@@ -369,6 +373,7 @@
 "raphamorim/zaz",
 "colinta/Ashen",
 "chjj/blessed",
+"codenameakshay/dart_tui",
 "charmbracelet/gum",
 "vadimdemedes/ink",
 "cjroth/ink-web",
@@ -505,7 +510,7 @@
 "freref/fancy-cat",
 "xyproto/favicon-editor",
 "rareitems/gadacz",
-"KrishnaSSH/gophertube",
+"krishnassh/gophertube",
 "Han8931/gorae",
 "EliasLd/goweeb",
 "jgalat/image-sorter",
@@ -526,6 +531,7 @@
 "coderholic/pyradio",
 "matteo-pacini/RadioGoGo",
 "ebithril/relax-player",
+"michaelblaess/retro-amp",
 "winsbe01/roku-tui",
 "dividebysandwich/rusty-pipes",
 "arian-shamaei/sgram-tui",
@@ -562,6 +568,7 @@
 "WilliamAGH/brief",
 "Feromond/budget-tracker-tui",
 "anufrievroman/calcure",
+"michaelblaess/christophorus",
 "samuelstranges/chronos",
 "savedra1/clipse",
 "Julien-cpsn/desktop-tui",
@@ -657,6 +664,7 @@
 "xgi/castero",
 "jimbob88/CatenaVetus",
 "kavehtehrani/cloudflare-speed-cli",
+"michaelblaess/console-error-scanner",
 "christo-auer/eilmeldung",
 "rkd77/elinks",
 "aome510/hackernews-TUI",
@@ -668,6 +676,7 @@
 "ozan2003/rfc_reader",
 "rakshasa/rtorrent",
 "scross01/searxngr",
+"michaelblaess/sitemap-tracker",
 "LucasPickering/slumber",
 "deemkeen/stegodon",
 "SurgeDM/Surge",
@@ -679,6 +688,7 @@
 "dropped": [
 ["2026-09-19","simonmichael/hledger"],
 ["2026-09-19","Horldsence/tuiserial"],
-["2026-10-03","trevorbayless/cli-chess"]
+["2026-10-03","trevorbayless/cli-chess"],
+["2026-11-22","KrishnaSSH/gophertube"]
 ]
 }

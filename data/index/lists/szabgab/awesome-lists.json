@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"c511ac21bf841afd5176cba9064e095e59faeadb"},
+"meta": {"description":"The awesome list of all the awesome lists","defaultBranch":"main","topics":["awesome","awesome-list","awesome-lists","readme"],"readmeSha":"119ea59ea10ba33fb6fa3a3492e417905fdb44d2"},
 "members": [
 "kleogeos/awesome-freelance-tools",
 "szabgab/awesome-for-non-programmers",
@@ -35,6 +35,7 @@
 "Infrasity-Labs/awesome-developer-conferences",
 "sindresorhus/awesome",
 "AbdelStark/awesome-typesafe-jev",
+"tubeagentkit/awesome-youtube-transcripts",
 "chetanraj/awesome-github-badges",
 "Ileriayo/markdown-badges",
 "drknzz/GitHub-Achievements",

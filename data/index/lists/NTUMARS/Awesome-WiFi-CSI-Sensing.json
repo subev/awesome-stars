@@ -1,0 +1,32 @@
+{
+"meta": {"description":"A list of awesome papers and cool resources on WiFi CSI sensing.","defaultBranch":"main","topics":["channel-state-information","wifi-sensing","wireless-sensing"],"readmeSha":"8eae82a747f8eb3bee96cb06a25c7e8c168868e5"},
+"members": [
+"NTUMARS/Awesome-WiFi-CSI-Sensing",
+"xyanchen/WiFi-CSI-Sensing-Benchmark",
+"francescamen/SHARPax",
+"francescamen/SHARP",
+"kfoysalhaque/SiMWiSense",
+"windofshadow/THAT",
+"ChunjingXiao/DeepSeg",
+"ChunjingXiao/CsiGAN",
+"itskalvik/WiFi-user-recognition",
+"mobinets/wifiwalker",
+"NTU-AIoT-Lab/WiADG",
+"yongsen/SignFi",
+"zhouziyu2050/pyQT-CSITool",
+"NTU-AIoT-Lab/EfficientFi",
+"seemoo-lab/csicloak",
+"geekfeiw/WiSPPN",
+"geekfeiw/CSI-Net",
+"seemoo-lab/nexmon_csi",
+"ybhbingo/MMFi_dataset",
+"linteresa/WiAR",
+"ermongroup/Wifi_Activity_Recognition",
+"Ericfengdc/Keystroke-recognition-of-Smart-Device-Based-on-WIFI",
+"thinszx/WiFi-CSI-gait-recognition",
+"ludlows/CSI-Activity-Recognition",
+"Retsediv/WIFI_CSI_based_HAR",
+"noahcroit/HumanActivityDetection_using_CSI_MATLAB",
+"dingyiyi0226/gesture-recognition-csi"
+]
+}

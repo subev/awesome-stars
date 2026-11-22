@@ -1,9 +1,9 @@
 {
-"meta": {"description":"Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers.","defaultBranch":"main","topics":["agents","ai-agents","awesome","deep-learning","healthcare","medical-image-analysis","medical-imaging","radiology","trustworth-ai","awesome-list"],"readmeSha":"ce55be109d46118ab8f22a9aaaa653b8ee1e04e0"},
+"meta": {"description":"Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers.","defaultBranch":"main","topics":["agents","ai-agents","awesome","deep-learning","healthcare","medical-image-analysis","medical-imaging","radiology","trustworth-ai","awesome-list"],"readmeSha":"f0b8e1b27fba971b47855b838fba11056bca124b"},
 "members": [
 "Nanboy-Ronan/awesome-medical-ai-papers",
 "bowang-lab/MedRAX",
-"Tyyds-ai/EndoAgent",
+"Tyyds-ai/EndoCogniAgent",
 "CUHK-AIM-Group/MedSAM-Agent",
 "Wangyixinxin/MMedAgent",
 "jinlab-imvr/MedAgent-Pro",
@@ -40,6 +40,8 @@
 "TianyuZhang-hdu/RaMA",
 "znshje/TSegAgent",
 "UnderstandingImage-Group/EgoMed-Agent",
+"DUTIR-BioNLP/ARIVE",
+"badhon1512/RadStructAgent",
 "Event-AHU/Medical_Image_Analysis",
 "Venn2336/MRGEvalkit",
 "l593191569/Skin-R1",
@@ -62,6 +64,8 @@
 "CUHK-AIM-Group/AMID",
 "MLO-lab/ModelAuditor",
 "MAGIC-AI4Med/M3Builder",
+"eltzanis/SystemOneAgents",
+"HC-Guo/Self-Evolving_HealthJev",
 "KeWang0622/MRFoundry",
 "ImprintLab/MedRSI",
 "K-Dense-AI/scientific-agent-skills",
@@ -76,6 +80,7 @@
 "XjtuAI/HistoGym",
 "CVI-SZU/SurgCoT",
 "GeraldSun/RADAR",
+"bhaskargurram-ai/medscope",
 "ibrarad/radiology-agent-safeguards",
 "Yangxinyee/cxr-vlm-routing",
 "XLIAaron/CRC-Router",
@@ -88,5 +93,8 @@
 "FreedomIntelligence/Awesome-Specialized-Medical-LLMs",
 "baeseongsu/awesome-machine-learning-for-healthcare",
 "G14nTDo4/Awesome-Pathology-Agents"
+],
+"dropped": [
+["2026-11-22","Tyyds-ai/EndoAgent"]
 ]
 }
