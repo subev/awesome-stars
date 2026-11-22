@@ -1,5 +1,5 @@
 {
-"meta": {"description":"g2core - The Next Generation","defaultBranch":"edge-preview","topics":["cnc","cnc-controller","3d-printing","gcode","lasercutter","motion-planning","plasma-cutter"],"readmeSha":"7e059dd03d7f4de84a814875cb4ed8723db6214e"},
+"meta": {"description":"g2core - The Next Generation","defaultBranch":"edge-preview","topics":["cnc","cnc-controller","3d-printing","gcode","lasercutter","motion-planning","plasma-cutter"],"readmeSha":"46ff45a1f35a5784562107b5a39e2bf574243481"},
 "members": [
 
 ]

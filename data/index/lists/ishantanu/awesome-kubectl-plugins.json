@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"6cded29d52d3513e22f74b53f30fc39f86ce6612"},
+"meta": {"description":"Curated list of kubectl plugins","defaultBranch":"master","topics":["kubectl-plugins","awesome-list","kubectl","kubernetes"],"readmeSha":"64284aa9a4abcd86a38d5cbdccbae0b55a189b22"},
 "members": [
 "sindresorhus/awesome",
 "kubernetes-sigs/krew",
@@ -108,6 +108,8 @@
 "danielgaskins/cnpg-drill",
 "dimanovikov/datadiff",
 "Shoalcheck/shoalcheck",
+"BodhiSatvik/kubectl-audit-tenant",
+"runtimez-com/kube-upgrade-check",
 "jordanwilson230/kubectl-plugins",
 "ahmetb/kubectl-extras",
 "FikaWorks/kubectl-plugins",

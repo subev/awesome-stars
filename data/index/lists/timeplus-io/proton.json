@@ -1,5 +1,5 @@
 {
-"meta": {"description":"The fastest unified streaming SQL Engine in a single C++ binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.","defaultBranch":"develop","topics":["clickhouse","sql","redpanda","single-binary","stream-processing","cpp","iceberg","etl","flink","ksqldb"],"readmeSha":"d101b7a2c14e8d7935f66dda54e48228adc12b7d"},
+"meta": {"description":"The fastest unified streaming SQL Engine in a single C++ binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.","defaultBranch":"develop","topics":["clickhouse","sql","redpanda","single-binary","stream-processing","cpp","iceberg","etl","flink","ksqldb"],"readmeSha":"d999ae7728e8705f55852b8872ca26961517383c"},
 "members": [
 "timeplus-io/docs",
 "apache/flink",

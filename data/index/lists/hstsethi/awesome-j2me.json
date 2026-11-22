@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["awesome-list","j2me","java","javame","awesome","j2me-platform","java-platform","j2me-emulator","midp","resources"],"readmeSha":"78100ccd807a1ae3bf6f99f0f01ef63b6b00688f"},
+"meta": {"description":"Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.","defaultBranch":"main","topics":["awesome-list","j2me","java","javame","awesome","j2me-platform","java-platform","j2me-emulator","midp","resources"],"readmeSha":"454a307e80a2b7314091013271e4e5ec27825ae3"},
 "members": [
 "hstsethi/awesome-symbian",
 "sindresorhus/awesome",
@@ -15,6 +15,7 @@
 "szatkus/js2me",
 "shinovon/KEmulator",
 "SquirrelJME/SquirrelJME",
+"gtrxAC/Discofi",
 "baumschubser/hotpants",
 "shinovon/JTube",
 "faissaloo/telegram-micro",

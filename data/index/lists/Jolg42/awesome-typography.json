@@ -1,5 +1,5 @@
 {
-"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"9a237161bee74dac05932cd12380cf845309b4d3"},
+"meta": {"description":"✏︎ Curated list about digital typography 🔥","defaultBranch":"main","topics":["opentype","truetype","fonts","awesome-list","typography","otf","ttf","opentype-fonts","color-fonts","typeface"],"readmeSha":"a32accce22b70885b46d34d71ff81739b41d0a4c"},
 "members": [
 "Pomax/the-cff-table",
 "harfbuzz/boring-expansion-spec",
@@ -190,6 +190,8 @@
 "simoncozens/babelfont",
 "googlefonts/fontquant",
 "harfbuzz/uharfbuzz",
+"rosettatype/hyperglot",
+"googlefonts/glyphsets",
 "googlefonts/sfntly",
 "MitchTalmadge/Emoji-Tools",
 "Tehreer/Tehreer-Android",

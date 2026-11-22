@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"d29a33c552abb9a99627fc30397ba21fdc7fb752"},
+"meta": {"description":"Lists open source power electronic tools","defaultBranch":"main","topics":["power-electronics","open-source","awesome-lists"],"readmeSha":"df1aadd1fb82c1b4425ad88f5fffbb04f0be1630"},
 "members": [
 "FOSSEE/eSim",
 "geckocircuits/GeckoCIRCUITS",
@@ -16,6 +16,7 @@
 "fsmMLK/inkscapeCircuitSymbols",
 "upb-lea/Inkscape_electric_Symbols",
 "ethz-pes/AI-mag",
+"coilemdev/coilem",
 "ElmerCSC/elmerfem",
 "upb-lea/FEM_Magnetics_Toolbox",
 "ethz-pes/litz_wire_losses_fem_matlab",

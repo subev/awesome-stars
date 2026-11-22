@@ -1,5 +1,5 @@
 {
-"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"6b39e66ee621dd7c12599d96e91027ef7a13995c"},
+"meta": {"description":"⚡A curated list of awesome omarchy resources","defaultBranch":"main","topics":["archlinux","hyprland","omarchy","omarchy-theme","walker","waybar","wayland","awesome","awesome-list","awesome-omarchy"],"readmeSha":"7ebf3596b0f53b2a7bd2d9d9e5f44d471641279d"},
 "members": [
 "omacom/omarchy",
 "nilszeilon/armarchy",
@@ -117,6 +117,7 @@
 "Firstp1ck/Pacsea",
 "kaolti/phantomat",
 "t4t5/rencal",
+"Donnishcomau/snote",
 "bjarneo/tema",
 "HANCORE-linux/waybar-themes",
 "devmobasa/wayscriber",
@@ -170,6 +171,7 @@
 "bjarneo/omarchy-firesky-theme",
 "euandeas/omarchy-flexoki-dark-theme",
 "euandeas/omarchy-flexoki-light-theme",
+"monkeyking-hq/omarchy-flower-fruit-mountain-theme",
 "abhijeet-swami/omarchy-forest-green-theme",
 "bjarneo/omarchy-frost-theme",
 "VECTORG99/omarchy-frutiger-aero",

@@ -1,5 +1,5 @@
 {
-"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"34bae79627c2be73aaf5a1ab4a4ed8b7b399c0ae"},
+"meta": {"description":":book: A curated list of resources dedicated to Natural Language Processing (NLP)","defaultBranch":"main","topics":["natural-language-processing","deep-learning","machine-learning","language","awesome","awesome-list","nlp","text-mining"],"readmeSha":"478aa449593fd8f3658422ba2921dccf36a7784f"},
 "members": [
 "sindresorhus/awesome",
 "keon/awesome-nlp",
@@ -154,6 +154,7 @@
 "togethercomputer/RedPajama-Data",
 "allenai/dolma",
 "huggingface/fineweb-2",
+"lexifina/global-law",
 "vincentkoc/tiny_qa_benchmark_pp",
 "adobe/NLP-Cube",
 "mikahama/uralicNLP",

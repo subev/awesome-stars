@@ -1,5 +1,5 @@
 {
-"meta": {"description":":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.","defaultBranch":"main","topics":["can","can-bus","canbus","can-fd","logger","sniffer","slcan","socketcan","car-hacking","bus-monitoring"],"readmeSha":"edae00a02ec1610102f7774420a551d8e8eda7bd"},
+"meta": {"description":":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.","defaultBranch":"main","topics":["can","can-bus","canbus","can-fd","logger","sniffer","slcan","socketcan","car-hacking","bus-monitoring"],"readmeSha":"02842b818b6f7f2262df46b9d2c89dd847ba80d9"},
 "members": [
 "jgamblin/CarHackingTools",
 "CaringCaribou/caringcaribou",
@@ -26,6 +26,8 @@
 "zeljkoavramovic/canerrsim",
 "lbenthins/ecu-simulator",
 "Ircama/ELM327-emulator",
+"qadanm/elmulator",
+"NobseVomBerg/CANopen-Bench",
 "cedricp/ddt4all",
 "qnx425/ELM327SLCAN",
 "v-ivanyshyn/Arduino-OBD2-Async",
@@ -89,6 +91,9 @@
 "reymor/novobusanalyzer",
 "friessssss/bootCAN",
 "Chanchaldhiman/CANviz",
+"teoCLMR/busmaster-ng",
+"WanderZil/canmetry",
+"tomrford/cantraceviewer",
 "miwagner/socanui",
 "OlegShishlyannikov/canscope",
 "philipkocanda/canair",
@@ -108,6 +113,7 @@
 "mwkpe/tincan",
 "ovravna/pican",
 "m10k/canny",
+"can-hub-io/can-hub",
 "alexmohr/usb-can",
 "chalmers-revere/opendlv-device-can-replay",
 "zombieCraig/c0f",
@@ -134,7 +140,6 @@
 "howerj/dbcc",
 "jobgeodev/convert_dbc_to_cpp_file",
 "xR3b0rn/dbcppp",
-"CSS-Electronics/can_decoder",
 "GENIVI/CANdb",
 "msalau/dbc-parser",
 "kdschlosser/vector_dbc",
@@ -144,6 +149,7 @@
 "golyshkin/VectorDbcChecker",
 "Sauci/pydbc",
 "christoph2/pydbc",
+"autosar-skills/autosar-agent-skills",
 "RudolphRiedel/USB_CAN-FD",
 "jgressmann/supercan",
 "collin80/FlexCAN_Library",
@@ -233,5 +239,8 @@
 "iDoka/STM8S208-CAN-Speed-Calculator",
 "iDoka/awesome-automotive-can-id",
 "iDoka/awesome-linbus"
+],
+"dropped": [
+["2026-11-22","CSS-Electronics/can_decoder"]
 ]
 }

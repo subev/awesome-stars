@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"48540409fa1181182b1df921f94a7984a42c1040"},
+"meta": {"description":"A collection of awesome things that use or support MapLibre!","defaultBranch":"main","topics":[],"readmeSha":"033b341488c82d0f1ba232b1f7bf1ff3c3f58a01"},
 "members": [
 "maplibre/maplibre",
 "maplibre/maplibre-gl-js",
@@ -118,6 +118,7 @@
 "mkeller3/mapbox-gl-ogc-feature-collection",
 "geomatico/maplibre-cog-protocol",
 "opengeos/maplibre-gl-lidar",
+"zwang-geog/maplibre-gl-pie-charts",
 "am2222/maplibre-landmarks",
 "traccar/maplibre-google-maps",
 "geoblocks/ol-maplibre-layer",

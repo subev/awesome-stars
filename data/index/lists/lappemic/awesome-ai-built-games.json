@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of vibe-coded games: playable games built with AI coding agents like Claude Code, Cursor, Codex, Gemini and Grok, with Three.js, Phaser, Godot and more.","defaultBranch":"main","topics":["ai-games","awesome","awesome-list","game-development","vibe-coding","ai-coding","ai-game-development","browser-games","claude-code","codex"],"readmeSha":"21f7bc6e5416958474297f5db64af90bf9a4261a"},
+"meta": {"description":"A curated list of vibe-coded games: playable games built with AI coding agents like Claude Code, Cursor, Codex, Gemini and Grok, with Three.js, Phaser, Godot and more.","defaultBranch":"main","topics":["ai-games","awesome","awesome-list","game-development","vibe-coding","ai-coding","ai-game-development","browser-games","claude-code","codex"],"readmeSha":"bf065fdc544a5720626073efba26003bed141fb8"},
 "members": [
 "cleak/quasar-saz",
 "416rehman/spinlings",
@@ -14,6 +14,7 @@
 "bowen-aigame/awesome-ai-game",
 "Anil-matcha/awesome-ai-game-generation",
 "aviaryan/awesome-ai-games",
+"fengyiqicoder/awesome-fable-5.2",
 "filipecalegario/awesome-vibe-coding"
 ]
 }

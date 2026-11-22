@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A list of awesome Tor related projects, articles, papers, etc","defaultBranch":"master","topics":["awesome","awesome-list","tor","onion"],"readmeSha":"ad4b1875eb0a5e623ca09c3d2b73f5b1efb80919"},
+"meta": {"description":"A list of awesome Tor related projects, articles, papers, etc","defaultBranch":"master","topics":["awesome","awesome-list","tor","onion"],"readmeSha":"c2611d3443fb428346e3e28a0a4e9c85c5d6b749"},
 "members": [
 "sindresorhus/awesome",
 "thaliproject/Tor_Onion_Proxy_Library",
@@ -35,6 +35,7 @@
 "iCepa/tun2tor",
 "GaloisInc/haskell-tor",
 "Ayms/node-Tor",
-"freedomofpress/securedrop"
+"freedomofpress/securedrop",
+"openwhistle/OpenWhistle"
 ]
 }

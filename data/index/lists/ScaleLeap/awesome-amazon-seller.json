@@ -1,7 +1,8 @@
 {
-"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"00e7de56c0d68e852bdc22c8d168bc7f7d8f9f4d"},
+"meta": {"description":"A curated list of tools and resources for Amazon sellers.","defaultBranch":"master","topics":["amazon","sellercentral","ecommerce","podcast","blog","software","awesome","awesome-list","amazon-seller","fba"],"readmeSha":"53569fe8d2273189e538dbe46df0911a19ab32bd"},
 "members": [
 "BuyWhere/buywhere-mcp",
+"okdataapi/okdata",
 "Ryndix/ryndix-category-data",
 "trendsmcp-ai/Trends-MCP",
 "MentionNetwork/awesome-agentic-commerce",

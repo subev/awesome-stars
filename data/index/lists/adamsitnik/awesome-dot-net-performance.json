@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.","defaultBranch":"master","topics":[],"readmeSha":"c51357f185134929989dca02de9547a5a5a7e381"},
+"meta": {"description":"A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.","defaultBranch":"master","topics":[],"readmeSha":"9d9adfe9681d88bf842fa819a87a00e5c3c15bbe"},
 "members": [
 "dotnet/BenchmarkDotNet",
 "petabridge/NBench",
@@ -7,6 +7,7 @@
 "microsoft/perfview",
 "xoofx/ultra",
 "unchase/Unchase.FluentPerformanceMeter",
+"TomerAberbach/profiler-md",
 "AppMetrics/AppMetrics",
 "PragmaticFlow/NBomber",
 "dotnet/performance",

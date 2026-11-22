@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome","defaultBranch":"main","topics":["awesome-list","geoscience","open-source","open-data","awesome","geophysics","reservoir-modeling","seismic","geospatial","subsurface"],"readmeSha":"258725aa8636e52225e77c45d2c05ac2d1b60fea"},
+"meta": {"description":"Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome","defaultBranch":"main","topics":["awesome-list","geoscience","open-source","open-data","awesome","geophysics","reservoir-modeling","seismic","geospatial","subsurface"],"readmeSha":"4c5df9d3ec29fd50ebaca198e118855de77284c0"},
 "members": [
 "sindresorhus/awesome",
 "RoboDonut/awesome-spatial",
@@ -10,6 +10,7 @@
 "stark1tty/awesome-historical-maps",
 "Open-Environmental-Science/awesome-open-hydrology",
 "aradfarahani/awesome-geophysics",
+"XploraHub/awesome-mineral-exploration",
 "whamlyn/auralib",
 "agilescientific/bruges",
 "TGSAI/mdio-python",
@@ -45,6 +46,7 @@
 "keurfonluu/disba",
 "gempy-project/gempy",
 "pawbz/GeoPhyInv.jl",
+"dominicm2023/groundwatercast-uk",
 "driftingtides/hyvr",
 "landlab/landlab",
 "Loop3D/LoopStructural",
@@ -66,8 +68,9 @@
 "robinthibaut/pysgems",
 "mmaelicke/scikit-gstat",
 "pemn/bm_geostat_process",
+"TerraLabAI/QGIS_AI-Segmentation",
 "gistrec/geo-utils-cpp",
-"OpenGeoscience/geonotebook",
+"kitware-data-solutions/geonotebook",
 "fatiando/verde",
 "pemn/vtk_triangulate_points",
 "jblindsay/whitebox-tools",
@@ -95,6 +98,7 @@
 "OpenGeoVis/PVGeo",
 "bjlittle/geovista",
 "RyanFu08/digitize-heatmap",
+"K3D-tools/K3D-jupyter",
 "OSGeo/grass",
 "OpendTect/OpendTect",
 "Geode-solutions/OpenGeode",
@@ -103,6 +107,10 @@
 "JustinGOSSES/geoVec-playground",
 "pvermees/IsoplotR",
 "NMGRL/pychron",
+"Ayberkrk/turkiye-deprem-verisi",
 "softwareunderground/gio"
+],
+"dropped": [
+["2026-11-22","OpenGeoscience/geonotebook"]
 ]
 }

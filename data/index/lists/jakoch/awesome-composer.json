@@ -1,5 +1,5 @@
 {
-"meta": {"description":" :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.","defaultBranch":"main","topics":["composer-plugin","composer-installers","composer-best-practices","packagist","composer-packages","composer","composer-tutorial","awesome-list","awesome","list"],"readmeSha":"b55d64821f56efe71565fdf1153086e6fbf6655b"},
+"meta": {"description":" :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.","defaultBranch":"main","topics":["composer-plugin","composer-installers","composer-best-practices","packagist","composer-packages","composer","composer-tutorial","awesome-list","awesome","list"],"readmeSha":"2eff0c6f501de3a47f858eb3b899f5804d8e4594"},
 "members": [
 "sindresorhus/awesome",
 "ziadoz/awesome-php",

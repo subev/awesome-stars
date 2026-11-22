@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Create, Read, Update and Delete benchmarks at crude hardware speeds for embedded engines and database servers, the Rust successor to UCSB & YCSB","defaultBranch":"main","topics":["benchmark","rocksdb","leveldb","ycsb","wiredtiger","mongodb","lsm-tree","google-benchmark","valgrind","terabyte"],"readmeSha":"da59fbd21afbd53824dffcb27274b3f84daa74b5"},
+"meta": {"description":"Create, Read, Update and Delete benchmarks at crude hardware speeds for embedded engines and database servers, the Rust successor to UCSB & YCSB","defaultBranch":"main","topics":["benchmark","rocksdb","leveldb","ycsb","wiredtiger","mongodb","lsm-tree","google-benchmark","valgrind","terabyte"],"readmeSha":"269e8f07aaf15e2aded2852f3513f3d66a8635a7"},
 "members": [
 "ashvardanian/ashvardanian",
 "ashvardanian/RetriEval",

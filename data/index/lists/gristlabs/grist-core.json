@@ -1,14 +1,15 @@
 {
-"meta": {"description":"Grist is the evolution of spreadsheets.","defaultBranch":"main","topics":["awesome","database","spreadsheet"],"readmeSha":"b2c8014b1d9f54bbe52e1f31aad53abcbaa6e617"},
+"meta": {"description":"Grist is the evolution of spreadsheets.","defaultBranch":"main","topics":["awesome","database","spreadsheet"],"readmeSha":"11eab7e740a0077710bad0597a357d73c257e4d3"},
 "members": [
 "gristlabs/grist-desktop",
 "gristlabs/grist-static",
-"google/gvisor",
+"gvisor/gvisor",
 "gristlabs/grist-widget",
 "abetlen/llama-cpp-python",
 "thomseddon/traefik-forward-auth"
 ],
 "dropped": [
-["2026-08-28","gristlabs/grist-omnibus"]
+["2026-08-28","gristlabs/grist-omnibus"],
+["2026-11-22","google/gvisor"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Data Apps & Dashboards for Python. No JavaScript Required.","defaultBranch":"dev","topics":["dash","plotly","data-visualization","data-science","gui-framework","flask","react","python","finance","bioinformatics"],"readmeSha":"64654f7c488c89a622fd50ff132b69c7976ee91a"},
+"meta": {"description":"Data Apps & Dashboards for Python. No JavaScript Required.","defaultBranch":"dev","topics":["dash","plotly","data-visualization","data-science","gui-framework","flask","react","python","finance","bioinformatics"],"readmeSha":"56563041562303f9125a8aadece17d5c22304800"},
 "members": [
 "plotly/plotly.js"
 ]

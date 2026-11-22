@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"76188b1b82234cafabfa880d98893fbb3abda21e"},
+"meta": {"description":"A curated list of awesome system integration software and resources.","defaultBranch":"main","topics":["esb","bpm","ipaas","apimanagement","etl","mq","workflow","openapi","apim","messaging"],"readmeSha":"9448e6875c65331d4c4f1ef4cb3f94fc903e81a8"},
 "members": [
 "agentgateway/agentgateway",
 "maximhq/bifrost",
@@ -74,7 +74,6 @@
 "imposter-project/imposter",
 "microcks/microcks",
 "mswjs/msw",
-"zuplo/mockbin",
 "mockoon/mockoon",
 "mock-server/mockserver-monorepo",
 "MockyAbstract/Mocky",
@@ -225,6 +224,7 @@
 "json-schema-org/json-schema-spec"
 ],
 "dropped": [
-["2026-09-11","envoyproxy/ai-gateway"]
+["2026-09-11","envoyproxy/ai-gateway"],
+["2026-11-22","zuplo/mockbin"]
 ]
 }

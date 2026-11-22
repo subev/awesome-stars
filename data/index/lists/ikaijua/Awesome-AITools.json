@@ -1,5 +1,5 @@
 {
-"meta": {"description":"This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!","defaultBranch":"main","topics":["ai","chatgpt","awesome","llm","tools","awesome-list","gpt","gemini","claude","deepseek"],"readmeSha":"626f7df211ecda3544a6608678def9c817686290"},
+"meta": {"description":"This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!","defaultBranch":"main","topics":["ai","chatgpt","awesome","llm","tools","awesome-list","gpt","gemini","claude","deepseek"],"readmeSha":"daedd333200025c703d52bd59cbdbec7d0ca1a06"},
 "members": [
 "TheoLeeCJ/SemIf-OpenJev",
 "deepseek-ai/DeepSeek-R1",
@@ -57,7 +57,6 @@
 "getpaseo/paseo",
 "kortix-ai/CompanyOS",
 "OrchestratorInc/agent-orchestrator",
-"microsoft/agent-framework",
 "langchain-ai/langgraph",
 "mastra-ai/mastra",
 "agentscope-ai/agentscope",
@@ -160,6 +159,7 @@
 "Genesis-Embodied-AI/genesis-world"
 ],
 "dropped": [
-["2026-11-14","calesthio/OpenMontage"]
+["2026-11-14","calesthio/OpenMontage"],
+["2026-11-22","microsoft/agent-framework"]
 ]
 }

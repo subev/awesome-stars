@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Lovingly crafted AppImage tools and resources ","defaultBranch":"main","topics":["awesome","awesome-list","appimage","linux","package-creation"],"readmeSha":"52402d159c2b612450338f688cb1da146e24449a"},
+"meta": {"description":"Lovingly crafted AppImage tools and resources ","defaultBranch":"main","topics":["awesome","awesome-list","appimage","linux","package-creation"],"readmeSha":"ad3554d4f5f1c4d34b45b3c4965184cfd0f2a3ff"},
 "members": [
 "prateekmedia/appimagepool",
 "azubieta/appimages.scraper",
@@ -35,6 +35,7 @@
 "probonopd/linuxdeployqt",
 "linuxdeploy/linuxdeploy",
 "AlwaysOfflineSoftware/XojoToAppImage",
+"AppImageCommunity/AppImagePackaging",
 "niess/python-appimage",
 "niess/linuxdeploy-plugin-python",
 "linuxdeploy/linuxdeploy-plugin-conda",

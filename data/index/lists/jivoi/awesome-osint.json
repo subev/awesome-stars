@@ -1,5 +1,5 @@
 {
-"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"07596e6f3c1f12306170ed59bd00f0200bb5d6b6"},
+"meta": {"description":":scream: A curated list of amazingly awesome OSINT","defaultBranch":"master","topics":["awesome-list","osint","website"],"readmeSha":"c3d68b171ec1b6164f4333796130a9360aaa5748"},
 "members": [
 "sindresorhus/awesome",
 "amnottdevv/AtDork",
@@ -112,6 +112,7 @@
 "khashashin/ogi",
 "s0md3v/Orbit",
 "milo2012/osintstalker",
+"zenkdom/parse-everything-global",
 "s0md3v/Photon",
 "FauvidoTechnologies/pyba",
 "GreyNoise-Intelligence/pygreynoise",

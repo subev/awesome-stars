@@ -1,0 +1,9 @@
+{
+"meta": {"description":"OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.","defaultBranch":"master","topics":["cdc","change-data-capture","data-pipeline","database","elt","lakehouse","replication","apache-iceberg","parquet","s3"],"readmeSha":"a91bc8b5f52e575106c409d920a72ffbc5fd2789"},
+"members": [
+"datazip-inc/olake-fusion",
+"datazip-inc/olake-ui",
+"datazip-inc/olake-helm",
+"datazip-inc/olake-docs"
+]
+}

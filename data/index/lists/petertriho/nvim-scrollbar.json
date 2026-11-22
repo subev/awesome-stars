@@ -1,10 +1,20 @@
 {
-"meta": {"description":"Extensible Neovim Scrollbar","defaultBranch":"main","topics":["neovim","neovim-plugin","neovim-lua-plugin","plugin","lua"],"readmeSha":"e2c7c2a38775b978c86b325e6114da0b21876370"},
+"meta": {"description":"Extensible Neovim Scrollbar","defaultBranch":"main","topics":["neovim","neovim-plugin","neovim-lua-plugin","plugin","lua"],"readmeSha":"0e949b1cd2c2c24b87dd27af0ac6d566f4d58531"},
 "members": [
+"folke/flash.nvim",
+"DNLHC/glance.nvim",
 "lewis6991/gitsigns.nvim",
-"kevinhwang91/nvim-hlslens",
-"junegunn/vim-plug",
-"wbthomason/packer.nvim",
-"folke/tokyonight.nvim"
+"nvim-mini/mini.diff",
+"mhinz/vim-signify",
+"tanvirtin/vgit.nvim",
+"dense-analysis/ale",
+"neoclide/coc.nvim",
+"folke/lazy.nvim",
+"junegunn/vim-plug"
+],
+"dropped": [
+["2026-11-22","kevinhwang91/nvim-hlslens"],
+["2026-11-22","wbthomason/packer.nvim"],
+["2026-11-22","folke/tokyonight.nvim"]
 ]
 }

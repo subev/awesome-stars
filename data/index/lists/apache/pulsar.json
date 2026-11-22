@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Apache Pulsar - distributed pub-sub messaging system","defaultBranch":"master","topics":["pulsar","pubsub","messaging","streaming","queuing","event-streaming"],"readmeSha":"05ca303a487bf712ca355a601a3f78e9283506cf"},
+"meta": {"description":"Apache Pulsar - distributed pub-sub messaging system","defaultBranch":"master","topics":["pulsar","pubsub","messaging","streaming","queuing","event-streaming"],"readmeSha":"79129377471fc307a3bf4d53acf0ea639cb3a93d"},
 "members": [
 "apache/pulsar-helm-chart",
 "apache/pulsar-adapters",

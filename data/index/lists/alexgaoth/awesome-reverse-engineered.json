@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome","awesome-list","claude-code","decompilation","file-formats","game-decompilation","hacktoberfest","home-assistant"],"readmeSha":"326d3761fbbe81571bf265fbc4b2f71f0ffe7fc7"},
+"meta": {"description":"Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.","defaultBranch":"main","topics":["agent-skills","ai-agents","awesome","awesome-list","claude-code","decompilation","file-formats","game-decompilation","hacktoberfest","home-assistant"],"readmeSha":"f4bb5aa4f102c01d0d79686a69e4268485310ba8"},
 "members": [
 "morluto/rea",
 "NationalSecurityAgency/ghidra",
@@ -66,8 +66,14 @@
 "barronwaffles/dwc_network_server_emulator",
 "pebble-dev/mobile-app",
 "vacuula/fang",
-"xtekky/gpt4free",
 "router-for-me/CLIProxyAPI",
+"tracedraw/tracedraw",
+"Aryma-f4/gulpsuite",
+"Steprant/LostOdysseyRecomp-Android",
+"centrevilletech/battlefront-eternal",
+"k0nnect/harald",
+"darek225/offsides-improved",
+"xtekky/gpt4free",
 "elder-plinius/CL4R1T4S",
 "team-spotube/spotube",
 "x64dbg/x64dbg",

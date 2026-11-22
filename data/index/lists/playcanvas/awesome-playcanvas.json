@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"af8b8068572e714ab7be42c9860acadad279361a"},
+"meta": {"description":"A curated list of awesome PlayCanvas assets, resources, and more.","defaultBranch":"main","topics":["awesome","awesome-list","playcanvas","webgl"],"readmeSha":"a9440254a830c13c6661f70a31afa47acff60a48"},
 "members": [
 "playcanvas/engine",
 "playcanvas/react",

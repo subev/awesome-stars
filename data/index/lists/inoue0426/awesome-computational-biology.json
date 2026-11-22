@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Awesome list of computational biology.","defaultBranch":"main","topics":["computational-biology","machine-learning","drug-discovery","drug-repurposing","awesome","awesome-list"],"readmeSha":"f22b8611697f2000229dc76572d158db23b3a944"},
+"meta": {"description":"Awesome list of computational biology.","defaultBranch":"main","topics":["computational-biology","machine-learning","drug-discovery","drug-repurposing","awesome","awesome-list"],"readmeSha":"36c4cedfd42e4d76f086edc74ce2e2fcdd81e095"},
 "members": [
 "SuLab/DrugMechDB",
 "gnn4dr/DRKG",
@@ -8,6 +8,8 @@
 "theislab/Chem-PerturBridge",
 "jump-cellpainting/datasets",
 "sanderlab/scPerturb",
+"TianGzlab/scPerturbBench",
+"bm2-lab/scPerturBench",
 "theislab/scib",
 "LigandPro/Bento",
 "J-SNACKKB/FLIP",
@@ -15,6 +17,7 @@
 "molecularsets/moses",
 "OATML-Markslab/ProteinGym",
 "songlab-cal/tape",
+"zou-group/CellVoyager",
 "OpenBioLink/OpenBioLink",
 "cdk/cdk",
 "cafferychen777/flashdeconv",
@@ -109,6 +112,7 @@
 "zou-group/virtual-lab",
 "SamuelSchmidgall/AgentLaboratory",
 "jmiao24/Paper2Agent",
+"vandijklab/cell2sentence",
 "biomap-research/scFoundation",
 "bowang-lab/scGPT",
 "KangBoming/BulkFormer",
@@ -152,7 +156,7 @@
 "IBM/molformer",
 "deepmodeling/Uni-Mol",
 "TheLuoFengLab/ChemFM",
-"facebookresearch/esm",
+"Biohub/esm-archive",
 "agemagician/ProtTrans",
 "salesforce/progen",
 "agemagician/Ankh",
@@ -199,5 +203,8 @@
 "calico/borzoi",
 "FunctionLab/sei-framework",
 "songlab-cal/gpn"
+],
+"dropped": [
+["2026-11-22","facebookresearch/esm"]
 ]
 }

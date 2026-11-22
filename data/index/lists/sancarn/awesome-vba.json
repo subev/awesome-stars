@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"529d3970b435c6394a5ac820442eccf858ddec79"},
+"meta": {"description":"A curated list of awesome VBA/VB6 frameworks, libraries, software and resources","defaultBranch":"main","topics":["awesome","awesome-list","vba","vb6","visual-basic-6","visual-basic-for-applications"],"readmeSha":"67774fda9eb4d2a62b07c9bf85eee3fd0cdbca53"},
 "members": [
 "kellyethridge/VBCorLib",
 "RelaxTools/Hidennotare",
@@ -24,6 +24,7 @@
 "personalityson/VBANN",
 "EtienneLenoir/duckdb-vba",
 "Beakerboy/VBA-SQL-Library",
+"WilliamSmithEdward/ReDim",
 "fafalone/cTaskDialog64",
 "fafalone/ucSimplePlayer",
 "fafalone/ucWebView2",
@@ -76,6 +77,7 @@
 "Beakerboy/MS-OVBA",
 "Beakerboy/Excel-Addin-Generator",
 "john-tvh/VBE_Colours",
+"47Hunter47/vb6decompiler",
 "Planet-Source-Code/PSCIndex",
 "tannerhelland/vbAccelerator-Archive",
 "jeffpar/kbarchive"

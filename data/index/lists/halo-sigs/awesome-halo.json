@@ -1,5 +1,5 @@
 {
-"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"b86c523d9a470cd2e5b90120fec47c3c11127d1d"},
+"meta": {"description":"与 Halo 相关的周边生态资源列表","defaultBranch":"main","topics":["awesome","awesome-list","halo"],"readmeSha":"3060a58b903aa1751fc11635d206b0cf7dcb94b4"},
 "members": [
 "halo-dev/halo",
 "halo-dev/theme-starter",
@@ -206,12 +206,12 @@
 "chengzhongxue/plugin-maintenance",
 "pandyzhou/plugin-openlist",
 "nieshilin/plugin-safe-redirect",
-"sunnyhmz7010/halo-plugin-schedule-calendar",
+"hyrchen/halo-plugin-schedule-calendar",
 "iszkq/halo-plugin-register",
 "Zyx-2012/plugin-online",
 "HowieHz/halo-plugin-transformer",
 "Avrinbai/halo-plugin-dishes",
-"BairongLuo/halo-private-posts",
+"miaochong/halo-private-posts",
 "Akvicor/plugin-kmath",
 "imorisun/plugin-hitokoto-hub",
 "Avrinbai/halo-plugin-wechat-share",
@@ -225,6 +225,8 @@
 "hcjike/plugin-wechat-official-sync",
 "iLay1678/halo-plugin-site-notifications",
 "iLay1678/halo-plugin-oidc-server",
+"asyntai/halo-ai-chatbot",
+"hyrchen/halo-plugin-simnook",
 "halo-sigs/attachment-upload-cli",
 "halo-sigs/vscode-extension-halo",
 "halo-sigs/obsidian-halo",
@@ -233,5 +235,9 @@
 "hilaliu/Halo-Image-Plugin",
 "terwer/siyuan-plugin-publisher",
 "ialley-workshop-open/plugin-uni-halo"
+],
+"dropped": [
+["2026-11-22","sunnyhmz7010/halo-plugin-schedule-calendar"],
+["2026-11-22","BairongLuo/halo-private-posts"]
 ]
 }

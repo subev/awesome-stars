@@ -1,11 +1,19 @@
 {
-"meta": {"description":"A hand-picked collection of the best lucid dreaming devices, apps, research papers, books, forums, discord servers, podcasts, games, movies, and YouTube channels. Find open-source projects, sleep tracking software, reality checks, mindfulness exercises, and everything you need to explore and master lucid dreaming.","defaultBranch":"main","topics":["awesome-list","awesome","lucid-dreaming","rem-sleep"],"readmeSha":"4b9eba869d030bb79287a633fca5376945ce22a2"},
+"meta": {"description":"A curated list of lucid dreaming apps, devices, research studies, books, communities, podcasts, games and techniques.","defaultBranch":"main","topics":["awesome-list","awesome","lucid-dreaming","rem-sleep"],"readmeSha":"dd26ac0fc9fa412f1208cdbd420eaade94ca0a55"},
 "members": [
 "dreamento/dreamento",
-"lucid-trainer/fit-lucid-trainer",
 "gitbrent/dream-journal-app",
 "BitFlaker/lucidsourcekit",
 "lucidcode/Lightened-Dream",
-"rochismo/ssild-react"
+"rochismo/ssild-react",
+"rmallela26/TLR",
+"raphaelvallat/yasa",
+"coonwg1/ezscore",
+"woop/awesome-quantified-self",
+"nighttimecf/awesome-sleep-tracking",
+"analyticalmonk/awesome-neuroscience"
+],
+"dropped": [
+["2026-11-22","lucid-trainer/fit-lucid-trainer"]
 ]
 }

@@ -1,5 +1,5 @@
 {
-"meta": {"description":"Collection of docs/tools/resources for reverse engineering and working with video game file formats.","defaultBranch":"master","topics":["awesome","awesome-list","awesome-lists","curated-list","file-format","file-format-library","file-formats","files","game","list"],"readmeSha":"c14b0a0750a3103e799c001276601fabc96f126f"},
+"meta": {"description":"Collection of docs/tools/resources for reverse engineering and working with video game file formats.","defaultBranch":"master","topics":["awesome","awesome-list","awesome-lists","curated-list","file-format","file-format-library","file-formats","files","game","list"],"readmeSha":"a9faf8133abe46056c7ee2a7fb97350986d2dddc"},
 "members": [
 "XeNTaXBackup/XeNTaXBackup.github.io",
 "RetroReversing/retroReversing",

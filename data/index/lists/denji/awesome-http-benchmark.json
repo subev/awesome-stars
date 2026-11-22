@@ -1,5 +1,5 @@
 {
-"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"317e6728d0968df1fb9490da13778d2cbc5022ca"},
+"meta": {"description":"HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)","defaultBranch":"master","topics":["awesome","awesome-list","benchmark","tools","http","https","http2","rest-api","restful-api","restful"],"readmeSha":"838465e0338cd1b8ba6130fd5d161ff09e292768"},
 "members": [
 "nakabonne/ali",
 "apigee/apib",
@@ -73,6 +73,7 @@
 "jqlang/jq",
 "keploy/keploy",
 "Continuum-AI-Corp/OrcaReplay",
+"unkn0wn-root/resterm",
 "marmelab/awesome-rest",
 "stepci/awesome-api-clients",
 "mrmykey/awesome-http-clients",

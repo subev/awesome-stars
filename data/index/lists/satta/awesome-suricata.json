@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Suricata","defaultBranch":"main","topics":["awesome","awesome-list","ids","ips","lists","nsm","suricata"],"readmeSha":"1927110b162200df2a0416da4681d4ea20b6d20b"},
+"meta": {"description":"A curated list of awesome things related to Suricata","defaultBranch":"main","topics":["awesome","awesome-list","ids","ips","lists","nsm","suricata"],"readmeSha":"bf781e7cff2e184758ed7a320bdc518a74028e44"},
 "members": [
 "deepfence/PacketStreamer",
 "Center-Sun/suricata-kafka-output",

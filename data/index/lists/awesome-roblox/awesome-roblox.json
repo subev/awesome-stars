@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"e79e903e68ba6d9523a4759beb1cc2234fb7e122"},
+"meta": {"description":"A curated list of awesome things related to Roblox OSS.","defaultBranch":"main","topics":["awesome","awesome-list","roblox","list","lists","luau"],"readmeSha":"1b741174880471d9f300c5920ecdfd422ae3e649"},
 "members": [
 "bloxstraplabs/bloxstrap",
 "AntiBoomz/BTRoblox",
@@ -66,6 +66,7 @@
 "blake-mealey/mantle",
 "pesde-pkg/pesde",
 "UpliftGames/wally",
+"Ransomwave/azul",
 "argon-rbx/argon",
 "Iron-Stag-Games/Lync",
 "rojo-rbx/rojo",

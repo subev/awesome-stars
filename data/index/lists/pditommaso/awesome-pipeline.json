@@ -1,5 +1,5 @@
 {
-"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"5cabd71fd6976f629adf3edbd025c0c6ac11a5cf"},
+"meta": {"description":"A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin","defaultBranch":"master","topics":["awesome-list","workflow"],"readmeSha":"71160a458e5c16d657cbb1269af4ef994248b33d"},
 "members": [
 "kahun/awesome-sysadmin",
 "yadage/adage",
@@ -124,11 +124,12 @@
 "bruin-data/bruin",
 "cadence-workflow/cadence",
 "dataform-co/dataform",
+"datris/datris-platform-oss",
 "bejaouibechir/Hydra",
 "panodata/omniload",
 "pathwaycom/pathway",
 "brexhq/substation",
-"datazip-inc/olake",
+"datazip-inc/olake-go",
 "argoproj/argo-workflows",
 "ovh/cds",
 "pydoit/doit",
@@ -142,6 +143,7 @@
 "meirwah/awesome-workflow-engines"
 ],
 "dropped": [
-["2026-10-17","uzh/sushi"]
+["2026-10-17","uzh/sushi"],
+["2026-11-22","datazip-inc/olake"]
 ]
 }
